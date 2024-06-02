@@ -1,0 +1,176 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "candidateGender": "Female",
+        "constituency": "Rutland and Melton",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Making Brexit a Success is Central to Our National Interest",
+                "content": "As a nation, we face the most important period in our lifetime. Making Brexit a success is central to our national interest \u2013 and it is central to your own security and prosperity. While there is enormous opportunity for Britain as we leave the European Union, if we don't get Brexit right, the consequences will be serious. If we don't get the Brexit deal right, your economic security and prosperity will be put at risk, and the opportunities you seek for your family will simply not happen."
+            },
+            {
+                "title": "This is a Unique and Crucial Election for Our Country",
+                "content": "By going to Brussels with a strong negotiating hand I can ensure we guarantee our economic security. I believe that with dedication and hard work, we can make a success of Brexit and bring our country together - building a stronger economy that creates secure and well-paid jobs, where every child gets a good school place and working people can buy a home of their own. But there are only two people who can possibly be Prime Minister after the election to negotiate Brexit \u2013 me or Jeremy Corbyn. Labour under Jeremy Corbyn are a shambles and he would embarrass Britain in Brussels and risk our economic security."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Ensuring a successful Brexit with strong economic security."
+            },
+            {
+                "policyTitle": "Economic Security",
+                "policyDescription": "Building a stronger economy with secure and well-paid jobs."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Making Brexit a success is central to our national interest. There is enormous opportunity for Britain as we leave the European Union.",
+            "defence": "",
+            "economy": "Guarantee our economic security by going to Brussels with a strong negotiating hand. Building a stronger economy that creates secure and well-paid jobs.",
+            "education": "Every child gets a good school place.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Building a stronger economy that creates secure and well-paid jobs, where every child gets a good school place and working people can buy a home of their own.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Labour under Jeremy Corbyn are a shambles and he would embarrass Britain in Brussels and risk our economic security.",
+                "source": "Mirror",
+                "date": "20th April 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May and Alan Duncan - Strong and Stable Leadership for Rutland and Melton and for Britain"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Making Brexit a success is central to our national interest.",
+                        "Labour under Jeremy Corbyn are a shambles and he would embarrass Britain in Brussels and risk our economic security."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Every child gets a good school place."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Making Brexit a success is central to our national interest.",
+                        "Guarantee our economic security by going to Brussels with a strong negotiating hand.",
+                        "Building a stronger economy that creates secure and well-paid jobs."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour under Jeremy Corbyn are a shambles and he would embarrass Britain in Brussels and risk our economic security."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Labour under Jeremy Corbyn are a shambles and he would embarrass Britain in Brussels and risk our economic security."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Labour under Jeremy Corbyn are a shambles and he would embarrass Britain in Brussels and risk our economic security."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

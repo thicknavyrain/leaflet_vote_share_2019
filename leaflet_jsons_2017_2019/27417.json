@@ -1,0 +1,197 @@
+{
+    "leaflet": {
+        "candidateName": "Mike Thornton",
+        "candidateGender": "",
+        "constituency": "Hedge End",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "A real voice for Hedge End in Parliament",
+                "content": "Mike and the Lib Dems will fight to restore funding for our children's education and keep our schools the place of hope and needs for the future."
+            },
+            {
+                "title": "Winning for our Borough",
+                "content": "Liberal Democrats topped the polls across Eastleigh constituency in the County Council elections on May 4th."
+            },
+            {
+                "title": "Let down by the Conservatives",
+                "content": "The Conservative Government backed big builders over local people. We need the right homes in the right places."
+            },
+            {
+                "title": "The Conservative Broken Promise to Hedge End residents",
+                "content": "The Conservatives won the General Election here two years ago on a promise. A promise to tackle congestion and get busy by-passes for Eastleigh and Botley funded in 100 days. Not 100 days, but 100 weeks later: Nothing has happened."
+            },
+            {
+                "title": "Three things to remember",
+                "content": "Mike Thornton has ten years' experience standing up for Eastleigh. The Conservatives have broken their promise to Eastleigh. Labour has already lost the election."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Mike and the Lib Dems will fight to restore funding for our children's education."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Mike and the Lib Dems will secure funding to join up health and social care and protect the NHS."
+            },
+            {
+                "policyTitle": "Community",
+                "policyDescription": "Mike and the Lib Dems will speak up for local residents at major planning appeals."
+            }
+        ],
+        "mentions": {
+            "candidate": "Mike Thornton",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "Labour has already lost the election nationally, and here in Eastleigh constituency. The Liberal Democrats are the only party that can rob the Conservatives of a win."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Mike and the Lib Dems will fight to restore funding for our children's education.",
+            "environment": "",
+            "governance": "",
+            "government": "Mike and the Lib Dems will speak up for local residents at major planning appeals.",
+            "health": "Thousands of operations have been cancelled due to the Conservatives' bed blocking scandal. Mike and the Lib Dems will secure funding to join up health and social care and protect the NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "The Conservatives have BROKEN their election promise to end traffic misery, with M27 quieter surfacing delayed too.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "The Conservative Government backed big builders over local people. We need the right homes in the right places.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "Ten years",
+                "achievements": "Experience standing up for Eastleigh - on our Councils and in Parliament."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "The Conservatives have BROKEN their election promise to end traffic misery, with M27 quieter surfacing delayed too.",
+                "source": "Mike Thornton",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Mike Thornton: A real voice for Hedge End in Parliament"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Thousands of operations have been cancelled due to the Conservatives' bed blocking scandal.",
+                        "Winning for our Borough: Liberal Democrats topped the polls across Eastleigh constituency in the County Council elections on May 4th.",
+                        "The Conservatives won the General Election here two years ago on a promise."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Mike and the Lib Dems will fight to restore funding for our children's education.",
+                        "The Conservative Government backed big builders over local people.",
+                        "We need the right homes in the right places.",
+                        "Labour has already lost the election nationally, and here in Eastleigh constituency."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Speak up for local residents at major planning appeals.",
+                        "Experience standing up for Eastleigh - on our Councils and in Parliament."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Thousands of operations have been cancelled due to the Conservatives' bed blocking scandal.",
+                        "Labour has already lost the election nationally, and here in Eastleigh constituency.",
+                        "The Conservatives have broken their promise to end traffic misery, with M27 quieter surfacing delayed too."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservative Government backed big builders over local people."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives have broken their promise to end traffic misery, with M27 quieter surfacing delayed too."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Labour has already lost the election nationally."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Experience standing up for Eastleigh.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Experience standing up for Eastleigh - on our Councils and in Parliament."
+                ]
+            }
+        }
+    }
+}

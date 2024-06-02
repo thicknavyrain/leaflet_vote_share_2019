@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Duncan Crute",
+        "candidateGender": "",
+        "constituency": "Newcastle North",
+        "politicalParty": "Conservatives",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Theresa May is Backing Duncan Crute",
+                "content": "Duncan Crute is standing with me to secure strong and stable leadership for our country, and the best Brexit deal possible for you and your constituency of Newcastle North."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Building more affordable homes and investing in schools",
+                "policyDescription": "Give everyone a chance to get on in life."
+            },
+            {
+                "policyTitle": "Working with businesses",
+                "policyDescription": "To grow the economy and bring jobs to this part of Newcastle."
+            },
+            {
+                "policyTitle": "Taking control of our borders",
+                "policyDescription": "Cut immigration to the tens of thousands through a system that works for our communities."
+            }
+        ],
+        "mentions": {
+            "candidate": "I am the only viable candidate... Jeremy Corbyn's Labour candidate cannot block the referendum result in Parliament and force us to remain in the EU.",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "It's a two horse race in Newcastle North. The Conservatives came 2nd to Labour at the last election... Only the Conservatives can stop Jeremy Corbyn and the Labour Party in Newcastle."
+        },
+        "issues": {
+            "brexitEurope": "I am the only viable candidate committed to respecting the result of the EU referendum.",
+            "defence": "",
+            "economy": "Working with businesses to grow the economy and bring jobs to this part of Newcastle.",
+            "education": "Building more affordable homes and investing in schools to give everyone a chance to get on in life.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "Taking control of our borders so we can cut immigration to the tens of thousands through a system that works for our communities.",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Cut immigration to the tens of thousands through a system that works for our communities.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "2 Horton Park, Newcastle upon Tyne, NE3 1DQ",
+            "phone": "07375 995391",
+            "email": "info@duncan4north.uk",
+            "website": "duncan4north.uk",
+            "socialMedia": {
+                "facebook": "fb.me/Duncan4North",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Theresa May",
+                "endorsement": "Duncan will be a strong voice for your community in my Government, and together we will always stand up for you and your interests."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Duncan Crute standing with Theresa May in Newcastle North"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Only the Conservatives can stop Jeremy Corbyn and the Labour Party in Newcastle."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Duncan will be a strong voice for your community in my Government, and together we will always stand up for you and your interests.",
+                        "I am the only viable candidate committed to respecting the result of the EU referendum.",
+                        "Lib Dems were a distant fourth place in Newcastle in 2015 and had just 8 MPs elected to Parliament."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Working with businesses to grow the economy and bring jobs to this part of Newcastle."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "I am the only viable candidate committed to respecting the result of the EU referendum.",
+                        "Only the Conservatives can stop Jeremy Corbyn and the Labour Party in Newcastle."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Theresa May is backing Duncan Crute"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Only the Conservatives can stop Jeremy Corbyn and the Labour Party in Newcastle."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn becoming Prime Minister of a shambolic coalition government."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn's Labour candidate"
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

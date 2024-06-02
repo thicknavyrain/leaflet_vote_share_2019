@@ -1,0 +1,173 @@
+{
+    "leaflet": {
+        "candidateName": "Ray Georgeson",
+        "candidateGender": "",
+        "constituency": "Bishop Auckland",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "We deserve better than this Brexit mess",
+                "content": "Boris Johnson leads most unpopular new government in 40 years. Former PM Sir John Major, 'The NHS is about as safe with them as a pet hamster would be with a hungry python.' We can't trust them with our NHS. Jeremy Corbyn deal or no deal leave or remain do you trust him?"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A Fairer Britain",
+                "policyDescription": "Britain needs fresh vision and leadership to restore fairness in our country. The Liberal Democrats will build an economy that works for everyone, not just the richest."
+            },
+            {
+                "policyTitle": "Tackle the Climate Emergency",
+                "policyDescription": "The Liberal Democrats will take urgent action to protect our environment, making Britain a world leader in renewable energy and green technology."
+            },
+            {
+                "policyTitle": "Invest in Schools and Our NHS",
+                "policyDescription": "As Prime Minister, Jo Swinson will work every day to ensure our children get to go to the best schools in the world. The Liberal Democrats will invest billions more to secure the future of the NHS after years of Conservative neglect."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ray Georgeson",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "We deserve better than this Brexit mess",
+            "defence": "",
+            "economy": "Britain needs fresh vision and leadership to restore fairness in our country. The Liberal Democrats will build an economy that works for everyone, not just the richest.",
+            "education": "As Prime Minister, Jo Swinson will work every day to ensure our children get to go to the best schools in the world.",
+            "environment": "The Liberal Democrats will take urgent action to protect our environment, making Britain a world leader in renewable energy and green technology.",
+            "governance": "",
+            "government": "",
+            "health": "The Liberal Democrats will invest billions more to secure the future of the NHS after years of Conservative neglect.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "durhamlibdems.residents@gmail.com",
+            "website": "www.libdems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Boris Johnson leads most unpopular new government in 40 years.",
+                "source": "Independent",
+                "date": "August 2019"
+            },
+            {
+                "text": "'The NHS is about as safe with them as a pet hamster would be with a hungry python.'",
+                "source": "Former PM Sir John Major",
+                "date": "BBC 1 Andrew Marr Show"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson leads most unpopular new government in 40 years."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "The NHS is about as safe with them as a pet hamster would be with a hungry python."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 6,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The Liberal Democrats will invest billions more to secure the future of the NHS after years of Conservative neglect."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson leads most unpopular new government in 40 years."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn deal or no deal leave or remain do you trust him?"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn deal or no deal leave or remain do you trust him?"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

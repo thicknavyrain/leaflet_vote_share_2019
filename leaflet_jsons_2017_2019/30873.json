@@ -1,0 +1,201 @@
+{
+    "leaflet": {
+        "candidateName": "Faisal Rashid",
+        "candidateGender": "",
+        "constituency": "Warrington South",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "Why I am backing Faisal Rashid",
+                "content": "I have known Faisal for 12 years as a councillor and former Mayor of Warrington. He is truly passionate about our town, and has been an effective champion for local people. He has supported me with issues such as overcrowding in Victoria Park, fighting to keep our National Health Service out of private hands, and improving education to give every child a good start in life. Councillor Faisal Rashid will support jobs and skills for young people, support public service workers, and defend our NHS against Tory backdoor privatization."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Defend our NHS against Tory backdoor privatization, support public service workers."
+            },
+            {
+                "policyTitle": "Jobs and Skills",
+                "policyDescription": "Support jobs and skills for young people."
+            }
+        ],
+        "mentions": {
+            "candidate": "Faisal Rashid",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Improving education to give every child a good start in life.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Defend our NHS against Tory backdoor privatization, support public service workers.",
+            "immigration": "",
+            "labourEmployment": "Support jobs and skills for young people.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Helping resolve issues such as overcrowding in Victoria Park.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I am a well-respected champion for local people. My priorities will be the NHS, education, jobs, and skills for young people.",
+        "politicalExperience": [
+            {
+                "role": "Councillor",
+                "duration": "12 years",
+                "achievements": ""
+            },
+            {
+                "role": "Mayor of Warrington",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Local supporter",
+                "endorsement": "I have known Faisal for 12 years as a councillor and former Mayor of Warrington. He is truly passionate about our town, and has been an effective champion for local people."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "We must vote Labour to safeguard our rights and our future.",
+                "source": "",
+                "date": ""
+            },
+            {
+                "text": "Don't accept David Mowat's broken promises.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "I have known Faisal for 12 years as a councillor and former Mayor of Warrington.",
+                        "Helped with issues such as overcrowding in Victoria Park."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Faisal Rashid is truly passionate about our town.",
+                        "Effective champion for local people.",
+                        "Defend our NHS against Tory backdoor privatization."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Helping resolve issues such as overcrowding in Victoria Park.",
+                        "Champion for local people."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Support jobs and skills for young people.",
+                        "Improving education to give every child a good start in life.",
+                        "Defend our NHS against Tory backdoor privatization, support public service workers."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Local supporter has known Faisal for 12 years as a councillor and former Mayor of Warrington.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "I have known Faisal for 12 years as a councillor and former Mayor of Warrington."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Helping resolve issues such as overcrowding in Victoria Park."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Defend our NHS against Tory backdoor privatization."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Don't accept David Mowat's broken promises."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Passionate about town, 12 years as councillor and Mayor of Warrington",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "He is truly passionate about our town."
+                ]
+            }
+        }
+    }
+}

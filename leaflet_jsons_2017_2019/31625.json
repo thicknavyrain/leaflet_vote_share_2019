@@ -1,0 +1,191 @@
+{
+    "leaflet": {
+        "candidateName": "Tom Hunt",
+        "candidateGender": "",
+        "constituency": "Ipswich",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "Ipswich Labour MP Blocks Brexit!",
+                "content": "Three years ago over 58% of people in Ipswich voted to leave the EU. Since then, your Labour MP has repeatedly blocked Brexit and has voted in favor of EU membership almost 50 times. This lack of respect for democracy has frustrated local people who voted for something different. People across Ipswich feel their voices have been ignored and we need an MP who will represent the people and not go against what was voted for."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get Brexit done, no more delays. Honour the referendum and leave the EU."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Invest an extra \u00a333.9 billion into the NHS. Hiring 20,000 more police officers."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "More funding for every school, ensuring every child gets a proper education."
+            },
+            {
+                "policyTitle": "Transportation",
+                "policyDescription": "Improvements to our roads and rail services, including the long overdue northern bypass."
+            },
+            {
+                "policyTitle": "Health Services",
+                "policyDescription": "Supporting NHS services to recruit more GPs locally."
+            },
+            {
+                "policyTitle": "Community",
+                "policyDescription": "Ensuring local homes for local people, so that Ipswich residents have access to council housing."
+            }
+        ],
+        "mentions": {
+            "candidate": "Tom Hunt",
+            "otherPartyLeaderCandidate": "Labour MP",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Get Brexit done, no more delays. Honour the referendum and leave the EU.",
+            "defence": "",
+            "economy": "",
+            "education": "More funding for every school, ensuring every child gets a proper education.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Invest an extra \u00a333.9 billion into the NHS. Supporting NHS services to recruit more GPs locally.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Hiring 20,000 more police officers.",
+            "transport": "Improvements to our roads and rail services, including the long overdue northern bypass.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Ensuring local homes for local people, so that Ipswich residents have access to council housing.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.tom4ipswich.com",
+            "socialMedia": {
+                "facebook": "facebook.com/tom4ipswich",
+                "twitter": "twitter.com/tom4ipswich",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Tom Hunt and Boris Johnson \u2013 the team to get Brexit done."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Three years ago over 58% of people in Ipswich voted to leave the EU.",
+                        "Your Labour MP has voted in favour of EU membership almost 50 times.",
+                        "Invest an extra \u00a333.9 billion into the NHS."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "This lack of respect for democracy has frustrated local people who voted for something different.",
+                        "People across Ipswich feel their voices have been ignored.",
+                        "The only thing Labour would deliver is more confusion.",
+                        "Get Brexit done, no more delays.",
+                        "Ensuring local homes for local people."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 6,
+                "candidateAlone": 1,
+                "candidateWithOthers": 5
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Ensuring local homes for local people.",
+                        "Supporting NHS services to recruit more GPs locally.",
+                        "Improvements to our roads and rail services."
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "Get Brexit done, no more delays.",
+                        "Invest an extra \u00a333.9 billion into the NHS.",
+                        "Hiring 20,000 more police officers.",
+                        "More funding for every school.",
+                        "Honour the referendum and leave the EU."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The only thing Labour would deliver is more confusion."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Labour MP"
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

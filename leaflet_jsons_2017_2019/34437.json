@@ -1,0 +1,153 @@
+{
+    "leaflet": {
+        "candidateName": "Ruth Davidson",
+        "candidateGender": "Female",
+        "constituency": "",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Dear Voter, This week we will all cast our votes in what is being described as the most important election of our lifetimes. I know from speaking to people across Scotland that many are thinking even more carefully than usual about how they will use their vote, and I understand why. Politics has changed so much over the last few years and there's no doubt that we are living through some of the most turbulent times most of us have seen. That's why it is all the more essential we focus on what's most important to us and what's really at stake in this election. And first and foremost is the need to protect Scotland's place within the United Kingdom. It's no secret that Nicola Sturgeon is hoping to come out of this election with more parliament, in which a Nationalist SNP will hold the balance of power. And it should be no surprise what her price for that support will be - another referendum on Scottish independence as early as next year. Of course, there's a school of thought that says it would never happen. Surely no Westminster government would give Nicola Sturgeon that referendum. My strong view is that this is a risky assumption, especially when Jeremy Corbyn has made it pretty clear he would indeed allow it, in return for the support of SNP MPs. And remember too that, if it wasn't for the 13 seats we won here in Scotland by the Scottish Conservatives, Jeremy Corbyn could very easily have been in Downing Street after the last election. That's how important the result in Scottish constituencies could be again. So I know why some people are thinking hard about their vote this time, I completely get it. But the fact is that if you want to beat the SNP here and make certain we are facing a hung parliament on 13th December, with Nicola Sturgeon in the driving seat, your vote - even if it is only this time - needs to be for the Scottish Conservatives. It's the only way to be sure."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Scottish Independence",
+                "policyDescription": "Opposes another referendum on Scottish independence and emphasizes the need to protect Scotland's place within the United Kingdom."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ruth Davidson",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "Strategic voting to beat the SNP and avoid a hung parliament with Nicola Sturgeon in the driving seat."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "67 Northumberland Street, Edinburgh, EH3 6JQ",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": []
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "if it wasn't for the 13 seats we won here in Scotland by the Scottish Conservatives",
+                        "if you want to beat the SNP here and make certain we are facing a hung parliament on 13th December"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "My strong view is that this is a risky assumption",
+                        "That's why it is all the more essential we focus on what's most important to us and what's really at stake in this election",
+                        "Politics has changed so much over the last few years"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "And first and foremost is the need to protect Scotland's place within the United Kingdom."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "if you want to beat the SNP here and make certain we are facing a hung parliament on 13th December"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn has made it pretty clear he would indeed allow it, in return for the support of SNP MPs."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

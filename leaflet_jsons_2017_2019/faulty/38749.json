@@ -1,0 +1,142 @@
+{
+    "leaflet": {
+        "candidateName": "Greg Marshall",
+        "candidateGender": "",
+        "constituency": "Broxtowe",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "5 Things to Remember",
+                "content": [
+                    "You don't need your polling card to vote",
+                    "Polls are open 7am - 10pm",
+                    "If you've got a postal vote, but haven't sent it back yet, you can take it to your polling station before 10pm",
+                    "If you don't know where your polling station is or you need a lift to vote, call our campaign hotline on 07856 812 006",
+                    "Place a X next to your Labour candidate"
+                ]
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Greg Marshall",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "106 Chilwell Road, Beeston, NG9 1ES",
+            "phone": "07856 812 006",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "MARSHALL, Greg Labour Party"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Polls are open 7am - 10pm",
+                        "If you've got a postal vote, but haven't sent it back yet, you can take it to your polling station before 10pm"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "You don't need your polling card to vote",
+                        "If you don't know where your polling station is or you need a lift to vote, call our campaign hotline on 07856 812 006",
+                        "Place a X next to your Labour candidate"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": []
+                },
+                "national": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Greg Marshall. From Broxtowe. For Broxtowe.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Greg Marshall. From Broxtowe. For Broxtowe."
+                ]
+            }
+        }
+    }
+}

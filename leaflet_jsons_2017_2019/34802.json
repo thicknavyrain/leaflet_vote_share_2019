@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Mike Ross",
+        "candidateGender": "",
+        "constituency": "Hull North",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "This election is your chance to",
+                "content": "Build a brighter future"
+            },
+            {
+                "title": "Across Hull and the UK the Liberal Democrats are WINNING",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Mike Ross",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": "Recent polls show support for the Liberal Democrats is now at record levels and Jo Swinson is the most popular party leader."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "The Lib Dem 'fightback' is real and it's changing everything.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "The Lib Dem 'fightback' is real and it's changing everything.",
+                "source": "Sky News, August 2019",
+                "date": ""
+            },
+            {
+                "text": "Overall the Lib Dems attracted 15,968 votes in Hull compared to Labour's tally of 14,873... it bodes well for next year's elections.",
+                "source": "Hull Daily Mail, 3rd May 2019",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Overall the Lib Dems attracted 15,968 votes in Hull compared to Labour's tally of 14,873... it bodes well for next year's elections."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "The Lib Dem 'fightback' is real and it's changing everything.",
+                        "Recent polls show support for the Liberal Democrats is now at record levels and Jo Swinson is the most popular party leader."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Overall the Lib Dems attracted 15,968 votes in Hull compared to Labour's tally of 14,873... it bodes well for next year's elections."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Recent polls show support for the Liberal Democrats is now at record levels and Jo Swinson is the most popular party leader."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "Sky News, August 2019",
+                    "Hull Daily Mail, 3rd May 2019"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "A strong voice for Hull"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "leaflet": {
+        "candidateName": "Dr Nicholas Wood",
+        "candidateGender": "",
+        "constituency": "Runnymede & Weybridge",
+        "politicalParty": "UKIP",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": "On 8th June, your vote will deliver..."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fast, no-fee Brexit",
+                "policyDescription": "Guarantee no EU divorce fee and controlled immigration."
+            },
+            {
+                "policyTitle": "Reduce overseas spending, no EU fees",
+                "policyDescription": "Reduce overseas spending and eliminate fees to the EU."
+            },
+            {
+                "policyTitle": "Zero net immigration",
+                "policyDescription": "Controlled immigration."
+            },
+            {
+                "policyTitle": "Grammar schools",
+                "policyDescription": "Support for grammar schools."
+            },
+            {
+                "policyTitle": "A smaller state, and less meddling in our lives",
+                "policyDescription": "Less government interference in everyday lives."
+            },
+            {
+                "policyTitle": "Make Britain Great Again",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Dr Nicholas Wood",
+            "otherPartyLeaderCandidate": "Philip Hammond",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "A UKIP vote won't let Lib-Dems or Labour win here"
+        },
+        "issues": {
+            "brexitEurope": "UKIP campaigned for Brexit. We won.",
+            "defence": "",
+            "economy": "Fast, no-fee Brexit.",
+            "education": "Support for grammar schools.",
+            "environment": "",
+            "governance": "",
+            "government": "A smaller state, and less meddling in our lives.",
+            "health": "UKIP will spend on the NHS before foreign aid.",
+            "immigration": "Zero net immigration. Controlled immigration.",
+            "labourEmployment": "",
+            "lawCrime": "Legal campaigning: Fraud - Tories penalised \u00a370k on 16.03.2017",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Working in Runnymede",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Dr Nicholas Wood, Senior Lecturer in pharmacy & chemistry, Kingston University.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07546 132926",
+            "email": "n.wood.ukip@gmail.com",
+            "website": "www.ukipsurrey.co.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/UKIP",
+                "twitter": "@UKIPSurrey",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Legal campaigning: Fraud - Tories penalised \u00a370k on 16.03.2017.",
+                        "UKIP campaigned for Brexit. We won."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Make Britain Great Again.",
+                        "Working in Runnymede.",
+                        "Don't trust Theresa May to deliver Brexit - she voted remain too.",
+                        "Philip Hammond, the Tory here, voted remain. He lost."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Working in Runnymede"
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "UKIP campaigned for Brexit. We won.",
+                        "Philip Hammond, the Tory here, voted remain. He lost.",
+                        "UKIP will spend on NHS before foreign aid.",
+                        "Don't trust Theresa May to deliver Brexit - she voted remain too.",
+                        "A UKIP vote won't let Lib-Dems or Labour win here."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "UKIP campaigned for Brexit. We won.",
+                    "issueRelated": "brexitEurope"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "UKIP campaigned for Brexit. We won. Philip Hammond, the Tory here, voted remain. He lost."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Don't trust Theresa May to deliver Brexit - she voted remain too."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Philip Hammond, the Tory here, voted remain. He lost."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Working in Runnymede.",
+                "employment": "Senior Lecturer in pharmacy & chemistry, Kingston University.",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Working in Runnymede."
+                ]
+            }
+        }
+    }
+}

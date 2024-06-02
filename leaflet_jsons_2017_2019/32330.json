@@ -1,0 +1,191 @@
+{
+    "leaflet": {
+        "candidateName": "Amanda Hopgood",
+        "candidateGender": "female",
+        "constituency": "Durham",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Amanda Tipped to Win Durham",
+                "content": "As Durham's Labour MP steps down, Amanda Hopgood is the proposed candidate to stop Corbyn's imposed candidates. Conservative and Labour voters switching to Lib Dem."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Supports ambitious policies to tackle climate change and protect the environment."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Plans for the future of Durham's NHS."
+            },
+            {
+                "policyTitle": "Governance",
+                "policyDescription": "Opposes Corbyn's Labour and Conservative plans."
+            }
+        ],
+        "mentions": {
+            "candidate": "Amanda Hopgood",
+            "otherPartyLeaderCandidate": "Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "Conservative and Labour voters switching to Lib Dem."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Supports ambitious policies to tackle climate change and protect the environment.",
+            "governance": "Opposes Corbyn's Labour and Conservative plans.",
+            "government": "",
+            "health": "Plans for the future of Durham's NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "70 Great George Street, London, SW1P 3AE",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Durham Gazette",
+                "endorsement": "Free newspaper covering local and city news."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Amanda Hopgood wants to... End prison crisis. Free nursery bills. Cut student loans.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Amanda Hopgood"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "70 Great George Street, London, SW1P 3AE",
+                        "Conservative and Labour voters switching to Lib Dem."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Amanda Hopgood is the proposed candidate to stop Corbyn's imposed candidates.",
+                        "Durham Gazette: Free newspaper covering local and city news."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Plans for the future of Durham's NHS."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Supports ambitious policies to tackle climate change and protect the environment."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Durham Gazette: Free newspaper covering local and city news."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Corbyn"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

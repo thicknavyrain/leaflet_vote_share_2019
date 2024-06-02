@@ -1,0 +1,184 @@
+{
+    "leaflet": {
+        "candidateName": "Mike Smithson",
+        "candidateGender": "",
+        "constituency": "Brecon and Radnorshire",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "Thursday 12th December",
+        "messages": [
+            {
+                "title": "Polling Data",
+                "content": "The election in Brecon and Radnorshire is between the Conservative and the Liberal Democrats. From the analysis I\u2019ve done, the data gives us a good idea of the choice people face on Thursday 12th December."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Tactical Voting",
+                "policyDescription": "Best for Britain shows that nearly 200 seats across the UK could be decided by Remainers voting tactically for the Liberal Democrats."
+            },
+            {
+                "policyTitle": "Labour Support",
+                "policyDescription": "Whether the Conservative or the Liberal Democrat wins will come down to how many Labour supporters lend their vote to the Liberal Democrats."
+            },
+            {
+                "policyTitle": "Best Chance to Win",
+                "policyDescription": "The Liberal Democrats have the best chance to win seats from the Conservatives, keeping them from a majority. But only if enough Labour supporters back the Lib Dems this time."
+            }
+        ],
+        "mentions": {
+            "candidate": "Mike Smithson",
+            "otherPartyLeaderCandidate": "Conservatives, Labour supporters, Green Party standing aside",
+            "partyLeader": "",
+            "tacticalSituation": "Remainers voting tactically for the Liberal Democrats, nearly 200 seats across the UK could be decided by tactical voting."
+        },
+        "issues": {
+            "brexitEurope": "You know from previous elections that a vote for anyone other the Liberal Democrats can end up with an MP who backs Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "Tactical voting, polling data, election analysis.",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "Labour supporters lend their vote to the Liberal Democrats.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "The tactical website from Best for Britain shows nearly 200 seats across the UK could be decided by Remainers voting tactically for the Liberal Democrats.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "PoliticalBetting.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "I take polls seriously, having earned my living by cutting through the spin to see what the data really says.",
+                "source": "Mike Smithson",
+                "date": ""
+            },
+            {
+                "text": "You know from previous elections that a vote for anyone other the Liberal Democrats can end up with an MP who backs Brexit.",
+                "source": "Mike Smithson",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Best for Britain shows that nearly 200 seats across the UK could be decided by Remainers voting tactically for the Liberal Democrats.",
+                        "Spent the past 15 years analysing what voters are saying."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "The Liberal Democrats have the best chance to win seats from the Conservatives, keeping them from a majority.",
+                        "But only if enough Labour supporters back the Lib Dems this time.",
+                        "This General Election is going to be a memorable one."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Liberal Democrats vs Conservatives",
+                        "Labour supporters lending their vote",
+                        "Tactical Voting",
+                        "Remainers voting tactically"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "You know from previous elections that a vote for anyone other the Liberal Democrats can end up with an MP who backs Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "Election analyst and founder of PoliticalBetting.com",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

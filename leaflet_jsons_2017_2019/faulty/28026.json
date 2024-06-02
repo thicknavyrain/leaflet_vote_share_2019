@@ -1,0 +1,183 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Tony Sutton",
+    "candidateGender": "",
+    "constituency": "Nottingham South",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "Thursday June 8th 2017",
+    "messages": [
+      {
+        "title": "",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fighting against Hard Brexit",
+        "policyDescription": "The Liberal Democrats are leading the fight against hard Brexit... Only the Liberal Democrats can prevent the Conservatives from continuing with their hard Brexit plans."
+      },
+      {
+        "policyTitle": "Standing up for the NHS",
+        "policyDescription": "We know that additional investment in health and care services is vital. The Liberal Democrats would give the funds it needs."
+      },
+      {
+        "policyTitle": "Opposing school cuts",
+        "policyDescription": "Local schools are under threat from reductions in funding. The Liberal Democrats would find less than 1% of annual government spending to give the funds it needs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tony Sutton",
+      "otherPartyLeaderCandidate": "Conservatives",
+      "partyLeader": "Liberal Democrats",
+      "tacticalSituation": "The election on 8th June is your chance to stop Theresa May and Hard Brexit... disastrous hard Brexit... Only the Liberal Democrats can stop the Conservatives."
+    },
+    "issues": {
+      "brexitEurope": "Leading the fight against the Conservatives' hard Brexit plans. The Liberal Democrats are leading the fight against hard Brexit, the disastrous hard Brexit...",
+      "defence": "",
+      "economy": "",
+      "education": "Opposing school cuts...Local schools under threat from reductions in funding would cost Nottingham more than £26 million from their budgets.",
+      "environment": "",
+      "governance": "",
+      "government": "",
+      "health": "Standing up for the NHS. We know that additional investment in health and care services is vital. The Liberal Democrats would give the funds it needs.",
+      "immigration": "",
+      "labourEmployment": "",
+      "lawCrime": "",
+      "transport": "",
+      "socialWelfare": "",
+      "community": [
+        {
+          "content": "Local schools under threat from reductions in funding would cost Nottingham more than £26 million from their budgets.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "Tony Sutton, local campaigner for Nottingham South and the Liberal Democrat candidate, will vote to change the direction of our country and stay fighting for a better future.",
+    "politicalExperience": [
+      {
+        "role": "Local campaigner",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": “Nottingham Liberal Democrats, 77 Underhill Road, Nottingham NG7 5GQ”,
+      "phone": "",
+      "email": "",
+      "website": "libdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Theresa May and her Conservative colleagues... disastrous demands for a hard Brexit... keeping Britain in the Single Market.",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Tony Sutton leading the fight against NHS cuts."
+        }
+      ]
+    },
+    "additionalNotes": "",
+    "analysis": {
+      "statementAnalysis": {
+        "quantitative": {
+          "count": 2,
+          "examples": [
+            "Local schools under threat from reductions in funding would cost Nottingham more than £26 million from their budgets.",
+            "The Liberal Democrats would find less than 1% of annual government spending to give the funds it needs."
+          ]
+        },
+        "qualitative": {
+          "count": 3,
+          "examples": [
+            "The strong voice for us.",
+            "Leading the fight against the Conservatives' hard Brexit plans.",
+            "We know that additional investment in health and care services is vital."
+          ]
+        }
+      },
+      "photoAnalysis": {
+        "localPlaces": 0,
+        "people": 3,
+        "candidateAlone": 1,
+        "candidateWithOthers": 2
+      },
+      "issueFocus": {
+        "local": {
+          "count": 1,
+          "examples": [
+            "Local schools under threat from reductions in funding would cost Nottingham more than £26 million from their budgets."
+          ]
+        },
+        "national": {
+          "count": 1,
+          "examples": [
+            "The Liberal Democrats are leading the fight against hard Brexit, the disastrous hard Brexit..."
+          ]
+        }
+      },
+      "personalStories": [],
+      "endorsementsUsed": {
+        "count": 0,
+        "examples": [""]
+      },
+      "negativeMessaging": {
+        "localIssues": {
+          "count": 0,
+          "examples": [""]
+        },
+        "nationalIssues": {
+          "count": 1,
+          "examples": [
+            "Theresa May and her Conservative colleagues... disastrous demands for a hard Brexit."
+          ]
+        },
+        "leaderOfOpponentsParty": {
+          "count": 1,
+          "examples": [
+            "Theresa May and her Conservative colleagues... disastrous demands for a hard Brexit."
+          ]
+        },
+        "oppositeCandidateNoName": {
+          "count": 1,
+          "examples": [
+            "Only the Liberal Democrats can prevent the Conservatives from continuing with their hard Brexit plans."
+          ]
+        },
+        "oppositeCandidateWithName": {
+          "count": 0,
+          "examples": [""]
+        }
+      },
+      "nonPolicyAttributes": {
+        "localness": "Tony Sutton, local campaigner for Nottingham South...",
+        "employment": "",
+        "education": "",
+        "family": ""
+      },
+      "localCandidate": {
+        "isLocal": true,
+        "examples": [
+          "Tony Sutton, local campaigner for Nottingham South..."
+        ]
+      }
+    }
+  }
+}
+```

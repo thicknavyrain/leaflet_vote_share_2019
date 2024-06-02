@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Fay Jones",
+        "candidateGender": "",
+        "constituency": "Brecon & Radnorshire",
+        "politicalParty": "Welsh Conservatives",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "ONLY A MAJORITY GOVERNMENT CAN GET ON WITH THE COUNTRY\u2019S PRIORITIES",
+                "content": "Better hospitals. Safer streets. Improved schools. LET\u2019S GET ON WITH OUR PRIORITIES."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "STANDING UP FOR FARMERS",
+                "policyDescription": "Fay will ensure that farmers across Brecon and Radnorshire have the tools and support they need. Ensuring future trade deals allow British farmers to compete on an even playing field."
+            },
+            {
+                "policyTitle": "ACHIEVING BETTER CONNECTIVITY",
+                "policyDescription": "Fay will use her experience in telecommunications to deliver better broadband and mobile coverage. With more reliable broadband, small businesses can upscale their growth reaching new customers."
+            },
+            {
+                "policyTitle": "TACKLING THE CLIMATE EMERGENCY TOGETHER",
+                "policyDescription": "Fay believes we need to act to prevent further damage. Fay will work to phase out coal power stations and gas heating. Incentivize electric vehicle adoption."
+            }
+        ],
+        "mentions": {
+            "candidate": "Fay Jones",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "At the end of this election, we\u2019ll either get a Conservative majority \u2013 or a hung parliament."
+        },
+        "issues": {
+            "brexitEurope": "SNP to back Labour government only with Scottish independence vote",
+            "defence": "",
+            "economy": "Boris Johnson promises Wales a multi-million pound boost",
+            "education": "",
+            "environment": "TACKLING THE CLIMATE EMERGENCY TOGETHER: We have been living beyond our planet\u2019s means and we need to act to prevent further damage.",
+            "governance": "",
+            "government": "A vote for Labour means another hung parliament.",
+            "health": "NHS long-term plan: Focus on prevention \u2018could save 500,000 lives\u2019",
+            "immigration": "",
+            "labourEmployment": "Fay has spent over 11 years working on behalf of Welsh agriculture.",
+            "lawCrime": "End of the soft prison sentence",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Telecommunications",
+                "duration": "11 years",
+                "achievements": "Deliver better broadband and mobile coverage."
+            }
+        ],
+        "contactInformation": {
+            "address": "29 North Colonnade, Canary Wharf, London E14 5HS",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "NHS long-term plan: Focus on prevention \u2018could save 500,000 lives\u2019"
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Let\u2019s get on with our priorities."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Fay will ensure that farmers across Brecon and Radnorshire have the tools and support they need."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "We have been living beyond our planet\u2019s means and we need to act to prevent further damage.",
+                        "A vote for Labour means another hung parliament."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Fay has spent over 11 years working on behalf of Welsh agriculture.",
+                    "issueRelated": "labourEmployment"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "A vote for Labour means another hung parliament."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn propped up by parties like the Scottish Nationalists."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "11 years working on behalf of Welsh agriculture.",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Fay will ensure that farmers across Brecon and Radnorshire have the tools and support they need."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "leaflet": {
+        "candidateName": "Vernon Coaker",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "8 June",
+        "messages": [
+            {
+                "title": "Re-elect Vernon on 8 June",
+                "content": "This Thursday 8 June you have a choice between Vernon, your local champion, or a Tory outsider."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "BREXIT",
+                "policyDescription": "Vernon to stand up for Gedling's people or Tory who will simply hold up her hand when told to."
+            }
+        ],
+        "mentions": {
+            "candidate": "Vernon Coaker",
+            "otherPartyLeaderCandidate": "Tory",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "On BREXIT, do you want Vernon to stand up for Gedling's people or a Tory who will simply hold up her hand when told to?",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Vernon lives in Nottinghamshire with his family and went to school there.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP for Gedling",
+                "duration": "since 1997",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "07572 355781",
+            "email": "verncoaker@labour.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "facebook.com/Vernon.Coaker",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Labour \u2013 Don't give the Tories a blank cheque"
+                }
+            ]
+        },
+        "additionalNotes": "5 THINGS TO REMEMBER ABOUT VOTING\n1. You don\u2019t need your polling card to vote\n2. Polling stations are open 7am to 10pm\n3. If you applied for a postal vote but haven\u2019t sent it back yet, you can still deliver it by hand to any polling station.\n4. If you don\u2019t know where your polling station is, or you need a lift to vote, call our hotline on 07572 355781.\n5. Place a X next to Vernon\u2019s name!",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Polling stations are open 7am to 10pm"
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "History shows no other candidate can win so vote for anyone but Vernon is to let the Tories in."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "On BREXIT, do you want Vernon to stand up for Gedling's people or a Tory who will simply hold up her hand when told to?",
+                        "Vernon lives in Nottinghamshire with his family and went to school there."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Don\u2019t give the Tories a blank cheque"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Vernon lives in Nottinghamshire with his family and went to school there.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "On BREXIT, do you want Vernon to stand up for Gedling's people or a Tory who will simply hold up her hand when told to?",
+                        "History shows no other candidate can win so vote for anyone but Vernon is to let the Tories in."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Vernon lives in Nottinghamshire with his family and went to school there.",
+                "employment": "",
+                "education": "",
+                "family": "Vernon lives in Nottinghamshire with his family."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Vernon lives in Nottinghamshire with his family and went to school there."
+                ]
+            }
+        }
+    }
+}

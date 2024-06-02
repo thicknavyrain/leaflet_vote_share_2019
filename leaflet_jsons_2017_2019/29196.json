@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Everyone Knows Labour Isn't Going to Win This Time",
+                "content": "\"There is no realistic chance of us winning.\""
+            },
+            {
+                "title": "...But Voting Liberal Democrat This Time Will Get MPs Who Will Champion Your Local Schools, Health Services and Community.",
+                "content": "\"The Liberal Democrats have pledged to reverse unfair school cuts, restore bursaries for nurses, and put a penny on income tax to provide an immediate \u00a36bn for the NHS.\""
+            },
+            {
+                "title": "More Conservative MPs Won't Stop Theresa May's NHS and School Cuts.",
+                "content": "\"NHS cuts blamed for 30,000 deaths in new study\" - The Independent, 17 Feb 2017. \"Schools face the worst funding cuts in 20 years.\" - The Independent, 2 Mar 2017."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Education Funding",
+                "policyDescription": "Reversing cuts to school funding and investing \u00a36.9bn in schools and colleges."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Providing immediate injection of \u00a36bn for the NHS, and reversing government cuts."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "Everyone knows Labour isn't going to win this time."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Providing immediate injection of \u00a36bn for the NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Champion your local schools, health services and community.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "\"We cannot fight and win under Jeremy as our leader\"",
+                "source": "Labour MP",
+                "date": "24 June 2017"
+            },
+            {
+                "text": "\"The Liberal Democrats have pledged to reverse unfair school cuts, restore bursaries for nurses, and put a penny on income tax to provide an immediate \u00a36bn for the NHS.\"",
+                "source": "The Guardian",
+                "date": "8 May 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "\"Invest \u00a36.9bn in schools and colleges reversing government cuts.\"",
+                        "\"NHS cuts blamed for 30,000 deaths in new study\"",
+                        "\"Schools face the worst funding cuts in 20 years.\""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "\"Everyone knows Labour isn't going to win this time.\""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Champion your local schools, health services and community."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Everyone knows Labour isn't going to win this time.",
+                        "NHS cuts blamed for 30,000 deaths in new study.",
+                        "Schools face the worst funding cuts in 20 years."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "NHS cuts blamed for 30,000 deaths in new study.",
+                        "Schools face the worst funding cuts in 20 years."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "\"We cannot fight and win under Jeremy as our leader\"."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "\"Everyone knows Labour isn't going to win this time.\""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

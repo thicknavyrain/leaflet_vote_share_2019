@@ -1,0 +1,170 @@
+{
+    "leaflet": {
+        "candidateName": "Dan Costello",
+        "candidateGender": "",
+        "constituency": "Ashton-under-Lyne",
+        "politicalParty": "Conservatives",
+        "electionDate": "12th December",
+        "messages": [
+            {
+                "title": "my plan for Ashton-under-Lyne",
+                "content": "Working together to deliver"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Getting Brexit Done",
+                "policyDescription": "You deserve better than chaos. I will respect the vote so we can finally get on with the priorities we all share."
+            },
+            {
+                "policyTitle": "Investing in our NHS",
+                "policyDescription": "The Conservatives will put an extra \u00a333.9 billion a year into our NHS, with \u00a316 million already promised to upgrade Tameside Hospital."
+            },
+            {
+                "policyTitle": "Hiring 20,000 new police officers",
+                "policyDescription": "Greater Manchester Police will see 347 extra police officers on our streets this year alone, keeping our streets safe."
+            },
+            {
+                "policyTitle": "More funding for every pupil in every school",
+                "policyDescription": "Giving our children the best start in life is fundamental. We are increasing the funding per pupil in every school."
+            },
+            {
+                "policyTitle": "Supporting working families",
+                "policyDescription": "Thousands will benefit locally from an increase in the Living Wage to \u00a310.50 an hour - giving the lowest paid a pay rise."
+            },
+            {
+                "policyTitle": "Increasing GP numbers",
+                "policyDescription": "We will hire 6,000 extra GPs and create 50 million extra appointments."
+            }
+        ],
+        "mentions": {
+            "candidate": "Dan Costello",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Getting Brexit Done: You deserve better than chaos.",
+            "defence": "",
+            "economy": "",
+            "education": "More funding for every pupil in every school: Giving our children the best start in life.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Investing in our NHS: The Conservatives will put an extra \u00a333.9 billion a year into our NHS, with \u00a316 million already promised to upgrade Tameside Hospital.",
+            "immigration": "",
+            "labourEmployment": "Supporting working families: Thousands will benefit locally from an increase in the Living Wage to \u00a310.50 an hour - giving the lowest paid a pay rise.",
+            "lawCrime": "Hiring 20,000 new police officers: Greater Manchester Police will see 347 extra police officers on our streets this year alone, keeping our streets safe.",
+            "transport": "",
+            "socialWelfare": "Supporting working families: Thousands will benefit locally from an increase in the Living Wage to \u00a310.50 an hour - giving the lowest paid a pay rise.",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Promoted by Dawn Cobb, on behalf of Dan Costello, both at 58 Broadhurst, Denton, M34 3TN. Printed by Paragon CC, Suite 1, 3rd Floor, Universal Square, Manchester, M12 6JH",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "The Conservatives will put an extra \u00a333.9 billion a year into our NHS, with \u00a316 million already promised to upgrade Tameside Hospital.",
+                        "Greater Manchester Police will see 347 extra police officers on our streets this year alone.",
+                        "We will hire 6,000 extra GPs and create 50 million extra appointments."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "You deserve better than chaos.",
+                        "Giving our children the best start in life is fundamental.",
+                        "Thousands will benefit locally from an increase in the Living Wage to \u00a310.50 an hour - giving the lowest paid a pay rise."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 2,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Thousands will benefit locally from an increase in the Living Wage to \u00a310.50 an hour - giving the lowest paid a pay rise.",
+                        "Greater Manchester Police will see 347 extra police officers on our streets this year alone, keeping our streets safe."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "The Conservatives will put an extra \u00a333.9 billion a year into our NHS, with \u00a316 million already promised to upgrade Tameside Hospital.",
+                        "We will hire 6,000 extra GPs and create 50 million extra appointments.",
+                        "You deserve better than chaos. I will respect the vote so we can finally get on with the priorities we all share.",
+                        "Giving our children the best start in life is fundamental. We are increasing the funding per pupil in every school."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "You deserve better than chaos."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

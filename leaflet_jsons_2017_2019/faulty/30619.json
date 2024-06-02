@@ -1,0 +1,162 @@
+{
+    "leaflet": {
+        "candidateName": "Sally Pearce",
+        "candidateGender": "Female",
+        "constituency": "Sherwood",
+        "politicalParty": "Labour",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Government cuts to school funding mean schools are being forced to make choices whether to reduce the curriculum choices or reduce their staffing."
+            }
+        ],
+        "mentions": {
+            "candidate": "Sally Pearce",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "education": "Government cuts to school funding mean schools are being forced to make choices whether to reduce the curriculum choices or reduce their staffing.",
+            "community": [
+                {
+                    "content": "A school like mine, which serves a diverse catchment and is one of the largest in the county, offering a broad and rich curriculum is something we are very proud of.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Education is the key to unlock the golden door of freedom.",
+                "source": "George Washington",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Government cuts to school funding mean schools are being forced to make choices whether to reduce the curriculum choices or reduce their staffing.",
+                        "We face a future of unprecedented cuts, and it's going to have a devastating effect if we don't act now and change the course of where it is heading.",
+                        "Teachers like me know that we face heart-breaking decisions that will impact on children in Nottinghamshire and up and down the county.",
+                        "With dwindling investment Head Teachers and Governors are faced with incredibly difficult decisions."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "A school like mine, which serves a diverse catchment and is one of the largest in the county, offering a broad and rich curriculum is something we are very proud of."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Government cuts to school funding mean schools are being forced to make choices whether to reduce the curriculum choices or reduce their staffing.",
+                        "We face a future of unprecedented cuts, and it's going to have a devastating effect if we don't act now and change the course of where it is heading."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I've been a Head Teacher in Sherwood for 12 years.",
+                    "issueRelated": "Education"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "With dwindling investment Head Teachers and Governors are faced with incredibly difficult decisions."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Please don\u2019t let Theresa May lock the doors. I ask you to keep the fire burning and vote Labour on 8 June."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "I've been a Head Teacher in Sherwood for 12 years.",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I've been a Head Teacher in Sherwood for 12 years."
+                ]
+            }
+        }
+    }
+}

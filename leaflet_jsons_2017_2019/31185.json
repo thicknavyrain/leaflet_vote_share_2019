@@ -1,0 +1,173 @@
+{
+    "leaflet": {
+        "candidateName": "Jo Swinson",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Build a brighter future, vote Liberal Democrat"
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Jo Swinson",
+            "otherPartyLeaderCandidate": "Both Tories and Labour have failed the country",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "https://www.libdems.org.uk/join",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "The Lib Dem fightback is real - and it's changing everything.",
+                "source": "Sky News",
+                "date": "August 2019"
+            },
+            {
+                "text": "Lib Dems winning and on the up after by-election victory.",
+                "source": "The Guardian",
+                "date": "August 2019"
+            },
+            {
+                "text": "Both Tories and Labour have failed the country",
+                "source": "The Guardian",
+                "date": "May 2019"
+            },
+            {
+                "text": "British politics is falling apart - the Tories are to blame, but Labour is also a shambles",
+                "source": "The Irish Times",
+                "date": "January 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "The Lib Dem fightback is real - and it's changing everything.",
+                        "Lib Dems winning and on the up after by-election victory."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Both Tories and Labour have failed the country",
+                        "British politics is falling apart - the Tories are to blame, but Labour is also a shambles"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "British politics is falling apart - the Tories are to blame, but Labour is also a shambles"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "British politics is falling apart - the Tories are to blame, but Labour is also a shambles",
+                        "Both Tories and Labour have failed the country"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "leaflet": {
+        "candidateName": "Naomi Rylatt",
+        "candidateGender": "",
+        "constituency": "Filton and Bradley Stoke",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "Introducing Our Candidate",
+                "content": "When I was a Councillor I spent a lot of my time talking to and listening to local people, hearing about their issues, worries and ideas. As an MP I will actually consult whenever possible and ensure that different views are listened to. The constituents of Filton and Bradley Stoke deserve an MP who will fight for them, someone who will bring the heart of politics back to Filton and Bradley Stoke."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Labour pledges to end health service privatisation and bring services into a secure, publicly-provided NHS. Labour will integrate the NHS and social care for older and disabled people, funding dignity across the board and ensuring parity for mental health services."
+            },
+            {
+                "policyTitle": "Police",
+                "policyDescription": "The Labour Party believes that increasing police numbers will reduce crime rates across our communities. We have pledged to put an extra 10,000 police on the streets nationwide to work with communities to reduce crime."
+            }
+        ],
+        "mentions": {
+            "candidate": "Naomi Rylatt",
+            "otherPartyLeaderCandidate": "Conservative Government",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Labour pledges to end health service privatisation and bring services into a secure, publicly-provided NHS. Labour will integrate the NHS and social care for older and disabled people, funding dignity across the board and ensuring parity for mental health services.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "The Labour Party believes that increasing police numbers will reduce crime rates across our communities. We have pledged to put an extra 10,000 police on the streets nationwide to work with communities to reduce crime.",
+            "transport": "There are campaigns to get two new stations added, Filton North and Henbury, to restore service to the new developments. The Metrobus improvements, now happening, sre making some headway into considerations of services of local needs.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Our NHS is at risk, South Gloucestershire Clinical Commissioning Group is underfunded and in deficit due to decisions that the Conservative Government has taken. This means that, despite Southmead A&E failing to meet targets due to not enough beds there, Frenchay Community Hospital has still not been built, despite it being promised in the last local NHS plan. The nearest hospital is now enough, patients struggle to get Doctors appointments due to inadequate number of doctors and no Doctor's practice at all in Cheswick Village. Bristol is on record as being the second most congested city in Britain and the traffic problems spread into Filton and Bradley Stoke with many congestion hotspots.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "33 Brins Close, Stoke Gifford, Bristol, BS34 8XU",
+            "phone": "0870 9745373",
+            "email": "nrylat4fabs@gmail.com",
+            "website": "www.gblabour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "nrylat4fabs",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Naomi Rylatt Labour Party Candidate"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "There are campaigns to get two new stations added, Filton North and Henbury, to restore service to the new developments."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "When I was a Councillor I spent a lot of my time talking to and listening to local people, hearing about their issues, worries and ideas."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Our NHS is at risk, South Gloucestershire Clinical Commissioning Group is underfunded and in deficit due to decisions that the Conservative Government has taken."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Labour pledges to end health service privatisation and bring services into a secure, publicly-provided NHS."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Our NHS is at risk, South Gloucestershire Clinical Commissioning Group is underfunded and in deficit due to decisions that the Conservative Government has taken."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "despite Southmead A&E failing to meet targets due to not enough beds there, Frenchay Community Hospital has still not been built, despite it being promised in the last local NHS plan."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "due to decisions that the Conservative Government has taken."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I have traded a local business, brought up my daughter in local schools and live in the area.",
+                "employment": "",
+                "education": "",
+                "family": "brought up my daughter in local schools"
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "When I was a Councillor I spent a lot of my time talking to and listening to local people"
+                ]
+            }
+        }
+    }
+}

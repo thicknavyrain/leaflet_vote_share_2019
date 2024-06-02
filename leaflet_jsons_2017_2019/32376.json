@@ -1,0 +1,185 @@
+{
+    "leaflet": {
+        "candidateName": "Pippa Heylings",
+        "candidateGender": "",
+        "constituency": "South East Cambridgeshire",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "We deserve better than the Tories' Brexit mess",
+                "content": ""
+            },
+            {
+                "title": "Across the UK the Liberal Democrats are winning",
+                "content": "There is an alternative to Boris Johnson\u2019s Tories. Millions of people are switching to back a better future with the Liberal Democrats."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Stop Brexit, control the climate crisis and fight for more investment for our schools and hospitals."
+            }
+        ],
+        "mentions": {
+            "candidate": "Pippa Heylings",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": "Only Pippa Heylings can beat the Tories here"
+        },
+        "issues": {
+            "brexitEurope": "We deserve better than the Tories' Brexit mess",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Local councillor",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "pippaheylings.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": "\"The Lib Dem fightback is real - and it\u2019s changing everything.\""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "\"Donald Trump backs Johnson\u2019s Brexit strategy.\"",
+                "source": "Economist, September 2019",
+                "date": ""
+            },
+            {
+                "text": "\"The Lib Dem fightback is real - and it\u2019s changing everything.\"",
+                "source": "SKY NEWS, August 2019",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Map showing Lib Dem winning across the UK"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Gaining 700+ new councillors in the local elections",
+                        "New members \u2013 membership of 40,000 people have joined in recent months"
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "There is an alternative to Boris Johnson\u2019s Tories."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Beating Labour and the Conservatives in European elections"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "\u201cThere is an alternative to Boris Johnson\u2019s Tories.\u201d",
+                        "Millions of people are switching to back a better future with the Liberal Democrats."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "\u201cDonald Trump backs Johnson\u2019s Brexit strategy.\u201d - Economist, September 2019",
+                    "\u201cThe Lib Dem fightback is real - and it\u2019s changing everything.\u201d - SKY NEWS, August 2019"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "We deserve better than the Tories' Brexit mess",
+                        "Millions of Tories will now vote Lib Dem because of Brexit"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Donald Trump backs Johnson's Brexit strategy."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Donald Trump backs Johnson's Brexit strategy."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Pippa Heylings is a local councillor and has a reputation for someone who can deliver real change for local families."
+                ]
+            }
+        }
+    }
+}

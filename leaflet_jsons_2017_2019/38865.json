@@ -1,0 +1,189 @@
+{
+    "leaflet": {
+        "candidateName": "McHale, Terence",
+        "candidateGender": "",
+        "constituency": "Sheffield Hallam",
+        "politicalParty": "The Brexit Party",
+        "electionDate": "December 12th",
+        "messages": [
+            {
+                "title": "",
+                "content": "There are around 130 seats that the Conservatives haven't won in at least 50 years. Only the Brexit Party can beat Corbyn's Labour. Leavers, don't waste your vote. Vote for the Brexit Party in Sheffield Hallam on December 12th."
+            },
+            {
+                "title": "",
+                "content": "Without the Brexit Party there can be no real Brexit. Vote for the Brexit Party on December 12th."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Without the Brexit Party there can be no real Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "McHale, Terence",
+            "otherPartyLeaderCandidate": "Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "There are around 130 seats that the Conservatives haven't won in at least 50 years. Only the Brexit Party can beat Corbyn's Labour."
+        },
+        "issues": {
+            "brexitEurope": "Without the Brexit Party there can be no real Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "0800 414 8525",
+            "email": "",
+            "website": "www.thebrexitparty.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "There are around 130 seats that the Conservatives haven't won in at least 50 years."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Only the Brexit Party can beat Corbyn's Labour.",
+                        "Leavers, don't waste your vote.",
+                        "Without the Brexit Party there can be no real Brexit.",
+                        "Change politics for good."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Vote for the Brexit Party in Sheffield Hallam."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Without the Brexit Party there can be no real Brexit."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "There are around 130 seats that the Conservatives haven't won in at least 50 years.",
+                        "Only the Brexit Party can beat Corbyn's Labour."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Corbyn"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

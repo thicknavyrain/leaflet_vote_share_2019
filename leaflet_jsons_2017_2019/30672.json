@@ -1,0 +1,181 @@
+{
+    "leaflet": {
+        "candidateName": "Terry Bridgeman",
+        "candidateGender": "",
+        "constituency": "Basingstoke",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "Believe in Basingstoke",
+                "content": "I'm asking for your vote on June 8th. We are contesting for betterment. Elect Labour now."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS Investment",
+                "policyDescription": "More doctors, restoring bursaries for nurses and midwives"
+            },
+            {
+                "policyTitle": "Social care",
+                "policyDescription": "Fairer care system, improve quality of life for vulnerable residents"
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Invest in town centres, support local businesses"
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Protect green spaces, improve air quality"
+            }
+        ],
+        "mentions": {
+            "candidate": "Terry Bridgeman",
+            "otherPartyLeaderCandidate": "Tory candidate",
+            "partyLeader": "",
+            "tacticalSituation": "Labour is challenging the Tories in Basingstoke"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Invest in town centres, support local businesses",
+            "education": "",
+            "environment": "Protect green spaces, improve air quality",
+            "governance": "",
+            "government": "",
+            "health": "More doctors, restoring bursaries for nurses and midwives",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Fairer care system, improve quality of life for vulnerable residents",
+            "community": [
+                {
+                    "content": "Invest in town centres, support local businesses",
+                    "yimbyNimby": "N/A"
+                },
+                {
+                    "content": "Protect green spaces, improve air quality",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I'm asking for your vote on June 8th. We are contesting for betterment. Elect Labour now.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Supporter",
+                "endorsement": "This borough deserves better."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Labour is challenging the Tories in Basingstoke"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "More doctors, restoring bursaries for nurses and midwives",
+                        "Invest in town centres, support local businesses"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Invest in town centres, support local businesses"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "More doctors, restoring bursaries for nurses and midwives"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "This borough deserves better."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

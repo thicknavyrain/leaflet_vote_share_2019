@@ -1,0 +1,209 @@
+{
+    "leaflet": {
+        "candidateName": "Matthew Evans",
+        "candidateGender": "",
+        "constituency": "Newport West",
+        "politicalParty": "Welsh Conservatives",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "Delivering Brexit in Newport West",
+                "content": "Local campaigner and experienced councillor with a firm reputation for getting things done. Will always stand up for jobs and investment in Newport. Has a plan to improve our city and deliver for local residents."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "An extra \u00a31.2 billion for the Welsh NHS"
+            },
+            {
+                "policyTitle": "Crime",
+                "policyDescription": "20,000 extra police for safer streets"
+            },
+            {
+                "policyTitle": "Education Funding",
+                "policyDescription": "More funding available for schools across Wales"
+            },
+            {
+                "policyTitle": "Income Tax",
+                "policyDescription": "Cutting income tax for 32 million people"
+            },
+            {
+                "policyTitle": "Growth Deals",
+                "policyDescription": "\u00a3700 million to deliver Growth Deals across Wales"
+            },
+            {
+                "policyTitle": "Broadband",
+                "policyDescription": "Gigabit broadband rollout"
+            }
+        ],
+        "mentions": {
+            "candidate": "Matthew Evans",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn propped up by Nicola Sturgeon",
+            "partyLeader": "",
+            "tacticalSituation": "John Curtice: Polls teeter between hung parliament and slim Tory majority. This election will be close. Your local vote will decide it."
+        },
+        "issues": {
+            "brexitEurope": "Brexit done with a deal",
+            "defence": "",
+            "economy": "Cutting income tax for 32 million people",
+            "education": "More funding available for schools across Wales",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "An extra \u00a31.2 billion for the Welsh NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "20,000 extra police for safer streets",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Has a plan to improve our city and deliver for local residents.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Councillor",
+                "duration": "",
+                "achievements": "Experienced councillor with a firm reputation for getting things done. Will always stand up for jobs and investment in Newport."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "\u00a31.2 billion extra to invest in our Welsh NHS"
+                },
+                {
+                    "caption": "20,000 extra police for safer streets"
+                },
+                {
+                    "caption": "More funding available for schools across Wales"
+                },
+                {
+                    "caption": "\u00a3700 million to deliver Growth Deals across Wales"
+                },
+                {
+                    "caption": "Your local vote will decide the next Prime Minister"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 5,
+                    "examples": [
+                        "An extra \u00a31.2 billion for the Welsh NHS",
+                        "20,000 extra police for safer streets",
+                        "Cutting income tax for 32 million people",
+                        "\u00a3700 million to deliver Growth Deals across Wales",
+                        "Gigabit broadband rollout"
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Brexit done with a deal",
+                        "Local campaigner and experienced councillor with a firm reputation for getting things done",
+                        "Will always stand up for jobs and investment in Newport",
+                        "Has a plan to improve our city and deliver for local residents",
+                        "This election will be close. Your local vote will decide it."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 5,
+                "candidateAlone": 0,
+                "candidateWithOthers": 5
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 5,
+                    "examples": [
+                        "More funding available for schools across Wales",
+                        "An extra \u00a31.2 billion for the Welsh NHS",
+                        "\u00a3700 million to deliver Growth Deals across Wales",
+                        "Has a plan to improve our city and deliver for local residents",
+                        "Councillor with a firm reputation for getting things done."
+                    ]
+                },
+                "national": {
+                    "count": 6,
+                    "examples": [
+                        "Brexit done with a deal",
+                        "20,000 extra police for safer streets",
+                        "Cutting income tax for 32 million people",
+                        "Gigabit broadband rollout",
+                        "Polls teeter between hung parliament and slim Tory majority",
+                        "This election will be close. Your local vote will decide it."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Experienced councillor with a firm reputation for getting things done",
+                    "issueRelated": "localDevelopment"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn propped up by Nicola Sturgeon"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Local campaigner and experienced councillor",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Local campaigner and experienced councillor"
+                ]
+            }
+        }
+    }
+}

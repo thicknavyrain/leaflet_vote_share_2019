@@ -1,0 +1,190 @@
+{
+    "leaflet": {
+        "candidateName": "Rosamund Beattie",
+        "candidateGender": "",
+        "constituency": "West Ham",
+        "politicalParty": "UKIP",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "",
+                "content": "Dear Voter, UKIP will ensure Britain's exit from the EU. I do not stand for crumbling services, mass immigration or the giveaway of our jobs and homes. I proudly stand for you. Kind regards, Rosamund Beattie"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Cut Immigration",
+                "policyDescription": "Uncontrolled mass immigration has undermined our quality of life. Rapidly alter the current priorities."
+            },
+            {
+                "policyTitle": "NHS Before Foreign Aid",
+                "policyDescription": "We will save 3,300 beds, recruit 20,000 soldiers, and build 13 new social housing units. Contrary to Labour's promise which they have failed to achieve."
+            },
+            {
+                "policyTitle": "Invest in Our NHS",
+                "policyDescription": "We pledge to fund 20,000 more nurses and 10,000 GPs."
+            },
+            {
+                "policyTitle": "Protect British Culture",
+                "policyDescription": "Make sure everyone speaks English. Defend our hard-won rights such as free speech, oppose creeping sharia."
+            },
+            {
+                "policyTitle": "Modern Fair Democracy",
+                "policyDescription": "Full Brexit. Abolish the House of Lords. Proportional representation."
+            }
+        ],
+        "mentions": {
+            "candidate": "Rosamund Beattie",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn and his Labour party",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Full Brexit",
+            "defence": "Recruit 20,000 soldiers, nuclear deterrent",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "Abolish the House of Lords, Proportional Representation",
+            "government": "",
+            "health": "Invest in Our NHS, 20,000 more nurses and 10,000 GPs",
+            "immigration": "Cut Immigration, Uncontrolled mass immigration",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Build 13 new social housing units. Selling off our housing stock to foreign buyers.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "0207 965 7332",
+            "email": "rosamund.beattie@ukip.org",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Rosamund Beattie, UKIP Candidate for West Ham"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 5,
+                    "examples": [
+                        "3,300 beds",
+                        "20,000 soldiers",
+                        "13 new social housing units",
+                        "20,000 more nurses",
+                        "10,000 GPs"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I proudly stand for you.",
+                        "Defend our hard-won rights.",
+                        "Uncontrolled mass immigration has undermined our quality of life."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Build 13 new social housing units."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Full Brexit.",
+                        "Abolish the House of Lords.",
+                        "Proportional representation."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Selling off our housing stock to foreign buyers."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn and his Labour party do not represent Britain.",
+                        "Labour's promise which they have failed to achieve."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn and his Labour party do not represent Britain."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Rosamund Beattie in West Ham"
+                ]
+            }
+        }
+    }
+}

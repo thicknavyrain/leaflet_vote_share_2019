@@ -1,0 +1,188 @@
+{
+    "leaflet": {
+        "candidateName": "Alexa Collins",
+        "candidateGender": "Female",
+        "constituency": "Beaconsfield",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "",
+                "content": "I spent my childhood here in this constituency. Then I came back to raise my child here. After years of Tory austerity and neglect, we need a real change in Beaconsfield. I can make that change happen. If you want a motivated local candidate fighting day in day out for you, Vote Labour, Vote Alexa."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Fight for fairer funding for our local schools, increase teachers\u2019 pay, reinstate bursaries for student nurses. Buy back Sure Start centres."
+            },
+            {
+                "policyTitle": "Social Transformation Fund",
+                "policyDescription": "Labour will invest \u00a3150bn to fix our broken economy, building overdue hospitals; creating social housing, roads, broadband internet and public green spaces."
+            },
+            {
+                "policyTitle": "A country for the many not the few",
+                "policyDescription": "Repeal the Bedroom Tax, scrap Universal Credit, lower the voting age to 16, end rough sleeping, provide free school meals and free bus travel for all under-25s."
+            }
+        ],
+        "mentions": {
+            "candidate": "Elect ALEXA COLLINS Labour candidate for Beaconsfield",
+            "otherPartyLeaderCandidate": "Tory austerity and neglect",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Fight for fairer funding for our local schools, increase teachers\u2019 pay, reinstate bursaries for student nurses. Buy back Sure Start centres.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Labour committed to extending home insulation programmes, zero carbon new homes (to cut fuel poverty) and green transport systems.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I spent my childhood here in this constituency. Then I came back to raise my child here. After years of Tory austerity and neglect, we need a real change in Beaconsfield. I can make that change happen.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "Alexa4Labour@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "facebook @Alexa4Labour",
+                "twitter": "@AlexaCollinsDes",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "MUMTAZ KHALID",
+                "endorsement": "I'm an Army support worker for the Royal British Legion and I always vote! I'm backing Alexa and voting Labour because she wants a better future for all!"
+            }
+        ],
+        "quotes": [
+            {
+                "text": "I'm an Army support worker for the Royal British Legion and I always vote! I'm backing Alexa and voting Labour because she wants a better future for all!",
+                "source": "MUMTAZ KHALID",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Labour will invest \u00a3150bn to fix our broken economy.",
+                        "Provide free school meals and free bus travel for all under-25s.",
+                        "Reinstate bursaries for student nurses."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Real change in Beaconsfield.",
+                        "Fight for the many not the few."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 2,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Fight for fairer funding for our local schools, increase teachers\u2019 pay, reinstate bursaries for student nurses. Buy back Sure Start centres.",
+                        "Labour committed to extending home insulation programmes, zero carbon new homes (to cut fuel poverty) and green transport systems."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Repeal the Bedroom Tax, scrap Universal Credit, lower the voting age to 16, end rough sleeping, provide free school meals and free bus travel for all under-25s.",
+                        "Labour will invest \u00a3150bn to fix our broken economy, building overdue hospitals; creating social housing, roads, broadband internet and public green spaces."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Spent childhood in this constituency, returned to raise child here.",
+                    "issueRelated": "localness"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "MUMTAZ KHALID: I'm an Army support worker for the Royal British Legion and I always vote! I'm backing Alexa and voting Labour because she wants a better future for all!"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "neglect"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Tory austerity"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I spent my childhood here in this constituency. Then I came back to raise my child here.",
+                "employment": "",
+                "education": "",
+                "family": "Then I came back to raise my child here."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Spent childhood in this constituency, returned to raise child here."
+                ]
+            }
+        }
+    }
+}

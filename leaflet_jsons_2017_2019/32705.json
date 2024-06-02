@@ -1,0 +1,161 @@
+{
+    "leaflet": {
+        "candidateName": "Peter Maughan",
+        "candidateGender": "",
+        "constituency": "Gateshead",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "THE LIB DEMS ARE WINNING",
+                "content": "The Liberal Democrats have continued to grow following their stunning success at the local and European elections in May.\nRecent polls show support for the Liberal Democrats is now at record levels and Jo Swinson is the most popular party leader.\nMPs from Labour and the Conservatives are joining the Lib Dems, fed up with the broken politics the two old parties represent."
+            },
+            {
+                "title": "DEMAND BETTER FOR BRITAIN",
+                "content": "Sign up here to support a Liberal Democrat government to deliver a brighter future for our country.\nYour name:\nAddress:\nPhone Number:\nReturn to: Gateshead Liberal Democrats, 76 Saltwell Place, Gateshead, NE8 4QY"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "DEMAND BETTER FOR BRITAIN",
+                "policyDescription": "Support a Liberal Democrat government to deliver a brighter future for the country."
+            }
+        ],
+        "mentions": {
+            "candidate": "Peter Maughan",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The Conservatives want to force us to go through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom.\nWho knows where Jeremy Corbyn stands on Brexit? Labour now say they want to negotiate their own Brexit deal.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Support a Liberal Democrat government to deliver a brighter future for our country.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Gateshead Liberal Democrats, 76 Saltwell Place, Gateshead, NE8 4QY",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Recent polls show support for the Liberal Democrats is now at record levels."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "The Liberal Democrats have continued to grow following their stunning success at the local and European elections in May.",
+                        "Jo Swinson is the most popular party leader.",
+                        "MPs from Labour and the Conservatives are joining the Lib Dems, fed up with the broken politics the two old parties represent.",
+                        "Who knows where Jeremy Corbyn stands on Brexit?",
+                        "The Conservatives want to force us to go through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Support a Liberal Democrat government to deliver a brighter future for our country.",
+                        "Gateshead Liberal Democrats"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Recent polls show support for the Liberal Democrats is now at record levels.",
+                        "The Conservatives want to force us to go through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom.",
+                        "Labour now say they want to negotiate their own Brexit deal."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "The Conservatives want to force us to go through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom.",
+                        "Who knows where Jeremy Corbyn stands on Brexit?"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Who knows where Jeremy Corbyn stands on Brexit?"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

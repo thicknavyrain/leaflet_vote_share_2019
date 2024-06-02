@@ -1,0 +1,178 @@
+{
+    "leaflet": {
+        "candidateName": "Oliver Heald",
+        "candidateGender": "",
+        "constituency": "North East Hertfordshire",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Standing up for our area",
+                "content": "Oliver Heald has been standing up for our area in parliament"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Strong, stable leadership",
+                "policyDescription": "Provide strong, stable leadership in the national interest"
+            },
+            {
+                "policyTitle": "Standing up for local services",
+                "policyDescription": "Standing up for our NHS and schools"
+            }
+        ],
+        "mentions": {
+            "candidate": "Oliver Heald",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Making Brexit a success",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "Strong, stable leadership",
+            "government": "",
+            "health": "Standing up for our NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Standing up for our area",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Oliver Heald has been a dedicated public servant for our area",
+        "politicalExperience": [
+            {
+                "role": "MP for North East Hertfordshire",
+                "duration": "",
+                "achievements": "Standing up for local services"
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "01462 486074",
+            "email": "oliver.heald.mp@parliament.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Standing up for our area",
+                        "Strong, stable leadership",
+                        "Standing up for local services"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 5,
+                "candidateAlone": 2,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Standing up for our area",
+                        "Standing up for local services"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Strong, stable leadership",
+                        "Making Brexit a success"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Oliver Heald has been a dedicated public servant for our area",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Think Jeremy Corbyn as Prime Minister is never going to happen? Don't be so sure."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Oliver Heald has been a dedicated public servant for our area",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Oliver Heald has been a dedicated public servant for our area"
+                ]
+            }
+        }
+    }
+}

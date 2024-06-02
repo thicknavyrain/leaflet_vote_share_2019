@@ -1,0 +1,173 @@
+{
+    "leaflet": {
+        "candidateName": "Hannah O'Neill",
+        "candidateGender": "Female",
+        "constituency": "Milton Keynes South",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "For the Many, not the Few",
+                "content": "On Thursday 8th June, your choice will be to elect a Labour MP who will stand up for everyone in Milton Keynes, or a Conservative who has a clear record of siding with the privileged few."
+            },
+            {
+                "title": "Hannah O'Neill \u2013 a Local Choice",
+                "content": "Hannah O'Neill is the Labour Party candidate for Milton Keynes South. She is an ordinary working-class woman, who is proud to have been born and raised in Milton Keynes."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Jobs and Investment",
+                "policyDescription": "Hannah intends to fight for well-paid jobs and investment."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Hannah will stop cuts to local NHS, improve access to all types of housing, and ensure a Brexit that works for Milton Keynes."
+            },
+            {
+                "policyTitle": "Social Care",
+                "policyDescription": "A social care system that looks after our most vulnerable people."
+            }
+        ],
+        "mentions": {
+            "candidate": "Hannah O'Neill",
+            "otherPartyLeaderCandidate": "Conservative MP",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "ensure a Brexit that works for Milton Keynes.",
+            "defence": "",
+            "economy": "fight for well-paid jobs.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "stop cuts to local NHS.",
+            "immigration": "",
+            "labourEmployment": "fight for well-paid jobs.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": [
+                {
+                    "content": "A social care system that looks after our most vulnerable people.",
+                    "yimbyNimby": ""
+                }
+            ],
+            "community": [
+                {
+                    "content": "improve access to all types of housing.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Deputy Leader of MK Council",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Hannah O'Neill is Deputy Leader of MK Council"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Hannah O'Neill is Deputy Leader of MK Council."
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Hannah intends to fight for well-paid jobs.",
+                        "stop cuts to local NHS.",
+                        "improve access to all types of housing."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "ensure a Brexit that works for Milton Keynes.",
+                        "A social care system that looks after our most vulnerable people."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The alternative is a Conservative MP who voted to increase VAT, hitting ordinary families while supporting tax cuts for mega-rich corporations; someone who slashed help for disabled people, and who will put the triple lock pension under threat."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "born and raised in Milton Keynes",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Hannah O'Neill is an ordinary working-class woman, who is proud to have been born and raised in Milton Keynes."
+                ]
+            }
+        }
+    }
+}

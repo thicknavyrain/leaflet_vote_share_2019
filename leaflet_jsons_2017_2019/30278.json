@@ -1,0 +1,170 @@
+{
+    "leaflet": {
+        "candidateName": "Julian Huppert",
+        "candidateGender": "",
+        "constituency": "Cambridge",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Too Close to Call",
+                "content": "Bookies are predicting a close fight. Seems like Cambridge\u2019s Labour seat is too close to call."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Investment in Education",
+                "policyDescription": "\u00a37 billion extra investment in our schools and protection of free school meals for infant pupils."
+            },
+            {
+                "policyTitle": "NHS and Social Care",
+                "policyDescription": "A plan for extra \u00a36 billion each year for our NHS and Social Care."
+            },
+            {
+                "policyTitle": "Brexit and Single Market",
+                "policyDescription": "Fighting an extreme UKIP-style Brexit and keeping Britain in the single market."
+            }
+        ],
+        "mentions": {
+            "candidate": "Julian Huppert",
+            "otherPartyLeaderCandidate": "Conservatives and Labour",
+            "partyLeader": "",
+            "tacticalSituation": "Bookies are predicting a close fight. Seems like Cambridge\u2019s Labour seat is too close to call."
+        },
+        "issues": {
+            "brexitEurope": "Fighting an extreme UKIP-style Brexit and keeping Britain in the single market.",
+            "defence": "",
+            "economy": "",
+            "education": "\u00a37 billion extra investment in our schools and protection of free school meals for infant pupils.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "A plan for extra \u00a36 billion each year for our NHS and Social Care.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "Having grown up here, Julian Huppert understands the issues we all face on a daily basis.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Julian Huppert campaigning with supporters."
+                },
+                {
+                    "caption": "Julian Huppert talking to constituents."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "\u00a37 billion extra investment in our schools.",
+                        "A plan for extra \u00a36 billion each year for our NHS and Social Care."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Julian Huppert understands the issues we all face on a daily basis.",
+                        "Only a vote for Julian today will ensure Cambridge has a strong, progressive voice in Parliament."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Extra investment in our schools.",
+                        "Understanding the issues we all face on a daily basis."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "\u00a37 billion extra investment in our schools.",
+                        "A plan for extra \u00a36 billion each year for our NHS and Social Care.",
+                        "Fighting an extreme UKIP-style Brexit and keeping Britain in the single market."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Having grown up here, Julian Huppert understands the issues we all face on a daily basis.",
+                    "issueRelated": "Local issues"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Bookies are predicting a close fight. Seems like Cambridge\u2019s Labour seat is too close to call."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Having grown up here, Julian Huppert understands the issues we all face on a daily basis.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Having grown up here, Julian Huppert understands the issues we all face on a daily basis."
+                ]
+            }
+        }
+    }
+}

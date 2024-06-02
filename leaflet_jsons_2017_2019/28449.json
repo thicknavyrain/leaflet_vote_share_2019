@@ -1,0 +1,189 @@
+{
+    "leaflet": {
+        "candidateName": "Oliver Kavanagh",
+        "candidateGender": "male",
+        "constituency": "Henley",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Why vote Labour in Henley?",
+                "content": "The Conservative government has cut youth services and local authority budgets, leading to fewer services and closed youth centres. A Labour government will invest in local government."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Standing up for Henley Constituency",
+                "policyDescription": "Fighting for NHS, bringing living wage jobs to Henley, investing in rail services, and opposing a motorway through Chilterns."
+            },
+            {
+                "policyTitle": "A Better, Fairer Britain",
+                "policyDescription": "Paul's laboured for a fairer Britain, enabling more affordable homes, reversing cuts, and making the tax system work for all."
+            },
+            {
+                "policyTitle": "Getting our Country Building",
+                "policyDescription": "Labour will invest in a house-building programme to ensure homes that are truly affordable with secure tenancies."
+            }
+        ],
+        "mentions": {
+            "candidate": "Oliver Kavanagh",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Fighting for living wage jobs for Henley",
+            "education": "",
+            "environment": "No to the motorway through Chilterns",
+            "governance": "Invest in local government.",
+            "government": "",
+            "health": "Fighting for NHS and proper funding",
+            "immigration": "",
+            "labourEmployment": "Fighting for living wage jobs for Henley",
+            "lawCrime": "",
+            "transport": "Fighting for railway improvements and services",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Investing to upgrade facilities at one of the cricket grounds in our country to create a cricket ground for our communities.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Campagining for housing and NHS",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "Oliver4Henley@labour.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "I believe it's time for a change in Henley.",
+                "source": "Oliver Kavanagh",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "The most picturesque ground in the country"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "properly funding our NHS",
+                        "60,000 more jobs from Labour Party policies."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "I believe it's time for a change in Henley.",
+                        "Standing up for the local community."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Investing to upgrade facilities at cricket grounds in our country",
+                        "Bringing jobs to Henley",
+                        "Opposing a motorway through Chilterns"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Fighting for NHS and proper funding",
+                        "Labour's house-building programme"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Campaigning for housing and NHS",
+                    "issueRelated": "health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Conservative cut local authority budgets leading to fewer services."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Conservative government cut youth services."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Investing to upgrade facilities at cricket grounds in our country"
+                ]
+            }
+        }
+    }
+}

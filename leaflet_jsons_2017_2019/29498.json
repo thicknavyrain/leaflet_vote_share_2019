@@ -1,0 +1,181 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "candidateGender": "Female",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "An important message from Theresa May to you",
+                "content": "Getting on with the job of securing the best possible deal from Brexit is vital. Our future prosperity, our place in the world, and our standard of living all depend on getting the Brexit deal right. And with your help, together we can make it work."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Take back control",
+                "policyDescription": "Take back control of our borders, our laws and our money."
+            },
+            {
+                "policyTitle": "New trade deals",
+                "policyDescription": "Sign new trade deals around the world with old friends and new partners."
+            },
+            {
+                "policyTitle": "Strong negotiating hand",
+                "policyDescription": "Maintain a strong negotiating hand."
+            },
+            {
+                "policyTitle": "Support for public services",
+                "policyDescription": "Only with a good deal from Brexit can we keep our growing economy and all the public services we rely on: well-paid jobs, more affordable housing, a good school place for every child, and a strong economy paying for a strong NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "EU leaders agree on tough stance at special Brexit summit.",
+            "defence": "",
+            "economy": "Strengthen Theresa May\u2019s hand and the UK\u2019s negotiating position on Brexit. Your vote helps her secure the best deal to strengthen your economy.",
+            "education": "A good school place for every child.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "A strong economy paying for a strong NHS.",
+            "immigration": "Take back control of our borders.",
+            "labourEmployment": "Only with a good deal from Brexit can we keep our growing economy and well-paid jobs.",
+            "lawCrime": "Safer streets with crime down by a third.",
+            "transport": "",
+            "socialWelfare": "Welfare capped to reward work.",
+            "community": [
+                {
+                    "content": "More affordable housing.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Promoted by Alan Mabbutt on behalf of the Conservative Party, both at Mathew Parker Street, London, SW1H 9HQ.",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "EU leaders agree on tough stance at special Brexit summit."
+                },
+                {
+                    "caption": "Your vote counts. It will count to strengthen Theresa May\u2019s hand and the UK\u2019s negotiating position on Brexit."
+                },
+                {
+                    "caption": "Getting Brexit right matters because it will decide whether or not our children have a safe, secure and prosperous future."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "The deficit down by almost two thirds.",
+                        "Income tax cut for 31 million people.",
+                        "2.8 million new jobs."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "More affordable housing.",
+                        "A good school place for every child.",
+                        "A strong economy paying for a strong NHS.",
+                        "Safer streets with crime down by a third."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "More affordable housing."
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "Take back control of our borders.",
+                        "Sign new trade deals around the world.",
+                        "A good school place for every child.",
+                        "A strong economy paying for a strong NHS.",
+                        "Safer streets with crime down by a third."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 4,
+                    "examples": [
+                        "Think Jeremy Corbyn as Prime Minister is never going to happen?",
+                        "CORBYN WAS 200-1 OUTSIDER",
+                        "All of the progress we've made is at risk with Corbyn.",
+                        "HIGHER DEBT, HIGHER TAXES, ECONOMIC CHAOS"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Think Jeremy Corbyn as Prime Minister is never going to happen?"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

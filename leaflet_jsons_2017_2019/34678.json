@@ -1,0 +1,154 @@
+{
+    "leaflet": {
+        "candidateName": "Emily Blake",
+        "candidateGender": "",
+        "constituency": "South West Norfolk",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "",
+                "content": "\"We deserve better than the treatment that we are receiving from the Conservatives. Austerity has eroded the services that bind our communities together\" - Emily"
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Emily Blake",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Austerity has eroded the services that bind our communities together",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "1a Norfolk Place, King's Lynn, Norfolk, PE30 1QG",
+            "phone": "07896 301922",
+            "email": "SWNorfolkLabour@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "swnorfolk.labour",
+                "twitter": "@SWNCLP",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "\"We deserve better than the treatment that we are receiving from the Conservatives. Austerity has eroded the services that bind our communities together\" - Emily"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 2,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Austerity has eroded the services that bind our communities together"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Austerity has eroded the services that bind our communities together"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "\"We deserve better than the treatment that we are receiving from the Conservatives. Austerity has eroded the services that bind our communities together\" - Emily"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

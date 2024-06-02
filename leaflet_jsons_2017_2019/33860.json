@@ -1,0 +1,177 @@
+{
+    "leaflet": {
+        "candidateName": "Helen Thompson",
+        "candidateGender": "",
+        "constituency": "Streatham, Clapham & Brixton",
+        "politicalParty": "Lib Dem",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Lib Dem 35-hour Childcare Pledge",
+                "content": "Lib Dems are pledging free, high-quality childcare from age nine months for the children of working parents. Thompson backs the plan: 'If we stop Brexit our economy will be stronger and we can afford to fund this free childcare,' she said."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "35-hour Childcare Pledge",
+                "policyDescription": "Pledge for free, high-quality childcare from age nine months for children of working parents."
+            },
+            {
+                "policyTitle": "Opposition to Brexit",
+                "policyDescription": "Stopping Brexit to strengthen the economy."
+            }
+        ],
+        "mentions": {
+            "candidate": "Helen Thompson",
+            "otherPartyLeaderCandidate": "Bell Ribeiro-Addy",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": "The election here is now neck-and-neck between Lib Dem Helen Thompson and the Corbyn loyalist Labour candidate."
+        },
+        "issues": {
+            "brexitEurope": "More and more Labour voters are flocking to support local MP Chuka Umunna and switch to the Lib Dems because they are angry that Labour's Corbyn loyalist candidate here keeps going with Brexit.",
+            "defence": "",
+            "economy": "Thompson backs the plan: 'If we stop Brexit our economy will be stronger and we can afford to fund this free childcare,' she said.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Lib Dem 35-hour Childcare Pledge: Lib Dems are pledging free, high-quality childcare from age nine months for the children of working parents. Thompson backs the plan: 'If we stop Brexit our economy will be stronger and we can afford to fund this free childcare,' she said.",
+            "community": [
+                {
+                    "content": "Lib Dems are pledging free, high-quality childcare from age nine months for the children of working parents.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Chuka Umunna",
+                "endorsement": "Join me switching to the Lib Dems."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "I will always support our great leader Jeremy Corbyn.",
+                "source": "Bell Ribeiro-Addy",
+                "date": "Tweet, 4 Nov 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Lib Dems will fund free high-quality childcare from 9 months for working parents"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Lib Dems are pledging free, high-quality childcare from age nine months for the children of working parents."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "The election here is now neck-and-neck between Lib Dem Helen Thompson and the Corbyn loyalist Labour candidate.",
+                        "'If we stop Brexit our economy will be stronger and we can afford to fund this free childcare,' she said."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Lib Dems are pledging free, high-quality childcare from age nine months for the children of working parents.",
+                        "The election here is now neck-and-neck between Lib Dem Helen Thompson and the Corbyn loyalist Labour candidate."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "If we stop Brexit our economy will be stronger and we can afford to fund this free childcare,' she said.",
+                        "More and more Labour voters are flocking to support local MP Chuka Umunna and switch to the Lib Dems because they are angry that Labour's Corbyn loyalist candidate here keeps going with Brexit."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Chuka Umunna: Join me switching to the Lib Dems."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "because they are angry that Labour's Corbyn loyalist candidate here keeps going with Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Labour's new candidate said she would always support her great leader Jeremy Corbyn - the same controversial Labour leader's record of extremism and refusal to back any tactical campaign to stay in the EU."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Bell Ribeiro-Addy: 'I will always support our great leader Jeremy Corbyn.'"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

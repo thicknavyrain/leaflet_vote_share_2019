@@ -1,0 +1,182 @@
+{
+    "leaflet": {
+        "candidateName": "David Knowles",
+        "candidateGender": "",
+        "constituency": "Sutton Coldfield",
+        "politicalParty": "Labour Party",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Election Communication",
+                "content": "\"I'm Labour's candidate for Sutton Coldfield, I grew up in Harborne, where family and friends still live. I\u2019m a lifelong NHS campaigner and trade unionist.\n\nThis election is not just about preventing a Boris Johnson Government intent on recklessly leading us out of the EU. It\u2019s also about ensuring we end austerity, invest in schools and hospitals, create jobs and strong local economies, and create a future for the many not the few.\""
+            },
+            {
+                "title": "Communities Nationwide and Here in Sutton Coldfield are Losing Out. People Have Had Enough.",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "End Austerity",
+                "policyDescription": "Ensure end of austerity."
+            },
+            {
+                "policyTitle": "Invest in Schools and Hospitals",
+                "policyDescription": "Invest in schools and hospitals."
+            },
+            {
+                "policyTitle": "Create Jobs and Strong Local Economies",
+                "policyDescription": "Create jobs and strong local economies."
+            },
+            {
+                "policyTitle": "Future for the Many Not the Few",
+                "policyDescription": "Create a future for the many not the few."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Knowles",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "This election is not just about preventing a Boris Johnson Government intent on recklessly leading us out of the EU.",
+            "defence": "",
+            "economy": "create jobs and strong local economies",
+            "education": "invest in schools",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "invest in hospitals",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "end austerity",
+            "community": [
+                {
+                    "content": "Communities Nationwide and Here in Sutton Coldfield are Losing Out. People Have Had Enough.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "\"I'm Labour's candidate for Sutton Coldfield, I grew up in Harborne, where family and friends still live. I\u2019m a lifelong NHS campaigner and trade unionist.\"",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07717 376 468",
+            "email": "",
+            "website": "www.labour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@KnowlesSCLabour",
+                "instagram": "",
+                "linkedin": "@SuttonColdfieldLabour"
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Knowles, David Labour Party"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "This election is not just about preventing a Boris Johnson Government intent on recklessly leading us out of the EU."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Create jobs and strong local economies",
+                        "Create a future for the many not the few."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 2,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Communities Nationwide and Here in Sutton Coldfield are Losing Out. People Have Had Enough.",
+                        "Create jobs and strong local economies"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "This election is not just about preventing a Boris Johnson Government intent on recklessly leading us out of the EU."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "\"I'm Labour's candidate for Sutton Coldfield, I grew up in Harborne, where family and friends still live. I\u2019m a lifelong NHS campaigner and trade unionist.\"",
+                    "issueRelated": "health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Communities Nationwide and Here in Sutton Coldfield are Losing Out. People Have Had Enough."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "This election is not just about preventing a Boris Johnson Government intent on recklessly leading us out of the EU."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I grew up in Harborne, where family and friends still live.",
+                "employment": "",
+                "education": "",
+                "family": "I grew up in Harborne, where family and friends still live."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I grew up in Harborne, where family and friends still live."
+                ]
+            }
+        }
+    }
+}

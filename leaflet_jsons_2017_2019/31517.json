@@ -1,0 +1,195 @@
+{
+    "leaflet": {
+        "candidateName": "Shahrar Ali",
+        "candidateGender": "",
+        "constituency": "Bethnal Green & Bow",
+        "politicalParty": "Green Party",
+        "electionDate": "12 December",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Social Care",
+                "policyDescription": "Yes to social care. No to NHS cuts"
+            },
+            {
+                "policyTitle": "Living Wage",
+                "policyDescription": "Yes to a living wage. No to job insecurity"
+            },
+            {
+                "policyTitle": "Europe",
+                "policyDescription": "Yes to Europe. No to climate chaos"
+            }
+        ],
+        "mentions": {
+            "candidate": "Shahrar Ali",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Yes to Europe",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "No to climate chaos",
+            "governance": "",
+            "government": "",
+            "health": "Yes to social care. No to NHS cuts",
+            "immigration": "",
+            "labourEmployment": "Yes to a living wage. No to job insecurity",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Yes to social care. No to NHS cuts",
+                        "Yes to a living wage. No to job insecurity",
+                        "Yes to Europe. No to climate chaos"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Yes to social care. No to NHS cuts",
+                        "Yes to a living wage. No to job insecurity",
+                        "Yes to Europe. No to climate chaos"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "No to NHS cuts",
+                        "No to job insecurity",
+                        "No to climate chaos"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

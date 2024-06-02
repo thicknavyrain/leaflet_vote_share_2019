@@ -1,0 +1,181 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Radnorshire",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "12th December",
+        "messages": [
+            {
+                "title": "",
+                "content": "YOU HAVE A CLEAR CHOICE ON 12TH DECEMBER: THE CONSERVATIVES WHO DON'T CARE ABOUT OUR RURAL COMMUNITIES OR LIBERAL DEMOCRAT MPs WHO ARE COMMUNITY CHAMPIONS FOR THEIR AREA ONLY THE LIBERAL DEMOCRATS CAN STOP THE CONSERVATIVES"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Community Champions",
+                "policyDescription": "Liberal Democrat MPs who are community champions for their area."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "The Conservatives",
+            "partyLeader": "",
+            "tacticalSituation": "Only the Liberal Democrats can stop the Conservatives"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Liberal Democrat MPs who are community champions for their area.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "THE CONSERVATIVES WHO DON'T CARE ABOUT OUR RURAL COMMUNITIES"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Liberal Democrat MPs who are community champions for their area."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "ONLY THE LIBERAL DEMOCRATS CAN STOP THE CONSERVATIVES"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "THE CONSERVATIVES WHO DON'T CARE ABOUT OUR RURAL COMMUNITIES"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

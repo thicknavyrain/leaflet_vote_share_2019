@@ -1,0 +1,145 @@
+{
+  "leaflet": {
+    "candidateName": "Tom Bennett",
+    "candidateGender": "",
+    "constituency": "Ealing Southall",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12 December 2019",
+    "messages": [
+      {
+        "title": "My Priorities for Ealing Southall",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Make Our Streets Safer",
+        "policyDescription": "The Conservatives are fighting back by hiring 20,000 more police officers nationwide and training a third of all Met Police to carry tasers."
+      },
+      {
+        "policyTitle": "No New Towers",
+        "policyDescription": "We need more good quality low-rise developments, not towers like those proposed near West Ealing Station, which are unsuitable for local families."
+      },
+      {
+        "policyTitle": "Support Local Businesses",
+        "policyDescription": "I will always support local businesses and keep their taxes low, unlike Labour who want to increase tax on businesses."
+      }
+    ],
+    "mentions": {
+      "candidate": "Tom Bennett",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "Boris Johnson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Let's get Brexit done.",
+      "defence": "",
+      "economy": "",
+      "education": "More funding for every pupil in every school",
+      "environment": "",
+      "governance": "",
+      "government": "",
+      "health": "£33.9 billion extra for the NHS, 40 new hospitals across the country",
+      "immigration": "",
+      "labourEmployment": "",
+      "lawCrime": "Crime went up by 10% in the Borough of Ealing over the last year.",
+      "transport": "",
+      "socialWelfare": "",
+      "community": [
+        {
+          "content": "We need more good quality low-rise developments, not towers like those proposed near West Ealing Station, which are unsuitable for local families.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I run a business myself, and I know that local shops and businesses are at the heart of Southall, Hanwell, and Northfields.",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "39 Broughton Road, London, W13 8QW",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {}
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "",
+    "analysis": {
+      "statementAnalysis": {
+        "quantitative": {
+          "count": 1,
+          "examples": ["Crime went up by 10% in the Borough of Ealing over the last year."]
+        },
+        "qualitative": {
+          "count": 1,
+          "examples": ["I will always support them and keep their taxes low, unlike Labour who want to increase tax on businesses."]
+        }
+      },
+      "photoAnalysis": {
+        "localPlaces": 1,
+        "people": 6,
+        "candidateAlone": 2,
+        "candidateWithOthers": 2
+      },
+      "issueFocus": {
+        "local": {
+          "count": 3,
+          "examples": ["Crime went up by 10% in the Borough of Ealing over the last year.", "We need more good quality low-rise developments, not towers like those proposed near West Ealing Station.", "I run a business myself, and I know that local shops and businesses are at the heart of Southall, Hanwell, and Northfields."]
+        },
+        "national": {
+          "count": 4,
+          "examples": ["The Conservatives are fighting back by hiring 20,000 more police officers nationwide and training a third of all Met Police to carry tasers.", "£33.9 billion extra for the NHS", "More funding for every pupil in every school", "Let's get Brexit done."]
+        }
+      },
+      "personalStories": [
+        {
+          "story": "I run a business myself, and I know that local shops and businesses are at the heart of Southall, Hanwell, and Northfields.",
+          "issueRelated": "support local businesses"
+        }
+      ],
+      "endorsementsUsed": {
+        "count": 0,
+        "examples": [""]
+      },
+      "negativeMessaging": {
+        "localIssues": {
+          "count": 1,
+          "examples": ["Crime went up by 10% in the Borough of Ealing over the last year."]
+        },
+        "nationalIssues": {
+          "count": 1,
+          "examples": ["unlike Labour who want to increase tax on businesses."]
+        },
+        "leaderOfOpponentsParty": {
+          "count": 0,
+          "examples": [""]
+        },
+        "oppositeCandidateNoName": {
+          "count": 1,
+          "examples": ["unlike Labour who want to increase tax on businesses."]
+        },
+        "oppositeCandidateWithName": {
+          "count": 0,
+          "examples": [""]
+        }
+      },
+      "nonPolicyAttributes": {
+        "localness": "I run a business myself, and I know that local shops and businesses are at the heart of Southall, Hanwell, and Northfields.",
+        "employment": "",
+        "education": "",
+        "family": ""
+      },
+      "localCandidate": {
+        "isLocal": true,
+        "examples": ["I run a business myself, and I know that local shops and businesses are at the heart of Southall, Hanwell, and Northfields."]
+      }
+    }
+  }
+}

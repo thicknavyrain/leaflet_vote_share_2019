@@ -1,0 +1,195 @@
+{
+    "leaflet": {
+        "candidateName": "Katherine Barbour",
+        "candidateGender": "",
+        "constituency": "Southampton Test",
+        "politicalParty": "Green Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS and Healthcare",
+                "policyDescription": "Active campaigner for the NHS, no NHS closures, dementia friendly initiatives."
+            },
+            {
+                "policyTitle": "Climate Change",
+                "policyDescription": "Action on climate change and investment in renewable energies."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Free education for all."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Fair wages in a fair economy, against austerity."
+            },
+            {
+                "policyTitle": "Transportation",
+                "policyDescription": "Investment in public transport."
+            },
+            {
+                "policyTitle": "Local Community",
+                "policyDescription": "Prevent local airport expansion to avoid negative outcomes for citizens of Southampton."
+            }
+        ],
+        "mentions": {
+            "candidate": "Katherine Barbour is an active campaigner for the NHS, air quality and the environment, and against austerity. Locally she is campaigning to prevent the airport expansion, which will have negative outcomes for the citizens of Southampton.",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Fair wages in a fair economy, against austerity.",
+            "education": "Free education for all.",
+            "environment": "Air quality, action on climate change, investment in renewable energies.",
+            "governance": "Proportional representation, real democracy.",
+            "government": "",
+            "health": "NHS closures, dementia friendly initiatives.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Investment in public transport.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Locally she is campaigning to prevent the airport expansion, which will have negative outcomes for the citizens of Southampton.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Katherine is a firm believer in real democracy through proportional representation; a cleaner, brighter future through investment in renewable energies and public transport; free education and healthcare for all and fair wages in a fair economy. As a recent project manager in the NHS, she understands the importance of healthy ageing for older persons and has a particular interest in those people living with dementia, whether they are in the community or in health settings. Across Wessex, she supported over 150 GP surgeries to become dementia friendly.",
+        "politicalExperience": [
+            {
+                "role": "Project Manager in the NHS",
+                "duration": "",
+                "achievements": "Supported over 150 GP surgeries to become dementia friendly."
+            }
+        ],
+        "contactInformation": {
+            "address": "8 Summerfield Gardens, SO16 3DR",
+            "phone": "",
+            "email": "",
+            "website": "www.greenparty.org.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/katherine.barbour.5",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Supported over 150 GP surgeries to become dementia friendly."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Katherine is a firm believer in real democracy through proportional representation; a cleaner, brighter future through investment in renewable energies and public transport; free education and healthcare for all and fair wages in a fair economy.",
+                        "Locally she is campaigning to prevent the airport expansion, which will have negative outcomes for the citizens of Southampton.",
+                        "As a recent project manager in the NHS, she understands the importance of healthy ageing for older persons and has a particular interest in those people living with dementia, whether they are in the community or in health settings."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Locally she is campaigning to prevent the airport expansion, which will have negative outcomes for the citizens of Southampton."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Active campaigner for the NHS, no NHS closures, dementia friendly initiatives.",
+                        "Action on climate change and investment in renewable energies.",
+                        "Free education for all.",
+                        "Fair wages in a fair economy, against austerity."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "As a recent project manager in the NHS, she understands the importance of healthy ageing for older persons and has a particular interest in those people living with dementia, whether they are in the community or in health settings. Across Wessex, she supported over 150 GP surgeries to become dementia friendly.",
+                    "issueRelated": "health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Locally she is campaigning to prevent the airport expansion, which will have negative outcomes for the citizens of Southampton."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "As a recent project manager in the NHS...",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

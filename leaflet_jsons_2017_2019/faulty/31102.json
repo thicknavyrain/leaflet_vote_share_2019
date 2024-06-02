@@ -1,0 +1,132 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Green Party",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Housing is a Human Right",
+                "content": "YOU CAN\u2019T LIVE, WITHOUT SOMEWHERE TO LIVE. The condition of your home & the neighbourhood you live in ARE environmental issues. If you are from a generation that can\u2019t afford to buy. Landlords keeping your deposit without telling why. Perhaps a place where the council demolishes your estate. Swapped for a new community of people, sealed with a gate. Keeping up with rent, rising bills, anguish, turmoil, mental distress. Now penniless, homeless, send up country \u2018where?\u2019 our best guess. Far away from family, more stress. We know how our gut feels. Make all this hassle, check options, vote Green for a dream team. The General Elections coming soon, it is up to you on the 08th June."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Advocates for housing as a human right and addresses issues such as unaffordable buying conditions for younger generations, landlords unjustly withholding deposits, council-led demolitions of estates, and the mental distress incurred from these conditions."
+            }
+        ],
+        "mentions": {},
+        "issues": {
+            "economy": "Keeping up with rent, rising bills, anguish, turmoil, mental distress.",
+            "socialWelfare": "If you are from a generation that can\u2019t afford to buy. Landlords keeping your deposit without telling why. Perhaps a place where the council demolishes your estate.",
+            "community": [
+                {
+                    "content": "Far away from family, more stress.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": "",
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "YOU CAN\u2019T LIVE, WITHOUT SOMEWHERE TO LIVE. The condition of your home & the neighbourhood you live in ARE environmental issues."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Far away from family, more stress."
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

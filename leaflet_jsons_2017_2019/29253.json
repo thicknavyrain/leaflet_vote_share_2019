@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Jonathan Elmer",
+        "candidateGender": "",
+        "constituency": "City of Durham",
+        "politicalParty": "Green Party",
+        "electionDate": "June 8",
+        "messages": [
+            {
+                "title": "Jonathan says...",
+                "content": "This is an opportunity to have your say on some of the most important issues in a lifetime, both nationally and locally. The Labour Council continue to drive forward the \u2018County Durham Plan\u2019 which will create huge social and environmental impacts for the sake of uncertain economic gains."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Tackling traffic congestion and air pollution",
+                "policyDescription": "Diversifying our transport network."
+            },
+            {
+                "policyTitle": "Ensuring houses are provided",
+                "policyDescription": "Meeting the needs of the people of Durham without destroying precious green spaces."
+            },
+            {
+                "policyTitle": "Maximizing benefits from Durham University",
+                "policyDescription": "Managing the impacts of world-class university."
+            },
+            {
+                "policyTitle": "Green Party Objectives",
+                "policyDescription": "A voice against hard Brexit, reversal of NHS privatization, and scrapping university tuition fees."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jonathan Elmer",
+            "otherPartyLeaderCandidate": "Labour Council",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "A voice against hard Brexit",
+            "defence": "",
+            "economy": "",
+            "education": "An education system that works for every child\u2014and scrapping university tuition fees.",
+            "environment": "Protecting the Green Belt, protecting our most precious green spaces, Village Enhancement, Ensure new development is restricted to brownfield sites, and support the re-opening of the Leamside Line ",
+            "governance": "",
+            "government": "",
+            "health": "A reversal of NHS privatisation, begun under Labour and worsened under the Conservatives",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Tackling traffic congestion and air pollution by diversifying our transport network",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Protecting our most precious green spaces, Village Enhancement",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "communications@durham.greenparty.org.uk",
+            "website": "www.durhamgreens.org.uk",
+            "socialMedia": {
+                "facebook": "durhamgreenparty",
+                "twitter": "@greensdurham",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Jonathan says... This is an opportunity to have your say on some of the most important issues in a lifetime, both nationally and locally. The Labour Council continue to drive forward the \u2018County Durham Plan\u2019 which will create huge social and environmental impacts for the sake of uncertain economic gains."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Meeting the needs of the people of Durham without destroying precious green spaces."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "A voice against hard Brexit."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Labour Council continue to drive forward the \u2018County Durham Plan\u2019 which will create huge social and environmental impacts for the sake of uncertain economic gains."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

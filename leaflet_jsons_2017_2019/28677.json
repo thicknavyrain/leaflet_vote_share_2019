@@ -1,0 +1,178 @@
+{
+    "leaflet": {
+        "candidateName": "Grant Shapps",
+        "candidateGender": "",
+        "constituency": "Welwyn Hatfield",
+        "politicalParty": "Conservative Party",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Your Choice at this Election",
+                "content": "Strong, stable leadership in the national interest or a coalition of chaos with Jeremy Corbyn. Think Jeremy Corbyn as Prime Minister is never going to happen? Don\u2019t be so sure. The risk is just too big to take: higher debt, higher taxes, economic chaos."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Investing in every part of our community",
+                "policyDescription": "Welwyn Hatfield is more than just two towns. It also covers a large number of smaller communities, each with their own distinct priorities and issues."
+            },
+            {
+                "policyTitle": "Creating good quality jobs, right here, in Welwyn Hatfield",
+                "policyDescription": "Successful firms from across the area, such as Tesco, Ocado, and EE, provide thousands of jobs."
+            },
+            {
+                "policyTitle": "Grant Shapps: fighting the incinerator",
+                "policyDescription": "Everyone knows that New Barnfield was the wrong site."
+            },
+            {
+                "policyTitle": "Making Brexit a success",
+                "policyDescription": "Ensuring Brexit is a success is central to our national interest and it\u2019s essential to your own security and prosperity."
+            }
+        ],
+        "mentions": {
+            "candidate": "Grant Shapps",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Making Brexit a success is central to our national interest. My Lancaster House Speech setting out our 12-point plan for Brexit. The Government\u2019s Official White Paper on exiting the EU. The UK\u2019s Article 50 Letter to the President of the European Council. The Great Repeal Bill to ensure a smooth and orderly Brexit.",
+            "defence": "",
+            "economy": "Build a stronger economy that rewards people who work hard and creates secure and well-paid jobs. Build a stronger economy and create jobs and opportunity, while negotiating Brexit.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "Establish Britain as the strongest country in Europe in economic growth and national security.",
+            "health": "Provide real opportunity and support for all. Ensure that those with the skills and the commitment to get on and do well. Build a more secure and united nation for you and your children.",
+            "immigration": "",
+            "labourEmployment": "Creating good quality jobs, right here, in Welwyn Hatfield. Support for the cycling industry and energetic industries across the borough.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Investing in every part of our community. Welwyn Hatfield is more than just two towns. It also covers a large number of smaller communities, each with their own distinct priorities and issues.",
+                    "yimbyNimby": "NIMBY"
+                },
+                {
+                    "content": "Grant Shapps: fighting the incinerator. Everyone knows that New Barnfield was the wrong site for an incinerator from the start.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "01707 262 632",
+            "email": "grant@shapps.com",
+            "website": "www.shapps.com",
+            "socialMedia": {
+                "facebook": "facebook.com/GrantShapps",
+                "twitter": "twitter.com/GrantShapps",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "My Lancaster House Speech setting out our 12-point plan for Brexit."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Strong, stable leadership in the national interest."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 4,
+                "candidateAlone": 1,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Investing in every part of our community.",
+                        "Creating good quality jobs, right here, in Welwyn Hatfield.",
+                        "Grant Shapps: fighting the incinerator."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Making Brexit a success is central to our national interest.",
+                        "Build a stronger economy that rewards people who work hard and creates secure and well-paid jobs."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Think Jeremy Corbyn as Prime Minister is never going to happen? Don\u2019t be so sure."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

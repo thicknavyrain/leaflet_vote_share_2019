@@ -1,0 +1,186 @@
+{
+    "leaflet": {
+        "candidateName": "Jonathan Lord",
+        "candidateGender": "",
+        "constituency": "Woking",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Strong, Stable Leadership",
+                "policyDescription": "In the national interest"
+            }
+        ],
+        "mentions": {
+            "candidate": "Jonathan Lord",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Making Brexit a success is central to our national interest.",
+            "defence": "",
+            "economy": "The risk is just too big to take: higher debt, higher taxes, economic chaos.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "01483 773384",
+            "email": "jonathan.lord@wokingconservatives.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Rt. Hon. Theresa May",
+                "endorsement": "Making Brexit a success is central to our national interest. Local campaigns based on ensuring economic future."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Making Brexit a success is central to our national interest.",
+                "source": "Rt. Hon. Theresa May",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Strong, stable leadership in the national interest.",
+                        "A coalition of chaos with Jeremy Corbyn.",
+                        "The risk is just too big to take: higher debt, higher taxes, economic chaos."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 6,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Working for Woking and our Villages"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Strong, stable leadership in the national interest.",
+                        "A coalition of chaos with Jeremy Corbyn.",
+                        "Making Brexit a success is central to our national interest."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Rt. Hon. Theresa May endorses Jonathan Lord."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "The risk is just too big to take: higher debt, higher taxes, economic chaos.",
+                        "A coalition of chaos with Jeremy Corbyn."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Strong local voice - Jonathan Lord working for Woking and our Villages.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Working for Woking and our Villages"
+                ]
+            }
+        }
+    }
+}

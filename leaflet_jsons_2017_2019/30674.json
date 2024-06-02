@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "candidateGender": "Female",
+        "constituency": "",
+        "politicalParty": "Conservative Party",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "ON THURSDAY 8TH JUNE THERE WILL BE A GENERAL ELECTION",
+                "content": "We need this election now to secure the strong and stable leadership the country needs to see us through Brexit and beyond; to lock in the economic progress we have made together. Every vote cast for the Conservatives, will strengthen my and the UK\u2019s hand in the Brexit negotiations. And that\u2019s why I need your support."
+            },
+            {
+                "title": "STRONG AND STABLE LEADERSHIP FOR THE UNITED KINGDOM",
+                "content": "As we leave the EU, the Government has the right plan for negotiating our new relationship with Europe. Our Labour, Lib Dem and SNP opponents are already seeking to disrupt our Brexit negotiations. This is the time to put our country first and say no to those who want to take us back to the economic chaos of the past. We need our economy to be strong to invest in the public services we all rely on. That\u2019s why it\u2019s so important to vote Conservative on 8th June. Please support me so I can get the best deal for Britain."
+            },
+            {
+                "title": "HELP US STOP THE COALITION OF CHAOS",
+                "content": "Voters across our country face a choice. It\u2019s a choice between me and my team, providing strong and stable leadership for the United Kingdom, or a coalition of chaos and instability led by a weak, failing and nonsensical Jeremy Corbyn that will put our nation\u2019s future at risk."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit Negotiations",
+                "policyDescription": "Secure the strong and stable leadership to see the country through Brexit and strengthen the UK's hand in Brexit negotiations."
+            },
+            {
+                "policyTitle": "Economic Progress",
+                "policyDescription": "Lock in the economic progress made together and avoid the economic chaos of the past."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Secure the strong and stable leadership to see the country through Brexit. The Government has the right plan for negotiating a new relationship with Europe.",
+            "economy": "Lock in the economic progress we have made together. Avoid the economic chaos of the past.",
+            "government": "",
+            "health": "",
+            "education": "",
+            "environment": "",
+            "defence": "",
+            "immigration": "",
+            "lawCrime": "",
+            "labourEmployment": "",
+            "transport": "",
+            "socialWelfare": "",
+            "governance": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 7,
+                    "examples": [
+                        "We need this election now to secure the strong and stable leadership.",
+                        "Every vote cast for the Conservatives will strengthen my and the UK\u2019s hand in the Brexit negotiations.",
+                        "As we leave the EU, the Government has the right plan for negotiating our new relationship with Europe.",
+                        "Our Labour, Lib Dem and SNP opponents are already seeking to disrupt our Brexit negotiations.",
+                        "We need our economy to be strong to invest in the public services we all rely on.",
+                        "Voters across our country face a choice.",
+                        "It\u2019s a choice between me and my team, providing strong and stable leadership for the United Kingdom, or a coalition of chaos."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Lock in the economic progress we have made together.",
+                        "Avoid the economic chaos of the past."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The Government has the right plan for negotiating a new relationship with Europe."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Avoid the economic chaos of the past.",
+                        "Voters across our country face a choice. It\u2019s a choice between strong and stable leadership or chaos and instability led by Jeremy Corbyn."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "A weak, failing and nonsensical Jeremy Corbyn that will put our nation\u2019s future at risk."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

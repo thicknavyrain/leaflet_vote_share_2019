@@ -1,0 +1,184 @@
+{
+    "leaflet": {
+        "candidateName": "Stuart Tuckwood",
+        "candidateGender": "",
+        "constituency": "Cambridge",
+        "politicalParty": "Green Party",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "DEMAND ACTION",
+                "content": "Stuart stands for everything you believe in: Public NHS, Free Movement, Climate Action, Free Education. Vote for it on 8th June."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Public NHS",
+                "policyDescription": "The NHS won\u2019t survive unless we reverse the self-defeating Tory cuts and hands our health and care."
+            },
+            {
+                "policyTitle": "Free Movement",
+                "policyDescription": "Freedom to travel, work and study in the EU. 2nd Referendum on our final deal with option to Remain."
+            },
+            {
+                "policyTitle": "Climate Action",
+                "policyDescription": "We have 5 years left to prevent dangerous global warming. We must act seriously now."
+            },
+            {
+                "policyTitle": "Free Education",
+                "policyDescription": "Scrap tuition fees and bring back maintenance grants. Get young people out of debt."
+            }
+        ],
+        "mentions": {
+            "candidate": "STUART stands for everything you believe in",
+            "otherPartyLeaderCandidate": "Lib Dems: Austerity cuts and tuition fees; Labour Party: Brexit and no free movement",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Freedom to travel, work and study in the EU. 2nd Referendum on our final deal with option to Remain.",
+            "defence": "",
+            "economy": "",
+            "education": "Scrap tuition fees and bring back maintenance grants. Get young people out of debt.",
+            "environment": "We have 5 years left to prevent dangerous global warming. We must act seriously now.",
+            "governance": "",
+            "government": "",
+            "health": "The NHS won\u2019t survive unless we reverse the self-defeating Tory cuts and hands our health and care.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "I'm a nurse working on the NHS front line. I can see that the NHS simply won\u2019t exist as you know it in 5 more years \u2014 unless it\u2019s fully funded. I\u2019d make the NHS public again, fight for proper staff pay and training, and ensure you get the dignified treatment you deserve.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07421 769550",
+            "email": "stuart@cambridge.greenparty.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "I\u2019ll crack down on the \u00a335,000,000,000 per year of tax avoidance."
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "The NHS won\u2019t survive unless we reverse the self-defeating Tory cuts and hands our health and care.",
+                        "Freedom to travel, work and study in the EU. 2nd Referendum on our final deal with option to Remain.",
+                        "We have 5 years left to prevent dangerous global warming. We must act seriously now.",
+                        "Scrap tuition fees and bring back maintenance grants. Get young people out of debt.",
+                        "If you were ever going to vote Green, you have to do it this time.",
+                        "Send your strongest demand for action \u2013 Vote Green"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Public NHS",
+                        "Free Movement",
+                        "Free Education"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I'm a nurse working on the NHS front line. I can see that the NHS simply won\u2019t exist as you know it in 5 more years \u2014 unless it\u2019s fully funded.",
+                    "issueRelated": "Health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 2,
+                    "examples": [
+                        "Lib Dems: Austerity cuts and tuition fees",
+                        "Labour Party: Brexit and no free movement"
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Local Campaigner, NHS Charge Nurse and MP Candidate",
+                "employment": "NHS Charge Nurse",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Local Campaigner."
+                ]
+            }
+        }
+    }
+}

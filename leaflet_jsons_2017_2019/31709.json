@@ -1,0 +1,165 @@
+{
+    "leaflet": {
+        "candidateName": "Charlotte Hoagland",
+        "candidateGender": "",
+        "constituency": "West Oxfordshire",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "12th December",
+        "messages": [
+            {
+                "title": "Ambitious Plan for the Future",
+                "content": "We have an ambitious plan for the future of our country, where every person, every community, and our planet can thrive. We believe our country\u2019s best days are ahead of us."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Local Transport",
+                "policyDescription": "Campaign for investment in better local transport"
+            },
+            {
+                "policyTitle": "Affordable Homes",
+                "policyDescription": "Fight for more genuinely affordable homes for local people"
+            },
+            {
+                "policyTitle": "Community Hospitals",
+                "policyDescription": "Win a secure future for our local community hospitals"
+            }
+        ],
+        "mentions": {
+            "candidate": "Charlotte Hoagland",
+            "otherPartyLeaderCandidate": "Boris Johnson, Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "Tens of thousands of people have left the Conservatives and Labour to join the Liberal Democrats, including Tory and Labour MPs who have joined us in the last few months."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The Liberal Democrats will fund a mental health service accessible 24 hours a day, 365 days a year.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Campaign for investment in better local transport",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Fight for more genuinely affordable homes for local people",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Unit C5, Grange Court Business Park, Barton Lane, Abingdon, OX14 3NB",
+            "phone": "",
+            "email": "",
+            "website": "www.charlotte4witney.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Liberal Democrats will fund 20,000 extra teachers",
+                        "a mental health service accessible 24 hours a day, 365 days a year"
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "tired old politics of fear and hatred",
+                        "vision for a fairer, brighter future",
+                        "badly let down by the Conservatives",
+                        "ambitious plan for the future",
+                        "country's best days are ahead of us"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "investment in better local transport",
+                        "affordable homes for local people",
+                        "secure future for our local community hospitals"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "20,000 extra teachers",
+                        "investing in insulating all homes by 2030"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "On all these issues, we have been badly let down by the Conservatives."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "tired old politics of fear and hatred"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

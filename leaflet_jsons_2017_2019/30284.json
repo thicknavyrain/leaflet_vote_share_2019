@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "Daniel Zeichner",
+        "candidateGender": "",
+        "constituency": "Cambridge",
+        "politicalParty": "Labour",
+        "electionDate": "8 June",
+        "messages": [
+            {
+                "title": "Daniel Zeichner will always stick to his principles and never sell out.",
+                "content": "He will protect our public services. He got the secret NHS privatising department shut down. Labour says big businesses must pay their fair share."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Public Services",
+                "policyDescription": "Daniel will fight for our schools and hospitals."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "He got the secret NHS privatising department shut down."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Labour says big businesses must pay their fair share."
+            },
+            {
+                "policyTitle": "Governance",
+                "policyDescription": "Daniel always votes to 'Remain' and for voting reform."
+            }
+        ],
+        "mentions": {
+            "candidate": "Daniel always votes to 'Remain' and for voting reform. Whatever the party line is, Daniel puts Cambridge first.",
+            "otherPartyLeaderCandidate": "Tim Farron",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Labour says big businesses must pay their fair share.",
+            "education": "Daniel will fight for our schools.",
+            "environment": "",
+            "governance": "Daniel always votes to 'Remain' and for voting reform.",
+            "government": "He got the secret NHS privatising department shut down.",
+            "health": "He got the secret NHS privatising department shut down.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "Daniel Zeichner will always stick to his principles and never sell out. He will protect our public services. Daniel will fight for our schools and hospitals.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.danielzeichner.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Tim Farron's Lib Dem candidate voted with the Tories 782 times."
+                    ]
+                },
+                "qualitative": {
+                    "count": 7,
+                    "examples": [
+                        "Daniel Zeichner will always stick to his principles and never sell out.",
+                        "He will protect our public services.",
+                        "Daniel will fight for our schools and hospitals.",
+                        "Labour says big businesses must pay their fair share.",
+                        "Whatever the party line is, Daniel puts Cambridge first.",
+                        "We don't share your values: Cambridge chooses hope.",
+                        "Send a message to the Tories and Tim Farron's Lib Dems."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Whatever the party line is, Daniel puts Cambridge first."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Daniel always votes to 'Remain' and for voting reform."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "NHS funding crisis hits 'new low' in Tory Government hands"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 4,
+                    "examples": [
+                        "Tim Farron admits he had Thatcher poster in his childhood bedroom.",
+                        "Tim Farron says: 'I'm a bit of a Eurosceptic'.",
+                        "Farron: 'I support Trump's Syria Strike'",
+                        "Lib Dem leader Tim Farron won't say if he thinks being gay is a sin."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Tim Farron's Lib Dem candidate voted with the Tories 782 times."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "A rebel with a cause and that cause is Cambridge"
+                ]
+            }
+        }
+    }
+}

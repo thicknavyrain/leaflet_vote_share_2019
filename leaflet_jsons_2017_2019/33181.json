@@ -1,0 +1,182 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "A BRIGHTER FUTURE FOR OUR MENTAL HEALTH SERVICES",
+                "content": "www.LibDems.org.uk/plan"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Mental Health Services",
+                "policyDescription": "The Liberal Democrats plan to decrease waiting times for mental health care and increase staff training to provide better care."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Donald Trump, Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The NHS is under threat with Trump and Johnson. The Liberal Democrats emphasize the importance of mental health care and plan to improve services and reduce waiting times.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Mental health services have been overlooked for too long. To improve this, the Liberal Democrats have an ambitious plan to decrease waiting times and enhance the staff training.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.LibDems.org.uk/plan",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Daily Mirror",
+                "endorsement": "Poll reveals majority believe lying Boris Johnson will sell off NHS services to US."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Poll reveals majority believe lying Boris Johnson will sell off NHS services to US.",
+                "source": "Daily Mirror",
+                "date": "October 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Four out of five people recognize mental health is as important as physical health, but only one out of five think the NHS treats it that way."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "For too long, mental health has been overlooked.",
+                        "If Boris Johnson remains as Prime Minister, things will only get worse for our NHS.",
+                        "Donald Trump has made it clear that the NHS would be part of negotiating any trade deals with the US."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "The NHS is under threat with Trump and Johnson.",
+                        "Donald Trump has made it clear that the NHS would be part of negotiating any trade deals with the US.",
+                        "Four out of five people recognize mental health is as important as physical health, but only one out of five think the NHS treats it that way."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Poll reveals majority believe lying Boris Johnson will sell off NHS services to US."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "If Boris Johnson remains as Prime Minister, things will only get worse for our NHS.",
+                        "Donald Trump has made it clear that the NHS would be part of negotiating any trade deals with the US."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Poll reveals majority believe lying Boris Johnson will sell off NHS services to US."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "If Boris Johnson remains as Prime Minister, things will only get worse for our NHS.",
+                        "Donald Trump has made it clear that the NHS would be part of negotiating any trade deals with the US."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Labour has failed to stand up to the Government over its plans for a hard Brexit. Instead, on the crucial vote in Parliament, Labour MPs sided with UKIP to let the Tories press ahead with their plans for a destructive Brexit. A Labour vote this time will not stop the damaging hard Brexit."
+            },
+            {
+                "title": "",
+                "content": "The Liberal Democrats are fighting the hard Brexit: The Liberal Democrats are determined to fight to keep Britain in the single market. Labour MPs have openly backed the damaging hard Brexit. Voting Labour won't change anything. But a Lib Dem vote can get a strong group of MPs committed to challenging the Tory hard Brexit. Lib Dems have ruled out a coalition with either Theresa May or Jeremy Corbyn. They are the only party capable of stopping the hard Brexit - and fighting to protect jobs."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fight Hard Brexit",
+                "policyDescription": "The Liberal Democrats are determined to keep Britain in the single market and fight against the hard Brexit supported by Labour and the Tories."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The Liberal Democrats are determined to fight to keep Britain in the single market. Labour MPs have openly backed the damaging hard Brexit.",
+            "defence": "",
+            "economy": "fighting to protect jobs.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "\"Labour's leading Brexiteer explains why it MUST be a 'hard' Brexit for Britain.\"",
+                "source": "Daily Express, 1st Dec 2016",
+                "date": ""
+            },
+            {
+                "text": "\"Corbyn doesn't ask a single question about Brexit. On the day Article 50 is triggered, the Labour leader neglects to prime the Prime Minister to account.\"",
+                "source": "New Statesman, 29th Mar 2017",
+                "date": ""
+            },
+            {
+                "text": "\"Jeremy Corbyn has betrayed us over Brexit. He is unfit to be called leader of the opposition.\"",
+                "source": "The Guardian, 19 Feb 2017",
+                "date": ""
+            },
+            {
+                "text": "\"The Liberal Democrats have vowed to fight on to retain single market membership after Brexit, after Labour was accused of throwing in the towel.\"",
+                "source": "The Independent 25th Jan 2017",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "\"Labour has failed to stand up to the Government over its plans for a hard Brexit.\"",
+                        "\"Labour MPs sided with UKIP to let the Tories press ahead with their plans for a destructive Brexit.\"",
+                        "\"The Liberal Democrats are determined to fight to keep Britain in the single market.\"",
+                        "\"Voting Labour won't change anything.\""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "The Liberal Democrats are determined to fight to keep Britain in the single market.",
+                        "Labour MPs have openly backed the damaging hard Brexit.",
+                        "fighting to protect jobs."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 4,
+                    "examples": [
+                        "\"Labour's leading Brexiteer explains why it MUST be a 'hard' Brexit for Britain.\"",
+                        "\"Corbyn doesn't ask a single question about Brexit. On the day Article 50 is triggered, the Labour leader neglects to prime the Prime Minister to account.\"",
+                        "\"Labour has failed to stand up to the Government over its plans for a hard Brexit.\"",
+                        "Labour MPs have openly backed the damaging hard Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 3,
+                    "examples": [
+                        "\"Corbyn doesn't ask a single question about Brexit. On the day Article 50 is triggered, the Labour leader neglects to prime the Prime Minister to account.\"",
+                        "\"Jeremy Corbyn has betrayed us over Brexit. He is unfit to be called leader of the opposition.\"",
+                        "Labour MPs have openly backed the damaging hard Brexit."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Labour has failed to stand up to the Government over its plans for a hard Brexit.",
+                        "Labour MPs have openly backed the damaging hard Brexit."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

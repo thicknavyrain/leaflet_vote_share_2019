@@ -1,0 +1,172 @@
+{
+    "leaflet": {
+        "candidateName": "Cllr Lewis Bartoli",
+        "candidateGender": "male",
+        "constituency": "Tynemouth",
+        "politicalParty": "Conservative",
+        "electionDate": "12th Dec 2019",
+        "messages": [
+            {
+                "title": "A local champion fighting for us",
+                "content": "Local Councillor Lewis Bartoli is standing in the General Election to deliver real change for Monkseaton. For over 20 years our area has been represented by the same Labour MP but in that time our services have failed and while our MP has failed to stand up for our area. Lewis offers a different choice, with a clear five point plan to improve our area: from more police in our area to more investment in our roads and local NHS."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Local Police",
+                "policyDescription": "More police in our area."
+            },
+            {
+                "policyTitle": "Roads and NHS",
+                "policyDescription": "More investment in our roads and local NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "Local Councillor Lewis Bartoli is standing in the General Election to deliver real change for Monkseaton.",
+            "partyLeader": "As a fellow North Tyneside Councillor, Lewis knows the issues which we face here in Monkseaton, from roads and potholes to saving our green space.",
+            "tacticalSituation": "This election gives people in our area the chance to put someone from the heart of our area into the heart of Westminster."
+        },
+        "issues": {
+            "economy": "More investment in our roads and local NHS.",
+            "health": "More investment in our roads and local NHS.",
+            "transport": "More investment in our roads and local NHS.",
+            "community": [
+                {
+                    "content": "Local Councillor Lewis Bartoli is standing in the General Election to deliver real change for Monkseaton.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "local magistrate",
+                "duration": "15 years",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "Lewis4tynemouth.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Cllr Alison Austin",
+                "endorsement": "As a fellow North Tyneside Councillor, Lewis knows the issues which we face here in Monkseaton, from roads and potholes to saving our green space."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Local Councillor Alison Austin and Cllr Lewis Bartoli on a street visit"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "from more police in our area to more investment in our roads and local NHS",
+                        "Lewis has lived in Tynemouth for 35 years"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "A local champion fighting for us",
+                        "This election gives people in our area the chance to put someone from the heart of our area into the heart of Westminster"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 2,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "from more police in our area to more investment in our roads and local NHS.",
+                        "Lewis offers a different choice",
+                        "to deliver real change for Monkseaton."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "to put someone from the heart of our area into the heart of Westminster."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Lewis has lived in Tynemouth for 35 years, went to school here and managed several successful local businesses on Front Street before becoming a local councillor for Tynemouth and North Shields...",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "As a fellow North Tyneside Councillor, Lewis knows the issues which we face here in Monkseaton, from roads and potholes to saving our green space."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "For over 20 years our area has been represented by the same Labour MP but in that time our services have failed."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Lewis has lived in Tynemouth for 35 years.",
+                "employment": "managed several successful local businesses on Front Street before becoming a local councillor for Tynemouth and North Shields.",
+                "education": "went to school here",
+                "family": "Lewis lives in Tynemouth with his young children and wife who works for the NHS."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Lewis has lived in Tynemouth for 35 years"
+                ]
+            }
+        }
+    }
+}

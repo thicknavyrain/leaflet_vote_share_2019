@@ -1,0 +1,201 @@
+{
+    "leaflet": {
+        "candidateName": "Dominic Raab",
+        "candidateGender": "",
+        "constituency": "Esher & Walton",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "What's at stake in Esher & Walton constituency at this election?",
+                "content": "Help secure the progress we\u2019ve made for Esher & Walton. Vote Conservative on Thursday 12 December."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Backing our NHS",
+                "policyDescription": "\u00a333.9 billion extra funding for the NHS, 20,000 extra police officers, more funding for every school."
+            },
+            {
+                "policyTitle": "Delivering Brexit",
+                "policyDescription": "Getting Brexit done so we can get on with your priorities."
+            },
+            {
+                "policyTitle": "Backing Local Schools",
+                "policyDescription": "Investing in our local schools."
+            },
+            {
+                "policyTitle": "Supporting Local Charities",
+                "policyDescription": "Backing local charities and voluntary work."
+            },
+            {
+                "policyTitle": "Protecting Greenbelt",
+                "policyDescription": "Protecting the Greenbelt for local people."
+            },
+            {
+                "policyTitle": "Backing Local Hospitals",
+                "policyDescription": "Back our local hospitals and their services."
+            }
+        ],
+        "mentions": {
+            "candidate": "Dominic Raab",
+            "otherPartyLeaderCandidate": "Jo Swinson",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Let's get Brexit done and move on with the country's priorities. Delivering Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "Backing Local Schools: Investing in our local schools.",
+            "environment": "Protecting Greenbelt: Protecting the Greenbelt for local people.",
+            "governance": "",
+            "government": "\u00a333.9 billion extra funding for the NHS, 20,000 extra police officers, more funding for every school.",
+            "health": "Backing our NHS: \u00a333.9 billion extra NHS funding.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "20,000 extra police officers.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Backing Local Hospitals: Back our local hospitals and their services.",
+                    "yimbyNimby": "YIMBY"
+                },
+                {
+                    "content": "Supporting Local Charities: Backing local charities and voluntary work.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "As your MP, I've worked hard to represent our community locally, while also standing up for Britain on the international stage as Foreign Secretary. I hope I can count on your support to secure another term so we can build on the progress we've made.",
+        "politicalExperience": [
+            {
+                "role": "Member of Parliament (MP) for Esher & Walton",
+                "duration": "",
+                "achievements": ""
+            },
+            {
+                "role": "Foreign Secretary",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.dominicraab.com",
+            "socialMedia": {
+                "facebook": "facebook.com/DominicRaab",
+                "twitter": "twitter.com/DominicRaab",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Dominic Raab engaging with the community."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "\u00a333.9 billion extra funding for the NHS, 20,000 extra police officers, more funding for every school."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Help secure the progress we\u2019ve made for Esher & Walton.",
+                        "Let's get Brexit done and move on with the country's priorities."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Backing Local Schools: Investing in our local schools.",
+                        "Backing Local Hospitals: Back our local hospitals and their services."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Let's get Brexit done and move on with the country's priorities."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "As your MP, I've worked hard to represent our community locally, while also standing up for Britain on the international stage as Foreign Secretary.",
+                    "issueRelated": "government"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jo Swinson says NO to second Tory alliance."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "Foreign Secretary",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    "As your MP, I've worked hard to represent our community locally."
+                ]
+            }
+        }
+    }
+}

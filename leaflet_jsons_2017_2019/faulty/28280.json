@@ -1,0 +1,199 @@
+{
+    "leaflet": {
+        "candidateName": "Peter Jones",
+        "candidateGender": "male",
+        "constituency": "Great Missenden, Prestwood & Heath End",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "Thursday June 8th",
+        "messages": [
+            {
+                "title": "And now\u2026 Let's do it all again!",
+                "content": "Peter Jones to be General Election candidate."
+            },
+            {
+                "title": "The Liberal Democrat Plan for Britain and Europe",
+                "content": "This includes a pro-European stance, protecting human rights, economic opportunities within the EU, prevention of crime and environmental conservation."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Green Belt",
+                "policyDescription": "Peter Jones will press government ministers to tell the truth about the Green Belt and ensure only affordable housing is developed."
+            },
+            {
+                "policyTitle": "Jobs",
+                "policyDescription": "We will focus on quality local job creation, making Great Missenden an attractive area for businesses."
+            },
+            {
+                "policyTitle": "Cellphone and Broadband",
+                "policyDescription": "Chilterns requires better mobile and broadband connections, including rural broadband."
+            }
+        ],
+        "mentions": {
+            "candidate": "Peter Jones",
+            "otherPartyLeaderCandidate": "Labour, UKIP",
+            "partyLeader": "",
+            "tacticalSituation": "For anyone wondering which other party is best placed to defeat the government in the general election, the answer is clear... once again \u2013 the Liberal Democrats are the only real opposition."
+        },
+        "issues": {
+            "brexitEurope": "We will work with various organizations to ensure the United Kingdom remains integrated within European frameworks.",
+            "defence": "",
+            "economy": "Liberal Democrats support economic opportunities within the EU and tackle climate change.",
+            "education": "",
+            "environment": "Duty to future generations to protect our environment.",
+            "governance": "",
+            "government": "",
+            "health": "additional investment in the NHS for physical health, mental health and social care.",
+            "immigration": "",
+            "labourEmployment": "focus on attracting high-quality businesses to Great Missenden.",
+            "lawCrime": "We must maintain maximum cooperation to ensure criminals are pursued effectively.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "We should be able to attract new firms onto this land for good-quality business - but all the time it is marked as Green Belt, this is not possible.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Peter is a company director in the print industry. Peter is a company director in the print industry. He and his wife Katy have grown-up children and enjoy walking and gardening.",
+        "politicalExperience": [
+            {
+                "role": "County Council Election Results - Liberal Democrat Vote Doubles",
+                "duration": "May 4th",
+                "achievements": "On May 4th the Liberal Democrats gained more county council seats in Great Missenden, Ruth was elected."
+            }
+        ],
+        "contactInformation": {
+            "address": "Unit 16, Hillside Business Park, Kempson Way, Bury St Edmunds, IP32 7EA.",
+            "phone": "",
+            "email": "",
+            "website": "www.chilternlibdems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@PeterChilternLD",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "County Council Election Results",
+                "endorsement": "Liberal Democrat Vote Doubles"
+            }
+        ],
+        "quotes": [
+            {
+                "text": "For anyone wondering which other party is best placed to defeat the government in the general election, the answer is clear... once again - the Liberal Democrats are the only real opposition.",
+                "source": "Peter Jones",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "The Green Belt near Chesham"
+                }
+            ]
+        },
+        "additionalNotes": "Peter Jones and Ruth Juett Express gratitude for support in previous elections.",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 4,
+                    "examples": [
+                        "County Council Election Results: Conservative 1974, Liberal Democrats 512.",
+                        "Great Missenden: Conservative 416, Liberal Democrats 175.",
+                        "June 8th",
+                        "May 4th"
+                    ]
+                },
+                "qualitative": {
+                    "count": 7,
+                    "examples": [
+                        "Let's do it all again!",
+                        "A vote for the Liberal Democrats is a positive vote for change.",
+                        "Ruth succeeded in gaining more than four times as many Lib Dem votes.",
+                        "Proud of our support for deprived areas",
+                        "to tackle climate change.",
+                        "focuses on quality, local job creation.",
+                        "He enjoys walking and gardening."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Green Belt",
+                        "Job creation locally"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "NHS investment",
+                        "European cooperation"
+                    ]
+                }
+            }
+        },
+        "personalStories": [
+            {
+                "story": "Peter Jones is a company director in the print industry, enjoys being active and playing with grandchildren.",
+                "issueRelated": "Candidate Background"
+            }
+        ],
+        "endorsementsUsed": {
+            "count": 2,
+            "examples": [
+                "Ruth's election",
+                "Liberal Democrat's General Election opposition stance"
+            ]
+        },
+        "negativeMessaging": {
+            "localIssues": {
+                "count": 1,
+                "examples": [
+                    "Labour vote share went down."
+                ]
+            },
+            "nationalIssues": {
+                "count": 1,
+                "examples": [
+                    "UKIP voter percentage dropped."
+                ]
+            },
+            "leaderOfOpponentsParty": {
+                "count": 0,
+                "examples": []
+            },
+            "oppositeCandidateNoName": {
+                "count": 0,
+                "examples": []
+            },
+            "oppositeCandidateWithName": {
+                "count": 0,
+                "examples": []
+            }
+        },
+        "nonPolicyAttributes": {
+            "localness": "Peter is a local man.",
+            "employment": "Company director in the print industry.",
+            "education": "",
+            "family": "He has grown-up children."
+        },
+        "localCandidate": {
+            "isLocal": true,
+            "examples": [
+                "Peter is a local man."
+            ]
+        }
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "leaflet": {
+        "candidateName": "Elaine Bagshaw",
+        "candidateGender": "",
+        "constituency": "Poplar & Limehouse",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "Thursday June 8th 2017",
+        "messages": [
+            {
+                "title": "The Issues That Matter Most",
+                "content": "Fighting for you against hard Brexit, Standing up for the NHS, Tackling the housing crisis"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fighting for you against hard Brexit",
+                "policyDescription": "Nearly 70% of Tower Hamlets voted Remain in the referendum. The Liberal Democrats are the only party that has always fought to keep Britain in, and we're determined to get you your say on the final Brexit deal."
+            },
+            {
+                "policyTitle": "Standing up for the NHS",
+                "policyDescription": "Our health and care services need urgent investment. This issue won't go away, and we have a plan for progress. The Liberal Democrats will put an extra \u00a36bn per year into health and social care, with a penny-on-the-pound income tax increase."
+            },
+            {
+                "policyTitle": "Tackling the housing crisis",
+                "policyDescription": "Liberal Democrats will build 300,000 badly needed new homes across the country per year, and support private renters by banning letting agent fees and taking action against rogue landlords."
+            }
+        ],
+        "mentions": {
+            "candidate": "Elaine Bagshaw",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The Conservatives are dragging us out of the Single Market. Nearly 70% of Tower Hamlets voted Remain in the referendum.",
+            "defence": "",
+            "economy": "The Conservatives' hard Brexit will hit people in the pocket and hit the poorest families the hardest.",
+            "education": "",
+            "environment": "",
+            "governance": "Government transparency",
+            "government": "",
+            "health": "Our health and care services need urgent investment. The Liberal Democrats will put an extra \u00a36bn per year into health and social care, with a penny-on-the-pound income tax increase.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Liberal Democrats will build 300,000 badly needed new homes across the country per year, and support private renters by banning letting agent fees and taking action against rogue landlords.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Local campaigner",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "020 3475 4226",
+            "email": "contact@elainebagshaw.co.uk",
+            "website": "elainebagshaw.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Nearly 70% of Tower Hamlets voted Remain in the referendum."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "The Conservatives are dragging us out of the Single Market.",
+                        "The Liberal Democrats are the only party that has always fought to keep Britain in."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 5,
+                "candidateAlone": 1,
+                "candidateWithOthers": 4
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Help Elaine Bagshaw stop a hard Brexit",
+                        "Leading the fight against a conservative hard Brexit."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Fighting for you against hard Brexit",
+                        "Standing up for the NHS",
+                        "Tackling the housing crisis"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "The Conservatives are dragging us out of the Single Market.",
+                        "Jeremy Corbyn's Labour is backing the Conservative plan."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn's Labour is backing the Conservative plan."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn's Labour is backing the Conservative plan."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Local campaigner Elaine Bagshaw would work tirelessly for you."
+                ]
+            }
+        }
+    }
+}

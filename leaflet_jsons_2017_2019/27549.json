@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Southampton Test",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Back Theresa May to secure a Brexit deal that delivers for you and your family."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Leadership",
+                "policyDescription": "Provide strong and stable leadership for our country."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get the best Brexit deal possible to deliver economic security for our future."
+            },
+            {
+                "policyTitle": "Family Security",
+                "policyDescription": "Always stand up for you and your family."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "Don\u2019t risk our future at this crucial moment in history with a vote for any other party in Southampton Test."
+        },
+        "issues": {
+            "brexitEurope": "Get the best Brexit deal possible to deliver economic security for our future.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Don\u2019t risk our future at this crucial moment in history with a vote for any other party in Southampton Test.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Prime Minister",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "4 Matthew Parker Street, London, SW1H 9HQ",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Provide strong and stable leadership for our country.",
+                        "Get the best Brexit deal possible to deliver economic security for our future.",
+                        "Always stand up for you and your family.",
+                        "Back Theresa May to secure a Brexit deal that delivers for you and your family."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Provide strong and stable leadership for our country.",
+                        "Get the best Brexit deal possible to deliver economic security for our future.",
+                        "Always stand up for you and your family.",
+                        "Back Theresa May to secure a Brexit deal that delivers for you and your family."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Don\u2019t risk our future at this crucial moment in history with a vote for any other party in Southampton Test."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Don\u2019t risk our future at this crucial moment in history with a vote for any other party in Southampton Test."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

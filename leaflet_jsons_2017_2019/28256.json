@@ -1,0 +1,173 @@
+{
+    "leaflet": {
+        "candidateName": "Dinah Mulholland",
+        "candidateGender": "",
+        "constituency": "Ceredigion",
+        "politicalParty": "Welsh Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "My commitments to you",
+                "content": "I will work with passion and integrity - for a positive Brexit for Wales - for the voice of Ceredigion to be heard in Westminster. I will work with all of our Ceredigion communities to build a positive future and ensure that our housing, health and education needs are met so we can prosper and thrive."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fairness for all",
+                "policyDescription": "Greater equality. Protecting our NHS. Restoring public services. Hedwch a chyfiawnder i gyd. Human and world peace."
+            },
+            {
+                "policyTitle": "Reconnecting Communities",
+                "policyDescription": "Public ownership of a coordinated bus and rail system; deliver social and work needs; provide robust social care; scoped mental health services; combating personal isolation."
+            },
+            {
+                "policyTitle": "Jobs and the Economy",
+                "policyDescription": "Abolishing zero hours contracts; raising the minimum wage to \u00a310/hr; supporting small and medium businesses, apprenticeships and real jobs; establishing public community energy companies and renewable energy initiatives."
+            }
+        ],
+        "mentions": {
+            "candidate": "Dinah Mulholland",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "positive Brexit for Wales",
+            "defence": "",
+            "economy": "Abolishing zero hours contracts; raising the minimum wage to \u00a310/hr; supporting small and medium businesses, apprenticeships and real jobs.",
+            "education": "Provide learning support at UWTSD, Lampeter.",
+            "environment": "Public community energy companies and renewable energy initiatives.",
+            "governance": "",
+            "government": "",
+            "health": "Robust social care services, mental health services.",
+            "immigration": "",
+            "labourEmployment": "Abolishing zero hours contracts; raising the minimum wage to \u00a310/hr; apprenticeships",
+            "lawCrime": "",
+            "transport": "Public ownership of a coordinated bus and rail system.",
+            "socialWelfare": "Providing robust social care.",
+            "community": [
+                {
+                    "content": "Public ownership of a coordinated bus and rail system; deliver social and work needs; provide robust social care; scope mental health services; combating personal isolation.",
+                    "yimbyNimby": "YIMBY"
+                },
+                {
+                    "content": "Supporting small and medium businesses; establishing public community energy companies and renewable energy initiatives.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Dear Voter, I'm a single parent I work part-time on a zero-hours contract providing learning support at UWTSD, Lampeter. I've had to fight all my life and I will fight for you. It is vital for the future of our children and for the safety of our older and more vulnerable people that we vote Labour; the only party that can defeat the vicious ideology of the Tories.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Smelting Cottage, Devil\u2019s Bridge, Aberystwyth, SY23 4QY",
+            "phone": "",
+            "email": "Dinah4Ceredigion@gmail.com",
+            "website": "https://ceredigionlabour.wordpress.com/",
+            "socialMedia": {
+                "facebook": "facebook.com/Labour4Ceredigion/",
+                "twitter": "@DinahCeredigion",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "raising the minimum wage to \u00a310/hr"
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "vital for the future of our children",
+                        "only party that can defeat the vicious ideology of the Tories",
+                        "building a positive future and ensure that our housing, health, and education needs are met",
+                        "Public ownership of a coordinated bus and rail system",
+                        "Combating personal isolation."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 3,
+                "people": 3,
+                "candidateAlone": 2,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "supporting small and medium businesses",
+                        "provide robust social care",
+                        "public community energy companies",
+                        "combating personal isolation"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "abolishing zero hours contracts",
+                        "raising the minimum wage to \u00a310/hr",
+                        "positive Brexit for Wales"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "single parent, work part-time on a zero-hours contract, providing learning support at UWTSD, Lampeter",
+                    "issueRelated": "Labour and employment."
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "vicious ideology of the Tories"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "providing learning support at UWTSD, Lampeter.",
+                "education": "",
+                "family": "single parent"
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

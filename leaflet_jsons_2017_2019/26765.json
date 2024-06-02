@@ -1,0 +1,178 @@
+{
+    "leaflet": {
+        "candidateName": "Cahal Burke",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "May 2017",
+        "messages": [
+            {
+                "title": "YOUR CHOICE FOR OUR M.P.",
+                "content": "Well-known local campaigner Cahal Burke. More Labour let down and Conservative NHS cuts. Labour and the Conservatives have let us down for too long. Only Lib Dem Cahal Burke will deliver the positive change we need."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Improving our schools",
+                "policyDescription": "Promoting better education through local school improvements."
+            },
+            {
+                "policyTitle": "Saving our local NHS",
+                "policyDescription": "Protecting NHS and vital services from cuts."
+            }
+        ],
+        "mentions": {
+            "candidate": "Cahal Burke",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn, Theresa May, Nigel Farage",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Fighting hard Brexit, Britain's decision to leave Single Market.",
+            "defence": "",
+            "economy": "Budget cuts on schools.",
+            "education": "Improving our schools, children will suffer as school budgets across Yorkshire slashed.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Saving our local NHS, protecting NHS services.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Cahal Burke is the local choice to protect jobs, improve local schools and save our NHS.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Local campaigner",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Britain to leave Single Market, says Theresa May"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Labour and the Conservatives have let us down for too long.",
+                        "Jeremy Corbyn's Labour face a worse drubbing at the polls than in 1983.",
+                        "Children will suffer as school budgets across Yorkshire slashed."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Improving our schools",
+                        "Saving our local NHS"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Britain to leave Single Market, says Theresa May",
+                        "Jeremy Corbyn's Labour face a worse drubbing at the polls than in 1983."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 4,
+                    "examples": [
+                        "The Tories get away with this.",
+                        "Jeremy Corbyn's Labour face a worse drubbing at the polls than in 1983.",
+                        "MPs vote against guaranteeing EU citizens rights to stay after Brexit.",
+                        "Labour and the Conservatives have let us down for too long."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn's Labour face a worse drubbing at the polls than in 1983.",
+                        "MPs vote against guaranteeing EU citizens rights to stay after Brexit."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn's Labour face a worse drubbing at the polls than in 1983.",
+                        "MPs vote against guaranteeing EU citizens rights to stay after Brexit."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Well-known local campaigner Cahal Burke.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Well-known local campaigner Cahal Burke."
+                ]
+            }
+        }
+    }
+}

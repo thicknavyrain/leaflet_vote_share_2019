@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "Jill Payne",
+        "candidateGender": "",
+        "constituency": "Eastleigh",
+        "politicalParty": "Labour",
+        "electionDate": "8 June",
+        "messages": [
+            {
+                "title": "Local Candidate for Local People",
+                "content": "On 8 June, families in Eastleigh can choose between a labour government that stands up for the many, or the Tories who only look after a privileged few."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Defend our NHS and tackle the care crisis",
+                "policyDescription": "Give the NHS and social care services the money they need and join up services from hospital to home."
+            },
+            {
+                "policyTitle": "Give all children a chance to thrive",
+                "policyDescription": "Provide universal free school meals for primary school children and reduce class sizes."
+            },
+            {
+                "policyTitle": "Provide affordable homes to rent",
+                "policyDescription": "Build more than one million new homes in five years, inside council and private rent."
+            },
+            {
+                "policyTitle": "Protect living standards and create jobs",
+                "policyDescription": "Introduce a real Living Wage of \u00a310 per hour and invest in infrastructure, skills, and new technology."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jill Payne",
+            "otherPartyLeaderCandidate": "Liberal Democrats",
+            "partyLeader": "",
+            "tacticalSituation": "IF EVERY LABOUR SUPPORTER VOTED LABOUR INSTEAD OF TACTICALLY VOTING FOR THE LIB DEMS, EASTLEIGH WOULD HAVE A LABOUR MP"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Provide universal free school meals for primary school children and reduce class sizes.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Defend our NHS and tackle the care crisis - Give the NHS and social care services the money they need and join up services from hospital to home.",
+            "immigration": "",
+            "labourEmployment": "Protect living standards and create jobs - Introduce a real Living Wage of \u00a310 per hour and invest in infrastructure, skills and new technology.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Provide affordable homes to rent - Build more than one million new homes in five years, including council and private rent.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Labour Parliamentary Candidate",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Jill Payne - Your Labour Parliamentary Candidate"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Build more than one million new homes in five years.",
+                        "Introduce a real Living Wage of \u00a310 per hour."
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "On 8 June, families in Eastleigh can choose between a labour government that stands up for the many, or the Tories who only look after a privileged few.",
+                        "Give the NHS and social care services the money they need and join up services from hospital to home.",
+                        "Give all children a chance to thrive.",
+                        "Provide universal free school meals for primary school children and reduce class sizes.",
+                        "Build more than one million new homes in five years, including council and private rent.",
+                        "Introduce a real Living Wage of \u00a310 per hour and invest in infrastructure, skills and new technology."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Build more than one million new homes in five years, including council and private rent."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Give the NHS and social care services the money they need and join up services from hospital to home.",
+                        "Provide universal free school meals for primary school children and reduce class sizes.",
+                        "Introduce a real Living Wage of \u00a310 per hour.",
+                        "Protect living standards and create jobs."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "THE LIBERAL DEMOCRATS WILL SAY AND DO ANYTHING TO GET ELECTED",
+                        "IF EVERY LABOUR SUPPORTER VOTED LABOUR INSTEAD OF TACTICALLY VOTING FOR THE LIB DEMS, EASTLEIGH WOULD HAVE A LABOUR MP"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "THE LIBERAL DEMOCRATS WILL SAY AND DO ANYTHING TO GET ELECTED"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Local Candidate for Local People",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Local Candidate for Local People"
+                ]
+            }
+        }
+    }
+}

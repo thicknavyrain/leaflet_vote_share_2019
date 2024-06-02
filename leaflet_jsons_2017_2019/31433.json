@@ -1,0 +1,167 @@
+{
+    "leaflet": {
+        "candidateName": "Sarah Lewis",
+        "candidateGender": "",
+        "constituency": "Vauxhall, Kennington, Oval, Clapham, Brixton, Stockwell and Waterloo",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Sarah Lewis Challenges Labour",
+                "content": "Liberal Democrat challenges Labour: 'stop selling off our council homes!'"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Council Homes",
+                "policyDescription": "Stop selling off council homes and improve the housing situation."
+            }
+        ],
+        "mentions": {
+            "candidate": "Sarah Lewis",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": "Figures released suggest that the local council homes being sold or demolished in the area."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Stop selling off council homes and improve the housing situation.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Liberal Democrat challenges Labour: 'stop selling off our council homes!'",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Sarah Lewis is the best choice for our next MP"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Figures released suggest that the local council homes being sold or demolished in the area."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Liberal Democrat challenges Labour: 'stop selling off our council homes!'",
+                        "Sarah Lewis is the best choice for our next MP",
+                        "Jo Swinson: The Prime Minister Britain Deserves"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 2,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Stop selling off council homes and improve the housing situation."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Jo Swinson: The Prime Minister Britain Deserves"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

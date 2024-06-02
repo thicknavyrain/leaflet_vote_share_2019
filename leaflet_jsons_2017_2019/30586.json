@@ -1,0 +1,159 @@
+{
+    "leaflet": {
+        "candidateName": "Dr. Kirsten Johnson",
+        "candidateGender": "",
+        "constituency": "Oxford East",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8th, 2017",
+        "messages": [
+            {
+                "title": "This is our chance for change",
+                "content": "The Conservatives are pushing Britain towards a disastrous hard Brexit. Jeremy Corbyn's Labour is failing to provide the opposition our country needs. Locally, the Labour MP voted with the Conservative government for Brexit, and Oxford Labour have said they will stand with Corbyn\u2019s support for Brexit."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Standing up for the NHS",
+                "policyDescription": "Dr. Kirsten Johnson opposes NHS cuts and advocates for its strong support."
+            },
+            {
+                "policyTitle": "Opposing school cuts",
+                "policyDescription": "Dr. Kirsten Johnson stands against cuts to school funding."
+            },
+            {
+                "policyTitle": "Fighting against Hard Brexit",
+                "policyDescription": "Dr. Kirsten Johnson is committed to stopping a hard Brexit to protect local jobs and education."
+            }
+        ],
+        "mentions": {
+            "candidate": "Kirsten",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "The Lib Dems came clear 2nd in the County elections. The Lib Dems ran Labour close in both 2005 and 2010 General Elections. The Lib Dems are fighting to win. Tories and Greens are out of the race."
+        },
+        "issues": {
+            "brexitEurope": "The Conservatives are dragging us out of the Single Market. More and more people concerned about a hard Brexit are abandoning Labour and the Tories, and supporting Kirsten.",
+            "defence": "",
+            "economy": "",
+            "education": "Opposing school cuts",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Standing up for the NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Oxford East Lib Dems, FREEPOST, SCE 221, Oxford, OX1 1YA",
+            "phone": "",
+            "email": "kirsten.johnson@oxonlibdems.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "KirstenLibDem",
+                "twitter": "@DrKirstenJ",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Kirsten Johnson with the Lib Dem councillors in Headington where Roz Smith held her County Council seat with a big increase in her majority."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "The Lib Dems came clear 2nd in the County elections"
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "This is our chance for change"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Opposing school cuts"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Fighting against Hard Brexit"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Dr. Kirsten Johnson lives here and has brought her family up here.",
+                    "issueRelated": "localness"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives are dragging us out of the Single Market."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn and Labour in Oxford are backing the Conservative plan."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Kirsten Johnson lives here and has brought her family up here.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Dr. Kirsten Johnson lives here and has brought her family up here."
+                ]
+            }
+        }
+    }
+}

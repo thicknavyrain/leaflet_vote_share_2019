@@ -1,0 +1,170 @@
+{
+    "leaflet": {
+        "candidateName": "Angela Smith",
+        "candidateGender": "",
+        "constituency": "Altrincham & Sale West",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "This is it. People across the country will go to the polls and shape the future of our country in the next few weeks. We\u2019ve been planning for a snap election, and we\u2019re ready to win."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "A Liberal Democrat government will protect our NHS."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Safeguard our schools."
+            },
+            {
+                "policyTitle": "Climate",
+                "policyDescription": "Tackle the climate emergency."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Lead the fight to protect our future from the disaster of Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "Angela Smith",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": "Con & Brexit 32%, Lib Dem 31%, Voting for the 3rd or 4th party will just help the Tories."
+        },
+        "issues": {
+            "brexitEurope": "We cut Boris Johnson\u2019s majority to just 1 by winning the Brecon & Radnorshire by-election in August this year. Lead the fight to protect our future from the disaster of Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "Safeguard our schools.",
+            "environment": "Tackle the climate emergency.",
+            "governance": "",
+            "government": "",
+            "health": "A Liberal Democrat government will protect our NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "We gained over 700 seats in this years local elections.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "angela@traffordlibdems.co.uk",
+            "website": "www.angelasmith.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "SOURCE FOR FIGURES: https://medium.com/@chrishanretty/eu2019-results-mapped-onto-westminster-constituencies-9a62a6ed14d6",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "We gained over 700 seats in this years local elections.",
+                        "We cut Boris Johnson\u2019s majority to just 1 by winning the Brecon & Radnorshire by-election in August this year."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "We\u2019re ready to win.",
+                        "A Liberal Democrat government will protect our NHS.",
+                        "Lead the fight to protect our future from the disaster of Brexit."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "We gained over 700 seats in this years local elections."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "This is it. People across the country will go to the polls and shape the future of our country in the next few weeks.",
+                        "A Liberal Democrat government will protect our NHS.",
+                        "Safeguard our schools.",
+                        "Tackle the climate emergency."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "We cut Boris Johnson\u2019s majority to just 1 by winning the Brecon & Radnorshire by-election in August this year.",
+                    "issueRelated": "Brexit"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "We cut Boris Johnson\u2019s majority to just 1 by winning the Brecon & Radnorshire by-election in August this year."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

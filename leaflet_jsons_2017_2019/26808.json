@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Lib Dems",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "YOU CAN CHANGE THE COUNTRY",
+                "content": "On 8th June you decide the future direction of Britain. Your choice could not be clearer or more important."
+            },
+            {
+                "title": "A STRONG OPPOSITION WITH THE LIB DEMS",
+                "content": "The Liberal Democrats are fighting for what\u2019s most important for families across Britain - NHS services and schools. The Lib Dems are tipped to win dozens of seats against the Conservatives and people look to secure a strong opposition that will change the direction of the country."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "The Liberal Democrats are tipped to win dozens of seats against the Conservatives and people look to secure a strong opposition that will change the direction of the country."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "The Liberal Democrats are fighting for what\u2019s most important for families across Britain - NHS services and schools.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The Liberal Democrats are fighting for what\u2019s most important for families across Britain - NHS services and schools.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Widowed parents are being hit again by Tory cuts to bereavement benefits.",
+                "source": "The Independent, 12 Mar 2017",
+                "date": "12 Mar 2017"
+            },
+            {
+                "text": "There is no realistic chance of us winning.",
+                "source": "Labour MP Alan Johnson, 22 April 2017",
+                "date": "22 April 2017"
+            },
+            {
+                "text": "Labour fear election bloodbath as a QUARTER of MPs face losing their seats",
+                "source": "Mirror, 20 April 2017",
+                "date": "20 April 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "A STRONG OPPOSITION WITH THE LIB DEMS"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Labour fear election bloodbath as a QUARTER of MPs face losing their seats"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Widowed parents are being hit again by Tory cuts to bereavement benefits.",
+                        "There is no realistic chance of us winning.",
+                        "The Liberal Democrats are fighting for what\u2019s most important for families across Britain - NHS services and schools."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "The Liberal Democrats are fighting for what\u2019s most important for families across Britain - NHS services and schools.",
+                        "The country heading in the wrong direction."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Widowed parents are being hit again by Tory cuts to bereavement benefits.",
+                    "issueRelated": "socialWelfare"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "Widowed parents are being hit again by Tory cuts to bereavement benefits.",
+                        "There is no realistic chance of us winning.",
+                        "Labour fear election bloodbath as a QUARTER of MPs face losing their seats"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

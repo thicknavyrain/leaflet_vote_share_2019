@@ -1,0 +1,160 @@
+{
+    "leaflet": {
+        "candidateName": "Matthew Hemsley",
+        "candidateGender": "",
+        "constituency": "Cardiff North",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8th 2017",
+        "messages": [
+            {
+                "title": "Fighting against Hard Brexit",
+                "content": "Liberal Democrats are the only party that has always fought for Britain\u2019s membership of the European Union, and that\u2019s why we are fighting for you to have your say on the final Brexit deal."
+            },
+            {
+                "title": "Standing up for the NHS",
+                "content": "We know we need additional investment in health and care services as a matter of urgency. The Liberal Democrats would give it the funds it needs."
+            },
+            {
+                "title": "Better Public Transport",
+                "content": "Cardiff can only grow and thrive if a proper public transport system is in place. The Labour Government announced plans for a South Wales Metro back in 2012. It\u2019s now 2017 and we\u2019re still waiting."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fighting against Hard Brexit",
+                "policyDescription": "Liberal Democrats are the only party that has always fought for Britain\u2019s membership of the European Union, and that\u2019s why we are fighting for you to have your say on the final Brexit deal."
+            },
+            {
+                "policyTitle": "Standing up for the NHS",
+                "policyDescription": "We know we need additional investment in health and care services as a matter of urgency. The Liberal Democrats would give it the funds it needs."
+            },
+            {
+                "policyTitle": "Better Public Transport",
+                "policyDescription": "Cardiff can only grow and thrive if a proper public transport system is in place. The Labour Government announced plans for a South Wales Metro back in 2012. It\u2019s now 2017 and we\u2019re still waiting."
+            }
+        ],
+        "mentions": {
+            "candidate": "Matthew Hemsley",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Liberal Democrats are the only party that has always fought for Britain\u2019s membership of the European Union, and that\u2019s why we are fighting for you to have your say on the final Brexit deal.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "We know we need additional investment in health and care services as a matter of urgency. The Liberal Democrats would give it the funds it needs.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Cardiff can only grow and thrive if a proper public transport system is in place. The Labour Government announced plans for a South Wales Metro back in 2012. It\u2019s now 2017 and we\u2019re still waiting.",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "fb.me/Matt4CardiffNorth",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "The Labour Government announced plans for a South Wales Metro back in 2012. It\u2019s now 2017 and we\u2019re still waiting."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Liberal Democrats are the only party that has always fought for Britain\u2019s membership of the European Union, and that\u2019s why we are fighting for you to have your say on the final Brexit deal.",
+                        "We know we need additional investment in health and care services as a matter of urgency."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 2,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Cardiff can only grow and thrive if a proper public transport system is in place. The Labour Government announced plans for a South Wales Metro back in 2012. It\u2019s now 2017 and we\u2019re still waiting."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Liberal Democrats are the only party that has always fought for Britain\u2019s membership of the European Union, and that\u2019s why we are fighting for you to have your say on the final Brexit deal.",
+                        "We know we need additional investment in health and care services as a matter of urgency. The Liberal Democrats would give it the funds it needs."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Labour Government announced plans for a South Wales Metro back in 2012. It\u2019s now 2017 and we\u2019re still waiting."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

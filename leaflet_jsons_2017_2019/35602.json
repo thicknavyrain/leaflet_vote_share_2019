@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "Keith Aspden",
+        "candidateGender": "",
+        "constituency": "York Outer",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Think of the damage his right-wing government could do to our schools, our hospitals and to the lives of some of the most vulnerable in our community."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Schools and NHS Funding",
+                "policyDescription": "Schools in York are amongst the worst funded in the country; York's local NHS has to operate with a \u00a328 million deficit. Investment in our transport infrastructure lags far behind London and the South East."
+            }
+        ],
+        "mentions": {
+            "candidate": "Keith Aspden",
+            "otherPartyLeaderCandidate": "Boris Johnson, Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "It's clear the only way to beat Boris Johnson and his Conservative Party is to vote Lib Dem in York Outer. It's going to be a close battle between the Lib Dems and the Conservatives."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Schools in York are amongst the worst funded in the country.",
+            "environment": "",
+            "governance": "",
+            "government": "Think of the damage his right-wing government could do to our schools, our hospitals, and to the lives of some of the most vulnerable in our community.",
+            "health": "York's local NHS has to operate with a \u00a328 million deficit.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Investment in our transport infrastructure lags far behind London and the South East.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Lib Dem Councillor",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Liberal Democrats 3A, 14-16 Tadcaster Road, Dringhouses, York",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Keith Aspden"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "York's local NHS has to operate with a \u00a328 million deficit.",
+                        "Schools in York are amongst the worst funded in the country."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "I'm angry about the impact of this Conservative Government.",
+                        "Think of the damage his right-wing government could do to our schools, our hospitals and to the lives of some of the most vulnerable in our community.",
+                        "Five more years of this will be a disaster.",
+                        "The simple fact is that Jeremy Corbyn and the Labour Party aren't going to win in York Outer.",
+                        "It's clear the only way to beat Boris Johnson and his Conservative Party is to vote Lib Dem in York Outer."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Schools in York are amongst the worst funded in the country.",
+                        "York's local NHS has to operate with a \u00a328 million deficit.",
+                        "Investment in our transport infrastructure lags far behind London and the South East."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Five more years of this will be a disaster."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Five more years of this will be a disaster."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson will be a disaster if he is elected to be our Prime Minister for five more years."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 3,
+                    "examples": [
+                        "I'm angry about the impact of this Conservative Government.",
+                        "The simple fact is that Jeremy Corbyn and the Labour Party aren't going to win in York Outer.",
+                        "Labour can't win - but the Lib Dems can."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson will be a disaster if he is elected to be our Prime Minister for five more years."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "leaflet": {
+        "candidateName": "Barry Holliday",
+        "candidateGender": "",
+        "constituency": "Nottingham East",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8th, 2017",
+        "messages": [
+            {
+                "title": "Help Barry Holliday stop a hard Brexit",
+                "content": "The Liberal Democrats believe that the biggest threat facing our area and the country is a hard Brexit."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fighting against Hard Brexit",
+                "policyDescription": "Has already fought against the government's hard Brexit and will ensure you have your say on the final deal."
+            },
+            {
+                "policyTitle": "Standing up for the NHS",
+                "policyDescription": "Will invest \u00a33.5 billion to protect our NHS services and ensure that every penny from the sale of homes declared within estates before death would give the funds needed."
+            },
+            {
+                "policyTitle": "Opposing school cuts",
+                "policyDescription": "Opposes underfunding of schools and will fight to ensure Nottingham schools do not suffer from \u00a33.5 million in budget cuts."
+            }
+        ],
+        "mentions": {
+            "candidate": "Barry Holliday",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The Liberal Democrats believe that the biggest threat facing our area and the country is a hard Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "Opposes underfunding of schools and will fight to ensure Nottingham schools do not suffer from \u00a33.5 million in budget cuts.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Will invest \u00a33.5 billion to protect our NHS services.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "43 Bridgman Road, Nottingham",
+            "phone": "",
+            "email": "",
+            "website": "libdems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "The election on June 8th is your chance to change the country.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Will invest \u00a33.5 billion to protect our NHS services and ensure that every penny from the sale of homes declared within estates before death would give the funds needed."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "The Liberal Democrats believe that the biggest threat facing our area and the country is a hard Brexit.",
+                        "Opposes underfunding of schools and will fight to ensure Nottingham schools do not suffer from \u00a33.5 million in budget cuts.",
+                        "The election on June 8th is your chance to change the country."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Opposes underfunding of schools and will fight to ensure Nottingham schools do not suffer from \u00a33.5 million in budget cuts."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "The Liberal Democrats believe that the biggest threat facing our area and the country is a hard Brexit.",
+                        "Will invest \u00a33.5 billion to protect our NHS services."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Opposes underfunding of schools and will fight to ensure Nottingham schools do not suffer from \u00a33.5 million in budget cuts."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Liberal Democrats believe that the biggest threat facing our area and the country is a hard Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Here in Nottingham East, local campaigner Barry Holliday will be fighting for you."
+                ]
+            }
+        }
+    }
+}

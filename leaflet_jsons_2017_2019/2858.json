@@ -1,0 +1,189 @@
+{
+    "leaflet": {
+        "candidateName": "Bridget Fox",
+        "candidateGender": "Female",
+        "constituency": "Islington",
+        "politicalParty": "Lib Dem",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Bridget's pledges to you",
+                "content": "I love our area, I've lived in Islington for nearly 20 years. My Granddad even ran a shop on City Road. I will always fight for local people - like when I led the campaign that saved the Essex Road Post Office."
+            },
+            {
+                "title": "Pledge 1",
+                "content": "I will be a hardworking local MP and will always put our area - and not party politics - first."
+            },
+            {
+                "title": "Pledge 2",
+                "content": "I joined thousands of local people to march against the Iraq war - I will never vote for an illegal war."
+            },
+            {
+                "title": "Pledge 3",
+                "content": "Like you, I live here in Islington. I'll never claim a penny for my housing, only for the cost of serving you."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Local Campaigns",
+                "policyDescription": "Fight for local people like when she led the campaign that saved the Essex Road Post Office."
+            },
+            {
+                "policyTitle": "Anti-Iraq War",
+                "policyDescription": "Joined thousands of local people to march against the Iraq war and will never vote for an illegal war."
+            },
+            {
+                "policyTitle": "Local MP Commitment",
+                "policyDescription": "Will put area first before party politics and will not claim housing expenses."
+            }
+        ],
+        "mentions": {
+            "candidate": "Bridget Fox",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "Elections in here are always a close race between the Lib Dems and Labour. The Conservatives and Green Party are out of the race and can't win here."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I will always fight for local people like when I led the campaign that saved the Essex Road Post Office.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I love our area, I've lived in Islington for nearly 20 years. My Granddad even ran a shop on City Road. I will always fight for local people - like when I led the campaign that saved the Essex Road Post Office.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "2 Ockendon Mews, Ockendon Road, LONDON, N1 3JL",
+            "phone": "",
+            "email": "",
+            "website": "www.Islington-LibDems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I will always fight for local people like when I led the campaign that saved the Essex Road Post Office.",
+                        "I will be a hardworking local MP and will always put our area - and not party politics - first.",
+                        "I joined thousands of local people to march against the Iraq war - I will never vote for an illegal war."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "I will always fight for local people like when I led the campaign that saved the Essex Road Post Office.",
+                        "I will be a hardworking local MP and will always put our area - and not party politics - first."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "I joined thousands of local people to march against the Iraq war - I will never vote for an illegal war."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I love our area, I've lived in Islington for nearly 20 years. My Granddad even ran a shop on City Road.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour MPs voted to close our local Post Offices."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Labour MPs voted against plans to get more police on our streets.",
+                        "Labour MPs voted for the Iraq war."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I live here in Islington.",
+                "employment": "",
+                "education": "",
+                "family": "My Granddad even ran a shop on City Road."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I love our area, I've lived in Islington for nearly 20 years.",
+                    "I live here in Islington."
+                ]
+            }
+        }
+    }
+}

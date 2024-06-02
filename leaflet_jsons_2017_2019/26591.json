@@ -1,0 +1,167 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "candidateGender": "Female",
+        "constituency": "",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Making Brexit a Success is Central to Our National Interest",
+                "content": "As a nation, we face the most important period in our lifetime. Making Brexit a success is central to our national interest \u2014 and it is central to our own security and prosperity."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Going to Brussels with a strong negotiating hand to ensure economic security, better paying jobs, affordable housing, a good school place for every child, and strong NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "People are saying Jeremy Corbyn can\u2019t possibly become Prime Minister."
+        },
+        "issues": {
+            "brexitEurope": "Making Brexit a success is central to our national interest.",
+            "defence": "",
+            "economy": "Delivering better paying jobs, more affordable housing.",
+            "education": "Delivering a good school place for every child.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Delivering a strong economy paying for a strong NHS.",
+            "immigration": "",
+            "labourEmployment": "Better paying jobs.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Affordable housing.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "CCHQ, 4 Matthew Parker Street, London, SW1H 9HQ",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn has said himself he was a 2010 \u2013 outside chance.",
+                        "Going to Brussels with a strong negotiating hand."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Making Brexit a success is central to our national interest.",
+                        "Strong and stable leadership with me in the national interest.",
+                        "A hung parliament and coalition of chaos with Jeremy Corbyn.",
+                        "Delivering better paying jobs, more affordable housing, a good school place for every child."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "The constituency of Leeds North East.",
+                        "Delivering better paying jobs, more affordable housing, a good school place for every child."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Making Brexit a success.",
+                        "Strong NHS."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Every single one of you will pay for it in higher taxes, fewer jobs, more waste and more debt."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "And now Jeremy Corbyn has said himself he was a 2010 \u2013 outside chance.",
+                        "Unlike Jeremy Corbyn who has said we should leave UC as soon as possible."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 3,
+                    "examples": [
+                        "A hung parliament and coalition of chaos with Jeremy Corbyn.",
+                        "But our opponents are already seeking to ruin our chances of getting the best Brexit deal.",
+                        "Every single vote for Jeremy Corbyn."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 2,
+                    "examples": [
+                        "But our opponents are already seeking to ruin our chances of getting the best Brexit deal.",
+                        "So people are saying Jeremy Corbyn can\u2019t possibly become Prime Minister."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 3,
+                    "examples": [
+                        "A hung parliament and coalition of chaos with Jeremy Corbyn.",
+                        "But our opponents are already seeking to ruin our chances of getting the best Brexit deal.",
+                        "Every single vote for Jeremy Corbyn."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

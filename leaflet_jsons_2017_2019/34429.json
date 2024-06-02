@@ -1,0 +1,177 @@
+{
+    "leaflet": {
+        "candidateName": "Tony Miklinski",
+        "candidateGender": "",
+        "constituency": "North East Fife",
+        "politicalParty": "Scottish Conservative and Unionist Party",
+        "electionDate": "Thursday 12th December",
+        "messages": [
+            {
+                "title": "Nicola Sturgeon wants to hold another independence referendum next year",
+                "content": "Nicola Sturgeon wants to hold another independence referendum next year, and Jeremy Corbyn has said his Labour Party won\u2019t even stand in the way of one taking place. So this election could be our last chance to stop that referendum, but to do that we all need to send Nicola Sturgeon and the SNP a message they can\u2019t ignore."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stand firm against the SNP\u2019s plans for another divisive independence referendum",
+                "policyDescription": "We voted to stay in the Union."
+            },
+            {
+                "policyTitle": "End the Parliamentary stalemate",
+                "policyDescription": "Get the nation moving again."
+            },
+            {
+                "policyTitle": "Invest in primary NHS care",
+                "policyDescription": "Maintain a full range of services in both Cupar and St Andrews hospitals."
+            },
+            {
+                "policyTitle": "Support Agriculture, Tourism, Fishing, and St Andrews University",
+                "policyDescription": "Ensure these sectors thrive in our modern dynamic environment."
+            }
+        ],
+        "mentions": {
+            "candidate": "Tony Miklinski",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Nicola Sturgeon",
+            "tacticalSituation": "Only one vote on Thursday 12th December can make Nicola Sturgeon listen and stop the threat of another independence referendum."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "End the Parliamentary stalemate and get the nation moving again.",
+            "education": "",
+            "environment": "",
+            "governance": "Stand firm against the SNP\u2019s plans for another divisive independence referendum.",
+            "government": "",
+            "health": "Invest in primary NHS care and maintain a full range of services in both Cupar and St Andrews hospitals.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Make sure that Agriculture, Tourism, Fishing and St Andrews University can thrive in our modern dynamic environment.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Hill House, Haig Business Park, Balgonie Road, Markinch, KY7 6AQ.",
+            "phone": "07872 931040",
+            "email": "tony@tony4nefife.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@tony4nefife",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "CORBYN ACCUSED OF PLOT TO BREAK UP BRITAIN",
+                "source": "Scottish Daily Mail",
+                "date": "October 2019"
+            },
+            {
+                "text": "Corbyn could back new indyref \u2018as early as 2021\u2019",
+                "source": "The Scotsman",
+                "date": "October 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Only one vote on Thursday 12th December can make Nicola Sturgeon listen and stop the threat of another independence referendum."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Nicola Sturgeon wants to hold another independence referendum next year.",
+                        "Jeremy Corbyn has said his Labour Party won\u2019t even stand in the way of one taking place.",
+                        "We voted to stay in the Union.",
+                        "Investing in primary NHS care and maintaining a full range of services in both Cupar and St Andrews hospitals."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Invest in primary NHS care and maintain a full range of services in both Cupar and St Andrews hospitals.",
+                        "Make sure that Agriculture, Tourism, Fishing and St Andrews University can thrive in our modern dynamic environment."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Stand firm against the SNP\u2019s plans for another divisive independence referendum.",
+                        "End the Parliamentary stalemate and get the nation moving again."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Nicola Sturgeon wants to hold another independence referendum next year."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn has said his Labour Party won\u2019t even stand in the way of one taking place."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

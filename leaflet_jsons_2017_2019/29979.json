@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Flick Drummond",
+        "candidateGender": "",
+        "constituency": "Portsmouth South",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Standing with Theresa May",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Preventing Homelessness and Improving Education",
+                "policyDescription": "Flick is working to prevent homelessness on our streets, helping with loneliness among older people and improving education."
+            }
+        ],
+        "mentions": {
+            "candidate": "Flick Drummond",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Flick is working to improve education.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Helping with loneliness among older people.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Flick is working to prevent homelessness on our streets.",
+            "community": [
+                {
+                    "content": "Flick loves living in Southsea and has been campaigning with people for the last 10 years on the issues that matter to us.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Member of Parliament",
+                "duration": "two years",
+                "achievements": "Supported 4000 people, speaks in Parliament frequently and has taken no personal expenses."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "During her two years, Flick has supported 4000 people."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Flick is working to prevent homelessness on our streets, helping with loneliness among older people and improving education.",
+                        "Flick loves living in Southsea and has been campaigning with people for the last 10 years on the issues that matter to us."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Flick loves living in Southsea and has been campaigning with people for the last 10 years on the issues that matter to us."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Flick is working to prevent homelessness on our streets, helping with loneliness among older people and improving education."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Flick loves living in Southsea and has been campaigning with people for the last 10 years on the issues that matter to us.",
+                    "issueRelated": "Community Involvement"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Flick loves living in Southsea and has been campaigning with people for the last 10 years on the issues that matter to us.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Flick loves living in Southsea and has been campaigning with people for the last 10 years on the issues that matter to us."
+                ]
+            }
+        }
+    }
+}

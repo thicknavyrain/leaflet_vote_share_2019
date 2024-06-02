@@ -1,0 +1,176 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "",
+                "content": "A decade of Conservative cuts has damaged our economy, our communities and driven our public services to breaking point. This election is a chance to change course and shape our country for a generation."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Invest in our NHS",
+                "policyDescription": "To provide more doctors and nurses and cut waiting times."
+            },
+            {
+                "policyTitle": "Green Industrial Revolution",
+                "policyDescription": "To tackle the Climate Emergency and create high skilled, high wage jobs."
+            },
+            {
+                "policyTitle": "Public Ownership",
+                "policyDescription": "Bring rail, water and energy into public ownership to give you a better deal."
+            },
+            {
+                "policyTitle": "Lifelong Learning",
+                "policyDescription": "Invest in our schools and provide free lifelong learning for everyone."
+            },
+            {
+                "policyTitle": "Living Wage",
+                "policyDescription": "Introduce a real living wage, ban zero hours contracts and strengthen workers\u2019 rights."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Give you the final say on Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": "The Lib Dems can't win here. A vote for the Lib Dems or any other party is a vote for Boris Johnson\u2019s Tories."
+        },
+        "issues": {
+            "brexitEurope": "Give you the final say on Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "Invest in our schools and provide free lifelong learning for everyone.",
+            "environment": "Kick start a Green Industrial Revolution to tackle the Climate Emergency and create high skilled, high wage jobs.",
+            "governance": "",
+            "government": "",
+            "health": "Invest in our NHS to provide more doctors and nurses and cut waiting times.",
+            "immigration": "",
+            "labourEmployment": "Introduce a real living wage, ban zero hours contracts and strengthen workers\u2019 rights.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Bring rail, water and energy into public ownership to give you a better deal.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "The Labour Party, c/o Potts Print (UK), Atlas House, Nelson Park, Cramlington, Northumberland, NE23 1WG",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "A decade of Conservative cuts has damaged our economy, our communities and driven our public services to breaking point."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "This election is a chance to change course and shape our country for a generation.",
+                        "The Lib Dems can't win here. A vote for the Lib Dems or any other party is a vote for Boris Johnson\u2019s Tories.",
+                        "Britain is at a crossroads. It\u2019s time for real change."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Bring rail, water and energy into public ownership to give you a better deal."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Invest in our NHS to provide more doctors and nurses and cut waiting times.",
+                        "Kick start a Green Industrial Revolution to tackle the Climate Emergency and create high skilled, high wage jobs.",
+                        "Invest in our schools and provide free lifelong learning for everyone.",
+                        "Introduce a real living wage, ban zero hours contracts and strengthen workers\u2019 rights."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "A decade of Conservative cuts has damaged our economy, our communities and driven our public services to breaking point."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "You can't trust Boris Johnson\u2019s Tories."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

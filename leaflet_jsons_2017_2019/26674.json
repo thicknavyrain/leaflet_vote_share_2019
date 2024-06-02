@@ -1,0 +1,164 @@
+{
+    "leaflet": {
+        "candidateName": "Alex Norris",
+        "candidateGender": "",
+        "constituency": "Nottingham North",
+        "politicalParty": "Labour",
+        "electionDate": "June 8",
+        "messages": [
+            {
+                "title": "A message from Graham Allen",
+                "content": "After 30 years of service to our community I have decided not to stand in the General Election for Labour. I love our community and I\u2019m proud of the difference that we\u2019ve made together. Our area needs another active, committed and local Member of Parliament. Labour has an excellent candidate that fits the bill, Alex Norris. He is a local man. He is a terrific local councillor. He is hard working, honest and cares deeply about our community. I couldn\u2019t think of a better person to replace me. For 30 years you have put your trust in me as your Member of Parliament. Now I ask you, like me, put your trust in Alex Norris. On June 8th, make sure you vote for Labour and Alex Norris."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Following the retirement of excellent Member of Parliament Graham Allen the Labour Party have chosen local man Alex Norris to stand in the General Election.",
+            "otherPartyLeaderCandidate": "This Tory government has overseen the biggest cuts to our public services in a generation. That\u2019s hit the NHS, schools and police.",
+            "partyLeader": "",
+            "tacticalSituation": "People here in Nottingham North need a local representative that will put them first. They need a Labour MP who will stand up for them - and that\u2019s exactly what I\u2019ll do, if you elect me on June 8th."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "This Tory government has overseen the biggest cuts to our public services in a generation. That\u2019s hit the NHS, schools and police.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "This Tory government has overseen the biggest cuts to our public services in a generation. That\u2019s hit the NHS, schools and police.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "People here in Nottingham North need a local representative that will put them first. They need a Labour MP who will stand up for them - and that\u2019s exactly what I\u2019ll do, if you elect me on June 8th.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Graham Allen",
+                "endorsement": "After 30 years of service to our community I have decided not to stand in the General Election for Labour. I love our community and I\u2019m proud of the difference that we\u2019ve made together. Our area needs another active, committed and local Member of Parliament. Labour has an excellent candidate that fits the bill, Alex Norris. He is a local man. He is a terrific local councillor. He is hard working, honest and cares deeply about our community. I couldn\u2019t think of a better person to replace me. For 30 years you have put your trust in me as your Member of Parliament. Now I ask you, like me, put your trust in Alex Norris. On June 8th, make sure you vote for Labour and Alex Norris."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Local resident and Councillor, Alex Norris, chosen as Labour's candidate"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "For 30 years you have put your trust in me as your Member of Parliament. Now I ask you, like me, put your trust in Alex Norris."
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "People here in Nottingham North need a local representative that will put them first."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "This Tory government has overseen the biggest cuts to our public services in a generation. That\u2019s hit the NHS, schools and police."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Graham Allen endorses Alex Norris"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "This Tory government has overseen the biggest cuts to our public services in a generation. That\u2019s hit the NHS, schools and police."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "He is a local man. He is a terrific local councillor.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "He is a local man. He is a terrific local councillor."
+                ]
+            }
+        }
+    }
+}

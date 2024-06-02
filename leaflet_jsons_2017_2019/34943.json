@@ -1,0 +1,183 @@
+{
+    "leaflet": {
+        "candidateName": "Catherine Atkinson",
+        "candidateGender": "",
+        "constituency": "Erewash",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "It's time for change",
+                "content": "Erewash needs an MP who will stand up for local people."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Transport",
+                "policyDescription": "Opposition to HS2 and the impact it has on local communities."
+            },
+            {
+                "policyTitle": "Public Services",
+                "policyDescription": "Increase police numbers and restore cut services."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Opposition to cuts in school kitchen staff hours to maintain quality education."
+            }
+        ],
+        "mentions": {
+            "candidate": "Catherine Atkinson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Opposition to cuts in school kitchen staff hours.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Increase police numbers.",
+            "transport": "Opposition to HS2.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "For nine years we have had a Conservative Government that have pulled resources from Erewash. The local Conservative MP has consistently voted in favour of these cuts. I am proud to have served as a Labour candidate and have successfully campaigned against local issues affecting our area, including cuts to local services like the NHS, education and community hospitals. If I am elected as your MP, I will fight for the best for local people.",
+        "politicalExperience": [
+            {
+                "role": "Labour Parliamentary Candidate",
+                "duration": "",
+                "achievements": "Successfully campaigned against local issues such as cuts to local services like the NHS, education and community hospitals."
+            }
+        ],
+        "contactInformation": {
+            "address": "Promoted by Geoff Stratford on behalf of Catherine Atkinson both of 35 Portland Road Hill Top Eastwood Nottingham NG16 3AF",
+            "phone": "",
+            "email": "catherine@erashlabour.com",
+            "website": "erewash.labour.org.uk",
+            "socialMedia": {
+                "facebook": "Facebook.com/OurCatherineAtkinson",
+                "twitter": "catherineatkinson80",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Catherine Atkinson and Clir. James Dawson speak out against the damage HS2 will do to Erewash"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Under the Tories, 20,000 police officers have been axed and crime is rising at the fastest rate in a decade."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "It's time for change. Erewash needs an MP who will stand up for local people.",
+                        "Catherine Atkinson and Clir. James Dawson speak out against the damage HS2 will do to Erewash."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Opposition to HS2 and the impact it has on local communities.",
+                        "Increase police numbers and restore cut services.",
+                        "Opposition to cuts in school kitchen staff hours to maintain quality education."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Increase police numbers and restore cut services."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Catherine is standing side by side with school kitchen staff and families who understand the importance of decent school dinners.",
+                    "issueRelated": "education"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "Police numbers are down and crime is on the rise under this Tory Government.",
+                        "335 fewer police in Derbyshire under the Tories.",
+                        "Tory cuts mean that residents in Long Eaton are losing bus services."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "If I am elected as your MP, I will fight for the best for local people."
+                ]
+            }
+        }
+    }
+}

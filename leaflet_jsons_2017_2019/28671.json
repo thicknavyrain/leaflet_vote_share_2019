@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "Derek Thomas",
+        "candidateGender": "",
+        "constituency": "West Cornwall & The Isles of Scilly",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Our Achievements",
+                "content": "We now have cheaper car parking at West Cornwall Hospital; an emerging, positive plan for the Isles of Scilly Transport System; a brand new year-round helicopter service from Penzance to the Isles, also enabling ambulances to cross; we have secured \u00a348million fund for investment in Penguin communications which means superfast broadband rollout can continue, addressing a serious issue for many people in Penzance; and we have a growing local economy with thriving tech industries."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Supporting Our Fishermen",
+                "policyDescription": "Lobbying ministers to secure funding for the fishers' work, helping fishermen upgrade their boats and ensuring sustainable fishing practices."
+            },
+            {
+                "policyTitle": "Investing in Healthcare",
+                "policyDescription": "Working to recruit more GPs, ensure funding for hospitals, and supporting mental health initiatives."
+            }
+        ],
+        "mentions": {
+            "candidate": "Derek Thomas",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Recruiting more GPs, funding hospitals, supporting mental health initiatives.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Positive plan for the Isles of Scilly Transport System, year-round helicopter service from Penzance to the Isles.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "A growing local economy with thriving tech industries.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "53 Fore Street, St Just, Penzance, TR19 ILH.",
+            "phone": "01736 787 903",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Cheaper car parking at West Cornwall Hospital."
+                },
+                {
+                    "caption": "Positive plan for the Isles of Scilly Transport System."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Secured \u00a348million fund for investment in Penguin communications.",
+                        "Year-round helicopter service from Penzance to the Isles."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Emerging, positive plan for the Isles of Scilly Transport System.",
+                        "Growing local economy with thriving tech industries.",
+                        "Supporting mental health initiatives."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 4,
+                "people": 2,
+                "candidateAlone": 2,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Cheaper car parking at West Cornwall Hospital.",
+                        "Year-round helicopter service from Penzance to the Isles.",
+                        "Growing local economy with thriving tech industries."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Recruiting more GPs.",
+                        "Supporting mental health initiatives."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 3,
+                    "examples": [
+                        "Think Jeremy Corbyn as Prime Minister: don't be so sure.",
+                        "A coalition of chaos with Jeremy Corbyn.",
+                        "Jeremy Corbyn as Prime Minister with higher taxes, more debt, economic chaos."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

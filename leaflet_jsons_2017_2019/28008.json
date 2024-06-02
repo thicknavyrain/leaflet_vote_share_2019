@@ -1,0 +1,214 @@
+{
+    "leaflet": {
+        "candidateName": "Jane Hunt",
+        "candidateGender": "Female",
+        "constituency": "Nottingham South",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Standing with Theresa May",
+                "content": "Jane Hunt is standing with Theresa May as my local candidate for the Nottingham South constituency. And I'm asking you to back me by voting for Jane Hunt in this unique and crucial election."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "BREXIT",
+                "policyDescription": "Secure the best deal from Brexit to control our laws, borders and money"
+            },
+            {
+                "policyTitle": "ECONOMY",
+                "policyDescription": "New markets around the world for our goods and services. More and better-paid jobs with new rights and protections for workers. Tackling the cost of living and keeping taxes low."
+            },
+            {
+                "policyTitle": "HOUSING",
+                "policyDescription": "The chance to own your own home with more affordable housing."
+            },
+            {
+                "policyTitle": "EDUCATION",
+                "policyDescription": "Increased school funding every year and real technical education for young people."
+            },
+            {
+                "policyTitle": "HEALTH",
+                "policyDescription": "Extra funding for the NHS and proper care for the elderly."
+            },
+            {
+                "policyTitle": "SECURITY",
+                "policyDescription": "Security for our children online and personal data protected."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jane Hunt is standing with Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "Discussions between Labour, the Lib Dems and the Green Party are taking place in at least 25 constituencies"
+        },
+        "issues": {
+            "brexitEurope": "Secure the best deal from Brexit to control our laws, borders and money",
+            "defence": "",
+            "economy": "New markets around the world for our goods and services. More and better-paid jobs with new rights and protections for workers.",
+            "education": "Increased school funding every year and real technical education for young people.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Extra funding for the NHS and proper care for the elderly.",
+            "immigration": "",
+            "labourEmployment": "More and better-paid jobs with new rights and protections for workers.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Jane has a background in business and will bring her skills and experience from the local economy.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Theresa May",
+                "endorsement": "Jane Hunt is standing with Theresa May as my local candidate for the Nottingham South constituency."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "The choice at the general election is between strong and stable leadership in the national interest with me and the Conservatives - or weak and unstable coalition government led by Jeremy Corbyn.",
+                "source": "Theresa May",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Jane Hunt with Theresa May"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 7,
+                    "examples": [
+                        "Standing with Theresa May",
+                        "Secure the best deal from Brexit to control our laws, borders and money",
+                        "New markets around the world for our goods and services",
+                        "More and better-paid jobs with new rights and protections for workers",
+                        "The chance to own your own home with more affordable housing",
+                        "Jane has a background in business and will bring her skills and experience from the local economy"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Jane has a background in business and will bring her skills and experience from the local economy."
+                    ]
+                },
+                "national": {
+                    "count": 6,
+                    "examples": [
+                        "Secure the best deal from Brexit to control our laws, borders and money.",
+                        "New markets around the world for our goods and services.",
+                        "More and better-paid jobs with new rights and protections for workers.",
+                        "Increased school funding every year and real technical education for young people.",
+                        "Extra funding for the NHS and proper care for the elderly.",
+                        "Security for our children online and personal data protected."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Jane has a background in business and will bring her skills and experience from the local economy.",
+                    "issueRelated": "Economy"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Jane Hunt is standing with Theresa May as my local candidate for the Nottingham South constituency."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Discussions between Labour, the Lib Dems and the Green Party are taking place in at least 25 constituencies."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 4,
+                    "examples": [
+                        "Discussions between Labour, the Lib Dems and the Green Party are taking place in at least 25 constituencies.",
+                        "It's nonsense for the local Labour Party to say that a vote for the Labour candidate in Nottingham South doesn't count nationally.",
+                        "The only way to make a real difference is to back me by voting for my local candidate, Jane Hunt.",
+                        "Any vote for the Labour candidate in Nottingham South will weaken my hand and put Jeremy Corbyn one step closer to being Prime Minister."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Jane has a background in business and will bring her skills and experience from the local economy.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Jane has a background in business and will bring her skills and experience from the local economy."
+                ]
+            }
+        }
+    }
+}

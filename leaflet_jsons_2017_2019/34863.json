@@ -1,0 +1,176 @@
+{
+  "leaflet": {
+    "candidateName": "Kenny MacAskill",
+    "candidateGender": "",
+    "constituency": "East Lothian",
+    "politicalParty": "SNP",
+    "electionDate": "12 December",
+    "messages": [
+      {
+        "title": "A positive future with the SNP",
+        "content": "The SNP have consistently argued that the best future for Scotland is as an independent member of the EU. Scotland must be able to decide on its own future. In this election it is the SNP that have a vision for a fairer, more prosperous, successful Scotland."
+      },
+      {
+        "title": "You can use your vote to make a difference",
+        "content": "At this election your vote for me can send a crystal clear message that this time Scotland will not be ignored when decisions are made and that Scotland's voice is heard."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit has taken the UK to the edge of an economic disaster",
+        "policyDescription": "Brexit and this irresponsible government will inflict massive damage on Scotland. That's partly because even the UK Government's own analysis says so. Scotland should be able to stop Brexit."
+      },
+      {
+        "policyTitle": "A positive future with the SNP",
+        "policyDescription": "The SNP have consistently argued that the best future for Scotland is as an independent member of the EU. Scotland must be able to decide on its own future. The SNP has a vision for a fairer, more prosperous, and successful Scotland."
+      }
+    ],
+    "mentions": {
+      "candidate": "Kenny MacAskill",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Brexit has taken the UK to the edge of an economic disaster. The SNP have consistently argued that the best future for Scotland is as an independent member of the EU.",
+      "defence": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "government": "",
+      "health": "",
+      "immigration": "",
+      "labourEmployment": "",
+      "lawCrime": "",
+      "transport": "",
+      "socialWelfare": "",
+      "community": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "",
+        "source": "",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "SNP Supporters"
+        }
+      ]
+    },
+    "additionalNotes": "",
+    "analysis": {
+      "statementAnalysis": {
+        "quantitative": {
+          "count": 1,
+          "examples": [
+            "That's partly because even the UK Government's own analysis says so."
+          ]
+        },
+        "qualitative": {
+          "count": 2,
+          "examples": [
+            "Brexit has taken the UK to the edge of an economic disaster.",
+            "At this election your vote for me can send a crystal clear message that this time Scotland will not be ignored when decisions are made and that Scotland's voice is heard."
+          ]
+        }
+      },
+      "photoAnalysis": {
+        "localPlaces": 0,
+        "people": 1,
+        "candidateAlone": 0,
+        "candidateWithOthers": 0
+      },
+      "issueFocus": {
+        "local": {
+          "count": 0,
+          "examples": [""]
+        },
+        "national": {
+          "count": 1,
+          "examples": [
+            "Brexit has taken the UK to the edge of an economic disaster."
+          ]
+        }
+      },
+      "personalStories": [
+        {
+          "story": "",
+          "issueRelated": ""
+        }
+      ],
+      "endorsementsUsed": {
+        "count": 0,
+        "examples": [""]
+      },
+      "negativeMessaging": {
+        "localIssues": {
+          "count": 0,
+          "examples": [""]
+        },
+        "nationalIssues": {
+          "count": 1,
+          "examples": [
+            "Brexit has taken the UK to the edge of an economic disaster."
+          ]
+        },
+        "leaderOfOpponentsParty": {
+          "count": 0,
+          "examples": [""]
+        },
+        "oppositeCandidateNoName": {
+          "count": 0,
+          "examples": [""]
+        },
+        "oppositeCandidateWithName": {
+          "count": 0,
+          "examples": [""]
+        }
+      },
+      "nonPolicyAttributes": {
+        "localness": "",
+        "employment": "",
+        "education": "",
+        "family": ""
+      },
+      "localCandidate": {
+        "isLocal": false,
+        "examples": [""]
+      }
+    }
+  }
+}

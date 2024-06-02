@@ -1,0 +1,180 @@
+{
+    "leaflet": {
+        "candidateName": "Pam",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Scottish Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Pick Pam Today",
+                "content": "Polls open 7am-10pm. Vote Scottish Labour. Spot the difference tomorrow. It's time for real change."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "\u00a310 Minimum Wage",
+                "policyDescription": "Implement a \u00a310 minimum wage."
+            },
+            {
+                "policyTitle": "Free Fibre Broadband",
+                "policyDescription": "Provide free fibre broadband."
+            },
+            {
+                "policyTitle": "New Homes",
+                "policyDescription": "Build thousands of new homes."
+            },
+            {
+                "policyTitle": "Green New Deal",
+                "policyDescription": "Implement a Green New Deal."
+            },
+            {
+                "policyTitle": "Remain in EU and UK",
+                "policyDescription": "Support remaining in the EU and UK."
+            }
+        ],
+        "mentions": {
+            "candidate": "Pam",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Remain in EU and UK",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Green New Deal",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "\u00a310 Minimum Wage",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "1000s of New Homes",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "290 Bath Street, G2 4RE",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Pam (a female candidate) in a red jacket sitting in a wheelchair holding campaign material."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Polls open 7am-10pm.",
+                        "1000s of New Homes"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "She's a fighter.",
+                        "Spot the difference tomorrow."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "1000s of New Homes"
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "\u00a310 Minimum Wage",
+                        "Free Fibre Broadband",
+                        "Green New Deal",
+                        "Remain in EU and UK"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

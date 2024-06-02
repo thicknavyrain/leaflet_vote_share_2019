@@ -1,0 +1,187 @@
+{
+    "leaflet": {
+        "candidateName": "Andrew Waters",
+        "candidateGender": "",
+        "constituency": "SW Bedfordshire",
+        "politicalParty": "Green Party",
+        "electionDate": "12th December",
+        "messages": [
+            {
+                "title": "Vote for Andrew on 12th December for:",
+                "content": [
+                    "TAKING REAL ACTION ON THE CLIMATE CRISIS",
+                    "MAKING SOCIETY WORK FOR EVERYONE",
+                    "GIVING THE PUBLIC A FINAL SAY ON BREXIT",
+                    "A GREEN NEW DEAL with investment in new green jobs, green housing, and a sustainable transport revolution. No more fossil fuel subsidies.",
+                    "A FAIRER SOCIETY FOR BRITAIN - Scrap tuition fees. Free public childcare. Proper funding for the NHS. Access to mental healthcare.",
+                    "POWER TO THE PEOPLE - Co-operatively owned public utilities. A basic income for all. Support for small businesses. Proportional representation for future elections."
+                ]
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Climate Crisis",
+                "policyDescription": "Taking real action on the climate crisis"
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Giving the public a final say on Brexit"
+            },
+            {
+                "policyTitle": "Green New Deal",
+                "policyDescription": "Investment in new green jobs, green housing, and a sustainable transport revolution. No more fossil fuel subsidies."
+            },
+            {
+                "policyTitle": "Fairer Society",
+                "policyDescription": "Scrap tuition fees. Free public childcare. Proper funding for the NHS. Access to mental healthcare."
+            },
+            {
+                "policyTitle": "Power to the People",
+                "policyDescription": "Co-operatively owned public utilities. A basic income for all. Support for small businesses. Proportional representation for future elections."
+            }
+        ],
+        "mentions": {
+            "candidate": "Andrew Waters",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Final say on Brexit",
+            "defence": "",
+            "economy": "",
+            "education": "Scrap tuition fees",
+            "environment": "Taking real action on the climate crisis, Green New Deal",
+            "governance": "",
+            "government": "Proportional representation for future elections",
+            "health": "Proper funding for the NHS, Access to mental healthcare",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Sustainable transport revolution",
+            "socialWelfare": "Free public childcare, Basic income for all",
+            "community": [
+                {
+                    "content": "Support for small businesses",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "andrew.waters@greenparty.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "@Green4SWBeds",
+                "twitter": "@Green4SWBeds",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Andrew Waters"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Taking real action on the climate crisis."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 6,
+                    "examples": [
+                        "Green New Deal",
+                        "Fairer Society",
+                        "Power to the People",
+                        "Proportional representation",
+                        "Brexit",
+                        "NHs funding"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Your SW Bedfordshire Green Party candidate"
+                ]
+            }
+        }
+    }
+}

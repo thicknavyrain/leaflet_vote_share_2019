@@ -1,0 +1,173 @@
+{
+    "leaflet": {
+        "candidateName": "Cameron Matthews",
+        "candidateGender": "",
+        "constituency": "Suffolk Coastal",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "",
+                "content": "Let's call time on Tory austerity. Labour's Green New Deal will heal division and address the threat of the Climate Emergency. Vote for real change on 12 December. Vote Labour."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Green New Deal",
+                "policyDescription": "Labour's Green New Deal will address the threat of the Climate Emergency."
+            },
+            {
+                "policyTitle": "NHS Rescue Plan",
+                "policyDescription": "\u00a326bn NHS rescue plan will deal with the crisis."
+            },
+            {
+                "policyTitle": "Investment for Coastal Communities",
+                "policyDescription": "Campaign for investment to support our coastal communities."
+            }
+        ],
+        "mentions": {
+            "candidate": "Cameron Matthews",
+            "otherPartyLeaderCandidate": "Tories",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Labour's Green New Deal will address the threat of the Climate Emergency.",
+            "governance": "",
+            "government": "",
+            "health": "\u00a326bn NHS rescue plan will deal with the crisis.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Campaign for investment to support our coastal communities.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "0800 689 0859",
+            "email": "",
+            "website": "suffolkcoastallabour.org.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/SuffolkCoastLab",
+                "twitter": "twitter.com/SuffolkCoastLab",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Lynne Mortimer",
+                "endorsement": "She has fought for our NHS for years and continues to see patients at the local surgery."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "\u00a326bn NHS rescue plan will deal with the crisis."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Let's call time on Tory austerity."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 3,
+                "candidateAlone": 2,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Campaign for investment to support our coastal communities."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Labour's Green New Deal will address the threat of the Climate Emergency.",
+                        "\u00a326bn NHS rescue plan will deal with the crisis."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "She has fought for our NHS for years and continues to see patients at the local surgery."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Let's call time on Tory austerity."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

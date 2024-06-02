@@ -1,0 +1,175 @@
+{
+    "leaflet": {
+        "candidateName": "Helen Hayes",
+        "candidateGender": "",
+        "constituency": "Dulwich and West Norwood",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "",
+                "content": "After 10 years of Tory & Lib Dem cuts we need urgent change. Labour will provide a Final Say on Brexit, invest in King's College Hospital, reverse the cuts to our schools, tackle the climate emergency and build the genuinely affordable homes we need."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Labour will provide a Final Say on Brexit."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Invest in King's College Hospital."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Reverse the cuts to our schools."
+            },
+            {
+                "policyTitle": "Climate Change",
+                "policyDescription": "Tackle the climate emergency."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Build the genuinely affordable homes we need."
+            }
+        ],
+        "mentions": {
+            "candidate": "Helen Hayes",
+            "otherPartyLeaderCandidate": "Tory, Lib Dem",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Labour will provide a Final Say on Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "Reverse the cuts to our schools.",
+            "environment": "Tackle the climate emergency.",
+            "governance": "",
+            "government": "",
+            "health": "Invest in King's College Hospital.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Build the genuinely affordable homes we need.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "020 7787 0573",
+            "email": "helen@helenhayes.org.uk",
+            "website": "helenhayes.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@helenhayes_",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "After 10 years of Tory & Lib Dem cuts we need urgent change. Labour will provide a Final Say on Brexit, invest in King's College Hospital, reverse the cuts to our schools, tackle the climate emergency and build the genuinely affordable homes we need."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Working for Dulwich and West Norwood"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Labour will provide a Final Say on Brexit, invest in King's College Hospital, reverse the cuts to our schools, tackle the climate emergency and build the genuinely affordable homes we need."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "After 10 years of Tory & Lib Dem cuts we need urgent change."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "After 10 years of Tory & Lib Dem cuts we need urgent change."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

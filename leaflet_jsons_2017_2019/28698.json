@@ -1,0 +1,181 @@
+{
+    "leaflet": {
+        "candidateName": "Iain McGill",
+        "candidateGender": "",
+        "constituency": "Edinburgh North and Leith",
+        "politicalParty": "Scottish Conservative & Unionist",
+        "electionDate": "8th June 2017",
+        "messages": [
+            {
+                "title": "Can beat the SNP here in Edinburgh North and Leith",
+                "content": "On 8th June ONLY Iain McGill can beat the SNP here."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Iain McGill",
+            "otherPartyLeaderCandidate": "SNP, Labour, Lib Dems",
+            "partyLeader": "Ruth Davidson",
+            "tacticalSituation": "On 4th May 2017, SNP 27.6%, Con 25.9%, Labour and the Lib Dems can't win."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Set up his own business in 2005 working with the community and the private sector working across the country but has deep ties here in Leith.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "On leaving school in the constituency Iain spent years as a postman in Leith before working in overseas aid & development, in Africa, South America & Eastern Europe learning to fly hovercraft and speak Albanian amongst other things. On return to Scotland Ian manages projects working with children with additional support needs, rough sleepers, criminal justice and complex needs transition support.",
+        "politicalExperience": [
+            {
+                "role": "Candidate",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "67 Northumberland Street, Edinburgh, EH3 6JG",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Iain McGill with Ruth Davidson"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "On 4th May 2017, SNP 27.6%, Con 25.9%, Labour and the Lib Dems can't win."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Ruth Davidson's Candidate Iain McGill"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "SNP, Labour and the Lib Dems can't win."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "On leaving school in the constituency Iain spent years as a postman in Leith before working in overseas aid & development, in Africa, South America & Eastern Europe learning to fly hovercraft and speak Albanian amongst other things.",
+                    "issueRelated": "Labour and Employment"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "SNP, Labour and the Lib Dems can't win."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "deep ties here in Leith",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "deep ties here in Leith"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,201 @@
+{
+    "leaflet": {
+        "candidateName": "Luke Pollard",
+        "candidateGender": "",
+        "constituency": "Plymouth Sutton and Devonport",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "Putting Plymouth First",
+                "content": "I'm proud of Plymouth. Together we can make our city an even better place to live."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A good Brexit deal for Plymouth",
+                "policyDescription": "I will fight for a deal to secure our environment, fishing rights and to protect our exporters."
+            },
+            {
+                "policyTitle": "Stand up for our armed forces",
+                "policyDescription": "I will always support our Royal Navy and Royal Marines. Back Trident, scrap the new fleet of frigates and support our veterans."
+            },
+            {
+                "policyTitle": "Oppose Tory school cuts",
+                "policyDescription": "I will fight for properly funded schools. I want teachers to have the resources to help our students succeed."
+            },
+            {
+                "policyTitle": "Protect our hospitals and the NHS",
+                "policyDescription": "I will oppose Tory cuts and NHS privatisation. Only resources for doctors, nurses and hospitals."
+            }
+        ],
+        "mentions": {
+            "candidate": "Luke Pollard",
+            "otherPartyLeaderCandidate": "Tory MP",
+            "partyLeader": "",
+            "tacticalSituation": "Only Labour can beat the Tories here."
+        },
+        "issues": {
+            "brexitEurope": "negotiating a Brexit deal",
+            "defence": "Back Trident and fight Tory cuts to the Royal Navy",
+            "economy": "scrapping the Tory cuts to capital gains tax",
+            "education": "",
+            "environment": "fight for a deal to secure our environment",
+            "governance": "",
+            "government": "",
+            "health": "oppose Tory cuts and NHS privatisation",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Fight for properly funded schools",
+            "community": [
+                {
+                    "content": "I will put Plymouth before party and every day work to get a better deal for our city.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Local campaigner",
+                "duration": "",
+                "achievements": "Campaigning for Plymouth every single day."
+            }
+        ],
+        "contactInformation": {
+            "address": "Plymouth Labour, Lockyer Hall, Alfred St, Plymouth PL1 2RP",
+            "phone": "01752 269180",
+            "email": "luke@lukepollard.net",
+            "website": "www.lukepollard.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@LukePollard",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Becky Anderson, Mum of two, Plymouth",
+                "endorsement": "As a mother, I\u2019m worried about Tory cuts to our NHS and local schools. It is harder and harder to see my GP and the NHS seems to be in constant crisis. Schools are asking for money to buy vital equipment. I want an MP who will actually stand up for us, not sit on their hands. That is why I am backing Luke, because I believe he will fight for me and my family."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Plymouth is my home. It was where I was born and where I live. It\u2019s time we had an MP who will always put Plymouth first. I lost by just 523 votes in 2015. Only Labour can beat the Tories here. Your vote will make a difference.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "I lost by just 523 votes in 2015."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I'm proud of Plymouth. Together we can make our city an even better place to live.",
+                        "Only Labour can beat the Tories here.",
+                        "I will put Plymouth before party and every day work to get a better deal for our city."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 2,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "I will put Plymouth before party and every day work to get a better deal for our city.",
+                        "Plymouth is my home. It was where I was born and where I live."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "negotiating a Brexit deal",
+                        "Back Trident and fight Tory cuts to the Royal Navy",
+                        "oppose Tory cuts and NHS privatisation",
+                        "fight for a deal to secure our environment"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Becky Anderson, Mum of two, Plymouth: 'As a mother, I\u2019m worried about Tory cuts to our NHS and local schools.'",
+                    "issueRelated": "health, education"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Becky Anderson, Mum of two, Plymouth"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Only Labour can beat the Tories here."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Back Trident and fight Tory cuts to the Royal Navy",
+                        "oppose Tory cuts and NHS privatisation"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Only Labour can beat the Tories here."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Plymouth is my home. It was where I was born and where I live.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Plymouth is my home. It was where I was born and where I live.",
+                    "As a strong local campaigner, I fight for Plymouth every single day and I\u2019m standing because I think I could do a better job than our current Tory MP. He is failing to stand up for Plymouth."
+                ]
+            }
+        }
+    }
+}

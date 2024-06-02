@@ -1,0 +1,165 @@
+{
+    "leaflet": {
+        "candidateName": "John Stevenson",
+        "candidateGender": "",
+        "constituency": "Carlisle",
+        "politicalParty": "",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Road Infrastructure",
+                "policyDescription": "Secured \u00a3102 million to complete the ringroad around Carlisle and will continue to campaign to improve the A69."
+            },
+            {
+                "policyTitle": "Youth Apprenticeship",
+                "policyDescription": "Hosted the Carlisle Skills Fair which has helped young people find apprenticeship opportunities."
+            },
+            {
+                "policyTitle": "Investment in Carlisle",
+                "policyDescription": "Worked with Government to encourage investment into Carlisle with an Enterprise Zone, flights into Carlisle Airport, and a Garden Village."
+            },
+            {
+                "policyTitle": "Regional Investment",
+                "policyDescription": "Secured \u00a3390 million for the region as the Borderlands Champion and will campaign for more investment."
+            },
+            {
+                "policyTitle": "Law and Order",
+                "policyDescription": "Extra police officers being recruited in Cumbria to crack down on anti-social behaviour."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Ensure Carlisle gets its fair share of investment into the NHS for better emergency care and more access to GPs."
+            }
+        ],
+        "mentions": {
+            "candidate": "John Stevenson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Ensure Carlisle gets its fair share of investment into the NHS for better emergency care and more access to GPs.",
+            "immigration": "",
+            "labourEmployment": "Hosted the Carlisle Skills Fair which has helped young people find apprenticeship opportunities.",
+            "lawCrime": "Extra police officers being recruited in Cumbria to crack down on anti-social behaviour.",
+            "transport": "Secured \u00a3102 million to complete the ringroad around Carlisle and will continue to campaign to improve the A69.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Worked with Government to encourage investment into Carlisle with an Enterprise Zone, flights into Carlisle Airport, and a Garden Village.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "John Stevenson"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Secured \u00a3102 million to complete the ringroad around Carlisle.",
+                        "Secured \u00a3390 million for the region as the Borderlands Champion."
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "Will continue to campaign to improve the A69.",
+                        "Hosted the Carlisle Skills Fair which has helped young people find apprenticeship opportunities.",
+                        "Worked with Government to encourage investment into Carlisle with an Enterprise Zone, flights into Carlisle Airport, and a Garden Village.",
+                        "Extra police officers being recruited in Cumbria to crack down on anti-social behaviour.",
+                        "Will campaign for more investment.",
+                        "Ensure Carlisle gets its fair share of investment into the NHS for better emergency care and more access to GPs."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Secured \u00a3102 million to complete the ringroad around Carlisle.",
+                        "Hosted the Carlisle Skills Fair which has helped young people find apprenticeship opportunities."
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

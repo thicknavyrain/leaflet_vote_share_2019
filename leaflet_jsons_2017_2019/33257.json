@@ -1,0 +1,196 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "12th December",
+        "messages": [
+            {
+                "title": "The choice is simple: The Past or Future",
+                "content": "General Election 2019 could deliver \u2018seismic change\u2019 - ITV news"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Transforming Mental Health Services",
+                "policyDescription": "The Liberal Democrats will treat mental health with the same urgency as physical health."
+            },
+            {
+                "policyTitle": "Free Childcare and a Fairer Economy",
+                "policyDescription": "The Liberal Democrats offer free childcare and a fairer economy, ensuring all parents can boost their income and commitments to their children."
+            }
+        ],
+        "mentions": {
+            "candidate": "The Liberal Democrats, led by Jo Swinson",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The Liberal Democrats will treat mental health with the same urgency as physical health.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Families are working harder than ever, but far too many are struggling to get by.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.libdems.org.uk/plan",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "The nail in the coffin for Boris Johnson's conservatives. I used to vote Conservative, now I'm voting Lib Dem!",
+                "source": "",
+                "date": ""
+            },
+            {
+                "text": "The Lib Dem fightback is real and it\u2019s changing everything.",
+                "source": "SKY News",
+                "date": "August 2019"
+            },
+            {
+                "text": "Boris Johnson really is the British Trump.",
+                "source": "Huffington Post",
+                "date": "October 2019"
+            },
+            {
+                "text": "Boris Johnson facing \u2018Lib Dem surge\u2019.",
+                "source": "Independent",
+                "date": "September 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "The Lib Dem fightback is real and it\u2019s changing everything."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Boris Johnson really is the British Trump.",
+                        "Families are working harder than ever, but far too many are struggling to get by.",
+                        "The choice is simple: The Past or Future",
+                        "I used to vote Conservative, now I'm voting Lib Dem!"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "The Liberal Democrats will treat mental health with the same urgency as physical health.",
+                        "Free Childcare and a Fairer Economy"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "The nail in the coffin for Boris Johnson's conservatives. I used to vote Conservative, now I'm voting Lib Dem!",
+                    "issueRelated": "Economy"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The nail in the coffin for Boris Johnson's conservatives."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Boris Johnson really is the British Trump.",
+                        "Boris Johnson facing \u2018Lib Dem surge\u2019."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 2,
+                    "examples": [
+                        "The nail in the coffin for Boris Johnson's conservatives."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 3,
+                    "examples": [
+                        "Boris Johnson really is the British Trump.",
+                        "Boris Johnson facing \u2018Lib Dem surge\u2019.",
+                        "The nail in the coffin for Boris Johnson's conservatives."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

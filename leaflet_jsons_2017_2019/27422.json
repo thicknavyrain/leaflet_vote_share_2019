@@ -1,0 +1,190 @@
+{
+    "leaflet": {
+        "candidateName": "Mike Thornton",
+        "candidateGender": "",
+        "constituency": "Eastleigh",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8",
+        "messages": [
+            {
+                "title": "Special Report: Conservative MP's Broken Promises",
+                "content": "Labour are out of the race here and have already lost nationally. Only the Lib Dems can beat the Conservatives here."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Positive plans to give our NHS the funding it needs."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Standing up more Conservative cuts to school budgets and teachers."
+            }
+        ],
+        "mentions": {
+            "candidate": "Mike Thornton sets the pace in race to be our next MP",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Tim Farron",
+            "tacticalSituation": "Labour are out of the race here and have already lost nationally."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Standing up more Conservative cuts to school budgets and teachers.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Positive plans to give our NHS the funding it needs.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Tory cuts have left NHS on the brink of collapse says shocking report.",
+            "community": [
+                {
+                    "content": "Help get real change for Eastleigh",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "A strong voice for Eastleigh",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Eastleigh Liberal Democrats, 107 Leigh Road, Eastleigh, SO50 9DR",
+            "phone": "",
+            "email": "",
+            "website": "libdems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "The Independent",
+                "endorsement": "Liberal Democrats celebrate stunning council wins in both North and South."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Labour are fatally divided inside parliament and outside it.",
+                "source": "New Statesman, 30 Mar 2017",
+                "date": ""
+            },
+            {
+                "text": "Conservative poll showed party would 'lose seats' to the Liberal Democrats.",
+                "source": "New Statesman, 5 Apr 2017",
+                "date": ""
+            },
+            {
+                "text": "Tory cuts have left NHS on the brink of collapse says shocking report.",
+                "source": "The Mirror, 13 Oct 2016",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "A fresh start for Eastleigh: Mike and the Liberal Democrats are the only ones who can beat the Conservatives in Eastleigh"
+                },
+                {
+                    "caption": "Eastleigh residents remember with anger the General Election two years ago when Conservative Eastleigh MP Mims Davies promised new road investment and jobs for local people."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Labour are fatally divided inside parliament and outside it.",
+                        "Conservative poll showed party would 'lose seats' to the Liberal Democrats."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Tory cuts have left NHS on the brink of collapse says shocking report.",
+                        "Labour are out of the race here and have already lost nationally."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Help get real change for Eastleigh"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Positive plans to give our NHS the funding it needs."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "Conservative poll showed party would 'lose seats' to the Liberal Democrats.",
+                    "Labour are fatally divided inside parliament and outside it."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour are out of the race here and have already lost nationally."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour are fatally divided inside parliament and outside it."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Labour are fatally divided inside parliament and outside it."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "leaflet": {
+        "candidateName": "Taylor Muir",
+        "candidateGender": "",
+        "constituency": "Glasgow South",
+        "politicalParty": "Scottish Conservative and Unionist",
+        "electionDate": "Thursday 8 June 2017",
+        "messages": [
+            {
+                "title": "My Priorities for Glasgow South",
+                "content": "1) Oppose the SNP\u2019s plans for another divisive independence referendum.\n2) Campaign for a fairer share of funding from the Glasgow City Deal for investment in infrastructure.\n3) Prioritise stronger economic growth to create local jobs.\n4) Support and deliver NHS services.\n5) Protect bus and train services which provide vital links to Glasgow City Centre."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Independence Referendum",
+                "policyDescription": "Oppose the SNP\u2019s plans for another divisive independence referendum."
+            },
+            {
+                "policyTitle": "Funding",
+                "policyDescription": "Campaign for a fairer share of funding from the Glasgow City Deal for investment in infrastructure."
+            },
+            {
+                "policyTitle": "Economic Growth",
+                "policyDescription": "Prioritise stronger economic growth to create local jobs."
+            },
+            {
+                "policyTitle": "NHS Services",
+                "policyDescription": "Support and deliver NHS services."
+            },
+            {
+                "policyTitle": "Transport",
+                "policyDescription": "Protect bus and train services which provide vital links to Glasgow City Centre."
+            }
+        ],
+        "mentions": {
+            "candidate": "Taylor Muir",
+            "otherPartyLeaderCandidate": "SNP",
+            "partyLeader": "",
+            "tacticalSituation": "The latest Scottish opinion polls are clear: SNP 44%, Con 33%, Lab 13%, LibDem 5%. Labour and the Lib Dems are too weak to stand up to the SNP."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Prioritise stronger economic growth to create local jobs.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Support and deliver NHS services.",
+            "immigration": "",
+            "labourEmployment": "Prioritise stronger economic growth to create local jobs.",
+            "lawCrime": "",
+            "transport": "Protect bus and train services which provide vital links to Glasgow City Centre.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Protect bus and train services which provide vital links to Glasgow City Centre.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "570 Mosspark Boulevard, Glasgow G52 1SD",
+            "phone": "0141 882 5196",
+            "email": "office@glasgowconservatives.org",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Tory revival on course to foil independence."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "SNP 44%, Con 33%, Lab 13%, LibDem 5%.",
+                        "You have my guarantee that the Scottish Conservatives will oppose the SNP  every step of the way."
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Protect bus and train services which provide vital links to Glasgow City Centre."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Oppose the SNP\u2019s plans for another divisive independence referendum.",
+                        "Support and deliver NHS services."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Oppose the SNP\u2019s plans for another divisive independence referendum."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Labour and the Lib Dems are too weak to stand up to the SNP."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

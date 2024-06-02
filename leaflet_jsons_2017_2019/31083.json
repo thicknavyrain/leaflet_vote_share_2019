@@ -1,0 +1,180 @@
+{
+    "leaflet": {
+        "candidateName": "Lindsey Hall",
+        "candidateGender": "",
+        "constituency": "Westminster North",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Strong, stable leadership in the national interest",
+                "content": ""
+            },
+            {
+                "title": "A coalition of chaos with Jeremy Corbyn",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Higher Debt",
+                "policyDescription": "The risk is just too big to take: higher debt"
+            },
+            {
+                "policyTitle": "Higher Taxes",
+                "policyDescription": "The risk is just too big to take: higher taxes"
+            },
+            {
+                "policyTitle": "Economic Chaos",
+                "policyDescription": "The risk is just too big to take: economic chaos"
+            }
+        ],
+        "mentions": {
+            "candidate": "Lindsey Hall",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Brexit: Europe stunned by UK leave vote",
+            "defence": "",
+            "economy": "Higher Debt, Higher Taxes, Economic Chaos",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "020 7625 3805",
+            "email": "voted@lindseyhall.co.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Shock Win: Stunning Trump Win",
+                        "Shock Win: Brexit: Europe stunned by UK leave vote",
+                        "Shock Win: Corbyn was 200-1 outsider"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Strong, stable leadership in the national interest",
+                        "A coalition of chaos with Jeremy Corbyn"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The risk is just too big to take: higher debt, higher taxes, economic chaos"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "The risk is just too big to take: higher debt, higher taxes, economic chaos",
+                        "Shock Win: Stunning Trump Win",
+                        "Shock Win: Corbyn was 200-1 outsider"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 3,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn",
+                        "Think Jeremy Corbyn as Prime Minister is never going to happen? DON'T BE SO SURE",
+                        "Shock Win: Corbyn was 200-1 outsider"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 3,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn",
+                        "Think Jeremy Corbyn as Prime Minister is never going to happen? DON'T BE SO SURE",
+                        "Shock Win: Corbyn was 200-1 outsider"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Lindsey Hall, Your Local Conservative Candidate for Westminster North"
+                ]
+            }
+        }
+    }
+}

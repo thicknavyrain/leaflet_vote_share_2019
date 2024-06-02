@@ -1,0 +1,177 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "",
+    "candidateGender": "",
+    "constituency": "",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [
+      {
+        "title": "THE TORIES’ SCHOOL REPORT",
+        "content": "2010 - 2017\nSUBJECT: Class sizes, Enough qualified teachers, Funding schools properly\nGRADE: FAILED\nThe TORIES HAVE FAILED TO DELIVER ON THE BASICS OF EDUCATION."
+      },
+      {
+        "title": "OUR CHILDREN DESERVE BETTER THAN THE TORIES’ FAILURE ON EDUCATION",
+        "content": [
+          "Class sizes are soaring despite the Tories' promise to keep them down. Over half a million children are now taught in super-sized classes of over 30.",
+          "The number of unqualified teachers is rising under the Tories. There are now 22,500 unqualified teachers in state schools, an increase of 52 per cent since 2012, which threatens standards and children’s learning.",
+          "Schools are having to make £3bn worth of cuts by 2020. Parents across the country are receiving letters asking for money just to pay for the basics."
+        ].join(" "),
+        "content": "BREAKING NEWS: THE TORIES HAVE NOW ANNOUNCED THAT THEY WOULD SCRAP UNIVERSAL FREE SCHOOL LUNCHES FOR INFANT SCHOOL CHILDREN.",
+        "content": "A vote for Labour on Thursday 8 June is a vote against cuts to local schools."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Education",
+        "policyDescription": [
+          "Class sizes are soaring despite the Tories' promise to keep them down. Over half a million children are now taught in super-sized classes of over 30.",
+          "The number of unqualified teachers is rising under the Tories. There are now 22,500 unqualified teachers in state schools, an increase of 52 per cent since 2012, which threatens standards and children’s learning.",
+          "Schools are having to make £3bn worth of cuts by 2020. Parents across the country are receiving letters asking for money just to pay for the basics."
+        ].join(" ")
+      },
+      {
+        "policyTitle": "Universal Free School Lunches",
+        "policyDescription": "The Tories have now announced that they would scrap universal free school lunches for infant school children."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "The Tories",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "defence": "",
+      "economy": "",
+      "education": [
+        "Class sizes are soaring despite the Tories' promise to keep them down. Over half a million children are now taught in super-sized classes of over 30.",
+        "The number of unqualified teachers is rising under the Tories. There are now 22,500 unqualified teachers in state schools, an increase of 52 per cent since 2012, which threatens standards and children’s learning.",
+        "Schools are having to make £3bn worth of cuts by 2020. Parents across the country are receiving letters asking for money just to pay for the basics.",
+        "The Tories have now announced that they would scrap universal free school lunches for infant school children."
+      ].join(" "),
+      "environment": "",
+      "governance": "",
+      "government": "",
+      "health": "",
+      "immigration": "",
+      "labourEmployment": "",
+      "lawCrime": "",
+      "transport": "",
+      "socialWelfare": "",
+      "community": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Promoted by Ian Nicoll on behalf of the Labour Party, both at Southside, 105 Victoria Street, London, SW1E 6QT. Printed by Sterling Press Ltd, Unit 7, 11 Thomas Road, London, E14 7BN.",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "",
+    "analysis": {
+      "statementAnalysis": {
+        "quantitative": {
+          "count": 5,
+          "examples": [
+            "Class sizes are soaring despite the Tories' promise to keep them down. Over half a million children are now taught in super-sized classes of over 30.",
+            "The number of unqualified teachers is rising under the Tories. There are now 22,500 unqualified teachers in state schools, an increase of 52 per cent since 2012, which threatens standards and children’s learning.",
+            "Schools are having to make £3bn worth of cuts by 2020.",
+            "There are now 22,500 unqualified teachers in state schools.",
+            "Over half a million children are now taught in super-sized classes of over 30."
+          ]
+        },
+        "qualitative": {
+          "count": 4,
+          "examples": [
+            "Class sizes are soaring despite the Tories' promise to keep them down.",
+            "The number of unqualified teachers is rising under the Tories.",
+            "An increase of unqualified teachers threatens standards and children’s learning.",
+            "Parents across the country are receiving letters asking for money just to pay for the basics."
+          ]
+        }
+      },
+      "photoAnalysis": {
+        "localPlaces": 0,
+        "people": 0,
+        "candidateAlone": 0,
+        "candidateWithOthers": 0
+      },
+      "issueFocus": {
+        "local": {
+          "count": 1,
+          "examples": [
+            "A vote for Labour on Thursday 8 June is a vote against cuts to local schools."
+          ]
+        },
+        "national": {
+          "count": 1,
+          "examples": [
+            "BREAKING NEWS: THE TORIES HAVE NOW ANNOUNCED THAT THEY WOULD SCRAP UNIVERSAL FREE SCHOOL LUNCHES FOR INFANT SCHOOL CHILDREN."
+          ]
+        }
+      },
+      "personalStories": [],
+      "endorsementsUsed": {
+        "count": 0,
+        "examples": []
+      },
+      "negativeMessaging": {
+        "localIssues": {
+          "count": 1,
+          "examples": [
+            "Schools are having to make £3bn worth of cuts by 2020."
+          ]
+        },
+        "nationalIssues": {
+          "count": 2,
+          "examples": [
+            "Class sizes are soaring despite the Tories' promise to keep them down.",
+            "The number of unqualified teachers is rising under the Tories."
+          ]
+        },
+        "leaderOfOpponentsParty": {
+          "count": 0,
+          "examples": []
+        },
+        "oppositeCandidateNoName": {
+          "count": 0,
+          "examples": []
+        },
+        "oppositeCandidateWithName": {
+          "count": 0,
+          "examples": []
+        }
+      },
+      "nonPolicyAttributes": {
+        "localness": "",
+        "employment": "",
+        "education": "",
+        "family": ""
+      },
+      "localCandidate": {
+        "isLocal": false,
+        "examples": []
+      }
+    }
+  }
+}
+```

@@ -1,0 +1,173 @@
+{
+    "leaflet": {
+        "candidateName": "Sam Trask",
+        "candidateGender": "",
+        "constituency": "Pontypridd",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "Only Conservatives will deliver Brexit",
+                "content": "We will carry out the will of the people and get Brexit done, no more delays, no more excuses - an end to the uncertainty parliament has forced on the country."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get Brexit done, no more delays, no more excuses - an end to the uncertainty parliament has forced on the country."
+            }
+        ],
+        "mentions": {
+            "candidate": "Sam Trask",
+            "otherPartyLeaderCandidate": "Labour",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Labour 'still divided over Brexit'. Labour\u2019s Brexit policy is more delay. They can\u2019t even decide whether they want Brexit to happen \u2013 and they\u2019ve had THREE YEARS to decide. A Corbyn government would deliver more confusion and delay \u2013 and NOTHING else would get delivered.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Latest news for Pontypridd",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Conservative Parliamentary Candidate",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Labour 'still divided over Brexit'",
+                "source": "BBC News",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Images of Pontypridd"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "They\u2019ve had THREE YEARS to decide."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Labour\u2019s Brexit policy is more delay.",
+                        "A Corbyn government would deliver more confusion and delay \u2013 and NOTHING else would get delivered.",
+                        "We will carry out the will of the people and get Brexit done."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Latest news for Pontypridd"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Only Conservatives will deliver Brexit"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour \u2018still divided over Brexit\u2019"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "A Corbyn government would deliver more confusion and delay \u2013 and NOTHING else would get delivered."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Latest news for Pontypridd",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

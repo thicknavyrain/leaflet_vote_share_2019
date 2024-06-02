@@ -1,0 +1,149 @@
+{
+    "leaflet": {
+        "candidateName": "Mike Dixon",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Please show people you\u2019re backing the Liberal Democrats. There\u2019s an orange diamond inside this envelope. We\u2019re sending one today to more than 70,000 people who are backing the Liberal Democrats in key seats like this one. Please put it in your window. If you have one up already, pass it on to a friend."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "The Liberal Democrats are the only party that can stop Brexit and build a brighter future. More leaflets, more letters, more online ads and to more people than ever before."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": "In many places across the country, the Liberal Democrats are the only party that can win seats from the Conservatives. We are the only party that can stop Boris Johnson from winning a majority and forcing through his terrible Brexit deal."
+        },
+        "issues": {
+            "brexitEurope": "The only thing that can stop us now is lack of financial support. Labour and the Tories have all the forces of the establishment lined up behind them.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "We\u2019re sending one today to more than 70,000 people.",
+                        "Our best ever local and European election results. 70,000 people have joined our party as members or supporters in just five months."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Please put it in your window.",
+                        "These orange diamonds make a big difference.",
+                        "We are the only party that can stop Boris Johnson from winning a majority and forcing through his terrible Brexit deal."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "These orange diamonds make a big difference. They show people in this area how strong the support is for Liberal Democrats around here."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "We need to run a bigger campaign than ever before so that we can stop Brexit and build a brighter future."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour and the Tories have all the forces of the establishment lined up behind them. They have almost endless cash. We can take them on - and beat them - but we need your help to do it."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "We are the only party that can stop Boris Johnson from winning a majority and forcing through his terrible Brexit deal."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "These orange diamonds make a big difference. They show people in this area how strong the support is for Liberal Democrats around here.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "These orange diamonds make a big difference. They show people in this area how strong the support is for Liberal Democrats around here."
+                ]
+            }
+        }
+    }
+}

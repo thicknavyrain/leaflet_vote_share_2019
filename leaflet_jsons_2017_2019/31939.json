@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "Ian Stotesbury",
+        "candidateGender": "",
+        "constituency": "Watford",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "The Choice is Clear",
+                "content": "Only the Liberal Democrats will stop Brexit. A vote for Ian Stotesbury is a vote to put Watford first, so we can move on to fixing real problems like the climate emergency."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "Only the Liberal Democrats will stop Brexit."
+            },
+            {
+                "policyTitle": "Local Champion for Watford",
+                "policyDescription": "Ian Stotesbury will be a local champion for Watford and will always put local people first."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ian Stotesbury",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "Labour won't win here. The only way to stop the Tories and beat Boris Johnson is to vote Liberal Democrat here."
+        },
+        "issues": {
+            "brexitEurope": "Brexit will do huge damage here in Watford.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "fixing real problems like the climate emergency",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Ian Stotesbury will be a local champion for Watford and will always put local people first.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Candidate",
+                "duration": "2015 and 2017",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Labour won't win here. The only way to stop the Tories and beat Boris Johnson is to vote Liberal Democrat here."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Brexit will do huge damage here in Watford."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "The Choice is Clear",
+                        "Only the Liberal Democrats will stop Brexit.",
+                        "A vote for Ian Stotesbury is a vote to put Watford first, so we can move on to fixing real problems like the climate emergency."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Ian Stotesbury will be a local champion for Watford and will always put local people first.",
+                        "Brexit will do huge damage here in Watford."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Only the Liberal Democrats will stop Brexit.",
+                        "fixing real problems like the climate emergency"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Brexit will do huge damage here in Watford.",
+                        "The only way to stop the Tories and beat Boris Johnson is to vote Liberal Democrat here."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Ian Stotesbury will be a local champion for Watford.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Ian Stotesbury will be a local champion for Watford and will always put local people first."
+                ]
+            }
+        }
+    }
+}

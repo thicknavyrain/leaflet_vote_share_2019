@@ -1,0 +1,159 @@
+{
+    "leaflet": {
+        "candidateName": "Vernon Coaker",
+        "candidateGender": "",
+        "constituency": "Gedling",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "YOU CAN'T TRUST THE TORIES WITH OUR NHS"
+            },
+            {
+                "title": "",
+                "content": "The Tories want to privatise more of the NHS. Labour will significantly increase local and national funding. Are you with us? Join Vernon to defend our NHS."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Labour will significantly increase local and national funding."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Labour will significantly increase local and national funding.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "30 Station Road, Carlton, NG4 3AX",
+            "phone": "",
+            "email": "",
+            "website": "labour.org.uk/pages/privacy",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "VernonCoaker",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Vernon Coaker - Your local champion"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "YOU CAN'T TRUST THE TORIES WITH OUR NHS",
+                        "The Tories want to privatise more of the NHS. Labour will significantly increase local and national funding. Are you with us? Join Vernon to defend our NHS."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Labour will significantly increase local and national funding."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Labour will significantly increase local and national funding."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Tories want to privatise more of the NHS."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "The Tories want to privatise more of the NHS."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Your local champion",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Your local champion"
+                ]
+            }
+        }
+    }
+}

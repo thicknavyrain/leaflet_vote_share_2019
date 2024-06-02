@@ -1,0 +1,182 @@
+{
+    "leaflet": {
+        "candidateName": "Caroline Jackson",
+        "candidateGender": "",
+        "constituency": "Lancaster and Fleetwood",
+        "politicalParty": "Green Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "I have lived in Lancashire for thirty years and have worked as a teacher. I believe in the power of Lancashire communities where people look after each other and stand up for what they believe in. Over the past ten years I have been in the centre of local issues, working hard as a charity volunteer, an environmental campaigner and an elected city councillor. As your Green MP I will fight for a future that's fair and just, protecting our livelihoods and our environment from economic uncertainty and climate change."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Climate Change",
+                "policyDescription": "Fight for a future that's fair and just, protecting our livelihoods and our environment from economic uncertainty and climate change."
+            }
+        ],
+        "mentions": {
+            "candidate": "Caroline Jackson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Fight for a future that's fair and just, protecting our livelihoods and our environment from economic uncertainty and climate change.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I believe in the power of Lancashire communities where people look after each other and stand up for what they believe in.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Charity Volunteer",
+                "duration": "Ten years",
+                "achievements": "Centre of local issues"
+            },
+            {
+                "role": "Environmental Campaigner",
+                "duration": "",
+                "achievements": ""
+            },
+            {
+                "role": "Elected City Councillor",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "124 Derwent Road, Lancaster LA1 3ES",
+            "phone": "",
+            "email": "",
+            "website": "www.greenparty.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "I believe in the power of Lancashire communities where people look after each other and stand up for what they believe in.",
+                        "Fight for a future that's fair and just, protecting our livelihoods and our environment from economic uncertainty and climate change."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "I believe in the power of Lancashire communities where people look after each other and stand up for what they believe in.",
+                        "Over the past ten years I have been in the centre of local issues, working hard as a charity volunteer, an environmental campaigner and an elected city councillor."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Protecting our livelihoods and our environment from economic uncertainty and climate change."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I have been in the centre of local issues, working hard as a charity volunteer, an environmental campaigner and an elected city councillor.",
+                    "issueRelated": "Community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I have lived in Lancashire for thirty years.",
+                "employment": "Worked as a teacher.",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I have lived in Lancashire for thirty years."
+                ]
+            }
+        }
+    }
+}

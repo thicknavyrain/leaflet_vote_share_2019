@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "Jon Hannah",
+        "candidateGender": "",
+        "constituency": "Leeds North East",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Vote Liberal Democrat",
+                "content": "Send them a message they can't ignore"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Change the direction of our country"
+            }
+        ],
+        "mentions": {
+            "candidate": "Jon Hannah",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn, Fabian Hamilton",
+            "partyLeader": "Tim Farron",
+            "tacticalSituation": "Labour and the Tories are fighting for the hardest possible Brexit"
+        },
+        "issues": {
+            "brexitEurope": "Labour and Tories have sided with UKIP on Brexit. I am a passionate and unapologetic European, after the Referendum I decided I could not stand by as friends, family and neighbours from the EU were let down by Labour and the Tories.",
+            "economy": "Fighting to protect our friends, neighbours, loved ones and public services from the damage it will cause.",
+            "government": "Believes the country is on the wrong path and it deserves better.",
+            "community": [
+                {
+                    "content": "I live in Chapel Allerton with my partner and children. Labour and the Tories have sided with UKIP on Brexit. They have let you down - Vote for Change.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "My name is Jon Hannah and I am seeking to earn your vote on 8th June. I live in Chapel Allerton with my partner and our children, you may well have seen me in the community. I left my job as a senior manager in the NHS last year deflated at the damage being done by the Tory Government. I am a passionate and unapologetic European, after the Referendum I decided I could not stand by as friends, family and neighbours from the EU were let down by Labour and the Tories. I believe the country is on the wrong path and it deserves better.",
+        "politicalExperience": [
+            {
+                "role": "Senior Manager in the NHS",
+                "duration": "Until last year",
+                "achievements": "Resigned due to dissatisfaction with the damage done by the Tory Government"
+            }
+        ],
+        "contactInformation": {
+            "address": "12 Holt Park Centre, Leeds, LS16 7SR",
+            "phone": "",
+            "email": "",
+            "website": "www.facebook.com/jonhannahlibdem",
+            "socialMedia": {
+                "facebook": "Jon Hannah Liberal Democrat",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Tim Farron",
+                "endorsement": "\"Remoaner of the Year\" and Leader of the Liberal Democrats"
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "If this lot don't speak for you on Brexit..."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "I believe the country is on the wrong path and it deserves better.",
+                        "Labour and the Tories have sided with UKIP on Brexit. They have let you down - Vote for Change.",
+                        "I am a passionate and unapologetic European.",
+                        "When we were upset, they called us 'Snowflakes'. When we cried out, they called us 'Remoaners'. When we fought, they called us 'Saboteurs'. But this time, we're Voters."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "I live in Chapel Allerton with my partner and our children, you may well have seen me in the community."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "I am a passionate and unapologetic European, after the Referendum I decided I could not stand by as friends, family and neighbours from the EU were let down by Labour and the Tories.",
+                        "Fighting to protect our friends, neighbours, loved ones and public services from the damage it will cause."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I live in Chapel Allerton with my partner and our children.",
+                    "issueRelated": "community"
+                },
+                {
+                    "story": "I left my job as a senior manager in the NHS last year deflated at the damage being done by the Tory Government.",
+                    "issueRelated": "government"
+                },
+                {
+                    "story": "I am a passionate and unapologetic European, after the Referendum I decided I could not stand by as friends, family and neighbours from the EU were let down by Labour and the Tories.",
+                    "issueRelated": "brexitEurope"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Tim Farron, 'Remoaner of the Year' and Leader of the Liberal Democrats"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Labour and the Tories have sided with UKIP on Brexit.",
+                        "Fighting to protect our friends, neighbours, loved ones and public services from the damage it will cause."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Labour and the Tories have sided with UKIP on Brexit. They have let you down - Vote for Change."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Labour and the Tories have sided with UKIP on Brexit.",
+                        "Jeremy Corbyn, Fabian Hamilton and their Labour Party"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I live in Chapel Allerton with my partner and our children.",
+                "employment": "Left my job as a senior manager in the NHS last year deflated at the damage being done by the Tory Government.",
+                "education": "",
+                "family": "I live in Chapel Allerton with my partner and our children."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I live in Chapel Allerton with my partner and our children, you may well have seen me in the community."
+                ]
+            }
+        }
+    }
+}

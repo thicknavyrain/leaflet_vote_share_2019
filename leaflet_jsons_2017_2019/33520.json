@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Laura Farris",
+        "candidateGender": "",
+        "constituency": "Newbury",
+        "politicalParty": "",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "My Priorities for Newbury",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Keep Newbury Great",
+                "policyDescription": "We have a great place to live and work but there is still more to do. My priorities include tackling climate change and protecting our beautiful surroundings. Our schools rank among the best in the country and I want to make sure they are resourced to do even better. And we need to make sure we have the right houses in the right places."
+            },
+            {
+                "policyTitle": "Open for Business",
+                "policyDescription": "We are ideally located along the M4 corridor and I want to build on our business success to attract new enterprise, increase investment and ensure that we have the skills base to meet commercial demand."
+            },
+            {
+                "policyTitle": "Caring for All",
+                "policyDescription": "I want to ensure proper care for the elderly including tackling loneliness. I'm backing the Council's emotional health programme to make a real difference to our children and young people. And I want to see better access to mental health services."
+            }
+        ],
+        "mentions": {
+            "candidate": "Laura Farris",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Our schools rank among the best in the country and I want to make sure they are resourced to do even better.",
+            "environment": "My priorities include tackling climate change and protecting our beautiful surroundings.",
+            "governance": "",
+            "government": "",
+            "health": "I want to see better access to mental health services.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "I want to ensure proper care for the elderly including tackling loneliness.",
+            "community": [
+                {
+                    "content": "We need to make sure we have the right houses in the right places.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Our schools rank among the best in the country."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "We have a great place to live and work but there is still more to do.",
+                        "My priorities include tackling climate change and protecting our beautiful surroundings.",
+                        "I want to ensure proper care for the elderly including tackling loneliness.",
+                        "I want to see better access to mental health services."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Keep Newbury Great",
+                        "We need to make sure we have the right houses in the right places."
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

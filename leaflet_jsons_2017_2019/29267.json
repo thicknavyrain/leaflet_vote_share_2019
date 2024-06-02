@@ -1,0 +1,193 @@
+{
+    "leaflet": {
+        "candidateName": "Eileen Dinning",
+        "candidateGender": "Female",
+        "constituency": "Glasgow South",
+        "politicalParty": "Scottish Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "A fresh voice for the Southside",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fighting for better jobs",
+                "policyDescription": "Scrap the SNP\u2019s plans to reintroduce the 50p tax rate. Invest in transport, health and education."
+            },
+            {
+                "policyTitle": "Fighting for public services",
+                "policyDescription": "Tackle the underfunding of public services. Ensure our NHS has the funding it needs."
+            },
+            {
+                "policyTitle": "Working for you",
+                "policyDescription": "Stop the SNP from imposing an Independence Referendum. Put Glasgow South first."
+            }
+        ],
+        "mentions": {
+            "candidate": "Eileen Dinning",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Ensure our NHS has the funding it needs.",
+            "immigration": "",
+            "labourEmployment": "Scrap the SNP\u2019s plans to reintroduce the 50p tax rate. Invest in transport, health and education.",
+            "lawCrime": "",
+            "transport": "Invest in transport.",
+            "socialWelfare": "Opposed to social indiscriminate benefit cuts. Reversing cuts to child tax credits.",
+            "community": [
+                {
+                    "content": "Ensure the transport, health and education systems we rely on are properly funded.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "My whole working life has been dedicated to protecting the rights of workers and their families. I want to be your MP to fight for everyone in Glasgow South.",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Scottish Labour Party, 290 Bath Street, Glasgow, G2 4RE",
+            "phone": "07549 009666",
+            "email": "dinning4glasgowsouth@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "www.facebook.com/EileenDinning4GlasgowSouth",
+                "twitter": "@eileen_dinning",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Sadie Docherty, Lord Provost",
+                "endorsement": "An endorsement of Eileen Dinning\u2019s plans for Glasgow South."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "My whole working life has been dedicated to protecting the rights of workers and their families. I want to be your MP to fight for everyone in Glasgow South.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "My whole working life has been dedicated to protecting the rights of workers and their families.",
+                        "Only a Labour government can end austerity and rebuild our public services.",
+                        "Scrap the SNP\u2019s plans to reintroduce the 50p tax rate."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 3,
+                "candidateAlone": 2,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Put Glasgow South first."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Scrap the SNP\u2019s plans to reintroduce the 50p tax rate.",
+                        "Ensure our NHS has the funding it needs.",
+                        "Stop the SNP from imposing an Independence Referendum."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "My whole working life has been dedicated to protecting the rights of workers and their families.",
+                    "issueRelated": "labourEmployment"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Sadie Docherty, Lord Provost"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Only a Labour government can end austerity and rebuild our public services."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Scrap the SNP\u2019s plans to reintroduce the 50p tax rate."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "A fresh voice for the Southside",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "A fresh voice for the Southside"
+                ]
+            }
+        }
+    }
+}

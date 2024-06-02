@@ -1,0 +1,189 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Newcastle under Lyme",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "What the NHS Long-Term Plan Means for You and Your Family...",
+                "content": "Boris Johnson announces \u00a31.8 billion cash boost for the NHS. Primary care to receive \u00a34.5bn under the NHS long-term plan. NHS long-term plan: Focus on prevention 'could save 500,000 lives'. Major overhaul of birthing services to make \u2018NHS best place in the world to give birth\u2019. The NHS Long-Term Plan is a welcome and significant step in the fight against heart and circulatory diseases, which promises to save thousands of lives in the coming years."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS Investment",
+                "policyDescription": "Boris Johnson announces \u00a31.8 billion cash boost for the NHS. Focus on prevention could save 500,000 lives. Major overhaul of birthing services."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Brexit has taken up too much time.",
+            "defence": "",
+            "economy": "",
+            "education": "And by getting Brexit done we can keep focusing on the priorities we all share. That means delivering on the people\u2019s priorities: safer streets, better hospitals, more funding for schools.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Boris Johnson announces \u00a31.8 billion cash boost for the NHS. NHS long-term plan: Focus on prevention 'could save 500,000 lives'. Major overhaul of birthing services to make \u2018NHS best place in the world to give birth\u2019. Billions of pounds extra for our NHS. More money for mental health services. New treatments to fight diseases like cancer. More doctors, nurses and health professionals. New technology and better prevention. Tackling waste to spend every pound wisely.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Develop new treatments and cure for patients using new medicines and technology. Invest in world-class hospitals. Easier access to GP appointments. Better links between NHS and social care services.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "The NHS is part of our heritage. It's a statement of who we are as a country. We believe that everyone has the right to great healthcare that\u2019s free at the point of use \u2013 no matter where they live or what their background.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.conservatives.com",
+            "socialMedia": {
+                "facebook": "facebook.com/conservatives",
+                "twitter": "twitter.com/conservatives",
+                "instagram": "instagram.com/conservatives",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "British Psychological Society",
+                "endorsement": "these plans demonstrate a clear commitment to mental health through increased spending and introducing access standards."
+            },
+            {
+                "endorser": "British Heart Foundation",
+                "endorsement": "The NHS Long-Term Plan is a welcome and significant step in the fight against heart and circulatory diseases, which promises to save thousands of lives in the coming years."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "these plans demonstrate a clear commitment to mental health through increased spending and introducing access standards.",
+                "source": "British Psychological Society",
+                "date": "7 January 2019"
+            },
+            {
+                "text": "NHS long-term plan: Focus on prevention 'could save 500,000 lives'.",
+                "source": "BBC News Online",
+                "date": "7 January 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Boris Johnson speaking with health professionals and visiting a hospital."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "\u00a31.8 billion cash boost for the NHS",
+                        "\u00a34.5bn investment under NHS long-term plan",
+                        "'could save 500,000 lives'"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "these plans demonstrate a clear commitment to mental health through increased spending and introducing access standards",
+                        "Major overhaul of birthing services to make \u2018NHS best place in the world to give birth\u2019"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Help decide how NHS money is spent locally."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Boris Johnson announces \u00a31.8 billion cash boost for the NHS",
+                        "NHS long-term plan: Focus on prevention 'could save 500,000 lives'"
+                    ]
+                }
+            }
+        },
+        "personalStories": [
+            {
+                "story": "Boris Johnson's commitment to funding the NHS and ensuring free healthcare for all.",
+                "issueRelated": "health"
+            }
+        ],
+        "endorsementsUsed": {
+            "count": 2,
+            "examples": [
+                "British Psychological Society",
+                "British Heart Foundation"
+            ]
+        },
+        "negativeMessaging": {
+            "localIssues": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "nationalIssues": {
+                "count": 1,
+                "examples": [
+                    "Brexit has taken up too much time."
+                ]
+            },
+            "leaderOfOpponentsParty": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "oppositeCandidateNoName": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "oppositeCandidateWithName": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            }
+        },
+        "nonPolicyAttributes": {
+            "localness": "",
+            "employment": "",
+            "education": "",
+            "family": ""
+        },
+        "localCandidate": {
+            "isLocal": false,
+            "examples": [
+                ""
+            ]
+        }
+    }
+}

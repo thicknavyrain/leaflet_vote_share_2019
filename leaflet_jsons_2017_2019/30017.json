@@ -1,0 +1,213 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "THE TORIES HAVE WRECKED THE NORTH EAST BEFORE...",
+                "content": "...AND THEY'LL DO IT AGAIN! YOU CANNOT TRUST THE TORIES"
+            },
+            {
+                "title": "THE TORIES ALWAYS TRASH THE NORTH EAST",
+                "content": "People are poorer\nHospital services closing\nWaiting lists are longer\nCrime going up\nTeachers losing their jobs\nPensions are at risk"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Hospital services",
+                "policyDescription": "Hospital services closing and waiting lists are longer under the Tories"
+            },
+            {
+                "policyTitle": "Crime",
+                "policyDescription": "Crime is going up under the Tories"
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Teachers are losing their jobs under the Tories"
+            },
+            {
+                "policyTitle": "Pensions",
+                "policyDescription": "Pensions are at risk under the Tories"
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Tories",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Teachers losing their jobs",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Hospital services closing\nWaiting lists are longer",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Crime going up",
+            "transport": "",
+            "socialWelfare": "Pensions are at risk",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Labour Party, c/o Potts Print (UK), Atlas House, Nelson Park, Cramlington, Northumberland, NE23 1WG",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "#VoteLabour",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "The Tories have wrecked the North East before...and they'll do it again!"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 9,
+                    "examples": [
+                        "THE TORIES HAVE WRECKED THE NORTH EAST BEFORE...AND THEY'LL DO IT AGAIN!",
+                        "YOU CANNOT TRUST THE TORIES",
+                        "THE TORIES ALWAYS TRASH THE NORTH EAST",
+                        "People are poorer",
+                        "Hospital services closing",
+                        "Waiting lists are longer",
+                        "Crime going up",
+                        "Teachers losing their jobs",
+                        "Pensions are at risk"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Hospital services closing",
+                        "Crime going up"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 7,
+                    "examples": [
+                        "People are poorer",
+                        "Hospital services closing",
+                        "Waiting lists are longer",
+                        "Crime going up",
+                        "Teachers losing their jobs",
+                        "Pensions are at risk",
+                        "A vote for the Tories puts our schools, hospitals and police at risk"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "THE TORIES HAVE WRECKED THE NORTH EAST BEFORE...AND THEY'LL DO IT AGAIN!",
+                        "THE TORIES ALWAYS TRASH THE NORTH EAST"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

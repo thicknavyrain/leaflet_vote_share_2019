@@ -1,0 +1,164 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "In the NHS's darkest hour...",
+                "content": "...Labour is letting us down."
+            },
+            {
+                "title": "Who will really fight for our NHS?",
+                "content": "Labour is letting us down. Their support is crumbling. They are too busy fighting each other to fight for our NHS."
+            },
+            {
+                "title": "The NHS and the most vulnerable are being hit hard...",
+                "content": "Widowed parents are being hit again by Tory cuts to bereavement benefits. NHS cuts blamed for 30,000 deaths in new study. Schools face the worst funding cuts in 20 years."
+            },
+            {
+                "title": "and Labour is letting us down by failing to stop it.",
+                "content": "Only the Lib Dems will fight the Tories on NHS and school cuts."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fight NHS and School Cuts",
+                "policyDescription": "Lib Dems pledge to spend twice as much on education as Labour and to increase Income Tax by a penny for every earner to fund a \u00a36bn-a-year cash injection for the NHS and social care."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The NHS is in its darkest hour, and Labour and Tory cuts have severely impacted it, causing significant harm to vulnerable individuals. Only the Lib Dems pledge substantial funding increases.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Tory cuts to bereavement benefits have hit widowed parents hard; Lib Dems propose increased funding.",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "In the NHS's darkest hour... Labour is letting us down."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "NHS cuts blamed for 30,000 deaths in new study."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "In the NHS's darkest hour, Labour is letting us down.",
+                        "Labour is letting us down. Their support is crumbling.",
+                        "The NHS and the most vulnerable are being hit hard.",
+                        "Only the Lib Dems will fight the Tories on NHS and school cuts.",
+                        "Lib Dems pledge to spend twice as much on education as Labour."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "In the NHS's darkest hour, Labour is letting us down.",
+                        "Labour is letting us down. Their support is crumbling.",
+                        "Only the Lib Dems will fight the Tories on NHS and school cuts."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "In the NHS's darkest hour, Labour is letting us down.",
+                        "Labour is letting us down. Their support is crumbling.",
+                        "Only the Lib Dems will fight the Tories on NHS and school cuts."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "'Labour is fatally divided inside Parliament and outside it.'"
+                    ]
+                },
+                "oppositeCandidateNoName": {},
+                "oppositeCandidateWithName": {}
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

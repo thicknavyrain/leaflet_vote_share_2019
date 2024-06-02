@@ -1,0 +1,172 @@
+{
+    "leaflet": {
+        "candidateName": "Royston Smith",
+        "candidateGender": "",
+        "constituency": "Southampton",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "I have been your Member of Parliament for five years. This election is not just about Brexit. There are many other important issues that matter to you."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "A Conservative majority will ensure we leave the EU by the end of January."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "We will put 20,000 new police officers on the streets and increase funding for every NHS patient."
+            }
+        ],
+        "mentions": {
+            "candidate": "Royston Smith",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "A Conservative majority will ensure we leave the EU by the end of January.",
+            "defence": "",
+            "economy": "We will put 20,000 new police officers on the streets and increase funding for every NHS patient.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "We will put 20,000 new police officers on the streets and increase funding for every NHS patient.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "We will put 20,000 new police officers on the streets.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "I have been your Member of Parliament for five years. This election is not just about Brexit. There are many other important issues that matter to you.",
+        "politicalExperience": [
+            {
+                "role": "Member of Parliament",
+                "duration": "five years",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "770 Shirley Road, Southampton",
+            "phone": "023 8077 4567",
+            "email": "royston.smith.mp@parliament.uk",
+            "website": "southamptongraffiti.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Royston Smith with constituents"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "We will put 20,000 new police officers on the streets and increase funding for every NHS patient.",
+                        "A Conservative majority will ensure we leave the EU by the end of January."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "This election is not just about Brexit. There are many other important issues that matter to you."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "A Conservative majority will ensure we leave the EU by the end of January.",
+                        "We will put 20,000 new police officers on the streets.",
+                        "Increase funding for every NHS patient."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "This alternative is five long years of Jeremy Corbyn propped up by Nicola Sturgeon."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn propped up by Nicola Sturgeon."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

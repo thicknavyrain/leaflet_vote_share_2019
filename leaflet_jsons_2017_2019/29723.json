@@ -1,0 +1,186 @@
+{
+    "leaflet": {
+        "candidateName": "Greg Marshall",
+        "candidateGender": "",
+        "constituency": "Broxtowe",
+        "politicalParty": "Labour",
+        "electionDate": "8 June",
+        "messages": [
+            {
+                "title": "Positive vision for Beeston",
+                "content": "I am proud to live in Beeston and to be a Borough Councillor representing our town."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Investing in jobs and the economy",
+                "policyDescription": "Increase prosperity using resources that create the environment for enterprise and growth throughout the economy."
+            },
+            {
+                "policyTitle": "Better homes and better schools",
+                "policyDescription": "We need to bring homes in to use faster for young startup families and better schools, for current and future generations."
+            },
+            {
+                "policyTitle": "NHS public and well funded",
+                "policyDescription": "We can all access the NHS and will look after and care for our loved ones and the vulnerable."
+            },
+            {
+                "policyTitle": "Brexit that works for everyone",
+                "policyDescription": "Will represent all views on the Brexit issue."
+            }
+        ],
+        "mentions": {
+            "candidate": "Greg Marshall will stand up for Beeston",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Brexit that works for everyone.",
+            "defence": "",
+            "economy": "Investing in jobs and the economy.",
+            "education": "Better homes and better schools.",
+            "environment": "Create the environment for enterprise and growth.",
+            "governance": "",
+            "government": "",
+            "health": "Keep our NHS public and well funded.",
+            "immigration": "",
+            "labourEmployment": "Investing in jobs and the economy.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I am proud to live in Beeston and to be a Borough Councillor representing our town.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I am standing to be your next MP because I am from Broxtowe and I act for Broxtowe in everything I do. I was raised in Attenborough and have lived locally for most of my life. I currently live in Beeston with my wife Jane and our two daughters.",
+        "politicalExperience": [
+            {
+                "role": "Borough Councillor",
+                "duration": "",
+                "achievements": "Represented residents successfully."
+            }
+        ],
+        "contactInformation": {
+            "address": "27 Redland Drive Beeston NG9 5GZ",
+            "phone": "",
+            "email": "greg.marshall@broxtowelabour.org.uk",
+            "website": "www.broxtowelabour.org.uk",
+            "socialMedia": {
+                "facebook": "Broxtowelabour",
+                "twitter": "@LabourBroxtowe",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Greg Marshall will stand up for Beeston"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "I am proud to live in Beeston and to be a Borough Councillor representing our town."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Positive vision for Beeston"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Investing in jobs and the economy",
+                        "NHS public and well funded",
+                        "Better homes and better schools"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I was raised in Attenborough and have lived locally for most of my life.",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I currently live in Beeston with my wife Jane and our two daughters.",
+                "employment": "I have worked for the Environment Agency for over twenty years.",
+                "education": "",
+                "family": "I currently live in Beeston with my wife Jane and our two daughters."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I am proud to live in Beeston.",
+                    "I was raised in Attenborough and have lived locally for most of my life.",
+                    "I currently live in Beeston with my wife Jane and our two daughters."
+                ]
+            }
+        }
+    }
+}

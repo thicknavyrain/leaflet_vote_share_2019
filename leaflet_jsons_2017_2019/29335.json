@@ -1,0 +1,154 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Oxford West and Abingdon",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "STOP THE CONSERVATIVE HERE?",
+                "content": "Whatever happens nationally on 8th June, in Oxford West and Abingdon constituency only one party can beat the Conservatives..."
+            },
+            {
+                "title": "",
+                "content": "...VOTING LABOUR HERE RISKS THE TORIES WINNING."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "Whatever happens nationally on 8th June, in Oxford West and Abingdon constituency only the Liberal Democrats or the Conservatives can win. VOTING LABOUR HERE RISKS THE TORIES WINNING."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Liberal Democrats, 8-10 Great George Street, London, SW1P 3AE",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "The Liberal Democrats can beat the Tories here..."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Whatever happens nationally on 8th June, in Oxford West and Abingdon constituency only one party can beat the Conservatives...",
+                        "...VOTING LABOUR HERE RISKS THE TORIES WINNING."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "...VOTING LABOUR HERE RISKS THE TORIES WINNING."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Whatever happens nationally on 8th June, in Oxford West and Abingdon constituency only one party can beat the Conservatives..."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

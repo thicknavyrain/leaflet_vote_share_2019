@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "December 12th",
+        "messages": [
+            {
+                "title": "Vote to End This Mess",
+                "content": "\"Boris Johnson transforms Tories into the party of Leave.\" - The Times, November 2019"
+            },
+            {
+                "title": "Vote Dem to Stop Brexit",
+                "content": "The Liberal Democrats will stop Brexit on day one. We are the biggest strongest party of remain. We\u2019ve been fighting Brexit since the day after the referendum and we will keep fighting."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "The Liberal Democrats will stop Brexit on day one and focus on tackling the big issues facing the UK."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Nigel Farage",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The Liberal Democrats will stop Brexit on day one and fight against Brexit since the day after the referendum.",
+            "defence": "",
+            "economy": "Stopping Brexit will help the UK to grow our economy.",
+            "education": "",
+            "environment": "We can tackle the climate emergency.",
+            "governance": "",
+            "government": "",
+            "health": "Stopping Brexit will address the crises in our NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "The Liberal Democrats will help build a brighter future.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Lib Dems, 8-10 Great George Street, London, SW1P 3AE",
+            "phone": "",
+            "email": "",
+            "website": "www.LibDems.org.uk/help",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "\"Boris is a compulsive liar who has betrayed every single person he has ever had any dealings with.\"",
+                "source": "Former Conservative MP Nick Boles",
+                "date": "November 2019"
+            },
+            {
+                "text": "NIGEL FARAGE claimed the Tories offered Brexit Party candidates peerages to step aside in key target seats.",
+                "source": "The Express",
+                "date": "November 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Lib Dems lead the fight to stop Brexit"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "\"Boris is a compulsive liar who has betrayed every single person he has ever had any dealings with.\"",
+                        "The Liberal Democrats will stop Brexit on day one and fight against Brexit since the day after the referendum.",
+                        "The Liberal Democrats will help build a brighter future."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Stopping Brexit will help the UK to grow our economy.",
+                        "We can tackle the climate emergency.",
+                        "Stopping Brexit will address the crises in our NHS.",
+                        "\"Boris is a compulsive liar who has betrayed every single person he has ever had any dealings with.\""
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "\"Boris is a compulsive liar who has betrayed every single person he has ever had any dealings with.\""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "\"Boris is a compulsive liar who has betrayed every single person he has ever had any dealings with.\""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "\"Boris is a compulsive liar who has betrayed every single person he has ever had any dealings with.\""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "leaflet": {
+        "candidateName": "Martin Tighe",
+        "candidateGender": "",
+        "constituency": "Bolton West",
+        "politicalParty": "UKIP",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Introducing Martin Tighe",
+                "content": "Martin, a father of two young children, himself born and raised in Westhoughton wishes to represent you in Parliament."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Keep the NHS publicly owned, FREE at the point of delivery for all eligible users"
+            },
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "A fair & equal immigration policy giving everyone the same opportunity, using a points based system"
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "ONLY UKIP was 100% committed to BREXIT, every other party campaigned against it."
+            }
+        ],
+        "mentions": {
+            "candidate": "Martin, a father of two young children, himself born and raised in Westhoughton wishes to represent you in Parliament.",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "ONLY UKIP was 100% committed to BREXIT, every other party campaigned against it.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Keep the NHS publicly owned, FREE at the point of delivery for all eligible users",
+            "immigration": "A fair & equal immigration policy giving everyone the same opportunity, using a points based system",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "Martin, a father of two young children, himself born and raised in Westhoughton wishes to represent you in Parliament.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Martin, a father of two young children, himself born and raised in Westhoughton wishes to represent you in Parliament.",
+                        "Keep the NHS publicly owned, FREE at the point of delivery for all eligible users",
+                        "A fair & equal immigration policy giving everyone the same opportunity, using a points based system",
+                        "ONLY UKIP was 100% committed to BREXIT, every other party campaigned against it."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Keep the NHS publicly owned, FREE at the point of delivery for all eligible users",
+                        "A fair & equal immigration policy giving everyone the same opportunity, using a points based system",
+                        "ONLY UKIP was 100% committed to BREXIT, every other party campaigned against it."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "ONLY UKIP was 100% committed to BREXIT, every other party campaigned against it."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Born and raised in Westhoughton",
+                "employment": "",
+                "education": "",
+                "family": "Father of two young children"
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Born and raised in Westhoughton"
+                ]
+            }
+        }
+    }
+}

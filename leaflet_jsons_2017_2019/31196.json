@@ -1,0 +1,157 @@
+{
+    "leaflet": {
+        "candidateName": "Richard Benwell",
+        "candidateGender": "",
+        "constituency": "Grove & Wantage",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "Thursday 12th December",
+        "messages": [
+            {
+                "title": "The best choice for Wantage Constituency",
+                "content": "Richard Benwell has been selected as the Liberal Democrats\u2019 Prospective Parliamentary Candidate for the Wantage Constituency for an expected snap General Election later this year. He is best placed to challenge the Conservatives here. \"I am thrilled to be standing for Parliament in my home constituency, Wantage. The Liberal Democrats are the only party for Remain who can challenge the Conservatives who seem hell-bent on Brexit whatever the cost,\" said Richard. \"I stand for internationalism, environmentalism, and equality. That means protecting and improving our green spaces, making sure developers are held to high quality, green standards, and working to make sure our NHS, social care and local services and making sure local renters can thrive.\""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Environmental Protection",
+                "policyDescription": "Protecting and improving green spaces, making sure developers are held to high quality, green standards."
+            }
+        ],
+        "mentions": {
+            "candidate": "Local Lib Dem candidate, Richard Benwell",
+            "otherPartyLeaderCandidate": "Boris Johnson\u2019s Conservatives",
+            "partyLeader": "",
+            "tacticalSituation": "Voters in the Grove and Wantage area now face a clear choice in the election: EITHER: Local Lib Dem candidate, Richard Benwell, who lives near Faringdon, and is a leading environmental expert. OR: Boris Johnson\u2019s Conservatives and their plan for a deeply damaging Brexit and lack of action to tackle climate change."
+        },
+        "issues": {
+            "brexitEurope": "Boris Johnson\u2019s Conservatives and their plan for a deeply damaging Brexit",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "protecting and improving our green spaces",
+            "governance": "",
+            "government": "",
+            "health": "making sure our NHS",
+            "immigration": "",
+            "labourEmployment": "making sure local renters can thrive",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "protecting and improving our green spaces",
+            "community": [
+                {
+                    "content": "making sure developers are held to high quality, green standards",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "\"I am thrilled to be standing for Parliament in my home constituency, Wantage. The Liberal Democrats are the only party for Remain who can challenge the Conservatives who seem hell-bent on Brexit whatever the cost,\" said Richard. \"I stand for internationalism, environmentalism, and equality. That means protecting and improving our green spaces, making sure developers are held to high quality, green standards, and working to make sure our NHS, social care and local services and making sure local renters can thrive.\"",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.richardbenwell.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "In the local elections in May, Lib Dems were elected as our new district councillors, with a massive swing from the Conservatives."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Boris Johnson\u2019s Conservatives and their plan for a deeply damaging Brexit",
+                        "\"I am thrilled to be standing for Parliament in my home constituency, Wantage. The Liberal Democrats are the only party for Remain who can challenge the Conservatives who seem hell-bent on Brexit whatever the cost,\" said Richard.",
+                        "\"I stand for internationalism, environmentalism, and equality. That means protecting and improving our green spaces, making sure developers are held to high quality, green standards, and working to make sure our NHS, social care and local services and making sure local renters can thrive.\"",
+                        "who lives near Faringdon, and is a leading environmental expert.",
+                        "making sure our NHS, social care and local services and making sure local renters can thrive."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "making sure developers are held to high quality, green standards",
+                        "making sure local renters can thrive"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson\u2019s Conservatives and their plan for a deeply damaging Brexit"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson\u2019s Conservatives and their plan for a deeply damaging Brexit"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson\u2019s Conservatives"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "who lives near Faringdon.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Local Lib Dem candidate, Richard Benwell",
+                    "Richard Benwell has been selected as the Liberal Democrats\u2019 Prospective Parliamentary Candidate for the Wantage Constituency"
+                ]
+            }
+        }
+    }
+}

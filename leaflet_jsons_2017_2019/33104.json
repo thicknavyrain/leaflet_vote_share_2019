@@ -1,0 +1,186 @@
+{
+    "leaflet": {
+        "candidateName": "Mike Davies",
+        "candidateGender": "",
+        "constituency": "Bath",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "It's Time for Real Change in Bath",
+                "content": "I'm proud to be your local Labour candidate for Bath. I am a professional who supports progressive policies and a fairer society. In this election, let's make a stand for the issues that matter."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Halting Climate Change",
+                "policyDescription": "Net zero carbon by 2030"
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Giving people the final say on Brexit"
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Equal opportunities for all young people in Bath."
+            }
+        ],
+        "mentions": {
+            "candidate": "Mike Davies",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Giving people the final say on Brexit",
+            "defence": "",
+            "economy": "",
+            "education": "Equal opportunities for all young people in Bath",
+            "environment": "Halting Climate Change, Net zero carbon by 2030",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Giving people the final say on Brexit",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I'm proud to be your local Labour candidate for Bath. I am a professional who supports progressive policies and a fairer society.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "01225 314313",
+            "email": "mike.davies@bathlabour.org.uk",
+            "website": "www.bathlabour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Ken Loach",
+                "endorsement": "Mike Davies represents the best of the new generation's energy and vision. He addresses the same problems now that I addressed in 'Cathy Come Home'. Giving people the final say on Brexit and making our economy work for everyone."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Mike Davies represents the best of the new generation's energy and vision.",
+                "source": "Ken Loach",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I'm proud to be your local Labour candidate for Bath.",
+                        "I am a professional who supports progressive policies and a fairer society.",
+                        "Mike Davies represents the best of the new generation's energy and vision."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Equal opportunities for all young people in Bath"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Halting Climate Change, Net zero carbon by 2030",
+                        "Giving people the final say on Brexit"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Mike Davies represents the best of the new generation's energy and vision.",
+                    "issueRelated": "general political stance"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Ken Loach: Mike Davies represents the best of the new generation's energy and vision. Giving people the final say on Brexit and making our economy work for everyone."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I'm proud to be your local Labour candidate for Bath.",
+                "employment": "I am a professional",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I'm proud to be your local Labour candidate for Bath."
+                ]
+            }
+        }
+    }
+}

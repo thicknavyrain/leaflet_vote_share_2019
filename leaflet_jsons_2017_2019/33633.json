@@ -1,0 +1,181 @@
+{
+    "leaflet": {
+        "candidateName": "Aaron Bell",
+        "candidateGender": "",
+        "constituency": "Newcastle-under-Lyme",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "ONLY A MAJORITY GOVERNMENT CAN GET ON WITH THE COUNTRY'S PRIORITIES",
+                "content": "At the end of this election, we'll either get a Conservative majority... or a hung parliament. A vote for Labour means another hung parliament. SNP to back Labour government only with Scottish independence vote. With your support, a Conservative majority government can get on with the country's priorities."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Government plans billions for hospital projects",
+                "policyDescription": "Better hospitals: Government plans billions for hospital projects. English schools to get three-year \u00a314bn funding boost. Safer streets: End of the soft prison sentence."
+            },
+            {
+                "policyTitle": "My plan for Newcastle-under-Lyme",
+                "policyDescription": "Regenerate town centre and get the best from the Government's \u00a325m investment. Help bring high-skilled, better paid jobs to the borough. State-of-the-art CCTV coverage to the town center. Extra \u00a333.9 billion for the NHS. Reduce congestion and emissions, better roads. Deliver Brexit without further delay."
+            }
+        ],
+        "mentions": {
+            "candidate": "Aaron Bell",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "With Corbyn propped up by parties like the Scottish Nationalists.",
+            "tacticalSituation": "At the end of this election, we'll either get a Conservative majority... or a hung parliament."
+        },
+        "issues": {
+            "brexitEurope": "I voted to Leave the EU, along with 62% of Newcastle residents. Now it\u2019s time to get Brexit done: I will use my vote in Parliament to deliver Brexit without further delay.",
+            "defence": "",
+            "economy": "",
+            "education": "English schools to get three-year \u00a314bn funding boost.",
+            "environment": "",
+            "governance": "",
+            "government": "Government plans billions for hospital projects.",
+            "health": "My children were born at Royal Stoke: our hospital must have a share of the extra \u00a333.9 billion for the NHS.",
+            "immigration": "",
+            "labourEmployment": "Help bring high-skilled, better paid jobs to the borough.",
+            "lawCrime": "State-of-the-art CCTV coverage to the town center. End of the soft prison sentence. I will work with the Police to make our town safer.",
+            "transport": "Reduce congestion and emissions, through public transport and better roads, including a remodelling of J15 of the M6 motorway.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I will work with local businesses and the council to regenerate our town centre and get the best from the Government's \u00a325m investment.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 5,
+                    "examples": [
+                        "We'll either get a Conservative majority... or a hung parliament.",
+                        "That's five long years of gridlock and uncertainty.",
+                        "State-of-the-art CCTV coverage.",
+                        "English schools to get three-year \u00a314bn funding boost.",
+                        "Our hospital must have a share of the extra \u00a333.9 billion for the NHS."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "With your support, a Conservative majority government can get on with the country's priorities.",
+                        "I will work with local businesses and the council to regenerate our town centre.",
+                        "Help bring high-skilled, better paid jobs to the borough.",
+                        "I voted to Leave the EU, along with 62% of Newcastle residents.",
+                        "Let's get on with our priorities."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 6,
+                    "examples": [
+                        "Regenerate town centre.",
+                        "Help bring high-skilled, better paid jobs to the borough.",
+                        "State-of-the-art CCTV coverage.",
+                        "Make our town safer.",
+                        "Reduce congestion and emissions, better roads.",
+                        "Deliver Brexit without further delay."
+                    ]
+                },
+                "national": {
+                    "count": 7,
+                    "examples": [
+                        "Conservative majority government.",
+                        "\u00a314bn funding boost.",
+                        "Better hospitals.",
+                        "End of the soft prison sentence.",
+                        "\u00a333.9 billion for the NHS.",
+                        "Deliver Brexit without further delay.",
+                        "Hung parliament."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "My children were born at Royal Stoke: our hospital must have a share of the extra \u00a333.9 billion for the NHS.",
+                    "issueRelated": "Health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "That's five long years of gridlock and uncertainty."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "With Corbyn propped up by parties like the Scottish Nationalists."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "A vote for Labour means another hung parliament."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "12 December 2019",
+        "messages": [
+            {
+                "title": "Your Bill for the Cost of Corbyn",
+                "content": "To be paid by: hardworking taxpayers like you"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Putting politicians in charge of rail, energy, water and postal services",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Cost of a four-day week, hitting vital public services like the NHS",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Universal basic income, giving free money to the superfich and prisoners",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "More arguing about Brexit and no action on our priorities",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "New homes tax on EVERY home",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Free tuition fees for all students, no matter how rich their parents",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Abolishing Ofsted, scrapping SATs",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Putting politicians in charge of energy and water companies",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "More arguing about Brexit and no action on our priorities",
+            "education": "Abolishing Ofsted, scrapping SATs",
+            "economy": "Cost of a four-day week, hitting vital public services like the NHS",
+            "governance": "",
+            "government": "Putting politicians in charge of rail, energy, water and postal services",
+            "health": "",
+            "labourEmployment": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "New homes tax on EVERY home",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "4 Matthew Parker Street, London, SW1H 9HQ",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Higher tax on every home"
+                },
+                {
+                    "caption": "Abolish Ofsted and SATs"
+                },
+                {
+                    "caption": "Politicians in charge of water and energy supplies"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 7,
+                    "examples": [
+                        "\u00a3196,000,000,000",
+                        "\u00a385,000,000,000",
+                        "\u00a34,500,000,000",
+                        "\u00a31,200,000,000,000",
+                        "\u00a32,400",
+                        "\u00a3375 more than the average council tax bill",
+                        "\u00a313.5 billion to the taxpayer"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "To be paid by: hardworking taxpayers like you",
+                        "No standards in schools and a worse education for your children",
+                        "Raise average household bills by \u00a32,000 a year"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": []
+                },
+                "national": {
+                    "count": 8,
+                    "examples": [
+                        "Putting politicians in charge of rail, energy, water and postal services",
+                        "Cost of a four-day week, hitting vital public services like the NHS",
+                        "Universal basic income, giving free money to the superfich and prisoners",
+                        "More arguing about Brexit and no action on our priorities",
+                        "New homes tax on EVERY home",
+                        "Free tuition fees for all students, no matter how rich their parents",
+                        "Abolishing Ofsted, scrapping SATs",
+                        "Putting politicians in charge of energy and water companies"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Jobs lost, uncertainty for businesses, gridlock in parliament",
+                        "No standards in schools and a worse education for your children"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Corbyn"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

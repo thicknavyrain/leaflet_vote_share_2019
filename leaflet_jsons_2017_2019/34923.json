@@ -1,0 +1,202 @@
+{
+    "leaflet": {
+        "candidateName": "Josh Fenton-Glynn",
+        "candidateGender": "",
+        "constituency": "Calder Valley",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Labour Promises",
+                "content": "Building a better NHS. Reverse Tory cuts. Free prescriptions and tuition fees. Save our special schools."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Putting Respect and Decency Back into the Workplace",
+                "policyDescription": "Creating fairer working conditions by protecting the rights of workers, introducing a real living wage, and reversing Tory cuts."
+            },
+            {
+                "policyTitle": "An NHS That Works For All Of Us",
+                "policyDescription": "Guaranteed longer appointments and reverse the privatisation of the NHS."
+            },
+            {
+                "policyTitle": "Good Quality Jobs",
+                "policyDescription": "Investing in green energy and tech, and fighting poverty and injustice."
+            },
+            {
+                "policyTitle": "A Well Run Country Enjoying Nation's Public Transport",
+                "policyDescription": "Creating affordable, reliable fares and improving reliability of services."
+            },
+            {
+                "policyTitle": "Fragile! Look After the Earth Carefully!",
+                "policyDescription": "Reducing carbon emissions, increasing investment in renewable energy, and protecting natural habitats."
+            }
+        ],
+        "mentions": {
+            "candidate": "Josh Fenton-Glynn",
+            "otherPartyLeaderCandidate": "No mention",
+            "partyLeader": "Labour Leader",
+            "tacticalSituation": "Previous election results showing Labour behind Conservatives."
+        },
+        "issues": {
+            "brexitEurope": "Labour will work to get the best Brexit deal.",
+            "defence": "",
+            "economy": "Labour promises to reward hard work in good jobs.",
+            "education": "Ensuring every child has access to good school placements.",
+            "environment": "Reducing carbon emissions and protecting natural habitats.",
+            "governance": "",
+            "government": "Reversal of NHS privatisation and job creation.",
+            "health": "Reversing Tory NHS cuts, longer appointments.",
+            "immigration": "",
+            "labourEmployment": "Real living wage and protection of workers' rights.",
+            "lawCrime": "",
+            "transport": "Affordable, reliable public transport fares.",
+            "socialWelfare": "Building a better NHS, reversing Tory cuts.",
+            "community": [
+                {
+                    "content": "Investing in revitalizing local communities by providing good quality jobs and maintaining public services.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Josh Fenton-Glynn introduces himself, highlighting his local upbringing and commitment to serving Calder Valley.",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "01473 270 701",
+            "email": "joshfentonglynn@calderlabour.co.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "@JoshFG",
+                "twitter": "@JoshFG",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Josh Fenton-Glynn with supporters."
+                },
+                {
+                    "caption": "Josh talking to local workers."
+                },
+                {
+                    "caption": "Josh with NHS staff."
+                },
+                {
+                    "caption": "Public transport in use."
+                },
+                {
+                    "caption": "Scenic view of Calder Valley."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 4,
+                    "examples": [
+                        "Vote Josh Fenton-Glynn.",
+                        "Previously Labour 45.1%, Conservatives 46.1%",
+                        "Build a better NHS.",
+                        "Reverse Tory cuts."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Putting respect and decency back into the workplace.",
+                        "An NHS that works for all of us.",
+                        "Fragile! Look after the Earth carefully!"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 4,
+                "candidateAlone": 2,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Investing in green energy and tech.",
+                        "Reversing Tory cuts."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Labour will work to get the best Brexit deal.",
+                        "Good quality jobs and public services."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Josh introduces himself, highlighting his local upbringing and commitment to serving Calder Valley.",
+                    "issueRelated": "Community development"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Reversing Tory cuts."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour will work to get the best Brexit deal."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Josh highlights his local upbringing and commitment to serving Calder Valley.",
+                "employment": "Josh has spent time working with local organizations.",
+                "education": "Josh attended local schools.",
+                "family": "No mention"
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Josh highlights his local upbringing and commitment to serving Calder Valley."
+                ]
+            }
+        }
+    }
+}

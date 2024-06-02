@@ -1,0 +1,202 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "LET'S GET BREXIT DONE",
+                "content": "By getting Brexit done, we can get on with the priorities we all share.\n\u2714\ufe0f more money for hospitals\n\u2714\ufe0f 20,000 extra police officers\n\u2714\ufe0f more money for every single school"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Hospitals",
+                "policyDescription": "more money for hospitals"
+            },
+            {
+                "policyTitle": "Police",
+                "policyDescription": "20,000 extra police officers"
+            },
+            {
+                "policyTitle": "Schools",
+                "policyDescription": "more money for every single school"
+            }
+        ],
+        "mentions": {
+            "candidate": "Boris Johnson",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "By getting Brexit done, we can get on with the priorities we all share.",
+            "defence": "",
+            "economy": "A Corbyn government would deliver more confusion and delay and NOTHING else would get done. Harming our economy \u2013 and leaving you and your family to pay the price.",
+            "education": "",
+            "environment": "",
+            "governance": "The Labour Party can't govern itself, much less Britain.",
+            "government": "",
+            "health": "more money for hospitals",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "20,000 extra police officers",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Let's get Brexit done. And put Britain back on the road to a brighter future.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Promoted by Alan Mabbutt on behalf of the Conservative Party, both at 4 Matthew Parker Street, London, SW1H 9HQ. Printed by PCO Group UK, Park House, Lower Ground Floor, 16-18 Finsbury Circus, London, EC2M 7EB.",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "The Labour Party can't govern itself, much less Britain",
+                "source": "FOREIGN POLICY, 25 SEPTEMBER 2019",
+                "date": "25 SEPTEMBER 2019"
+            },
+            {
+                "text": "Baffled by Labour's Brexit policy? You're not alone",
+                "source": "The Times, 11 September 2019",
+                "date": "11 September 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "20,000 extra police officers",
+                        "Labour\u2019s Brexit policy is more delay.They had THREE YEARS to make up their mind."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Baffled by Labour's Brexit policy? You're not alone",
+                        "By getting Brexit done, we can get on with the priorities we all share.",
+                        "A Corbyn government would deliver more confusion and delay and NOTHING else would get done.",
+                        "Let's get Brexit done. And put Britain back on the road to a brighter future."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "20,000 extra police officers",
+                        "more money for hospitals",
+                        "The Labour Party can't govern itself, much less Britain.",
+                        "A Corbyn government would deliver more confusion and delay and NOTHING else would get done. Harming our economy \u2013 and leaving you and your family to pay the price.",
+                        "Labour\u2019s Brexit policy is more delay."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "A Corbyn government would deliver more confusion and delay and NOTHING else would get done. Harming our economy \u2013 and leaving you and your family to pay the price."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Labour\u2019s Brexit policy is more delay.They had THREE YEARS to make up their mind."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "The Labour Party can't govern itself, much less Britain."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

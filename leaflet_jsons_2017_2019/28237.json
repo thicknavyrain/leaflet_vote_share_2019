@@ -1,0 +1,182 @@
+{
+    "leaflet": {
+        "candidateName": "Peter Jones",
+        "candidateGender": "",
+        "constituency": "Chesham and Amersham",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Fighting against Hard Brexit",
+                "content": "Liberal Democrats are the only party that has always fought for Britain\u2019s membership of the European Union, and that\u2019s why we are fighting for you to have your say on the final Brexit deal."
+            },
+            {
+                "title": "Standing up for the NHS",
+                "content": "We know we need additional investment in health and care services as a matter of urgency. The Liberal Democrats would give the NHS the funds it needs."
+            },
+            {
+                "title": "Protecting the Green Belt",
+                "content": "Peter Jones will press ministers to tell the truth. Will they protect the Green Belt? Or will the Government force local councils to build thousands of houses on green fields?"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fighting against Hard Brexit",
+                "policyDescription": "Liberal Democrats are fighting for Britain\u2019s membership in the EU and for the public to have a say on the final Brexit deal."
+            },
+            {
+                "policyTitle": "Standing up for the NHS",
+                "policyDescription": "Additional investment in health and care services is urgently needed, and the Liberal Democrats will provide the necessary funds for the NHS."
+            },
+            {
+                "policyTitle": "Protecting the Green Belt",
+                "policyDescription": "Advocating to protect green fields from being turned into housing developments and pressuring ministers to be transparent about their plans for the Green Belt."
+            }
+        ],
+        "mentions": {
+            "candidate": "Peter Jones",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Liberal Democrats are fighting for Britain\u2019s membership of the European Union and the public's say on the final Brexit deal.",
+            "defence": "",
+            "economy": "",
+            "education": "Opposing school cuts.",
+            "environment": "Protecting the Green Belt from housing developments.",
+            "governance": "",
+            "government": "",
+            "health": "Additional investment in health and care services.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Protecting the Green Belt from housing developments and pressing ministers for transparency.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Windrush, Bellingdon, Chesham, Bucks, HP5 2NX",
+            "phone": "",
+            "email": "",
+            "website": "libdems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "Fighting against Hard Brexit",
+                        "Standing up for the NHS",
+                        "Protecting the Green Belt",
+                        "Liberal Democrats are the only party that has always fought for Britain\u2019s membership of the European Union.",
+                        "We know we need additional investment in health and care services as a matter of urgency.",
+                        "Will the Government force local councils to build thousands of houses on green fields?"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Protecting the Green Belt",
+                        "Opposing school cuts"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Fighting against Hard Brexit",
+                        "Standing up for the NHS"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Will the Government force local councils to build thousands of houses on green fields?"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

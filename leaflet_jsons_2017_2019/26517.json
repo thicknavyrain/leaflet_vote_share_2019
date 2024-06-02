@@ -1,0 +1,186 @@
+{
+    "leaflet": {
+        "candidateName": "Nick Clegg",
+        "candidateGender": "",
+        "constituency": "Sheffield Hallam",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": "Now, more than ever, our country needs a strong opposition. Like so many local people here in Sheffield, I was deeply disappointed to see Labour MPs follow UKIP and the Conservatives through the voting lobby, giving Theresa May a blank cheque for the hardest Brexit possible. That's not what people in Sheffield Hallam voted for. Labour are too weak and too divided to hold the Conservatives to account. They are too busy fighting amongst themselves to fight for the future of our country and they have failed time and time again on the biggest issues. The only party who can provide the effective opposition to the hard Brexit are the Lib Dems. I need your support to make this happen."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Strong Opposition",
+                "policyDescription": "Nick Clegg emphasizes the need for a strong opposition to the current government and the Brexit plan."
+            },
+            {
+                "policyTitle": "Effective Opposition to Brexit",
+                "policyDescription": "Only the Liberal Democrats can provide the effective opposition to the hard Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "Nick Clegg",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": "A judgement on the Tories' hard Brexit plans."
+        },
+        "issues": {
+            "brexitEurope": "The hardest Brexit possible. Only the Lib Dems can provide the effective opposition to the hard Brexit.",
+            "defence": "",
+            "economy": "Labour is too weak and divided, focused on infighting rather than the future of our country.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Nick Clegg has helped thousands of local people with issues and problems.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Liberal Democrat Parliamentary Candidate for Sheffield Hallam",
+                "duration": "",
+                "achievements": "Nick has over a decade-long history of getting things done in Sheffield Hallam."
+            }
+        ],
+        "contactInformation": {
+            "address": "Freepost RUK-YRYA-YTHZ, Sheffield Liberal Democrats, Riverdale House, 89 Graham Road, Sheffield, S10 3GP",
+            "phone": "",
+            "email": "nickclegg@s6libdems.org.uk",
+            "website": "nickclegg.org.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/nickclegg",
+                "twitter": "twitter.com/nick_clegg",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "local constituents",
+                "endorsement": "Nick Clegg has helped thousands of local people with issues and problems."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Like so many local people here in Sheffield, I was deeply disappointed to see Labour MPs follow UKIP and the Conservatives.",
+                "source": "Nick Clegg",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Nick Clegg working hard for the community, keeping in touch all year round, fighting for a city we can be proud of."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Nick has a wealth of experience in Parliament and has worked locally for you and your neighbours. From standing up against a Labour Council\u2019s 5am dawn raids to real achievements like securing investment for local schools."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Labour are too weak and too divided to hold the Conservatives to account.",
+                        "They are too busy fighting amongst themselves to fight for the future of our country and they have failed time and time again on the biggest issues."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Nick Clegg has helped thousands of local people with issues and problems."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Labour are too weak and too divided to hold the Conservatives to account. They have failed time and time again on the biggest issues."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Nick has a wealth of experience in Parliament and has worked locally for you and your neighbours, from standing up against a Labour Council\u2019s 5am dawn raids to real achievements like securing investment for local schools.",
+                    "issueRelated": "governance"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Nick Clegg has helped thousands of local people with issues and problems."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour are too weak and too divided to hold the Conservatives to account. They are too busy fighting amongst themselves to fight for the future of our country and they have failed time and time again on the biggest issues."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Nick Clegg has a wealth of experience in Parliament and has worked locally.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Nick Clegg has a wealth of experience in Parliament and has worked locally for you and your neighbours."
+                ]
+            }
+        }
+    }
+}

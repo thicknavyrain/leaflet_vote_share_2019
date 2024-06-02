@@ -1,0 +1,169 @@
+{
+    "leaflet": {
+        "candidateName": "Steffan Webb",
+        "candidateGender": "",
+        "constituency": "Cardiff North",
+        "politicalParty": "Plaid Cymru",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Brexit Promise",
+                "content": "Our MPs will get the best deal for Cardiff North and for Wales. Plaid Cymru will..."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Defend Our Nation",
+                "policyDescription": "Protecting our country's economy, identity and our Assembly from a Conservative power grab."
+            },
+            {
+                "policyTitle": "Defend Our Economy",
+                "policyDescription": "Demanding that every single penny we lose from Europe is replaced by Westminster."
+            },
+            {
+                "policyTitle": "Defend Our People",
+                "policyDescription": "Funding new Welsh hospitals, railways, roads, schools and affordable homes with our multi-billion pound investment programme."
+            }
+        ],
+        "mentions": {
+            "candidate": "Steffan Webb",
+            "otherPartyLeaderCandidate": "Tory/Labour",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Plaid's Brexit Promise: Our MPs will get the best deal for Cardiff North and for Wales. Plaid Cymru will...",
+            "defence": "",
+            "economy": "Demanding that every single penny we lose from Europe is replaced by Westminster.",
+            "education": "",
+            "environment": "",
+            "governance": "Protecting our country's economy, identity and our Assembly from a Conservative power grab.",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Multi-billion pound investment programme for new Welsh hospitals, railways, roads, schools, and affordable homes.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Demanding that every single penny we lose from Europe is replaced by Westminster."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Protecting our country's economy, identity and our Assembly from a Conservative power grab.",
+                        "Funding new Welsh hospitals, railways, roads, schools and affordable homes with our multi-billion pound investment programme."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "New Welsh hospitals, railways, roads, schools, and affordable homes."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Protecting our country's economy, identity and our Assembly from a Conservative power grab.",
+                        "Demanding that every single penny we lose from Europe is replaced by Westminster."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Protecting our country's economy, identity and our Assembly from a Conservative power grab."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Fighting the Tory/Labour budget cuts..."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

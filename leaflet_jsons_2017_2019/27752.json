@@ -1,0 +1,161 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "We Need This Election Now",
+                "content": "We need this election now to secure the strong and stable leadership that the United Kingdom needs to see us through Brexit and beyond; to lock in the economic progress we have made together."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Strong and Stable Leadership",
+                "policyDescription": "Securing leadership to handle Brexit and economic progress."
+            },
+            {
+                "policyTitle": "Economic Progress",
+                "policyDescription": "Lock in the economic progress made."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Labour, Lib Dem and SNP opponents are already seeking to disrupt our Brexit negotiations.",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Our Labour, Lib Dem and SNP opponents are already seeking to disrupt our Brexit negotiations. This is in addition to the 27 European countries lining up to oppose us.",
+            "defence": "",
+            "economy": "Their position can only mean one thing - uncertainty for the British people; bringing grave risk to our growing economy with higher taxes, fewer jobs, more waste and more debt.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Candidate Image"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "We need this election now to secure the strong and stable leadership that the United Kingdom needs to see us through Brexit and beyond; to lock in the economic progress we have made together.",
+                        "Our Labour, Lib Dem and SNP opponents are already seeking to disrupt our Brexit negotiations.",
+                        "Their position can only mean one thing \u2013 uncertainty for the British people; bringing grave risk to our growing economy with higher taxes, fewer jobs, more waste and more debt."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "We need this election now to secure the strong and stable leadership that the United Kingdom needs to see us through Brexit and beyond; to lock in the economic progress we have made together.",
+                        "Our Labour, Lib Dem and SNP opponents are already seeking to disrupt our Brexit negotiations."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Their position can only mean one thing \u2013 uncertainty for the British people; bringing grave risk to our growing economy with higher taxes, fewer jobs, more waste and more debt."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

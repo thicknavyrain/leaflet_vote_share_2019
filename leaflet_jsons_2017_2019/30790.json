@@ -1,0 +1,195 @@
+{
+    "leaflet": {
+        "candidateName": "Stuart Thomstone",
+        "candidateGender": "",
+        "constituency": "Southwell Division",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "May 4th, 2017",
+        "messages": [
+            {
+                "title": "Social Care Plan Chaos",
+                "content": "Pensioners to pay for May's social care U-turn. Dementia tax backlash."
+            },
+            {
+                "title": "Investing in Education",
+                "content": "Put Children First"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS and Social Care",
+                "policyDescription": "Save our NHS and care services. The NHS and Social Care Services are in a state of crisis."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "The Liberal Democrat manifesto promises that all cuts to our schools and college budgets will be reversed."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Protect Britain's Place in Europe. Britain is heading into a massive period of uncertainty on Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "Stuart Thomstone",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "The Liberal Democrats",
+            "tacticalSituation": "Holding the Conservatives to account"
+        },
+        "issues": {
+            "brexitEurope": "Protect Britain's Place in Europe. Britain is heading into a massive period of uncertainty on Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "The Liberal Democrat manifesto promises that all cuts to our schools and college budgets will be reversed. Funding for 16-18ens. Scrapping Free School Meals.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Save our NHS and care services. The NHS and Social Care Services are in a state of crisis.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "The Lib Dems will put a penny on the basic and income Tax rate to save and protect the NHS and Social Care Services. Protect Britain's Place in Europe.",
+            "community": [
+                {
+                    "content": "Local council election pledges, village library, protecting childcare facilities.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Local council candidate",
+                "duration": "",
+                "achievements": "Helping to keep in touch, holding the Conservatives to account."
+            }
+        ],
+        "contactInformation": {
+            "address": "Southwell Lib Dems, 15 Birch Drive, Southwell, NG25 0SG",
+            "phone": "01636 816000",
+            "email": "southwellfocus@gmail.com",
+            "website": "www.southwellfocus.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "David Watts",
+                "endorsement": "David Watts, Liberal Democrat candidate for Parliament, states, 'It is clear that education is a passion for many Southwell parents and our children deserve nothing but the best.'"
+            }
+        ],
+        "quotes": [
+            {
+                "text": "'The Tories have executed their second mid-election U-turn in two weeks. Just four days after ruling it out, they are now pledging a cap on individual social care costs.'",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Stuart Thomstone campaign material"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "The NHS and Social Care Services are in a state of crisis.",
+                        "Britain is heading into a massive period of uncertainty on Brexit."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Holding the Conservatives to account",
+                        "Put Children First"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 0,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Local council election pledges",
+                        "Protecting childcare facilities"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Save our NHS and care services",
+                        "The NHS and Social Care Services are in a state of crisis",
+                        "Protect Britain's Place in Europe"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Educational improvements with the Liberal Democrats manifesting in material ways.",
+                    "issueRelated": "Education"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "David Watts, Liberal Democrat candidate for Parliament, states, 'It is clear that education is a passion for many Southwell parents and our children deserve nothing but the best.'"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Tory Local Election Pledges"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "The Tories have executed their second mid-election U-turn in two weeks.",
+                        "Theresa May's Brexit deal."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "The Tories have executed their second mid-election U-turn in two weeks."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Keeping in touch",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Helping to keep in touch, holding the Conservatives to account."
+                ]
+            }
+        }
+    }
+}

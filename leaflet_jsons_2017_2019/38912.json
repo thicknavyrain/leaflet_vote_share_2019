@@ -1,0 +1,164 @@
+{
+    "leaflet": {
+        "candidateName": "Jason Billin",
+        "candidateGender": "",
+        "constituency": "Rushcliffe",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "The Liberal Democrats are WINNING",
+                "content": "Right across the UK, Jo Swinson's Liberal Democrats are winning and gaining momentum. GAINED over 700 new councillors in May's local elections. BEAT Labour and the Conservatives in May's European Elections. Membership has SURGED to a record high of over 125,000 members. WON parliamentary by-elections in Brecon and Shetland. MPs from both Labour and the Conservatives have JOINED the Lib Dems as more and more people abandon the old parties."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protect the NHS",
+                "policyDescription": "They want an MP who will protect our NHS and give people the final say on Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jason Billin",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": "At this election voters have a clear choice between Lib Dems and the Tories. That's why Labour supporters are lending their vote to the Lib Dems this time. Use your vote to help Lib Dem Jason Billin beat the Tories."
+        },
+        "issues": {
+            "brexitEurope": "They want an MP who will give people the final say on Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "They want an MP who will protect our NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Use your vote to help Lib Dem Jason Billin beat the Tories.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "The Lib Dem fight back is real and it's changing everything.",
+                "source": "SKY NEWS",
+                "date": "August 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Jo Swinson with Liberal Democrat supporters."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 5,
+                    "examples": [
+                        "GAINED over 700 new councillors in May's local elections.",
+                        "Membership has SURGED to a record high of over 125,000 members.",
+                        "BEAT Labour and the Conservatives in May's European Elections.",
+                        "WON parliamentary by-elections in Brecon and Shetland.",
+                        "MPs from both Labour and the Conservatives have JOINED the Lib Dems as more and more people abandon the old parties."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "The Lib Dem fight back is real and it's changing everything.",
+                        "Right across the UK, Jo Swinson's Liberal Democrats are winning and gaining momentum."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Use your vote to help Lib Dem Jason Billin beat the Tories.",
+                        "Only a vote for the Lib Dems can stop the Conservatives here in Rushcliffe."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "They want an MP who will protect our NHS and give people the final say on Brexit.",
+                        "Right across the UK, Jo Swinson's Liberal Democrats are winning and gaining momentum."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "The Lib Dem fight back is real and it's changing everything. - SKY NEWS, August 2019"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Only a vote for the Lib Dems can stop the Conservatives here in Rushcliffe."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Use your vote to help Lib Dem Jason Billin beat the Tories."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

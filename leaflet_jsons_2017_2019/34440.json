@@ -1,0 +1,163 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "SNP",
+        "electionDate": "12 DEC",
+        "messages": [
+            {
+                "title": "",
+                "content": "Your vote can stop the Tories. A better future for Scotland is within our reach. But first we need to take that future out of Boris Johnson\u2019s hands and put it where it belongs - in Scotland\u2019s hands. That\u2019s why this is the most important election ever for Scotland. This is our chance to ditch Boris Johnson, to escape Brexit and stop the Tories. Now is the time to fight for our right to choose a different path for Scotland. Vote SNP."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "End Austerity",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Invest in NHS",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Fair Pensions",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": "Only one party in Scotland can beat the Tories - that\u2019s why every SNP vote matters more than ever. Now is the time to vote SNP \u2013 to help us stop the Tories and stop Boris."
+        },
+        "issues": {
+            "brexitEurope": "to escape Brexit",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Now is the time to vote SNP \u2013 to help us stop the Tories and stop Boris."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Now is the time to vote SNP \u2013 to help us stop the Tories and stop Boris."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Your vote can stop the Tories.",
+                        "This is our chance to ditch Boris Johnson, to escape Brexit and stop the Tories."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "This is our chance to ditch Boris Johnson, to escape Brexit and stop the Tories."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "This is our chance to ditch Boris Johnson, to escape Brexit and stop the Tories."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

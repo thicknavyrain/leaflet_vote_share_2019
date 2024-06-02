@@ -1,0 +1,169 @@
+{
+    "leaflet": {
+        "candidateName": "Tam Smith",
+        "candidateGender": "",
+        "constituency": "Linlithgow and East Falkirk",
+        "politicalParty": "SNP",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "SNP Vision for Scottish Agriculture",
+                "content": "Rural Affairs Secretary Richard Lochhead has set out the vision for Scottish agriculture that puts food production at the heart of policy. The SNP plans include securing direct financial support for farmers in the years ahead on the basis of delivering outcomes for food production and the environment. The food and drink sector generates over \u00a33.5bn of exports per year. Around 122,000 people are directly employed in food production, a large proportion of them in agriculture. Richard said: \u201cScotland has long attached great importance to agriculture. My vision is to have more farm and land-based industries which produce for the market, recognised for the economic, social and environmental benefits derived from them, and which are appropriately regulated.\u201d Tam Smith has praised the approach of the Scottish Government in highlighting the importance of food security and the rural economy, but added: \u201cWe need these powers devolved to the Scottish Parliament to work for Scottish farmers, as too many DEFRA decisions have an adverse impact in Scotland.\u201d"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Scottish Agriculture",
+                "policyDescription": "Securing direct financial support for farmers, delivering outcomes for food production and the environment, and appropriately regulating farm and land-based industries."
+            },
+            {
+                "policyTitle": "Fuel Tax",
+                "policyDescription": "Vigorously fighting for a fuel regulator to provide double protection for fuel users, automatic freeze in fuel duty, and ensuring a fixed cash extra raised from VAT goes to reducing fuel duty."
+            }
+        ],
+        "mentions": {
+            "candidate": "Tam Smith",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Rural Affairs Secretary Richard Lochhead has set out the vision for Scottish agriculture that puts food production at the heart of policy.",
+                    "yimbyNimby": "YIMBY"
+                },
+                {
+                    "content": "SNP plans include securing direct financial support for farmers in the years ahead on the basis of delivering outcomes for food production and the environment.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Scottish National Party Freepost SCO 26 PO Box 1720 Bathgate EH48 1TW",
+            "phone": "01506 843047",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "My vision is to have more farm and land-based industries which produce for the market, recognized for the economic, social, and environmental benefits derived from them, and which are appropriately regulated.",
+                "source": "Richard Lochhead",
+                "date": ""
+            },
+            {
+                "text": "We need these powers devolved to the Scottish Parliament to work for Scottish farmers, as too many DEFRA decisions have an adverse impact in Scotland.",
+                "source": "Tam Smith",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Tam Smith on tour - 12th February"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "The food and drink sector generates over \u00a33.5bn of exports per year.",
+                        "Around 122,000 people are directly employed in food production."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Richard said: 'Scotland has long attached great importance to agriculture.'",
+                        "Tam Smith has praised the approach of the Scottish Government in highlighting the importance of food security and the rural economy."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 0,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Securing direct financial support for farmers in the years ahead.",
+                        "SNP plans include delivering outcomes for food production and the environment."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "We need these powers devolved to the Scottish Parliament."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Too many DEFRA decisions have an adverse impact in Scotland."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

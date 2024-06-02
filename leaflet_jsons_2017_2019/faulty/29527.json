@@ -1,0 +1,123 @@
+{
+    "leaflet": {
+        "candidateName": "Henrietta Bewley",
+        "candidateGender": "",
+        "constituency": "Plymouth Sutton and Devonport",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "HEALTH",
+                "policyDescription": "\u00a36bn extra for the NHS and mental health care"
+            },
+            {
+                "policyTitle": "EDUCATION",
+                "policyDescription": "More funding to protect quality and choice"
+            },
+            {
+                "policyTitle": "ENVIRONMENT",
+                "policyDescription": "Create solutions to improve the quality of our lives"
+            }
+        ],
+        "mentions": {},
+        "issues": {
+            "health": "\u00a36bn extra for the NHS and mental health care",
+            "education": "More funding to protect quality and choice",
+            "environment": "Create solutions to improve the quality of our lives"
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "21 Rowlands Business Park, Bagley Road, Wellington, TA21 9PZ",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {}
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Henrietta Bewley"
+                }
+            ]
+        },
+        "additionalNotes": "The champion fighting for Plymouth Sutton and Devonport",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "\u00a36bn extra for the NHS and mental health care"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "More funding to protect quality and choice",
+                        "Create solutions to improve the quality of our lives"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": []
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "\u00a36bn extra for the NHS and mental health care",
+                        "More funding to protect quality and choice",
+                        "Create solutions to improve the quality of our lives"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

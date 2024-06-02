@@ -1,0 +1,173 @@
+{
+    "leaflet": {
+        "candidateName": "Jonathan Adcock",
+        "candidateGender": "",
+        "constituency": "Oxford",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Dear friend",
+                "content": "The local Liberal Democrat team are always keen to hear the views of local residents. Understanding your views helps us do a better job of representing our local. We will report back on the results of the survey in a future edition of our regular Focus newsletter. Thank you and best wishes."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Council issues",
+                "policyDescription": "Do you think the Conservative County Council is making the right choices in cutting local services including Children's Centres, bus services and elderly day care? Support for the 'One Oxfordshire' proposal."
+            },
+            {
+                "policyTitle": "Homeless fine",
+                "policyDescription": "Do you agree with the local Liberal Democrats' campaign to scrap the \u00a31,000 homeless fine?"
+            },
+            {
+                "policyTitle": "Oxford station",
+                "policyDescription": "Do you agree with the decision by the Conservatives to axe the electrification of the rail line to Oxford? Support for the delay investment in Oxford Station."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Views on Britain having access to EU Single Market or having greater control over immigration."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jonathan Adcock",
+            "otherPartyLeaderCandidate": "Nicola Blackwood MP",
+            "partyLeader": "",
+            "tacticalSituation": "Do you think the Conservative County Council is making the right choices in cutting local services including Children's Centres, bus services and elderly day care?"
+        },
+        "issues": {
+            "brexitEurope": "How did you vote in the EU referendum? Britain's access to EU Single Market or having greater control over immigration. Despite the vast majority of residents here voting to remain, local Conservative MP Nicola Blackwood voted to trigger Article 50. How do you think she should have voted?",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The NHS",
+            "immigration": "Ensuring that EU citizens already settled here have their rights protected.",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Do you agree with the decision by the Conservatives to axe the electrification of the rail line to Oxford?",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Do you agree with the decision by the Conservatives to delay investment in Oxford Station? Do you think there should be a proper entrance/exit on the western side of the station?",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Oxford Lib Dems, FREEPOST SCE 221, Oxford, OX11YA",
+            "phone": "",
+            "email": "office@oxonlibdems.uk",
+            "website": "www.oxonlibdems.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Jonathan Adcock"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "The Labour City Council introduced a fine of up to \u00a31,000 on homeless people.",
+                        "Nicola Blackwood MP voted against protecting their rights."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Understanding your views helps us do a better job of representing our local."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 6,
+                    "examples": [
+                        "Council issues",
+                        "Oxford station",
+                        "Do you agree with the decision by the Conservatives to axe the electrification of the rail line to Oxford?",
+                        "Do you think there should be a proper entrance/exit on the western side of the station?",
+                        "Do you agree with the decision by the Conservatives to delay investment in Oxford Station?",
+                        "Do you agree with the local Liberal Democrats' campaign to scrap the \u00a31,000 homeless fine?"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "How did you vote in the EU referendum?",
+                        "Britain's access to EU Single Market or having greater control over immigration."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Do you agree with the decision by the Conservatives to axe the electrification of the rail line to Oxford?",
+                        "Oxford Station entrance/exit on the western side."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Nicola Blackwood MP voted against protecting their rights."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Nicola Blackwood MP voted to trigger Article 50. How do you think she should have voted?"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Jonathan Adcock for Oxford."
+                ]
+            }
+        }
+    }
+}

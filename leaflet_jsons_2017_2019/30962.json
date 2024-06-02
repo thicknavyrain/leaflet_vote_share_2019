@@ -1,0 +1,154 @@
+{
+    "leaflet": {
+        "candidateName": "John Leech",
+        "candidateGender": "",
+        "constituency": "Manchester Withington",
+        "politicalParty": "Lib Dems",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": "When I was first elected in 1998, I was Manchester\u2019s youngest Councillor. My commitment to you and our area is as strong now as it was then, nearly twenty years ago. I have been proud to represent you on the Council and in Parliament, and I want to do so again. Our area needs an MP who will spend their time sticking up for South Manchester and not infighting with their party; I believe you deserve to know what kind of person you\u2019re supporting if you back me\u2014that\u2019s why I\u2019m submitting my CV to you. Labour are failing to get the basics right, like road repairs, housing, health services, and crime. The choice could not be clearer: a Labour win will mean more of the same\u2014they are too divided to fight for Manchester, they\u2019re too divided to fight for you, and they\u2019re too divided to stand up to the Government over a hard Brexit\u2014leaving us with fewer jobs, rising prices and higher rents & mortgages. As the sole opposition Councillor, I stand up for our area. If I am your Member of Parliament, I will tirelessly stick up for you. There\u2019s a lot at stake in this election. This is your chance to make a difference. I hope you\u2019ll see that I have the passion, determination and experience to be your effective voice in Parliament. On Brexit, on education and on NHS funding, you deserve an MP who is on your side."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "John Leech",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "too divided to stand up to the Government over a hard Brexit",
+            "defence": "",
+            "economy": "",
+            "education": "on education",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "health services, on NHS funding",
+            "immigration": "",
+            "labourEmployment": "fewer jobs",
+            "lawCrime": "crime",
+            "transport": "road repairs",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "higher rents & mortgages",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Member of Parliament for Manchester Withington",
+                "duration": "2005 \u2013 2015",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "406 Barlow Moor Road, Chorlton, M21 8AD",
+            "phone": "",
+            "email": "hello@johnleech.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "johnleechmcr",
+                "twitter": "johnleechmcr",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "When I was first elected in 1998, I was Manchester\u2019s youngest Councillor."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "My commitment to you and our area is as strong now as it was then, nearly twenty years ago.",
+                        "If I am your Member of Parliament, I will tirelessly stick up for you."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Labour are failing to get the basics right, like road repairs."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "too divided to stand up to the Government over a hard Brexit",
+                        "fewer jobs, rising prices and higher rents & mortgages."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour are failing to get the basics right, like road repairs, housing, health services, and crime."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "too divided to stand up to the Government over a hard Brexit\u2014leaving us with fewer jobs, rising prices and higher rents & mortgages."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Labour are failing to get the basics right, like road repairs, housing, health services, and crime."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "leaflet": {
+        "candidateName": "Andrew Gant",
+        "candidateGender": "Male",
+        "constituency": "Staffordshire Moorlands",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Build a Brighter Future",
+                "content": "Use your vote to STOP BREXIT"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A fairer society",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Tackle the climate emergency",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Invest in schools and NHS",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Andrew Gant",
+            "otherPartyLeaderCandidate": "Corbyn",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Use your vote to STOP BREXIT",
+            "defence": "",
+            "economy": "Invest in schools and NHS",
+            "education": "Invest in schools",
+            "environment": "Tackle the climate emergency",
+            "governance": "",
+            "government": "",
+            "health": "Standing up for the NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Child poverty, Tackling inequality",
+            "community": [
+                {
+                    "content": "Standing up for the NHS",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Standing up for the NHS, Poverty - For Brighter Future",
+        "politicalExperience": [
+            {
+                "role": "Councillor for St. Margaret's Ward, City of Oxford",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "27 Westridge, Leek ST13 8JA",
+            "phone": "",
+            "email": "andrewlibdems@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Jo Swinson",
+                "endorsement": "Liberal Democrats are the party of REMAIN"
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Andrew Gant with supporters"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Standing up for the NHS"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Use your vote to STOP BREXIT",
+                        "Tackle the climate emergency"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Councillor for St. Margaret's Ward, City of Oxford",
+                    "issueRelated": "Standing up for the NHS"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Jo Swinson"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Corbyn's Labour is STILL split over Brexit"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Corbyn"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

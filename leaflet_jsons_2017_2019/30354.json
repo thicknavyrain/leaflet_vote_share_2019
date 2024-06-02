@@ -1,0 +1,175 @@
+{
+    "leaflet": {
+        "candidateName": "Steve Merrifield",
+        "candidateGender": "",
+        "constituency": "North East",
+        "politicalParty": "Labour",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "The Tories don\u2019t care about the NHS or the North East",
+                "content": "I remember the 80\u2019s when the Tories trashed our region by closing industries, destroying jobs, wrecking families and whole communities. They left a scar across the North East that has not yet truly healed."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "The NHS is there for all of us, it's there when we're born and it cares for us throughout our lives."
+            }
+        ],
+        "mentions": {
+            "candidate": "Steve Merrifield",
+            "otherPartyLeaderCandidate": "Tories",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The NHS is there for all of us, it's there when we're born and it cares for us throughout our lives.",
+            "immigration": "",
+            "labourEmployment": "I used to be a miner and I remember the pain the Tories caused when the mines closed.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "I remember the 80\u2019s when the Tories trashed our region by closing industries, destroying jobs, wrecking families and whole communities. They left a scar across the North East that has not yet truly healed.",
+            "community": [
+                {
+                    "content": "I used to be a miner and I remember the pain the Tories caused when the mines closed.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "The Tories don\u2019t care about the NHS or the North East. On June 8th, vote for a strong local Labour MP.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Our children were born on the NHS and it cared for my wife when she was ill."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "I remember the 80\u2019s when the Tories trashed our region by closing industries, destroying jobs, wrecking families and whole communities. They left a scar across the North East that has not yet truly healed.",
+                        "I used to be a miner and I remember the pain the Tories caused when the mines closed.",
+                        "The NHS is there for all of us, it's there when we're born and it cares for us throughout our lives.",
+                        "The Tories don\u2019t care about the NHS or the North East.",
+                        "On June 8th, vote for a strong local Labour MP."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 1,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "I used to be a miner and I remember the pain the Tories caused when the mines closed.",
+                        "They left a scar across the North East that has not yet truly healed."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The NHS is there for all of us, it's there when we're born and it cares for us throughout our lives."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I used to be a miner and I remember the pain the Tories caused when the mines closed.",
+                    "issueRelated": "labourEmployment"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "I remember the 80\u2019s when the Tories trashed our region by closing industries, destroying jobs, wrecking families and whole communities."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Tories don\u2019t care about the NHS or the North East."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "The Tories don\u2019t care about the NHS or the North East."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I used to be a miner and I remember the pain the Tories caused when the mines closed.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I remember the 80\u2019s when the Tories trashed our region by closing industries, destroying jobs, wrecking families and whole communities. They left a scar across the North East that has not yet truly healed."
+                ]
+            }
+        }
+    }
+}

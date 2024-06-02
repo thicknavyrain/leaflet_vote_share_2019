@@ -1,0 +1,167 @@
+{
+    "leaflet": {
+        "candidateName": "Mark Spencer",
+        "candidateGender": "",
+        "constituency": "Sherwood",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12th December 2019",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "A614 Improvements",
+                "policyDescription": "We secured \u00a318 million from the Government to deliver the improvements to junctions along the A614."
+            },
+            {
+                "policyTitle": "Extend the Robin Hood Line",
+                "policyDescription": "Deliver the extension of the Robin Hood Line to Ollerton and Edwinstowe."
+            },
+            {
+                "policyTitle": "Local Infrastructure",
+                "policyDescription": "Invest in our roads and local infrastructure to ensure the best quality of life for residents."
+            },
+            {
+                "policyTitle": "Improve Schools",
+                "policyDescription": "Work with Ofsted to ensure that schools in Sherwood are the best standard they can be."
+            },
+            {
+                "policyTitle": "Support Local Business",
+                "policyDescription": "Continue to support local business owners and their work in Sherwood."
+            },
+            {
+                "policyTitle": "Police Officers",
+                "policyDescription": "Ensure Sherwood sees its fair share of officers to keep families safe."
+            }
+        ],
+        "mentions": {
+            "candidate": "Mark Spencer",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Work with Ofsted to ensure that schools in Sherwood are the best standard they can be.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Deliver the extension of the Robin Hood Line to Ollerton and Edwinstowe. Invest in roads.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Invest in our roads and local infrastructure to make sure local residents throughout Sherwood have the best quality of life possible.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Mark Spencer"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "We secured \u00a318 million from the Government to deliver the improvements to junctions along the A614.",
+                        "The Conservatives have already begun hiring 20,000 more police officers."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "The North of Sherwood needs to be connected to Nottingham.",
+                        "Sherwood has so many beautiful High Streets, and I will continue to support local business owners and the hard work they do in Sherwood.",
+                        "I will continue to work with Ofsted, to make sure that schools in Sherwood are the best standard they can be.",
+                        "Invest in our roads and local infrastructure, to make sure local residents throughout Sherwood have the best quality of life possible."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Deliver the extension of the Robin Hood Line to Ollerton and Edwinstowe.",
+                        "Invest in our roads and local infrastructure to make sure local residents throughout Sherwood have the best quality of life possible.",
+                        "Sherwood has so many beautiful High Streets, and I will continue to support local business owners and the hard work they do in Sherwood."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "We secured \u00a318 million from the Government to deliver the improvements to junctions along the A614.",
+                        "The Conservatives have already begun hiring 20,000 more police officers."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

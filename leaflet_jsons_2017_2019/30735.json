@@ -1,0 +1,170 @@
+{
+    "leaflet": {
+        "candidateName": "Robert Largan",
+        "candidateGender": "",
+        "constituency": "Bury South",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Theresa May",
+                "content": "Theresa May strong, stable leadership in the national interest."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Making Brexit a success is central to our national interest. Strong negotiating hand can deliver for you and Britain."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Build a stronger economy that rewards people who work hard, cut taxes for working families, and provide real economic stability."
+            }
+        ],
+        "mentions": {
+            "candidate": "Robert Largan",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Making Brexit a success is central to our national interest.",
+            "defence": "",
+            "economy": "Build a stronger economy that rewards people who work hard, cut taxes for working families, and provide real economic stability.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Support for our military and veterans, continue to support new hospital services.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Local action: My plan for Bury South is to focus on real local issues including supporting our local schools.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Chartered accountant",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "0161 764 4548",
+            "email": "help@robertlargan.co.uk",
+            "website": "robertlargan.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "12-point plan for Brexit.",
+                        "Support efforts to open a Radcliffe Free School."
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "Build a stronger economy that rewards people who work hard.",
+                        "Provide real economic stability for all.",
+                        "Theresa May \u2013 Strong, stable leadership.",
+                        "Focus on real local issues.",
+                        "Working as a chartered accountant.",
+                        "Fighting for Bury South."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 4,
+                "candidateAlone": 0,
+                "candidateWithOthers": 4
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Supporting our local schools.",
+                        "Efforts to open a Radcliffe Free School."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Making Brexit a success.",
+                        "Building a stronger economy."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Robert Largan is working as a chartered accountant.",
+                    "issueRelated": "Economy"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Think Jeremy Corbyn as Prime Minister is never going to happen? Don't be so sure."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "Chartered accountant",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Maggie Throup",
+        "candidateGender": "Female",
+        "constituency": "Erewash",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "WHAT THIS ELECTION IS ABOUT",
+                "content": "Strong and stable leadership in the national interest with Theresa May and the Conservatives \u2013 or weak and unstable coalition government led by Jeremy Corbyn. Every vote cast for Theresa May and the Conservatives will strengthen Britain\u2019s hand in the Brexit negotiations."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Strong and stable leadership",
+                "policyDescription": "Strong and stable leadership with the Conservatives or weak and unstable coalition government led by Jeremy Corbyn."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Only the Conservatives will stick to the Plan for a Stronger Britain and take tough decisions for a more secure nation."
+            },
+            {
+                "policyTitle": "Crime",
+                "policyDescription": "Maggie makes sure that everyone in Erewash feels safe, both in their homes and walking our streets."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "We need a stronger economy that rewards people who work hard and creates secure and well-paid jobs. We will increase the national living wage to help those on the lowest pay."
+            }
+        ],
+        "mentions": {
+            "candidate": "Maggie Throup",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "A General Election now will strengthen our negotiating hand in Europe. It is the only way to ensure that we can operate from a position of strength and stability.",
+            "defence": "",
+            "economy": "We need a stronger economy that rewards people who work hard and creates secure and well-paid jobs. We will increase the national living wage to help those on the lowest pay.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "Strong and stable leadership in the national interest with Theresa May and the Conservatives \u2013 or weak and unstable coalition government led by Jeremy Corbyn.",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Touch on crime & anti-social behaviour. Maggie makes sure that everyone in Erewash feels safe, both in their homes and walking our streets.",
+            "transport": "Ilkeston Station Delivered. Maggie was delighted to be one of the first passengers to board the new railway station at Ilkeston after years of campaigning for this vital local service.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Ilkeston Station Delivered. Maggie was delighted to be one of the first passengers to board the new railway station.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Candidate for Erewash",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "www.maggiethroup.com",
+            "phone": "",
+            "email": "",
+            "website": "www.maggiethroup.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Strong and stable leadership in the national interest"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "We will increase the national living wage to help those on the lowest pay."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Strong and stable leadership",
+                        "Only the Conservatives will stick to the Plan for a Stronger Britain",
+                        "Maggie makes sure that everyone in Erewash feels safe."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 5,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Maggie makes sure that everyone in Erewash feels safe.",
+                        "Maggie was delighted to be one of the first passengers to board the new railway station at Ilkeston."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Strong and stable leadership in the national interest.",
+                        "We need a stronger economy that rewards people.",
+                        "A General Election now will strengthen our negotiating hand in Europe."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Weak and unstable coalition government led by Jeremy Corbyn.",
+                        "Weak and unstable coalition government led by Jeremy Corbyn."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

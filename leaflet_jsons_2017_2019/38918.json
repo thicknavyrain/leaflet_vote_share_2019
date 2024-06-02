@@ -1,0 +1,165 @@
+{
+    "leaflet": {
+        "candidateName": "Nadia Whittome",
+        "candidateGender": "",
+        "constituency": "Nottingham East",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "A Future That's Fair For Everyone",
+                "content": "I've spent my entire life in Nottingham and I won't let our communities be ignored by Westminster any longer. It's time for real change."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Nadia Whittome",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I won't let our communities be ignored by Westminster any longer.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "49 Hucknall Road, Nottingham, NG5 1QZ",
+            "phone": "07342 119 908",
+            "email": "info@nadiawhittome.org",
+            "website": "nadiawhittome.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@NadiaWhittome",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "I've spent my entire life in Nottingham and I won't let our communities be ignored by Westminster any longer. It's time for real change.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Labour Candidate for Nottingham East"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "I've spent my entire life in Nottingham and I won't let our communities be ignored by Westminster any longer. It's time for real change."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 2,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "I won't let our communities be ignored by Westminster any longer."
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I've spent my entire life in Nottingham.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I've spent my entire life in Nottingham.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I've spent my entire life in Nottingham."
+                ]
+            }
+        }
+    }
+}

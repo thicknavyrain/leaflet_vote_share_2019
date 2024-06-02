@@ -1,0 +1,189 @@
+{
+    "leaflet": {
+        "candidateName": "Kirsty Williams",
+        "candidateGender": "Female",
+        "constituency": "Llandrindod Wells",
+        "politicalParty": "Welsh Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Aren't you fed up of Wales' rural communities being forgotten by the Westminster Government?\nIt's the same old story. Poor broadband and mobile signal. Bank branches closing. High streets boarded up.\nAnd while our rural communities suffer, the UK Conservative Government sit back and watch. Year after year, their uncaring cuts mean less money to spend on the services you and I rely on.\nWales' future doesn't have to be like this. But you have to use your vote this Thursday to stop it."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Giving every child the best start in life",
+                "policyDescription": "Recruiting more teachers, as part of an extra \u00a3560 million for education."
+            },
+            {
+                "policyTitle": "Building a fairer economy with opportunity for all",
+                "policyDescription": "Providing universal free childcare, and investing in skills people need throughout their lives."
+            },
+            {
+                "policyTitle": "Protecting our agricultural industry",
+                "policyDescription": "Standing side by side with farming unions by stopping the Conservatives' damaging Brexit plans."
+            }
+        ],
+        "mentions": {
+            "candidate": "Kirsty Williams",
+            "otherPartyLeaderCandidate": "UK Conservative Government",
+            "partyLeader": "",
+            "tacticalSituation": "This election is pivotal for rural communities in Wales, who deserve better than five more years of cuts and neglect from the Conservatives."
+        },
+        "issues": {
+            "brexitEurope": "Stopping the Conservatives' damaging Brexit plans.",
+            "defence": "",
+            "economy": "Building a fairer economy with opportunity for all.",
+            "education": "Giving every child the best start in life by recruiting more teachers, as part of an extra \u00a3560 million for education.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Aren't you fed up of Wales' rural communities being forgotten by the Westminster Government? \nIt's the same old story. Poor broadband and mobile signal. Bank branches closing. High streets boarded up.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Best wishes,\nKirsty Williams AM",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Recruiting more teachers, as part of an extra \u00a3560 million for education."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Year after year, their uncaring cuts mean less money to spend on the services you and I rely on."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Aren't you fed up of Wales' rural communities being forgotten by the Westminster Government?\nIt's the same old story. Poor broadband and mobile signal. Bank branches closing. High streets boarded up."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "And while our rural communities suffer, the UK Conservative Government sit back and watch."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "It's the same old story. Poor broadband and mobile signal. Bank branches closing. High streets boarded up."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "And while our rural communities suffer, the UK Conservative Government sit back and watch."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "UK Conservative Government"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

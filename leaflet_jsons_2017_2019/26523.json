@@ -1,0 +1,180 @@
+{
+    "leaflet": {
+        "candidateName": "Andrew Garcarz",
+        "candidateGender": "",
+        "constituency": "Solihull",
+        "politicalParty": "UKIP",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Common-sense Policies",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Support a free NHS",
+                "policyDescription": "Stop sending money to Brussels and spend it on training doctors and nurses instead. Cut wasteful administration and redirect savings into front line services. Stop health tourism. End hospital parking charges."
+            },
+            {
+                "policyTitle": "Education and Skills",
+                "policyDescription": "More grammar schools and technical skills colleges, vocational education courses and apprenticeships. Give parents the right to choose where their children go to school. Protect rural schools and home schooling."
+            },
+            {
+                "policyTitle": "Safer communities",
+                "policyDescription": "Get police officers back on the beat and stop the scrapping of front-line police jobs. Adopt a zero tolerance approach to anti-social behaviour, joy-riders and crack down on nuisance neighbours."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Stop HS2, save our Green Belt, protect Solihull Hospital, housing and jobs for local people."
+            }
+        ],
+        "mentions": {
+            "candidate": "Andrew Garcarz",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "More grammar schools and technical skills colleges, vocational education courses and apprenticeships. Give parents the right to choose where their children go to school. Protect rural schools and home schooling.",
+            "environment": "Stop HS2, save our Green Belt",
+            "governance": "",
+            "government": "",
+            "health": "Support a free NHS. Stop sending money to Brussels and spend it on training doctors and nurses instead. Cut wasteful administration and redirect savings into front line services. Stop health tourism. End hospital parking charges.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Get police officers back on the beat and stop the scrapping of front-line police jobs. Adopt a zero tolerance approach to anti-social behaviour, joy-riders and crack down on nuisance neighbours.",
+            "transport": "Stop HS2",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Safer communities. Get police officers back on the beat and stop the scrapping of front-line police jobs. Adopt a zero tolerance approach to anti-social behaviour, joy-riders and crack down on nuisance neighbours.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "UKIP Solihull & Meriden by Garry Heath, Flat 20 Casltle Court, 16 Watersock Lane, Kings Heath B14 4JE printed by Bluetree Design & Print Ltd, Manvers Way, Rotherham, S63 5DR",
+            "phone": "",
+            "email": "",
+            "website": "ukipsolihull.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Vote for change on 8th June"
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "Common-sense Policies",
+                        "More grammar schools and technical skills colleges, vocational education courses and apprenticeships.",
+                        "Get police officers back on the beat and stop the scrapping of front-line police jobs.",
+                        "Stop HS2, save our Green Belt",
+                        "Protect Solihull Hospital, housing and jobs for local people.",
+                        "Stop sending money to Brussels and spend it on training doctors and nurses instead."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Protect Solihull Hospital",
+                        "Stop HS2",
+                        "housing and jobs for local people."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Stop sending money to Brussels and spend it on training doctors and nurses instead.",
+                        "More grammar schools and technical skills colleges, vocational education courses and apprenticeships.",
+                        "Adopt a zero tolerance approach to anti-social behaviour, joy-riders and crack down on nuisance neighbours."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Stop HS2"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "leaflet": {
+        "candidateName": "Andrea Jenkyns",
+        "candidateGender": "",
+        "constituency": "Morley & Outwood",
+        "politicalParty": "Conservative Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Brexit done. Better hospitals. Safer streets. Improved schools. Let's unlock Britain's future."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Passing our Brexit deal - which is agreed and ready to go from day one."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "\u00a333.9 billion extra for the NHS. So your hospital and local GPs can give you the healthcare you need."
+            },
+            {
+                "policyTitle": "Jobs",
+                "policyDescription": "200,000 extra police officers. With the powers they need to keep us safe."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "More funding for every child in every school. So your child gets a better education."
+            }
+        ],
+        "mentions": {
+            "candidate": "Andrea Jenkyns",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "Your postal vote can secure a majority government if you vote Conservative. Last time we were just NINE seats short of a majority."
+        },
+        "issues": {
+            "brexitEurope": "Passing our Brexit deal - which is agreed and ready to go from day one.",
+            "defence": "",
+            "economy": "",
+            "education": "More funding for every child in every school. So your child gets a better education.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "\u00a333.9 billion extra for the NHS. So your hospital and local GPs can give you the healthcare you need.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "200,000 extra police officers. With the powers they need to keep us safe.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "62 Queen Street, Morley, LS27 8BR",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "\u00a333.9 billion extra for the NHS.",
+                        "200,000 extra police officers."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Let's unlock Britain's future."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Passing our Brexit deal - which is agreed and ready to go from day one.",
+                        "\u00a333.9 billion extra for the NHS. So your hospital and local GPs can give you the healthcare you need.",
+                        "200,000 extra police officers. With the powers they need to keep us safe.",
+                        "More funding for every child in every school. So your child gets a better education."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The last few years have been frustrating. I get it. I've been just as frustrated as you. We've had three years of a hung parliament that agrees on nothing except more arguments."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

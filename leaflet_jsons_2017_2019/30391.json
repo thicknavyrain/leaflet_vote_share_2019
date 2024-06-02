@@ -1,0 +1,184 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Strong, stable leadership and economic security for Britain",
+                "content": "IMF upgrades UK growth again as Theresa May hails economic strength"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economic Security",
+                "policyDescription": "Strong, stable leadership for economic security of Britain. IMF upgrades UK growth."
+            },
+            {
+                "policyTitle": "Taxation",
+                "policyDescription": "Labour's taxes would be highest since Second World War."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn and a coalition of chaos",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "IMF upgrades UK growth again as Theresa May hails economic strength.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Telegraph",
+                "endorsement": "IMF upgrades UK growth again as Theresa May hails economic strength."
+            },
+            {
+                "endorser": "The Times",
+                "endorsement": "Labour's taxes would be highest since Second World War."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "IMF upgrades UK growth again as Theresa May hails economic strength.",
+                "source": "Telegraph",
+                "date": "18 April 2017"
+            },
+            {
+                "text": "Labour's taxes would be highest since Second World War.",
+                "source": "The Times",
+                "date": "27 May 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May as Prime Minister"
+                },
+                {
+                    "caption": "Jeremy Corbyn and a coalition of chaos"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "IMF upgrades UK growth again as Theresa May hails economic strength.",
+                        "Labour's taxes would be highest since Second World War."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Strong, stable leadership and economic security for Britain"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "IMF upgrades UK growth again as Theresa May hails economic strength.",
+                        "Labour's taxes would be highest since Second World War."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "Telegraph endorses Theresa May's economic strength.",
+                    "The Times critiques Labour's tax policies."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour's taxes would be highest since Second World War."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn and a coalition of chaos"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Labour's taxes would be highest since Second World War."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

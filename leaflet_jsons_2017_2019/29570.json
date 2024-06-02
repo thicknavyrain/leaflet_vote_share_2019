@@ -1,0 +1,199 @@
+{
+    "leaflet": {
+        "candidateName": "Jenny Wilkinson",
+        "candidateGender": "",
+        "constituency": "Sutton Coldfield",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8th 2017",
+        "messages": [
+            {
+                "title": "Fighting against Hard Brexit",
+                "content": "Liberal Democrats are the only party that has always fought for Britain's membership of the European Union, and that's why we are fighting for you to have your say on the final Brexit deal."
+            },
+            {
+                "title": "Standing up for the NHS",
+                "content": "We know we need additional investment in health and care services as a matter of urgency. The Liberal Democrats would give it the funds it needs."
+            },
+            {
+                "title": "Opposing school cuts",
+                "content": "Local schools are under threat from a Conservative Party that has stopped listening to local people. Schools in Sutton Coldfield are set to lose \u00a38.5 million from their budgets."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fighting against Hard Brexit",
+                "policyDescription": "Liberal Democrats are the only party that has always fought for Britain's membership of the European Union, and that's why we are fighting for you to have your say on the final Brexit deal."
+            },
+            {
+                "policyTitle": "Standing up for the NHS",
+                "policyDescription": "We know we need additional investment in health and care services as a matter of urgency. The Liberal Democrats would give it the funds it needs."
+            },
+            {
+                "policyTitle": "Opposing school cuts",
+                "policyDescription": "Local schools are under threat from a Conservative Party that has stopped listening to local people. Schools in Sutton Coldfield are set to lose \u00a38.5 million from their budgets."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jenny Wilkinson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Liberal Democrats are the only party that has always fought for Britain's membership of the European Union, and that's why we are fighting for you to have your say on the final Brexit deal.",
+            "defence": "",
+            "economy": "",
+            "education": "Local schools are under threat from a Conservative Party that has stopped listening to local people. Schools in Sutton Coldfield are set to lose \u00a38.5 million from their budgets.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "We know we need additional investment in health and care services as a matter of urgency. The Liberal Democrats would give it the funds it needs.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Schools in Sutton Coldfield are set to lose \u00a38.5 million from their budgets.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "jennywilkinsonlibdem.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Jenny Wilkinson and the Liberal Democrats"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Schools in Sutton Coldfield are set to lose \u00a38.5 million from their budgets."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Liberal Democrats are the only party that has always fought for Britain's membership of the European Union, and that's why we are fighting for you to have your say on the final Brexit deal.",
+                        "We know we need additional investment in health and care services as a matter of urgency. The Liberal Democrats would give it the funds it needs."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Schools in Sutton Coldfield are set to lose \u00a38.5 million from their budgets."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Liberal Democrats are the only party that has always fought for Britain's membership of the European Union, and that's why we are fighting for you to have your say on the final Brexit deal.",
+                        "We know we need additional investment in health and care services as a matter of urgency. The Liberal Democrats would give it the funds it needs."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Local schools are under threat from a Conservative Party that has stopped listening to local people."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

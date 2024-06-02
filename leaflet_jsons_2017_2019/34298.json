@@ -1,0 +1,178 @@
+{
+    "leaflet": {
+        "candidateName": "Meera Chadha",
+        "candidateGender": "Female",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "A Liberal Democrat elected MP, backed by Jo Swinson, leader of the Liberal Democrats, has a plan to stop Brexit and negotiate for people\u2019s votes."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "Stop Brexit and build a brighter future."
+            },
+            {
+                "policyTitle": "Rebuild Our Economy",
+                "policyDescription": "Invest in public services and schools."
+            },
+            {
+                "policyTitle": "Protect Public Services",
+                "policyDescription": "More funding for the NHS."
+            },
+            {
+                "policyTitle": "Tackle the Climate Emergency",
+                "policyDescription": "A plan to tackle the climate emergency."
+            }
+        ],
+        "mentions": {
+            "candidate": "Meera Chadha",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Stop Brexit and build a brighter future.",
+            "defence": "",
+            "economy": "Rebuild our economy by investing in public services and schools.",
+            "education": "Invest in public services and schools.",
+            "environment": "Tackle the climate emergency.",
+            "governance": "",
+            "government": "",
+            "health": "More funding for the NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "Meera Chadha: Working hard for Waltham.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Meera Chadha"
+                },
+                {
+                    "caption": "Jo Swinson with supporters"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "A Liberal Democrat elected MP, backed by Jo Swinson, leader of the Liberal Democrats, has a plan to stop Brexit and negotiate for people\u2019s votes.",
+                        "The Conservatives want to force through Brexit, costing jobs and wrecking the economy at the expense of the United Kingdom.",
+                        "Working hard for Waltham."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Stop Brexit and build a brighter future.",
+                        "Invest in public services and schools.",
+                        "More funding for the NHS."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives want to force through Brexit, costing jobs and wrecking the economy at the expense of the United Kingdom."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Who knows what Jeremy Corbyn\u2019s Labour Party stance on Brexit will be? Even he doesn\u2019t."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

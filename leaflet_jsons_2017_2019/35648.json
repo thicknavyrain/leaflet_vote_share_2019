@@ -1,0 +1,204 @@
+{
+    "leaflet": {
+        "candidateName": "Cat Smith",
+        "candidateGender": "Female",
+        "constituency": "Lancaster & Fleetwood",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Give people the final say on Brexit then let's deliver the real change Britain needs",
+                "content": "A Labour government will let the public resolve Brexit within six months of being elected with a 'final say' vote including the option to remain."
+            },
+            {
+                "title": "Climate emergency requires urgent action: We need a green industrial revolution",
+                "content": "We are already seeing the impact of climate change locally through increased flooding. If we are to avoid much worse to come, this election is our last chance to elect a government committed to decarbonising our economy by 2030."
+            },
+            {
+                "title": "Life's essentials should be run for the British public not private profit",
+                "content": "When you make a cup of tea or run a bath, you're using water that should belong to all of us. But right now our water is mostly owned by private equity companies based as far away as Australia, Canada, Malaysia and Hong Kong."
+            },
+            {
+                "title": "How Labour will pay for our plan to rebuild Britain",
+                "content": "Britain is a wealthy nation, with the money to pay for the police, nurses and doctors we need, but our tax system has been told so the richest among us may legally avoid tax."
+            },
+            {
+                "title": "We need a government that doesn't just focus on London and the South East",
+                "content": "The current Conservative government is making up of people largely drawn from the same few square miles in London and the South East, with little idea of how badly underfunded transport infrastructure is."
+            },
+            {
+                "title": "From potholes to flood protection, Labour will fund our local services",
+                "content": "Since the Conservative / Liberal Democrat coalition began the programme of cuts, central government funding to councils has been reduced by nearly 50%."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "A Labour government will let the public resolve Brexit within six months of being elected with a 'final say' vote including the option to remain."
+            },
+            {
+                "policyTitle": "Climate Change",
+                "policyDescription": "We are already seeing the impact of climate change locally through increased flooding. This election is our last chance to elect a government committed to decarbonising our economy by 2030."
+            },
+            {
+                "policyTitle": "Public Services",
+                "policyDescription": "Labour intends that the public services like water should be owned by the British public, not private companies."
+            },
+            {
+                "policyTitle": "Tax System",
+                "policyDescription": "Britain's tax system should be scrutinized to ensure the richest among us pay their fair share."
+            },
+            {
+                "policyTitle": "Regional Equality",
+                "policyDescription": "A government must represent all regions and ensure that transport and local services are well funded."
+            },
+            {
+                "policyTitle": "Local Services Funding",
+                "policyDescription": "Labour will reverse cuts to council funding, ensuring local authorities have the resources they need."
+            },
+            {
+                "policyTitle": "Universal Credit",
+                "policyDescription": "Labour will end universal credit and replace it with a system that supports those genuinely in need."
+            },
+            {
+                "policyTitle": "Homelessness",
+                "policyDescription": "Labour plans to end rough sleeping within five years and build a network of shelters and affordable housing."
+            }
+        ],
+        "mentions": {
+            "candidate": "Cat Smith",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "Lancaster had endured a decade of Conservative MPs winning by as little as 333 votes."
+        },
+        "issues": {
+            "brexitEurope": "The public will have the final say on Brexit with a vote including the option to remain.",
+            "defence": "",
+            "economy": "Britain is a wealthy nation but the tax system favors the richest among us.",
+            "education": "",
+            "environment": "We are already seeing the impact of climate change locally through increased flooding.",
+            "governance": "",
+            "government": "Labour will end universal credit and replace it with a system that truly supports those in need.",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Transport infrastructure is greatly lacking and needs investment from the government.",
+            "socialWelfare": "Labour will end universal credit and replace it with a system that truly supports those who need it.",
+            "community": [
+                {
+                    "content": "We need a government that doesn't just focus on London and the South East.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "01524 566551",
+            "email": "cat@catsmith.co.uk",
+            "website": "www.catsmith.co.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/CatSmithMP",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Lancaster had endured a decade of Conservative MPs winning by as little as 333 votes."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "We need a government that doesn\u2019t just focus on London and the South East."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "We are already seeing the impact of climate change locally through increased flooding.",
+                        "Labour will fund local services, from potholes to flood protection."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "The public will have the final say on Brexit with a vote including the option to remain.",
+                        "Britain is a wealthy nation but the tax system favors the richest among us.",
+                        "Labour will end universal credit and replace it with a system that truly supports those in need.",
+                        "Labour intends that the public services like water should be owned by the British public, not private companies."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Floods: We need big changes to how uplands are managed to reduce the risk of flooding."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "The current Conservative government is making up of people largely drawn from the same few square miles in London and the South East.",
+                        "Our tax system is in favor of the richest among us while we lack the resources for public services."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Lancaster had endured a decade of Conservative MPs winning by as little as 333 votes.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Cat Smith: before Cat Smith was elected, Lancaster had endured a decade of Conservative MPs winning by as little as 333 votes."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,193 @@
+{
+    "leaflet": {
+        "candidateName": "Dr Chris Jones",
+        "candidateGender": "",
+        "constituency": "Norwich North",
+        "politicalParty": "Labour",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "",
+                "content": "The Tories have launched an all-out attack on pensioners and have announced they would: Scrape the 'Triple Lock' on state pensions, raise the State Pension Age, means-test Winter Fuel Payments, make even more people pay for their own social care. Only Labour will stand up for pensioners."
+            },
+            {
+                "title": "",
+                "content": "This election is a choice between a Labour party who will stand up for the many and the Conservatives who only look after the privileged few. Choose a positive future for Norwich North. Vote for Dr Chris Jones on June 8th because not all politicians are the same."
+            },
+            {
+                "title": "",
+                "content": "Chris Jones's pledges to you: Guaranteeing the pension triple-lock, funding the NHS to provide the care we need, scrapping student tuition fees, investing in housing and infrastructure, supporting small and medium sized business, renationalising rail services, investing in education for all, not the select few, tackling tax avoidance."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Pension Triple-Lock",
+                "policyDescription": "Guarantee the pension triple-lock."
+            },
+            {
+                "policyTitle": "Funding the NHS",
+                "policyDescription": "Provide the funding we need for the NHS to deliver care."
+            },
+            {
+                "policyTitle": "Scrapping Tuition Fees",
+                "policyDescription": "Remove tuition fees for students."
+            },
+            {
+                "policyTitle": "Investing in Housing",
+                "policyDescription": "Increase investment in housing and infrastructure."
+            },
+            {
+                "policyTitle": "Supporting Small Business",
+                "policyDescription": "Support small and medium-sized businesses."
+            },
+            {
+                "policyTitle": "Renationalising Rail Services",
+                "policyDescription": "Bring rail services back into public ownership."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Investing in education for all, not the select few."
+            },
+            {
+                "policyTitle": "Tackling Tax Avoidance",
+                "policyDescription": "Implement stricter measures to tackle tax avoidance."
+            }
+        ],
+        "mentions": {
+            "candidate": "Dr Chris Jones",
+            "otherPartyLeaderCandidate": "Chloe Smith",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Investing in education for all, not the select few.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Funding the NHS to provide the care we need.",
+            "immigration": "",
+            "labourEmployment": "Supporting small and medium sized businesses.",
+            "lawCrime": "",
+            "transport": "Renationalising rail services.",
+            "socialWelfare": "Guaranteeing the pension triple-lock.",
+            "community": [
+                {
+                    "content": "Increase investment in housing and infrastructure.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Dr Chris Jones, St Mark's Church Hall, Hall Road, Norwich NR1 3HL",
+            "phone": "07910 184825",
+            "email": "email@DrChrisJones.org",
+            "website": "www.DrChrisJones.org",
+            "socialMedia": {
+                "facebook": "facebook.com/ChrisJones4Labour",
+                "twitter": "@Chris4NorwichN",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Candidate standing in front of Norwich landscape."
+                },
+                {
+                    "caption": "Candidate standing in front of a building."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "The Tories cut \u00a34.6 billion from social care budgets.",
+                        "Chloe Smith has voted for the bedroom tax, for privatising Royal Mail."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Only Labour will stand up for pensioners.",
+                        "Because not all politicians are the same.",
+                        "This election is a choice between a Labour party who will stand up for the many and the Conservatives who only look after the privileged few.",
+                        "You can\u2019t trust the Tories to stick to their own manifesto promises for more than a couple of days."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 2,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Increase investment in housing and infrastructure."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Guaranteeing the pension triple-lock.",
+                        "Funding the NHS to provide the care we need.",
+                        "Scrapping student tuition fees.",
+                        "Renationalising rail services."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Chloe Smith has voted for the bedroom tax, for privatising Royal Mail, for tax cuts for top earners, against a tax on Bankers' bonuses, against guaranteed jobs for young people, for top-down NHS reorganisation, for benefit cuts for the sick and disabled, for selling off the national forests."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

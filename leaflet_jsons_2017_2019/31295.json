@@ -1,0 +1,235 @@
+{
+    "leaflet": {
+        "candidateName": "Dr Lisa Cameron",
+        "candidateGender": "",
+        "constituency": "East Kilbride Strathaven Lesmahagow",
+        "politicalParty": "SNP",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Mental Health",
+                "policyDescription": "Mental Health Spokesperson 2017-19"
+            },
+            {
+                "policyTitle": "Disability",
+                "policyDescription": "Chair All Party Disability Group 2015-19"
+            },
+            {
+                "policyTitle": "Ivory Bill",
+                "policyDescription": "Led on Historic Ivory Bill"
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Chair All Party Health Group 2019"
+            },
+            {
+                "policyTitle": "Poverty",
+                "policyDescription": "Fighting Poverty and Universal Credit"
+            },
+            {
+                "policyTitle": "Community Clean Ups",
+                "policyDescription": "Tackling our Community Clean ups"
+            }
+        ],
+        "mentions": {
+            "candidate": "Dr Lisa Cameron",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Chair All Party Health Group 2019",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Fighting Poverty and Universal Credit",
+            "community": [
+                {
+                    "content": "Tackling our Community Clean ups",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Mental Health Spokesperson",
+                "duration": "2017-19",
+                "achievements": ""
+            },
+            {
+                "role": "Chair All Party Disability Group",
+                "duration": "2015-19",
+                "achievements": ""
+            },
+            {
+                "role": "Chair All Party Health Group",
+                "duration": "2019",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "56 Abbelygreen, Lesmahagow",
+            "phone": "01357520879",
+            "email": "lisa.cameron7@virgin.net",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Achieved Lucy's Law Against Puppy Farming - Chair of All Party Dog Welfare Group 2017-19"
+                },
+                {
+                    "caption": "Fighting Poverty and Universal Credit"
+                },
+                {
+                    "caption": "Campaigning for your WASPI Pensions"
+                },
+                {
+                    "caption": "Tackling our Community Clean ups"
+                },
+                {
+                    "caption": "Parliamentarian of the Year Award 2019"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "13,000+ Constituency Cases",
+                        "200+ Local Organisations Supported"
+                    ]
+                },
+                "qualitative": {
+                    "count": 9,
+                    "examples": [
+                        "Mental Health Spokesperson 2017-19",
+                        "Chair All Party Disability Group 2015-19",
+                        "Led on Historic Ivory Bill",
+                        "Chair All Party Health Group 2019",
+                        "Achieved Lucy's Law Against Puppy Farming - Chair of All Party Dog Welfare Group 2017-19",
+                        "Campaigning for your WASPI Pensions",
+                        "Fighting Poverty and Universal Credit",
+                        "Tackling our Community Clean ups",
+                        "Parliamentarian of the Year Award 2019"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 4,
+                "candidateAlone": 1,
+                "candidateWithOthers": 4
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Tackling our Community Clean ups",
+                        "200+ Local Organisations Supported"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Achieved Lucy's Law Against Puppy Farming - Chair of All Party Dog Welfare Group 2017-19",
+                        "Fighting Poverty and Universal Credit",
+                        "Campaigning for your WASPI Pensions"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Achieved Lucy's Law Against Puppy Farming",
+                    "issueRelated": "Animal Welfare"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Dedicated Full-Time Offices in East Kilbride, Strathaven and Lesmahagow"
+                ]
+            }
+        }
+    }
+}

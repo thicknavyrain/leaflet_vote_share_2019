@@ -1,0 +1,168 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Boris Johnson's Conservatives are taking us backwards...",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Poll reveals majority believe lying Boris Johnson will sell off NHS services to US.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Former Conservative MP Nick Boles",
+                "endorsement": "A compulsive liar who has betrayed every single person he has ever had any dealing with."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Poll reveals majority believe lying Boris Johnson will sell off NHS services to US.",
+                "source": "Daily Mirror",
+                "date": "27th October 2019"
+            },
+            {
+                "text": "A compulsive liar who has betrayed every single person he has ever had any dealing with.",
+                "source": "Former Conservative MP Nick Boles",
+                "date": "11th November 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Boris Johnson"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Poll reveals majority believe lying Boris Johnson will sell off NHS services to US."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Boris Johnson's Conservatives are taking us backwards...",
+                        "A compulsive liar who has betrayed every single person he has ever had any dealing with."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Poll reveals majority believe lying Boris Johnson will sell off NHS services to US."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "Poll reveals majority believe lying Boris Johnson will sell off NHS services to US.",
+                    "A compulsive liar who has betrayed every single person he has ever had any dealing with."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Poll reveals majority believe lying Boris Johnson will sell off NHS services to US."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Boris Johnson's Conservatives are taking us backwards...",
+                        "A compulsive liar who has betrayed every single person he has ever had any dealing with."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

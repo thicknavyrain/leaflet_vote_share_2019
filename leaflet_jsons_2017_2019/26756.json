@@ -1,0 +1,168 @@
+{
+    "leaflet": {
+        "candidateName": "Yvette Cooper",
+        "candidateGender": "",
+        "constituency": "Normanton, Pontefract, Castleford and Knottingley",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Parents' anger over planned \u00a35m school cuts in the Five Towns to fund Tory Grammars",
+                "content": "Up to 150 teachers at risk from Tory plans"
+            },
+            {
+                "title": "Yvette calls for good Brexit deal for Five Towns",
+                "content": "The Brexit deal has to be a good one for Yorkshire not just the South of England, Yvette Cooper has said."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "School Funding",
+                "policyDescription": "Opposition to \u00a35m school cuts and Tory plans to switch funds to richer areas"
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Calls for a Brexit deal that benefits Yorkshire and not just the South of England"
+            }
+        ],
+        "mentions": {
+            "candidate": "Yvette Cooper",
+            "otherPartyLeaderCandidate": "Tory plans",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The Brexit deal has to be a good one for Yorkshire not just the South of England",
+            "defence": "",
+            "economy": "",
+            "education": "Parents' anger over planned \u00a35m school cuts in the Five Towns to fund Tory Grammars",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Yvette with parents & pupils outside Wheldon Road School",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "These cuts could mean losing up to 150 teachers from our area, which class sizes are already far too big. It\u2019s outrageous.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "01977 520 525",
+            "email": "",
+            "website": "www.yvettecooper.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@yvettecooper",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Castleford Tigers boss",
+                "endorsement": "Why Castleford Tigers boss is backing Yvette"
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Yvette with parents & pupils outside Wheldon Road School"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Up to 150 teachers at risk from Tory plans"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Yvette calls for good Brexit deal for Five Towns",
+                        "Parents' anger over planned \u00a35m school cuts in the Five Towns to fund Tory Grammars"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Parents' anger over planned \u00a35m school cuts in the Five Towns to fund Tory Grammars"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The Brexit deal has to be a good one for Yorkshire not just the South of England"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "These cuts could mean losing up to 150 teachers from our area, which class sizes are already far too big. It\u2019s outrageous.",
+                    "issueRelated": "Education"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Why Castleford Tigers boss is backing Yvette"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

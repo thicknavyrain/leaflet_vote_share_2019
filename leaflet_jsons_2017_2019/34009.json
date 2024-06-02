@@ -1,0 +1,200 @@
+{
+    "leaflet": {
+        "candidateName": "Bella Sankey",
+        "candidateGender": "Female",
+        "constituency": "Arundel and South Downs",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "It's Time for Real Change",
+                "content": "It's time for real change. It's time for Labour"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "A fairer economy"
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Rebuild our NHS"
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "End austerity in schools"
+            },
+            {
+                "policyTitle": "Government",
+                "policyDescription": "A public vote on any Brexit deal"
+            },
+            {
+                "policyTitle": "Social Welfare",
+                "policyDescription": "Invest in public services"
+            },
+            {
+                "policyTitle": "Community",
+                "policyDescription": "Decent affordable homes"
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Protecting our environment"
+            }
+        ],
+        "mentions": {
+            "candidate": "Bella Sankey",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Boris Johnson's Brexit a disaster",
+            "defence": "",
+            "economy": "A fairer economy",
+            "education": "End austerity in schools",
+            "environment": "Protecting our environment",
+            "governance": "",
+            "government": "A public vote on any Brexit deal",
+            "health": "Rebuild our NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Invest in public services",
+            "community": [
+                {
+                    "content": "Decent affordable homes",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "01903 877090",
+            "email": "Bella@ArundelSouthDownsLabour.co.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@BellaSankey",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Bella Sankey is a woman of principle and true beliefs. She has a strong track record of fighting for justice and challenging powerful elites.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Bella Sankey"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "A fairer economy",
+                        "Rebuild our NHS"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Decent affordable homes"
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "A fairer economy",
+                        "Rebuild our NHS",
+                        "End austerity in schools",
+                        "Protecting our environment",
+                        "A public vote on any Brexit deal"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson's Brexit a disaster"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

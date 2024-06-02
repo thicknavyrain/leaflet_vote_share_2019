@@ -1,0 +1,186 @@
+{
+    "leaflet": {
+        "candidateName": "Dr Fabio Conti",
+        "candidateGender": "",
+        "constituency": "Ealing Southall",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Fabio is a local NHS doctor and would be a champion for the NHS in Parliament"
+            },
+            {
+                "policyTitle": "Local Issues",
+                "policyDescription": "Fabio would continue to work to clean up Southall, Hanwell and Ealing"
+            }
+        ],
+        "mentions": {
+            "candidate": "Fabio has lived in the constituency all his life and represents Northfields on Ealing Council",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Standing with Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Fabio is a local NHS doctor and would be a champion for the NHS in Parliament",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Fabio would continue to work to clean up Southall, Hanwell and Ealing",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Representative of Northfields on Ealing Council",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Fabio has lived in the constituency all his life and represents Northfields on Ealing Council"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Fabio is a local NHS doctor and would be a champion for the NHS in Parliament",
+                        "Fabio would continue to work to clean up Southall, Hanwell and Ealing"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 2,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Fabio has lived in the constituency all his life and represents Northfields on Ealing Council"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Fabio is a local NHS doctor and would be a champion for the NHS in Parliament"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Fabio has lived in the constituency all his life",
+                "employment": "Fabio is a local NHS doctor",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Fabio has lived in the constituency all his life"
+                ]
+            }
+        }
+    }
+}

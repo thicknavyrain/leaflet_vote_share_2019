@@ -1,0 +1,189 @@
+{
+    "leaflet": {
+        "candidateName": "Cat Smith",
+        "candidateGender": "",
+        "constituency": "Lancaster",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Re-elect Cat Smith",
+                "content": "I love Lancaster. I live here and am delighted to be raising my family here. I use our local public services just like you \u2013 it is important that your local MP is just that, local. Lancaster matters to me because this is my home too. With your support, I can continue to serve our city and work for the real change our country needs."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Build an economy that rewards workers, pensioners and those in need",
+                "policyDescription": "Act on big tax avoiding firms so all pay their fair share."
+            },
+            {
+                "policyTitle": "Increase funding for the NHS",
+                "policyDescription": "More nurses and doctors to give patients the care they need."
+            },
+            {
+                "policyTitle": "End homelessness and make housing affordable",
+                "policyDescription": "Back councils and housing associations to build good homes for our community."
+            },
+            {
+                "policyTitle": "Kickstart a Green Industrial Revolution",
+                "policyDescription": "Tackle the climate emergency and create high skilled, high wage jobs. Ban fracking from day one."
+            },
+            {
+                "policyTitle": "Invest in every community",
+                "policyDescription": "Delivering good jobs and the skills people need, so that no one is held back or left behind."
+            },
+            {
+                "policyTitle": "Put Brexit back to the people",
+                "policyDescription": "A public vote to either remain in the EU or approve a concrete deal that can be delivered immediately."
+            }
+        ],
+        "mentions": {
+            "candidate": "Cat Smith",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Put Brexit back to the people: a public vote to either remain in the EU or approve a concrete deal that can be delivered immediately.",
+            "defence": "",
+            "economy": "Build an economy that rewards workers, pensioners and those in need, not just the richest. Act on big tax avoiding firms so all pay their fair share.",
+            "education": "",
+            "environment": "Kickstart a Green Industrial Revolution to tackle the climate emergency and create high skilled, high wage jobs. Ban fracking from day one.",
+            "governance": "",
+            "government": "",
+            "health": "Increase funding for the NHS with more nurses and doctors to give patients the care they need.",
+            "immigration": "",
+            "labourEmployment": "Invest in every community, delivering good jobs and the skills people need, so that no one is held back or left behind.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "End homelessness and make housing affordable. Back councils and housing associations to build good homes for our community.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I love Lancaster. I live here and am delighted to be raising my family here. I use our local public services just like you \u2013 it is important that your local MP is just that, local. Lancaster matters to me because this is my home too. With your support, I can continue to serve our city and work for the real change our country needs.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "01524 566551",
+            "email": "cat@catsmith.co.uk",
+            "website": "www.catsmith.co.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/CatSmithMP",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson represents a privileged elite that has failed our country. A decade of Conservative cuts has damaged our economy, our communities and our public services."
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "I love Lancaster. I live here and am delighted to be raising my family here.",
+                        "It is important that your local MP is just that, local.",
+                        "Lancaster matters to me because this is my home too.",
+                        "Build an economy that rewards workers, pensioners and those in need, not just the richest.",
+                        "End homelessness and make housing affordable.",
+                        "With your support, I can continue to serve our city and work for the real change our country needs."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "End homelessness and make housing affordable. Back councils and housing associations to build good homes for our community.",
+                        "Invest in every community, delivering good jobs and the skills people need, so that no one is held back or left behind.",
+                        "I use our local public services just like you \u2013 it is important that your local MP is just that, local."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Put Brexit back to the people: a public vote to either remain in the EU or approve a concrete deal that can be delivered immediately.",
+                        "Kickstart a Green Industrial Revolution to tackle the climate emergency and create high skilled, high wage jobs. Ban fracking from day one.",
+                        "Increase funding for the NHS with more nurses and doctors to give patients the care they need."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson represents a privileged elite that has failed our country. A decade of Conservative cuts has damaged our economy, our communities and our public services."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I live here and am delighted to be raising my family here.",
+                "employment": "",
+                "education": "",
+                "family": "I live here and am delighted to be raising my family here."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I love Lancaster. I live here and am delighted to be raising my family here.",
+                    "Lancaster matters to me because this is my home too."
+                ]
+            }
+        }
+    }
+}

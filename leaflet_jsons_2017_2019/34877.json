@@ -1,0 +1,170 @@
+{
+    "leaflet": {
+        "candidateName": "Craig Hoy",
+        "candidateGender": "",
+        "constituency": "East Lothian",
+        "politicalParty": "Scottish Conservative and Unionist",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "This time, more than ever, your vote matters. So much depends on the outcome of the election here in East Lothian. At the last election, the result on Thursday could be very close between me and the SNP. It really could all come down to just one vote - maybe yours. This election is vital for the United Kingdom. I am urging you to vote to keep the SNP from breaking it up for good."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Union Preservation",
+                "policyDescription": "Vote to keep the SNP from breaking up the United Kingdom."
+            }
+        ],
+        "mentions": {
+            "candidate": "Craig Hoy",
+            "otherPartyLeaderCandidate": "Nicola Sturgeon, Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "The result is expected to be very close between me and the SNP."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "Union preservation, second independence referendum",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "People all across East Lothian who don\u2019t want a second independence referendum in 2020 are lending me their votes this time to stop the SNP.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Candidate for East Lothian",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "4 Church Street, Haddington, EH41 3EX",
+            "phone": "01620 248060",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "The only way to beat the SNP here in East Lothian is to vote for me, Craig Hoy."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "This time, more than ever, your vote matters.",
+                        "This election is vital for the United Kingdom.",
+                        "The stakes at this election could not be higher.",
+                        "People all across East Lothian who don\u2019t want a second independence referendum in 2020 are lending me their votes this time to stop the SNP."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "So much depends on the outcome of the election here in East Lothian.",
+                        "The only way to beat the SNP here in East Lothian is to vote for me, Craig Hoy."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "This election is vital for the United Kingdom.",
+                        "A vote for anyone else would just help the SNP win, and could see our 300-year-old Union lost in one day."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "A vote for Labour or the LibDems will only let the SNP win."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Nicola Sturgeon has said she will demand another referendum on independence after the election."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn has said he won\u2019t stand in the way of another referendum."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Candidate mentions the importance of local voters in East Lothian.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "So much depends on the outcome of the election here in East Lothian."
+                ]
+            }
+        }
+    }
+}

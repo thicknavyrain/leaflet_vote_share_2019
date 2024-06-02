@@ -1,0 +1,207 @@
+{
+    "leaflet": {
+        "candidateName": "Laura Gordon",
+        "candidateGender": "",
+        "constituency": "Sheffield Hallam",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Laura Gordon - The Choice You Can Trust",
+                "content": "Laura Gordon and the Liberal Democrats are leading the fight for better politics in Britain. Laura Gordon is a campaigner determined to get a better deal for Sheffield."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Defending our NHS and schools from further Conservative cuts."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Demanding a People's Vote on Brexit to give you the final say."
+            }
+        ],
+        "mentions": {
+            "candidate": "Laura Gordon",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "The best way to get an MP you can trust is to vote Lib Dem."
+        },
+        "issues": {
+            "brexitEurope": "Demanding a People's Vote on Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Defending our NHS and schools from further Conservative cuts.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Sheffield Council's secret policy for tree-felling revealed.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Independent humanitarian worker",
+                "duration": "",
+                "achievements": "Worked with victims of famine, war and disease."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.LauraGordon.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "ITV",
+                "endorsement": "\"Labour did not interview suspended MP before becoming candidate\" (ITV, 25/10/17)"
+            },
+            {
+                "endorser": "Yorkshire Post",
+                "endorsement": "\"Sheffield Council's secret policy for tree-felling revealed\" (Yorkshire Post, 16/8/18)"
+            },
+            {
+                "endorser": "The Guardian",
+                "endorsement": "\"Sheffield tree protesters win wrongful arrest payout\" (The Guardian, 4/2/19)"
+            }
+        ],
+        "quotes": [
+            {
+                "text": "\"Labour did not interview suspended MP before becoming candidate\"",
+                "source": "ITV",
+                "date": "25/10/17"
+            },
+            {
+                "text": "\"Sheffield Council's secret policy for tree-felling revealed\"",
+                "source": "Yorkshire Post",
+                "date": "16/8/18"
+            },
+            {
+                "text": "\"Sheffield tree protesters win wrongful arrest payout\"",
+                "source": "The Guardian",
+                "date": "4/2/19"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Laura Gordon - Demanding Better for Sheffield Hallam"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Lab 21,881 votes, Lib Dem 19,756 votes, All other parties 15,383."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Laura Gordon - the choice you can trust.",
+                        "Sheffield Council's secret policy for tree-felling revealed."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Sheffield Council's secret policy for tree-felling revealed."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Demanding a People's Vote on Brexit."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Worked as an independent humanitarian worker with victims of famine, war, and disease.",
+                    "issueRelated": "Labour's past actions and local governance issues."
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 3,
+                "examples": [
+                    "\"Labour did not interview suspended MP before becoming candidate\" (ITV, 25/10/17)",
+                    "\"Sheffield Council's secret policy for tree-felling revealed\" (Yorkshire Post, 16/8/18)",
+                    "\"Sheffield tree protesters win wrongful arrest payout\" (The Guardian, 4/2/19)"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Labour's Sheffield Council have shamed our city.",
+                        "Sheffield Council's secret policy for tree-felling revealed."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour have failed to oppose the Tories' disastrous hard Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": "In the heart of our community with her family, Laura is determined to use her experience to campaign for Sheffield Hallam."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "In the heart of our community with her family, Laura is determined to use her experience to campaign for Sheffield Hallam."
+                ]
+            }
+        }
+    }
+}

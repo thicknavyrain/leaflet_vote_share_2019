@@ -1,0 +1,181 @@
+{
+    "leaflet": {
+        "candidateName": "Anneliese Dodds",
+        "candidateGender": "female",
+        "constituency": "Oxford East",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Thank You!!",
+                "content": "Two years ago it was the greatest privilege of my life to be elected to represent my home, Oxford East. It is an honour to be re-elected to represent this wonderful place again. I would like to thank the people of Oxford East who put their trust in me at the General Election and voted Labour. My party, both locally and nationally, now needs to reach out, listen to and learn from voters while we can rebuild their trust again."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Working to prevent a damaging No Deal Brexit",
+                "policyDescription": "Develop our regional economy, protect EU research funding, and make sure local employers can recruit and retain staff."
+            },
+            {
+                "policyTitle": "Pressing the Government to take real and urgent action against the Climate Crisis",
+                "policyDescription": "Work to ensure the UK plays its full part at an international level and ensures action locally and nationally."
+            },
+            {
+                "policyTitle": "Securing a resilient NHS in Oxfordshire",
+                "policyDescription": "Scrutinize health services and fight for the funding our local NHS needs and deserves."
+            },
+            {
+                "policyTitle": "Ensuring the UK sticks by its international commitments and plays its full part in the global fight against climate crisis",
+                "policyDescription": "Ensure we are taking real and urgent steps now and pressing the Government to commit to strong international actions."
+            }
+        ],
+        "mentions": {
+            "candidate": "I understand that many people in Oxford East are feeling uncertain about the future and are anxious. I will do all I can as your MP.",
+            "otherPartyLeaderCandidate": "This election will decide the UK's approach on transport, the environment, and local services for years. The choice is more important than ever with the risk of an extreme and reckless Tory Government.",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "On 31st January, Britain is expected to leave the European Union. But this is not the end. Brexit will not be 'done' on 31st January. We need to negotiate the process to secure the best future relationship with the EU.",
+            "defence": "",
+            "economy": "We must develop our regional economy and protect EU research funding.",
+            "education": "",
+            "environment": "Pressing the Government to take real and urgent action against the Climate Crisis. We face the UN Climate Action conference. We are running out of time to limit global warming in line with scientists' recommendations.",
+            "governance": "",
+            "government": "",
+            "health": "Securing a resilient NHS in Oxfordshire.",
+            "immigration": "",
+            "labourEmployment": "Making sure local employers can recruit and retain staff.",
+            "lawCrime": "",
+            "transport": "This election will decide the UK's approach on transport.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Fight for the funding our local NHS needs and deserves.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I understand that many people in Oxford East are feeling uncertain about the future and are anxious. I will do all I can as your MP.",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "Two years",
+                "achievements": "Greatest privilege of my life to be elected to represent my home, Oxford East."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "01865 595 790",
+            "email": "anneliese.dodds.casework@parliament.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "AnnelieseDodds",
+                "twitter": "anneliesedodds",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Anneliese Dodds MP and supporters with Vote Labour signs."
+                },
+                {
+                    "caption": "Breaking the Climate Crisis to the front of the agenda."
+                },
+                {
+                    "caption": "Securing the best future relationship with the EU."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Turnout: 63.3%",
+                        "All 48 elections across the city."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Greatest privilege of my life to be elected to represent my home, Oxford East.",
+                        "Thank you for putting your faith in me once more.",
+                        "Fight for the funding our local NHS needs and deserves."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "Develop our regional economy",
+                        "Pressing the Government to commit to strong international actions",
+                        "NHS services",
+                        "Funding our local NHS needs and deserves."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Prevent a damaging No Deal Brexit",
+                        "Urgent action against the Climate Crisis",
+                        "Securing best future relationship with the EU."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The choice is more important than ever with the risk of an extreme and reckless Tory Government."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "My home, Oxford East",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Greatest privilege of my life to be elected to represent my home, Oxford East."
+                ]
+            }
+        }
+    }
+}

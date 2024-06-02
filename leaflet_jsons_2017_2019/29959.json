@@ -1,0 +1,173 @@
+{
+    "leaflet": {
+        "candidateName": "Louise Haigh",
+        "candidateGender": "Female",
+        "constituency": "Sheffield Heeley",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday, June 8",
+        "messages": [
+            {
+                "title": "Re-Elect Louise Haigh",
+                "content": "Fighting for Sheffield's Future"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Standing up to the Tories",
+                "policyDescription": "Louise Haigh is committed to addressing the Tories' policy impacts, including fracking, health sector cuts, and support for EU citizens."
+            }
+        ],
+        "mentions": {
+            "candidate": "Only Louise Haigh can stop the Tories and UKIP.",
+            "otherPartyLeaderCandidate": "The Tories called an election because they couldn't get their divisive agenda through Parliament.",
+            "partyLeader": "",
+            "tacticalSituation": "The Lib Dems came fourth here in 2015. A vote for the Lib Dems risks letting in a weak Tory cheerleader for Theresa May and the hardest Brexit."
+        },
+        "issues": {
+            "brexitEurope": "Spoke out against a divisive Tory Brexit which uses EU citizens living here and UK citizens living abroad as bargaining chips and threatens cherished workers rights.",
+            "defence": "",
+            "economy": "Exposed the Tory funding cuts hitting every school in Sheffield.",
+            "education": "Force through school funding cuts hitting places like Sheffield, leaving schools with no choice but to axe teachers.",
+            "environment": "Fought against fracking on our treasured green spaces.",
+            "governance": "",
+            "government": "",
+            "health": "Worsen the crisis in our NHS, forcing the growing local GP and ambulance crisis to deepen.",
+            "immigration": "Demanded they protect the rights of EU citizens living and working in the UK.",
+            "labourEmployment": "",
+            "lawCrime": "As a former Special Constable, demanded our police are given the resources they need to fight crime and anti-social behavior.",
+            "transport": "",
+            "socialWelfare": "Forced them to reinstate the vital tax credits of thousands of hard working families after the Tories shamefully and wrongly stopped them without notice.",
+            "community": [
+                {
+                    "content": "Gave away the pay rise all MPs received to local good causes and community groups.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I have never been afraid to stand up for the community I grew up in.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "0792 647 8376",
+            "email": "Louise@LouiseHaigh.org.uk",
+            "website": "www.LouiseHaigh.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Louise Haigh is standing up to the Tories"
+                },
+                {
+                    "caption": "A strong independent minded local MP"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "The Lib Dems came fourth here in 2015.",
+                        "Forced them to reinstate the vital tax credits of thousands of hard working families after the Tories shamefully and wrongly stopped them without notice."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Only Louise Haigh can stop the Tories and UKIP.",
+                        "A strong independent minded local MP who fights hard for Sheffield."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 4,
+                "candidateAlone": 2,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "Fought against fracking on our treasured green spaces.",
+                        "Exposed the Tory funding cuts hitting every school in Sheffield.",
+                        "Gave away the pay rise all MPs received to local good causes and community groups.",
+                        "A strong independent minded local MP who fights hard for Sheffield."
+                    ]
+                },
+                "national": {
+                    "count": 6,
+                    "examples": [
+                        "Spoke out against a divisive Tory Brexit which uses EU citizens living here and UK citizens living abroad as bargaining chips and threatens cherished workers rights.",
+                        "Demanded they protect the rights of EU citizens living and working in the UK.",
+                        "Worsen the crisis in our NHS, forcing the growing local GP and ambulance crisis to deepen.",
+                        "Force through the hardest Brexit causing local jobs and businesses dear and putting up the cost of living.",
+                        "Reintroduce grammar schools so only the privileged get a good education.",
+                        "Force through school funding cuts hitting places like Sheffield, leaving schools with no choice but to axe teachers."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Force through school funding cuts hitting places like Sheffield, leaving schools with no choice but to axe teachers."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Force through the hardest Brexit causing local jobs and businesses dear and putting up the cost of living.",
+                        "The Tories called an election because they couldn't get their divisive agenda through Parliament."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "A vote for the Lib Dems risks letting in a weak Tory cheerleader."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I have never been afraid to stand up for the community I grew up in.",
+                "employment": "As a former Special Constable, demanded our police are given the resources they need to fight crime and anti-social behavior.",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I have never been afraid to stand up for the community I grew up in."
+                ]
+            }
+        }
+    }
+}

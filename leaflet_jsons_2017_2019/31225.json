@@ -1,0 +1,183 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "It's Time for Real Change",
+                "content": "Vote Labour"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Defence and Brexit",
+                "policyDescription": "Only Labour will deliver the real change and stop Boris Johnson's disastrous Brexit."
+            },
+            {
+                "policyTitle": "Education and Health",
+                "policyDescription": "Labour will rebuild our public services, including our NHS, our children\u2019s futures, and the police force, to keep us safe, free for everyone."
+            },
+            {
+                "policyTitle": "Economy and Jobs",
+                "policyDescription": "Kickstart a Green Industrial Revolution to tackle the climate emergency and create 1 million new, high wage jobs."
+            },
+            {
+                "policyTitle": "Government and Voter Decision",
+                "policyDescription": "Give people the final say on Brexit."
+            },
+            {
+                "policyTitle": "Social Welfare and Housing",
+                "policyDescription": "Build fairer society with lower rents, more council and social houses, ending the private profit in private and buy rent."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Only Labour will deliver the real change and stop Boris Johnson's disastrous Brexit. Give people the final say on Brexit.",
+            "defence": "Only Labour will deliver the real change and stop Boris Johnson's disastrous Brexit.",
+            "economy": "Kickstart a Green Industrial Revolution to tackle the climate emergency and create 1 million new, high wage jobs.",
+            "education": "Labour will rebuild our public services, including our NHS, our children\u2019s futures, and the police force, to keep us safe, free for everyone.",
+            "environment": "Kickstart a Green Industrial Revolution to tackle the climate emergency and create 1 million new, high wage jobs.",
+            "governance": "",
+            "government": "Give people the final say on Brexit.",
+            "health": "Labour will rebuild our public services, including our NHS, free for everyone.",
+            "immigration": "",
+            "labourEmployment": "Kickstart a Green Industrial Revolution to tackle the climate emergency and create 1 million new, high wage jobs.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Build fairer society with lower rents, more council and social houses, ending the private profit in private and buy rent.",
+            "community": [
+                {
+                    "content": "Build fairer society with lower rents, more council and social houses, ending the private profit in private and buy rent.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "Only Labour will deliver the real change and stop Boris Johnson's disastrous Brexit.",
+                        "Labour will rebuild our public services.",
+                        "Kickstart a Green Industrial Revolution to tackle the climate emergency and create 1 million new, high wage jobs.",
+                        "Rebuild our NHS, free for everyone.",
+                        "Build fairer society with lower rents, more council and social houses, ending the private profit in private and buy rent.",
+                        "Give people the final say on Brexit."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Build fairer society with lower rents, more council and social houses, ending the private profit in private and buy rent.",
+                        "Rebuild our NHS, free for everyone."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Only Labour will deliver the real change and stop Boris Johnson's disastrous Brexit.",
+                        "Kickstart a Green Industrial Revolution to tackle the climate emergency and create 1 million new, high wage jobs.",
+                        "Give people the final say on Brexit."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Only Labour will deliver the real change and stop Boris Johnson's disastrous Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Only Labour will deliver the real change and stop Boris Johnson's disastrous Brexit."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Only Labour will deliver the real change and stop Boris Johnson's disastrous Brexit."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,198 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Good Morning.",
+                "content": "Vote Labour today to:\n- Save our NHS\n- Put more police back on the beat\n- Introduce a living wage of \u00a310 per hour\n- Kick start a Green Industrial Revolution to tackle the climate emergency and create high-skilled, high-wage jobs"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Save our NHS",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Put more police back on the beat",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Introduce a living wage of \u00a310 per hour",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Kick start a Green Industrial Revolution",
+                "policyDescription": "Tackle the climate emergency and create high-skilled, high-wage jobs"
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Save our NHS",
+            "immigration": "",
+            "labourEmployment": "Introduce a living wage of \u00a310 per hour",
+            "lawCrime": "Put more police back on the beat",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Vote Labour today"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Introduce a living wage of \u00a310 per hour"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Save our NHS",
+                        "Put more police back on the beat",
+                        "Kick start a Green Industrial Revolution to tackle the climate emergency and create high-skilled, high-wage jobs"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Save our NHS",
+                        "Put more police back on the beat",
+                        "Introduce a living wage of \u00a310 per hour",
+                        "Kick start a Green Industrial Revolution to tackle the climate emergency and create high-skilled, high-wage jobs"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "leaflet": {
+        "candidateName": "Andrew Parkhurst",
+        "candidateGender": "",
+        "constituency": "Delyn",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "12 December",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Climate change and air pollution threaten our future.",
+                "policyDescription": "Andrew Parkhurst and the Liberal Democrats will put Britain on the path to achieving a carbon neutral status by 2045."
+            },
+            {
+                "policyTitle": "Modernised Fiber Optic Cable",
+                "policyDescription": "Improving broadband speed and reliability through a modernized fiber optic cable infrastructure will allow more people to work and access services from home."
+            },
+            {
+                "policyTitle": "Protect public services",
+                "policyDescription": "We will protect the NHS and ensure it has the funding it needs."
+            }
+        ],
+        "mentions": {
+            "candidate": "Andrew Parkhurst is standing to be our next MP.",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "In next year\u2019s Brexit budget, Wales will lose \u00a3500 million in funding.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Climate change and air pollution threaten our future.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "By staying at the heart of a modernised Fiber Optic Cable, we can improve broadband speed and reliability.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Campaigning for the communities of Delyn.",
+        "politicalExperience": [
+            {
+                "role": "Councillor",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "In next year\u2019s Brexit budget, Wales will lose \u00a3500 million in funding."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Climate change and air pollution threaten our future.",
+                        "Campaigning for the communities of Delyn."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 10,
+                "candidateAlone": 4,
+                "candidateWithOthers": 6
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Improving broadband speed and reliability through a modernized fiber optic cable infrastructure will allow more people to work and access services from home."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Andrew Parkhurst and the Liberal Democrats will put Britain on the path to achieving a carbon neutral status by 2045."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "CONSERVATIVES - A Brexit deal that harms Wales.",
+                        "LABOUR - No one knows where they stand."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Andrew Parkhurst is standing to be our next MP.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

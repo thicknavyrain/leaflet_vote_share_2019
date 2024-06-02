@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Jeff Smith",
+        "candidateGender": "",
+        "constituency": "South Manchester",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "TODAY IS POLLING DAY",
+                "content": "Vote Jeff Smith and Labour today to: Stop cuts to local schools funding, Rescue our NHS, Put more police in our streets, Fight for a fair deal for Manchester"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop cuts to local schools funding",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Rescue our NHS",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Put more police in our streets",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Fight for a fair deal for Manchester",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Jeff Smith",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Stop cuts to local schools funding",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Rescue our NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Put more police in our streets",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Fight for a fair deal for Manchester",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07401 541816",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Fight for a fair deal for Manchester"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Rescue our NHS"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,198 @@
+{
+    "leaflet": {
+        "candidateName": "Lucy Care",
+        "candidateGender": "",
+        "constituency": "Derby North",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Jobs, NHS, Taxes",
+                "content": "We've been let down. This is our chance for real change."
+            },
+            {
+                "title": "Labour are too split to stand up for us",
+                "content": "A Labour MP would deliver no change... Inside: see who local people are backing."
+            },
+            {
+                "title": "Your choice on June 8th; Labour wasting your cash...",
+                "content": "Labour have mismanaged funds in Derby with the result that libraries are closing. The waste is growing and costs every Council Taxpayer over \u00a330. Can this family deserve our trust with the NHS?"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Hard Brexit costing Derby jobs",
+                "policyDescription": "Derby's economy is at risk due to hard Brexit policies."
+            },
+            {
+                "policyTitle": "Tories leaving our NHS underfunded",
+                "policyDescription": "The NHS in Derby is not receiving adequate funding under Tory policies."
+            },
+            {
+                "policyTitle": "Labour wasting your cash",
+                "policyDescription": "Labour has mismanaged funds and caused library closures."
+            },
+            {
+                "policyTitle": "Lucy Care's record of delivery",
+                "policyDescription": "Lucy Care has a record of fighting for Derby, including protecting the NHS and saving libraries from closure."
+            }
+        ],
+        "mentions": {
+            "candidate": "Lucy Care",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Hard Brexit costing Derby jobs",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Tories leaving our NHS underfunded",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Labour have mismanaged funds in Derby with the result that libraries are closing. The waste is growing and costs every Council Taxpayer over \u00a330.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Nick Clegg",
+                "endorsement": "Lucy Care is the best chance for beneficial change in Derby North."
+            },
+            {
+                "endorser": "Daniel Grinbank",
+                "endorsement": "Lucy Care fights for those who need it most and is dedicated to helping the community."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "The waste is growing and costs every Council Taxpayer over \u00a330.",
+                        "funding our NHS at this rate."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "We've been let down.",
+                        "Lucy Care fights for those who need it most.",
+                        "the mismanagement of funds.",
+                        "Labour are too split to stand up for us."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "Labour have mismanaged funds in Derby.",
+                        "libraries are closing.",
+                        "costs every Council Taxpayer over \u00a330.",
+                        "protecting libraries from closure."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Hard Brexit costing Derby jobs.",
+                        "Tories leaving our NHS underfunded."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "Nick Clegg's endorsement.",
+                    "Daniel Grinbank's endorsement."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour have mismanaged funds in Derby with the result that libraries are closing."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Hard Brexit costing Derby jobs.",
+                        "Tories leaving our NHS underfunded."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn is one of the worst performing leaders we've had in decades."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "endorsed by local figures."
+                ]
+            }
+        }
+    }
+}

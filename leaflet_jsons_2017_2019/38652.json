@@ -1,0 +1,185 @@
+{
+    "leaflet": {
+        "candidateName": "Vernon Coaker",
+        "candidateGender": "",
+        "constituency": "Gedling",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "The next election, whenever it comes, will be one of the most important ever.",
+                "content": "If you are not registered to vote, you will have no say. To register, visit www.gedling.gov.uk/elections/registertovote/ or contact me using the form below."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Tory Austerity",
+                "policyDescription": "Tory austerity policies have been bad for the country. Vernon Coaker will continue fighting against it."
+            }
+        ],
+        "mentions": {
+            "candidate": "Vernon Coaker",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "I am absolutely opposed to a No Deal Brexit and if any deal is agreed, this should be subject to a People's Vote with Remain as an option.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "30 Station Road, Carlton, Nottingham NG4 3AX",
+            "phone": "0790 2510142",
+            "email": "vernon_coaker@labour.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@Vernon_Coaker",
+                "instagram": "@vernon_coaker",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "The Guardian",
+                "endorsement": "The verdict is in: Boris Johnson is a liar and he should pay the price."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "There's lies, damn lies and then there's Boris Johnson",
+                "source": "The Mirror",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Tory austerity policies have been bad for the country.",
+                        "Tory chaos has created a crisis for our country.",
+                        "I am absolutely opposed to a No Deal Brexit and if any deal is agreed, this should be subject to a People's Vote with Remain as an option."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 2,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Tory austerity policies have been bad for the country.",
+                        "Tory chaos has created a crisis for our country."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "The verdict is in: Boris Johnson is a liar and he should pay the price. - The Guardian"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Tory chaos has created a crisis for our country."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "There's lies, damn lies and then there's Boris Johnson",
+                        "The verdict is in: Boris Johnson is a liar and he should pay the price."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Tories' austerity policies have been bad for this country."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Your local champion",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Your local champion"
+                ]
+            }
+        }
+    }
+}

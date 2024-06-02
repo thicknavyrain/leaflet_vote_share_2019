@@ -1,0 +1,167 @@
+{
+    "leaflet": {
+        "candidateName": "Mike Thornton",
+        "candidateGender": "",
+        "constituency": "Eastleigh",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Change the Direction of the Country",
+                "content": "Only Mike Thornton will be the strong opposition to Conservative cuts."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Mike Thornton is fighting to protect our NHS from further Conservative cuts."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "The Conservatives are cutting school budgets and leaving the social care system in tatters."
+            },
+            {
+                "policyTitle": "Opposition to Conservative Cuts",
+                "policyDescription": "Mike Thornton will be the effective opposition we need to get a better deal for our area."
+            }
+        ],
+        "mentions": {
+            "candidate": "Mike Thornton",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": "In Eastleigh, your choice is clear: It's Lib Dem or Conservatives here."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "The Conservatives are cutting school budgets. All schools in England likely to face real-term cuts.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The Conservatives are slashing NHS funding. Mike Thornton and the Lib Dems will fight Conservative NHS cuts.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "The General Election on June 8th is your opportunity to stop them by electing a Lib Dem MP again here in Eastleigh.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "A real voice for Eastleigh in Parliament.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Eastleigh Liberal Democrats, FREEPOST RTLH-YYCX-BIXE, 107 Leigh Road, Eastleigh, SO50 9DR",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Mike Thornton is fighting to protect our NHS from further Conservative cuts."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Hospital cuts planned in most of England - BBC, 7 February 2017"
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "The Conservatives are slashing NHS funding, cutting school budgets and leaving the social care system in tatters.",
+                        "Mike will be the effective opposition we need to get a better deal for our area.",
+                        "Only the Lib Dems can stop them.",
+                        "This is our chance for change."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Eastleigh Liberal Democrats",
+                        "Local NHS services are under threat"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "The Conservatives are slashing NHS funding.",
+                        "Hospital cuts planned in most of England.",
+                        "All schools in England likely to face real-term cuts."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "The Conservatives are slashing NHS funding.",
+                        "School budgets are being cut.",
+                        "Leaving the social care system in tatters."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "A Conservative win here in Eastleigh would give Theresa May a blank cheque to make further cuts to our schools and NHS."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "A real voice for Eastleigh in Parliament.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "A real voice for Eastleigh in Parliament."
+                ]
+            }
+        }
+    }
+}

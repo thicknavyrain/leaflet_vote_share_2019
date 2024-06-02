@@ -1,0 +1,170 @@
+{
+    "leaflet": {
+        "candidateName": "Davy Jones",
+        "candidateGender": "",
+        "constituency": "Brighton Kemptown",
+        "politicalParty": "Green Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "IMPORTANT MEETING - ALL WELCOME",
+                "content": "Thursday May 18th, 7:30pm at St George's Church, Kemptown. Come and find out why we are putting aside tribal party politics to JOIN TOGETHER to defeat the Conservatives."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Kickstarting Progressive Politics",
+                "policyDescription": "Green Party withdraws parliamentary candidate in Kemptown to launch progressive politics in Brighton. Save the NHS from cuts and privatisation. Stop grammar schools, and schools' funding cuts. End growing inequality between the 'haves' and 'have nots'. Protect the environment and tackle climate change. Give you a say over Brexit. Introduce a fairer voting system."
+            }
+        ],
+        "mentions": {
+            "candidate": "Davy Jones",
+            "otherPartyLeaderCandidate": "Simon Kirby",
+            "partyLeader": "Caroline Lucas",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Give you a say over Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "Stop grammar schools, and schools' funding cuts. Protect our local schools such as Moulsecoomb Primary School which loses \u00a3823 per pupil under the Tories.",
+            "environment": "Protect the environment and tackle climate change. Help reduce air quality.",
+            "governance": "",
+            "government": "Introduce a fairer voting system.",
+            "health": "Save the NHS from cuts and privatisation.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Help reduce homelessness: our city has one of the highest levels in the UK - outside London - one in 69 people. Help tackle poor local rail services.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Help reduce homelessness: our city has one of the highest levels in the UK - outside London - one in 69 people.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "INFO@DAVYJONES4KEMPTOWN.ORG.UK",
+            "website": "",
+            "socialMedia": {
+                "facebook": "WWW.FACEBOOK.COM/DAVYJONES4KEMPTOWN",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Caroline Lucas",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "People who have spent years campaigning in our city took the decision to put aside party allegiances and work together so we have the best possible chance of delivering a fairer voting system and beating the Tories on 8 June. These choices were not easy, indeed they are acts of political bravery.",
+                "source": "Caroline Lucas",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Caroline Lucas, Co-Leader of The Green Party with the Green Party's Davy Jones"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Protect our local schools such as Moulsecoomb Primary School which loses \u00a3823 per pupil under the Tories.",
+                        "Our city has one of the highest levels in the UK - outside London - one in 69 people."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Our voting system is broken.",
+                        "Delivering a fairer voting system and beating the Tories on 8 June.",
+                        "Save the NHS from cuts and privatisation.",
+                        "End growing inequality between the 'haves' and 'have nots'.",
+                        "Help tackle poor local rail services."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Help tackle poor local rail services."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Save the NHS from cuts and privatisation."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Caroline Lucas"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "The progressive vote splits, too often the Tories get elected.",
+                        "The Green Party have made a tactical decision to avoid splitting the progressive vote in Kemptown."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Your Conservative MP Simon Kirby, was elected with a majority of only 690 votes."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Your Conservative MP Simon Kirby, was elected with a majority of only 690 votes."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

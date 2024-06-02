@@ -1,0 +1,187 @@
+{
+    "leaflet": {
+        "candidateName": "John Leech",
+        "candidateGender": "",
+        "constituency": "South Manchester",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Support is growing for JOHN LEECH",
+                "content": "John has and will be a visible active MP working hard for our area. More action: Standing up for our communities. Nurses and new parents helped during our MP's' work. Stood side-by-side with doctors to protect services and fought against cuts..."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Visible active MP",
+                "policyDescription": "John Leech will be a visible and active MP for South Manchester."
+            }
+        ],
+        "mentions": {
+            "candidate": "John Leech",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn, Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": "Odds are being slashed on John Leech winning South Manchester, straight fight between John and Labour."
+        },
+        "issues": {
+            "brexitEurope": "Labour voted with UKIP to trigger a damaging Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Stood side-by-side with doctors to protect services and fought against cuts.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "More action: Standing up for our communities.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "",
+                "achievements": "Nurses and new parents helped during our MP's' work."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Labour\u2019s leading Brexiteer Stephen Kinnock\u2019s diary lined up Brexit with Theresa May like a prime ministerial poodle.",
+                "source": "Daily Express, Dec 2016",
+                "date": ""
+            },
+            {
+                "text": "Labour\u2019s leading Brexiteer Stephen Kinnock has been accused of making a deal with Theresa May to secure Brexit, risking the entire future of Britain.",
+                "source": "The Guardian, 3 March, 2017",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Support is growing for John Leech"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Odds are being slashed on John Leech winning South Manchester."
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "John has and will be a visible active MP working hard for our area.",
+                        "More action: Standing up for our communities.",
+                        "Stood side-by-side with doctors to protect services and fought against cuts.",
+                        "Labour\u2019s leading Brexiteer Stephen Kinnock has been accused of making a deal with Theresa May to secure Brexit, risking the entire future of Britain.",
+                        "Labour voted with UKIP to trigger a damaging Brexit.",
+                        "Labour\u2019s leading Brexiteer Stephen Kinnock\u2019s diary lined up Brexit with Theresa May like a prime ministerial poodle."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "More action: Standing up for our communities."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Labour voted with UKIP to trigger a damaging Brexit."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Nurses and new parents helped during our MP's' work.",
+                    "issueRelated": "health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour voted with UKIP to trigger a damaging Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Labour\u2019s leading Brexiteer Stephen Kinnock\u2019s diary lined up Brexit with Theresa May like a prime ministerial poodle.",
+                        "Labour\u2019s leading Brexiteer Stephen Kinnock has been accused of making a deal with Theresa May to secure Brexit, risking the entire future of Britain."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "John Leech, a visible active MP working hard for South Manchester.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "John Leech, a visible active MP working hard for South Manchester."
+                ]
+            }
+        }
+    }
+}

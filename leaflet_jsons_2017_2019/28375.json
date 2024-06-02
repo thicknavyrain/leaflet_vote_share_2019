@@ -1,0 +1,159 @@
+{
+    "leaflet": {
+        "candidateName": "Jon Conway",
+        "candidateGender": "",
+        "constituency": "Beaconsfield Constituency",
+        "politicalParty": "UKIP",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Vote for the Winner!",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Respect the referendum result and signal to the EU that Britain must leave the single market."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jon Conway",
+            "otherPartyLeaderCandidate": "Dominic Grieve MP",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Brexit hasn't happened yet. Article 50 means leaving the single market. We are the 5th largest economy in the world, we will not be bullied by the EU, who will have 5 million jobs and \u00a360 billion net exports relying on UK trade.",
+            "defence": "",
+            "economy": "We are the 5th largest economy in the world. 5 million jobs and \u00a360 billion net exports relying on UK trade.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "Jon ran the winning cross party Vote Leave campaign for South Bucks. A vote for Jon Conway will signal to the EU that the referendum result must be respected.",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": "Jon Conway is a pantomime producer, living locally."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "I Voted Leave"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "We are the 5th largest economy in the world.",
+                        "5 million jobs and \u00a360 billion net exports relying on UK trade."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Vote for the Winner!",
+                        "Mrs. May casts herself as the good fairy, but couldn't cut herself away from her life of immigration for 6 years as Home Secretary."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Jon Conway is a pantomime producer, living locally."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Brexit hasn't happened yet.",
+                        "A vote for Jon Conway will signal to the EU that the referendum result must be respected.",
+                        "We are the 5th largest economy in the world."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Jon ran the winning cross party Vote Leave campaign for South Bucks.",
+                    "issueRelated": "Brexit"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Dominic Grieve MP, campaigned for Remain and lost."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Jon Conway is a pantomime producer, living locally.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Jon Conway is a pantomime producer, living locally."
+                ]
+            }
+        }
+    }
+}

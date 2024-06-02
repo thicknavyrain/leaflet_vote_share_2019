@@ -1,0 +1,163 @@
+{
+    "leaflet": {
+        "candidateName": "Mark Argent",
+        "candidateGender": "",
+        "constituency": "Hertford and Stortford",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8th 2017",
+        "messages": [
+            {
+                "title": "Fighting against Hard Brexit",
+                "content": "Liberal Democrats are the only party that has always fought for Britain's membership of the European Union, and that's why we are fighting for you to have your say on the final Brexit deal."
+            },
+            {
+                "title": "Standing up for the NHS",
+                "content": "Only the Liberal Democrats would give the NHS the funds it needs by raising a penny on income tax to provide an additional \u00a36 billion for health and care services."
+            },
+            {
+                "title": "Opposing school cuts",
+                "content": "Local schools are under threat from a Conservative Party that has stopped listening to local people in Hertford & Stortford. Schools in Hertfordshire are set to lose nearly \u00a376 million from their budgets."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fighting against Hard Brexit",
+                "policyDescription": "Liberal Democrats are fighting to allow you to have your say on the final Brexit deal."
+            },
+            {
+                "policyTitle": "Standing up for the NHS",
+                "policyDescription": "Liberal Democrats plan to increase NHS funding by raising a penny on income tax."
+            },
+            {
+                "policyTitle": "Opposing school cuts",
+                "policyDescription": "Liberal Democrats oppose school cuts and accuse the Conservative Party of ignoring local people."
+            }
+        ],
+        "mentions": {
+            "candidate": "Mark Argent",
+            "otherPartyLeaderCandidate": "Conservative Party",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Fighting against Hard Brexit",
+            "defence": "",
+            "economy": "",
+            "education": "Opposing school cuts: Schools in Hertfordshire are set to lose nearly \u00a376 million from their budgets.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Standing up for the NHS: Only the Liberal Democrats would give the NHS funds it needs by raising a penny on income tax to provide an additional \u00a36 billion for health and care services.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "hertfordandstortfordlibdems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Only the Liberal Democrats would give the NHS the funds it needs by raising a penny on income tax to provide an additional \u00a36 billion for health and care services.",
+                        "Schools in Hertfordshire are set to lose nearly \u00a376 million from their budgets."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Liberal Democrats are the only party that has always fought for Britain's membership of the European Union.",
+                        "Local schools are under threat from a Conservative Party that has stopped listening to local people in Hertford & Stortford."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Standing up for the NHS: Only the Liberal Democrats would give the NHS the funds it needs.",
+                        "Opposing school cuts: Schools in Hertfordshire are set to lose nearly \u00a376 million from their budgets."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Fighting against Hard Brexit: Liberal Democrats are the only party that has always fought for Britain's membership of the European Union."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Local schools are under threat from a Conservative Party that has stopped listening to local people in Hertford & Stortford."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Local schools are under threat from a Conservative Party that has stopped listening to local people in Hertford & Stortford."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

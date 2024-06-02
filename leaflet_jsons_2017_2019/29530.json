@@ -1,0 +1,168 @@
+{
+    "leaflet": {
+        "candidateName": "Emma Warman",
+        "candidateGender": "Female",
+        "constituency": "Brighton Pavilion",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": "Standing with Theresa May"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Rail Services",
+                "policyDescription": "I will campaign for better rail services for long-suffering Brighton commuters"
+            }
+        ],
+        "mentions": {
+            "candidate": "Emma Warman",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Get the best Brexit deal possible to deliver economic security for our future",
+            "defence": "",
+            "economy": "Provide strong and stable leadership for our country, economic security",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "better rail services for long-suffering Brighton commuters",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I will campaign for better rail services for long-suffering Brighton commuters",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "As someone from an ordinary working class background, educated at state school, I'm committed to delivering a fairer society.",
+        "politicalExperience": [
+            {
+                "role": "Business",
+                "duration": "20 years",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Brighton Pavilion",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Turning to politics after a 20 year career in business"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "As someone from an ordinary working class background, educated at state school, I'm committed to delivering a fairer society.",
+                        "Standing with Theresa May",
+                        "Provide strong and stable leadership for our country"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 2,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "I will campaign for better rail services for long-suffering Brighton commuters"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Get the best Brexit deal possible to deliver economic security for our future",
+                        "Provide strong and stable leadership for our country"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "effective local champion",
+                "employment": "20 year career in business",
+                "education": "educated at state school",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    "effective local champion"
+                ]
+            }
+        }
+    }
+}

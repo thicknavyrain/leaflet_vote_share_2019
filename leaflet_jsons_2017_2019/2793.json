@@ -1,0 +1,154 @@
+{
+    "leaflet": {
+        "candidateName": "Nick Clegg",
+        "candidateGender": "",
+        "constituency": "Winchester",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Real change for Britain",
+                "content": "Everywhere I go I meet people who feel let down by a Labour Government that seems to have simply lost touch with real life. Labour have been in power too long and it's time for change."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Real Change",
+                "policyDescription": "Focus on real changes that cannot be delivered by Labour or Conservatives."
+            },
+            {
+                "policyTitle": "Better Deal for Troops",
+                "policyDescription": "Fighting for a better deal for troops, highlighting the poor payment and lack of necessary equipment."
+            }
+        ],
+        "mentions": {
+            "candidate": "Nick Clegg",
+            "otherPartyLeaderCandidate": "Labour Government",
+            "partyLeader": "Nick Clegg",
+            "tacticalSituation": "It's between the Lib Dems and the Conservatives in Winchester."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "A scandal that British troops fighting for our country are paid a pittance and do not have the equipment they need.",
+            "economy": "Fighting for jobs, the environment, and fairer taxes.",
+            "education": "",
+            "environment": "Local campaigner Martin Tod is part of a growing force of Liberal Democrats fighting for action on the environment.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Martin Tod has built a strong record of action for local people - working hard to get a better deal for you.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "Everywhere I go I meet people who feel let down by a Labour Government that seems to have simply lost touch with real life. Labour have been in power too long and it's time for change.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "House of Commons, Westminster, London, SW1A 0AA",
+            "phone": "",
+            "email": "",
+            "website": "www.LibDems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Labour have been in power too long and it's time for change.",
+                        "Local campaigner Martin Tod has built a strong record of action for local people.",
+                        "It's between the Lib Dems and the Conservatives in Winchester."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Everywhere I go I meet people who feel let down by a Labour Government.",
+                        "What\u2019s even worse is that they don't have the equipment they need to do the job."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Local campaigner Martin Tod has built a strong record of action for local people - working hard to get a better deal for you."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Labour have been in power too long and it's time for change."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "It's between the Lib Dems and the Conservatives in Winchester."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

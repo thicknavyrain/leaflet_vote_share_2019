@@ -1,0 +1,186 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Labour will invest in our town centres",
+                "content": "Labour will create regional development banks to invest in communities and local businesses, improve bus services and introduce free bus travel for under 25s, put more police on the beat to keep streets safe, ban cash machine charges and stop bank and post office closures, and introduce fairer business rates so high streets, independent shops, markets and pubs don\u2019t suffer."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Investment in Town Centres",
+                "policyDescription": "Labour plans to create regional development banks to fund communities and local businesses. They also aim to improve bus services with free travel for under 25s, increase police presence for safety, ban cash machine charges, stop bank and post office closures, and introduce fairer business rates to support high streets."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Tory Government",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Labour will put more police on the beat to keep streets safe.",
+            "transport": "Labour plans to improve bus services and introduce free bus travel for under 25s.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Labour will create regional development banks to invest in communities and local businesses, ban cash machine charges and stop bank and post office closures, and introduce fairer business rates so high streets, independent shops, markets and pubs don\u2019t suffer.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "labour.org.uk/rebuildingbritain",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "BRITAIN'S HIGH STREETS ARE SUFFERING BUT THE TORY GOVERNMENT HAS NO REAL PLAN TO HELP.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "introduce free bus travel for under 25s"
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "Labour will rebuild Britain so that all communities can thrive.",
+                        "Britain's high streets are suffering but the Tory Government has no real plan to help.",
+                        "Labour will invest in our town centres",
+                        "Labour will create regional development banks to invest in communities and local businesses.",
+                        "put more police on the beat to keep streets safe.",
+                        "introduce fairer business rates so high streets, independent shops, markets and pubs don\u2019t suffer."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Labour will create regional development banks to invest in communities and local businesses."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Britain's high streets are suffering but the Tory Government has no real plan to help."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Britain's high streets are suffering but the Tory Government has no real plan to help."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

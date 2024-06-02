@@ -1,0 +1,170 @@
+{
+    "leaflet": {
+        "candidateName": "Derek",
+        "candidateGender": "",
+        "constituency": "Plymouth Sutton And Devonport",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "SPECIAL BREXIT",
+                "content": "LABOUR WANT TO IGNORE OUR EU REF VOTE. SKY-HIGH immigration would continue for years under Jeremy Corbyn \u2013 the Labour leader signalled today. LABOUR PLOTS BREXIT DEAL WITH OTHER PARTIES IF TORIES DON'T WIN ELECTION MAJORITY"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Theresa May has a plan to make a success of Brexit and respect the will of the British people."
+            },
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "Theresa May and the Conservatives want to control and reduce immigration by leaving the EU."
+            }
+        ],
+        "mentions": {
+            "candidate": "Derek",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Just 11 days after you vote, the EU wants to start Brexit negotiations with Britain. So whoever is Prime Minister must be up to the job and ready to start. Only Theresa May has a plan to make a success of Brexit and respect the will of the British people.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "Only Theresa May has a plan to reduce the number of people who come to Britain, bringing in the skilled workers our economy needs and staying strong...",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "From looking after our elderly, funding our schools and hospitals, creating better-paying jobs and controlling immigration, everything depends on getting Brexit right.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "LABOUR WANT TO IGNORE OUR EU REF VOTE",
+                        "SKY-HIGH immigration would continue for years under Jeremy Corbyn",
+                        "Only Theresa May has a plan to make a success of Brexit and respect the will of the British people.",
+                        "From looking after our elderly, funding our schools and hospitals, creating better-paying jobs and controlling immigration, everything depends on getting Brexit right.",
+                        "Theresa May and the Conservatives want to control and reduce immigration.",
+                        "But Jeremy Corbyn doesn't believe in controls and will increase immigration."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "From looking after our elderly, funding our schools and hospitals, creating better-paying jobs and controlling immigration, everything depends on getting Brexit right."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Only Theresa May has a plan to make a success of Brexit and respect the will of the British people.",
+                        "LABOUR WANT TO IGNORE OUR EU REF VOTE"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "LABOUR WANT TO IGNORE OUR EU REF VOTE"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "SKY-HIGH immigration would continue for years under Jeremy Corbyn",
+                        "LABOUR PLOTS BREXIT DEAL WITH OTHER PARTIES IF TORIES DON'T WIN ELECTION MAJORITY"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "But Jeremy Corbyn doesn't believe in controls and will increase immigration."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

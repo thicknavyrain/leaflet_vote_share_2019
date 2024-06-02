@@ -1,0 +1,170 @@
+{
+    "leaflet": {
+        "candidateName": "Emily Owen",
+        "candidateGender": "",
+        "constituency": "Aberconwy",
+        "politicalParty": "Welsh Labour / Llafur Cymru",
+        "electionDate": "Thursday, 8 June",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Minimum Wage",
+                "policyDescription": "Raise minimum wage to \u00a310/hour."
+            },
+            {
+                "policyTitle": "Protect State Pension",
+                "policyDescription": "Fight Government cuts to state pension."
+            },
+            {
+                "policyTitle": "Protect Child Poverty",
+                "policyDescription": "End child poverty in Aberconwy."
+            },
+            {
+                "policyTitle": "Mental Health and Social Care",
+                "policyDescription": "Prioritize funding for social care and reduce the stigma around mental health issues."
+            },
+            {
+                "policyTitle": "Protect Unfair Employment",
+                "policyDescription": "Fight to protect people against unfair employment and aim for a minimum of 10-hour work contracts."
+            },
+            {
+                "policyTitle": "Close the Inequality Gap",
+                "policyDescription": "Close the inequality gap in Aberconwy."
+            },
+            {
+                "policyTitle": "End Mutually Owned Companies",
+                "policyDescription": "Fight to stop national companies driving local businesses out of business."
+            }
+        ],
+        "mentions": {
+            "candidate": "Emily Owen",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "Fight Government cuts to state pension.",
+            "health": "Prioritize funding for social care and reduce the stigma around mental health issues.",
+            "immigration": "",
+            "labourEmployment": "Fight to protect people against unfair employment and aim for a minimum of 10-hour work contracts.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "End child poverty in Aberconwy.",
+            "community": [
+                {
+                    "content": "Fight to stop national companies driving local businesses out of business.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Emily Owen, Bryn Celyn, Conwy Road, Betws-y-Coed, LL24 0PN",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Elect / Etholwch Emily Owen, Welsh Labour candidate for Aberconwy"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Raise minimum wage to \u00a310/hour."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Fight Government cuts to state pension."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "End child poverty in Aberconwy.",
+                        "Close the inequality gap in Aberconwy.",
+                        "Fight to stop national companies driving local businesses out of business."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Fight Government cuts to state pension.",
+                        "Raise minimum wage to \u00a310/hour.",
+                        "Fight to protect people against unfair employment and aim for a minimum of 10-hour work contracts."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Fight to stop national companies driving local businesses out of business."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

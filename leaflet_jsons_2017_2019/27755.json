@@ -1,0 +1,193 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Final Brexit Deal",
+                "policyDescription": "Lib Dems will give you a say on the final Brexit deal."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Theresa May, Nigel Farage",
+            "partyLeader": "Tim Farron",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Theresa May is pushing the extreme Brexit UKIP want. If her final Brexit deal is a poisoned apple... why should you have to eat it?",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "The Times",
+                "endorsement": "Only the Lib Dems can stop a hard Brexit."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "All the things that I've been banging on about for the last 20 years have now been adopted wholesale by Theresa May.",
+                "source": "Nigel Farage",
+                "date": "5 May 2017"
+            },
+            {
+                "text": "The Lib Dems... have vowed to fight us every step of the way.",
+                "source": "Theresa May",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "If her final Brexit deal is a poisoned apple... why should you have to eat it?",
+                        "Tim Farron's Lib Dems will give you a say on the final Brexit deal.",
+                        "Theresa May is pushing the extreme Brexit UKIP want.",
+                        "Only the Lib Dems can stop a hard Brexit."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "If her final Brexit deal is a poisoned apple... why should you have to eat it?",
+                        "Theresa May is pushing the extreme Brexit UKIP want.",
+                        "Tim Farron's Lib Dems will give you a say on the final Brexit deal.",
+                        "Only the Lib Dems can stop a hard Brexit."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Only the Lib Dems can stop a hard Brexit. - The Times"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Theresa May is pushing the extreme Brexit UKIP want.",
+                        "If her final Brexit deal is a poisoned apple... why should you have to eat it?"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "The Lib Dems... have vowed to fight us every step of the way. - Theresa May"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

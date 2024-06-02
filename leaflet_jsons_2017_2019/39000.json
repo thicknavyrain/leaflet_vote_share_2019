@@ -1,0 +1,177 @@
+{
+    "leaflet": {
+        "candidateName": "Keith Aspden",
+        "candidateGender": "",
+        "constituency": "York Outer",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Building a Brighter Future",
+                "content": "Our verdict: why we're backing Keith Aspden and the Lib Dems."
+            },
+            {
+                "title": "Who can you trust with our NHS?",
+                "content": "Our NHS is in crisis, with A&E waiting times at their worst after ten years of Tory underfunding and neglect. Keith Aspden said, \u201cBrexit will only make the crisis in our NHS worse. A Liberal Democrat government will demand the extra funds for our NHS, starting with a penny on income tax to tackle the immediate problem.\u201d \u201cUnder our plan, health and social care services will get the money to recruit more doctors, nurses and mental health staff when they need it most.\u201d"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "1p Income Tax rise to fund cash boost. Treat mental health with the same urgency as physical health. End the shocking shortage of nurses and other NHS staff."
+            },
+            {
+                "policyTitle": "Stopping Brexit",
+                "policyDescription": "A Liberal Democrat government will stop Brexit and build a brighter future."
+            }
+        ],
+        "mentions": {
+            "candidate": "Keith Aspden",
+            "otherPartyLeaderCandidate": "Nigel Farage's Brexit Party",
+            "partyLeader": "",
+            "tacticalSituation": "Local support for the Conservatives, backed by Nigel Farage's Brexit Party, is in free-fall across York Outer. Local Lib Dem candidate Keith Aspden is the clear challenger to the Conservatives."
+        },
+        "issues": {
+            "brexitEurope": "Local support for the Conservatives, backed by Nigel Farage's Brexit Party, is in free-fall across York Outer.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "A Liberal Democrat government will stop Brexit and build a brighter future.",
+            "government": "",
+            "health": "Our NHS is in crisis, with A&E waiting times at their worst after ten years of Tory underfunding and neglect. Keith Aspden said, \u201cBrexit will only make the crisis in our NHS worse. A Liberal Democrat government will demand the extra funds for our NHS, starting with a penny on income tax to tackle the immediate problem.\u201d \u201cUnder our plan, health and social care services will get the money to recruit more doctors, nurses and mental health staff when they need it most.\u201d",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Former Conservative Deputy PM, Michael Heseltine",
+                "endorsement": "Millions of Tories will now vote Lib Dem because of Brexit."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Nigel Farage retreats from every Tory Seat",
+                "source": "The Telegraph",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "A Liberal Democrat government will demand the extra funds for our NHS, starting with a penny on income tax to tackle the immediate problem."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Our verdict: why we're backing Keith Aspden and the Lib Dems.",
+                        "Local support for the Conservatives, backed by Nigel Farage's Brexit Party, is in free-fall across York Outer.",
+                        "Our NHS is in crisis, with A&E waiting times at their worst after ten years of Tory underfunding and neglect."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Local support for the Conservatives, backed by Nigel Farage's Brexit Party, is in free-fall across York Outer.",
+                        "Local Lib Dem candidate Keith Aspden is the clear challenger to the Conservatives."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "A Liberal Democrat government will stop Brexit and build a brighter future.",
+                        "Our NHS is in crisis, with A&E waiting times at their worst after ten years of Tory underfunding and neglect."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Millions of Tories will now vote Lib Dem because of Brexit."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Local support for the Conservatives, backed by Nigel Farage's Brexit Party, is in free-fall across York Outer."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Our NHS is in crisis, with A&E waiting times at their worst after ten years of Tory underfunding and neglect."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Nigel Farage's Brexit Party"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

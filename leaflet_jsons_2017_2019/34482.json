@@ -1,0 +1,184 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Scottish Conservative and Unionist",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Important Information",
+                "content": "On Thursday, you will decide whether or not there is another independence referendum. There\u2019s only one way to stop it."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Corbyn could back new indyref 'as early as 2021'",
+            "partyLeader": "SNP election win would be 'instruction for indyref2,' says Sturgeon",
+            "tacticalSituation": "10 days to save union"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "SNP election win would be 'instruction for indyref2,' says Sturgeon",
+                "source": "Scotsman",
+                "date": "Nov 2019"
+            },
+            {
+                "text": "Corbyn could back new indyref 'as early as 2021'",
+                "source": "Scotsman",
+                "date": "Oct 2019"
+            },
+            {
+                "text": "Labour last night declared it would not block a second Scottish independence referendum",
+                "source": "Daily Mail",
+                "date": "Aug 2019"
+            },
+            {
+                "text": "Nicola Sturgeon will back Jeremy Corbyn if he agrees to Scottish referendum",
+                "source": "The Metro",
+                "date": "9 Nov 2019"
+            },
+            {
+                "text": "10 Days to Save Union",
+                "source": "Scottish Daily Mail",
+                "date": "2 Dec 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": []
+        },
+        "additionalNotes": "Don't let Scotland sleepwalk into Indyref2",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "SNP election win would be 'instruction for indyref2,' says Sturgeon",
+                        "Corbyn could back new indyref 'as early as 2021'",
+                        "Labour last night declared it would not block a second Scottish independence referendum",
+                        "Nicola Sturgeon will back Jeremy Corbyn if he agrees to Scottish referendum",
+                        "10 Days to Save Union"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 5,
+                    "examples": [
+                        "SNP election win would be 'instruction for indyref2,' says Sturgeon",
+                        "Corbyn could back new indyref 'as early as 2021'",
+                        "Labour last night declared it would not block a second Scottish independence referendum",
+                        "Nicola Sturgeon will back Jeremy Corbyn if he agrees to Scottish referendum",
+                        "10 Days to Save Union"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Corbyn could back new indyref 'as early as 2021'"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Corbyn could back new indyref 'as early as 2021'"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

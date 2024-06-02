@@ -1,0 +1,143 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Aberdeen North",
+        "politicalParty": "Scottish Green Party",
+        "electionDate": "Thursday, December 12",
+        "messages": [
+            {
+                "title": "DEMAND CLIMATE ACTION!",
+                "content": "The clearest and loudest way you can demand urgent action on the climate emergency is by voting Scottish Greens on December 12"
+            },
+            {
+                "title": "A GREEN VOTE IS URGENT",
+                "content": "The climate is breaking down. This is an unprecedented global emergency and climate scientists are clear that we have just a decade left to radically cut emissions"
+            },
+            {
+                "title": "THE GREENS HAVE A PLAN",
+                "content": "Our Scottish Green New Deal would transform the economy, create hundreds of thousands of jobs in green industries, and slash emissions"
+            },
+            {
+                "title": "A GREEN VOTE SENDS A MESSAGE",
+                "content": "The other parties think that rhetoric and eye-catching targets are enough to get the green vote. They need to see that people demand action"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Climate Action",
+                "policyDescription": "Urgent need to cut emissions and address the global climate emergency"
+            },
+            {
+                "policyTitle": "Scottish Green New Deal",
+                "policyDescription": "Transform the economy with green jobs and industries"
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Transform the economy with green jobs and industries",
+            "education": "",
+            "environment": "Urgent need to cut emissions and address the global climate emergency",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "Create hundreds of thousands of jobs in green industries",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {},
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": []
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": []
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "The clearest and loudest way you can demand urgent action on the climate emergency is by voting Scottish Greens on December 12",
+                        "The climate is breaking down. This is an unprecedented global emergency and climate scientists are clear that we have just a decade left to radically cut emissions",
+                        "Our Scottish Green New Deal would transform the economy, create hundreds of thousands of jobs in green industries, and slash emissions",
+                        "The other parties think that rhetoric and eye-catching targets are enough to get the green vote. They need to see that people demand action"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": []
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Urgent need to cut emissions and address the global climate emergency",
+                        "Transform the economy with green jobs and industries"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

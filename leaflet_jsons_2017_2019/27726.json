@@ -1,0 +1,185 @@
+{
+    "leaflet": {
+        "candidateName": "Chris Williamson",
+        "candidateGender": "",
+        "constituency": "Derby North",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "Winning Back the Future for Derby North",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Labour pledges investment in our NHS services and its staff."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "A million new homes to be built in five years."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Labour would ensure equal education opportunities for all children."
+            }
+        ],
+        "mentions": {
+            "candidate": "Chris Williamson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Labour would ensure equal education opportunities for all children, creating a unified school system for primary and secondary education.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Labour pledges investment in our NHS services and its staff.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "A million new homes to be built in five years.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Labour candidate",
+                "duration": "40 years",
+                "achievements": "Represented the people of Derby North in parliament."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.derbylabourparty.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@votechriser",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Joe Russo",
+                "endorsement": "Chris has dedicated over 40 years of his life to fight for Derby... He has represented the interests of ordinary people."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Winning Back the Future for Derby North"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Labour pledges investment in our NHS services and its staff.",
+                        "A million new homes to be built in five years."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Labour would ensure equal education opportunities for all children."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Chris Williamson's dedication to Derby."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Labour pledges investment in our NHS services and its staff.",
+                        "A million new homes to be built in five years."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Chris has dedicated over 40 years to fight for Derby.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Chris has dedicated over 40 years of his life to fight for Derby... He has represented the interests of ordinary people."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Chris Williamson's dedication to Derby."
+                ]
+            }
+        }
+    }
+}

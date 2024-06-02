@@ -1,0 +1,130 @@
+{
+    "leaflet": {
+        "candidateName": "Ade Aibinu",
+        "candidateGender": "",
+        "constituency": "Glasgow North West",
+        "politicalParty": "Scottish Conservative & Unionist",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Ade Aibinu who will stand firm against IndyRef2"
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Ade Aibinu",
+            "otherPartyLeaderCandidate": "Nicola Sturgeon",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {},
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Conservative Office, 570 Mosspark Boulevard, Glasgow G52 1SD.",
+            "phone": "0141 882 5916",
+            "email": "ade4glasgownw@gmail.com",
+            "website": "",
+            "socialMedia": {}
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Only the Scottish Conservatives are strong enough to take on the SNP"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "SNP 36.9%, CON 28.6%, Lab 27.1%, LibDem 6.8%"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Ade Aibinu who will stand firm against IndyRef2",
+                        "Only the Scottish Conservatives are strong enough to take on the SNP"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Nicola Sturgeon\u2019s SNP candidate and another independence referendum"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Nicola Sturgeon\u2019s SNP candidate and another independence referendum"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Nicola Sturgeon"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "leaflet": {
+        "candidateName": "Chloe Smith",
+        "candidateGender": "",
+        "constituency": "Norwich North",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Chloe's pledge to you",
+                "content": "Chloe has years of experience serving you as Norwich North's MP and has helped thousands of people. She gets things done across Norwich North."
+            },
+            {
+                "title": "Investment in Norwich",
+                "content": "Chloe gets results. She's led the battle for better rail, securing \u00a314 million for better services to London. This investment will mean three new trains an hour from Norwich."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Making Brexit a success is central to our national interest. With a strong negotiating hand, I can deliver for you and for Britain."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Build a stronger economy that rewards people who work hard and creates secure and well-paid jobs."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Provide real opportunity and support for all. Fix the mental health system and ensure better life chances for everyone."
+            }
+        ],
+        "mentions": {
+            "candidate": "Chloe Smith",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Making Brexit a success is central to our national interest.",
+            "defence": "",
+            "economy": "Build a stronger economy that rewards people who work hard and creates secure and well-paid jobs.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Provide real opportunity and support for all. Fix the mental health system and ensure better life chances for everyone.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Chloe gets results. She's led the battle for better rail, securing \u00a314 million for better services to London.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Fix mental health system and ensure better life chances for everyone.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP for Norwich North",
+                "duration": "",
+                "achievements": "Has helped thousands of people. She gets things done across Norwich North."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "01603 414774",
+            "email": "chloe@chloesmith.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "fb.com/chloesmithnorwichnorth",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "She\u2019s led the battle for better rail, securing \u00a314 million for better services to London."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Chloe has years of experience serving you as Norwich North's MP and has helped thousands of people.",
+                        "Build a stronger economy that rewards people who work hard and creates secure and well-paid jobs."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 3,
+                "candidateAlone": 0,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Chloe gets results. She's led the battle for better rail, securing \u00a314 million for better services to London.",
+                        "She gets things done across Norwich North."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Making Brexit a success is central to our national interest."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Chloe has years of experience serving you as Norwich North's MP and has helped thousands of people.",
+                    "issueRelated": "Personal experience and dedication."
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "She gets things done across Norwich North.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "She\u2019s led the battle for better rail, securing \u00a314 million for better services to London."
+                ]
+            }
+        }
+    }
+}

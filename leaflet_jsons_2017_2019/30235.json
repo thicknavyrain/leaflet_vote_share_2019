@@ -1,0 +1,187 @@
+{
+    "leaflet": {
+        "candidateName": "Sarah Newton",
+        "candidateGender": "",
+        "constituency": "Truro and Falmouth",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Standing Up for Britain",
+                "content": "Sarah Newton and Theresa May standing up for Britain"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "School Funding",
+                "policyDescription": "We will increase the schools budget by \u00a34bn by 2022. More than a real terms increase per pupil. Every child in Falmouth will get a quality education."
+            },
+            {
+                "policyTitle": "Sepsis",
+                "policyDescription": "Working with Ron Daniels of the UK Sepsis Trust. Set up the Parliamentary Group for Sepsis. Supported by the Sepsis Trust, the NHS and my constituent Melissa Mead."
+            }
+        ],
+        "mentions": {
+            "candidate": "Sarah Newton",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "We will increase the schools budget by \u00a34bn by 2022. More than a real terms increase per pupil. Every child in Falmouth will get a quality education.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Working with Ron Daniels of the UK Sepsis Trust.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "About four years ago I started doing volunteer work at the Pondhead at Highworth. Sarah supported the project and brought people into the community.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "01872 510487",
+            "email": "sarah@sarahnewton.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "/SarahNewtonTandF",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Maddy Maguire, Truro",
+                "endorsement": "When I first moved here to attend university, Sarah helped me overcome the difficulties I experienced with accommodation. I have now settled here, and happily recommend Sarah to continue as our MP."
+            },
+            {
+                "endorser": "Met Sondall",
+                "endorsement": "About four years ago I started doing volunteer work at the Pondhead at Highworth. Sarah supported the project and brought people into the community. I always find it hard to believe how many things she does - she's always been a very active MP in Cornwall."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Sarah Setting the Record Straight on School Funding"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "We will increase the schools budget by \u00a34bn by 2022.",
+                        "More than a real terms increase per pupil."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Every child in Falmouth will get a quality education.",
+                        "When I first moved here to attend university, Sarah helped me overcome the difficulties I experienced with accommodation."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 3,
+                "candidateAlone": 0,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Every child in Falmouth will get a quality education.",
+                        "Sarah supported the project and brought people into the community."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "We will increase the schools budget by \u00a34bn by 2022."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "When I first moved here to attend university, Sarah helped me overcome the difficulties I experienced with accommodation.",
+                    "issueRelated": "housing"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "When I first moved here to attend university, Sarah helped me overcome the difficulties I experienced with accommodation.",
+                    "About four years ago I started doing volunteer work at the Pondhead at Highworth. Sarah supported the project and brought people into the community."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "When I first moved here to attend university, Sarah helped me overcome the difficulties I experienced with accommodation."
+                ]
+            }
+        }
+    }
+}

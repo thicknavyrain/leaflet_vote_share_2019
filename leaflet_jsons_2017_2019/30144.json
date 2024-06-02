@@ -1,0 +1,182 @@
+{
+    "leaflet": {
+        "candidateName": "Daniel Jellyman",
+        "candidateGender": "",
+        "constituency": "Stoke Central",
+        "politicalParty": "",
+        "electionDate": "8 June",
+        "messages": [
+            {
+                "title": "Backing Brexit in Stoke-On-Trent",
+                "content": "Local lad Daniel Jellyman has been selected to stand for Parliament in Stoke Central. Daniel voted for Brexit in the referendum and believes we now need to back Theresa May\u2019s strong, stable, leadership."
+            },
+            {
+                "title": "Building Aspiration in Our Young People",
+                "content": "Daniel Jellyman wants to help build the aspiration of our local young people across Stoke-on-Trent."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Backing Brexit",
+                "policyDescription": "Back Theresa May\u2019s strong, stable, leadership."
+            },
+            {
+                "policyTitle": "Building Aspiration",
+                "policyDescription": "Help build the aspiration of local young people."
+            }
+        ],
+        "mentions": {
+            "candidate": "Daniel Jellyman",
+            "otherPartyLeaderCandidate": "decades of continuous Labour representation",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Daniel voted for Brexit in the referendum. Local lad Daniel Jellyman has been selected to stand for Parliament in Stoke Central.",
+            "defence": "",
+            "economy": "",
+            "education": "Daniel wants to help build the aspiration of our local young people across Stoke-on-Trent. My family worked in education, my mum is a former teacher at the Mitchell High School. Daniel Jellyman outside Stoke Sixth Form, where he attended.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "I will seek to help young people across our city realise the possibilities and potential there is out there. Working with local businesses, schools, colleges and universities.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Working for all of Stoke-on-Trent.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I am born and bred in Stoke-on-Trent. I was educated, grew up and made my home here. I have worked in local government focused on fixing the city's infrastructure.",
+        "politicalExperience": [
+            {
+                "role": "Local government",
+                "duration": "",
+                "achievements": "Focused on fixing the city's infrastructure."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Daniel established his own pottery business locally & ran it for three years."
+                },
+                {
+                    "caption": "Daniel Jellyman outside Stoke Sixth Form, where he attended."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "My family worked in education, my mum is a former teacher at the Mitchell High School.",
+                        "I am born and bred in Stoke-on-Trent."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 2,
+                "candidateAlone": 2,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Daniel Jellyman wants to help build the aspiration of our local young people across Stoke-on-Trent."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Daniel voted for Brexit in the referendum and believes we now need to back Theresa May\u2019s strong, stable, leadership."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I am born and bred in Stoke-on-Trent. I was educated, grew up and made my home here.",
+                    "issueRelated": "localness"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "I have seen at first hand what decades of continuous Labour representation has given Stoke-on-Trent. Nothing."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I am born and bred in Stoke-on-Trent.",
+                "employment": "",
+                "education": "My family worked in education, my mum is a former teacher at the Mitchell High School.",
+                "family": "My family worked in education."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I am born and bred in Stoke-on-Trent."
+                ]
+            }
+        }
+    }
+}

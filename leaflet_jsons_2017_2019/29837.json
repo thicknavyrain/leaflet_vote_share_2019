@@ -1,0 +1,177 @@
+{
+    "leaflet": {
+        "candidateName": "Barry Gardiner",
+        "candidateGender": "",
+        "constituency": "Brent North",
+        "politicalParty": "Labour",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Can you see into the future? Does it look like the future you want?",
+                "content": "The Tories are so scared of the future they want to take you back to the past! A past where hard times is increasingly imposed on ordinary working people. Don't let them. Vote for the Future \u2013 Vote For YOUR Future. Vote Labour."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Partnership or Isolation",
+                "policyDescription": "Will Britain thrive through a sensible agreement to continue trading with the EU (including EU customs) as part of a wider strategic economic plan with Europe?"
+            },
+            {
+                "policyTitle": "Decent Wage in Fair Economy",
+                "policyDescription": "Vote for decent pay, fight for workers' rights, and support a budget that gives decent pay and pension."
+            },
+            {
+                "policyTitle": "Health & Security",
+                "policyDescription": "Fix the NHS, fight for justice for elderly and vulnerable."
+            }
+        ],
+        "mentions": {
+            "candidate": "Barry Gardiner",
+            "otherPartyLeaderCandidate": "The Tories",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Will a hard right-wing Brexit damage our UK economy?",
+            "defence": "",
+            "economy": "Vote to teach zero-hour contracts, pay our nurses better, ensure a real living wage, provide fair economy.",
+            "education": "Schools are still closing in Britain. Save them, protect our children and build their future.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The NHS is breaking up. Break-up of the NHS into the hands of multinational companies leaves people paying out of pocket for treatment in a privatised system.",
+            "immigration": "",
+            "labourEmployment": "Tories cut budgets and fail to give teachers a real pay rise, as teachers struggle to make ends meet.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Fight for security and dignity in old age to ensure elderly have proper care and pensions.",
+            "community": [
+                {
+                    "content": "Vote for the keys to a home and family. A past where people can't afford to get home or start a family.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.labourgr.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "taxes 87 billion in Tory island economy"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Do you see a home and family?",
+                        "Vote for the future.",
+                        "Vote for your future."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 6,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "fight for security and dignity in old age"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "NHS failing",
+                        "schools closing",
+                        "hard right-wing Brexit"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "A past where people can't afford to get home or start a family.",
+                    "issueRelated": "housing"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Tories cutting policies",
+                        "Tories not helping schoolchildren"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

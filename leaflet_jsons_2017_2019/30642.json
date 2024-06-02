@@ -1,0 +1,159 @@
+{
+    "leaflet": {
+        "candidateName": "James Blanchard",
+        "candidateGender": "",
+        "constituency": "York Outer",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "It's Lib Dem or Conservative in York Outer THIS THURSDAY",
+                "content": ""
+            },
+            {
+                "title": "IMPORTANT - Things to remember this Thursday.",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Health Service",
+                "policyDescription": "Adding an extra 1p to income tax to raise an extra \u00a36bn a year for NHS"
+            },
+            {
+                "policyTitle": "Education and Pensions",
+                "policyDescription": "Investing in services; protecting education and pensions"
+            },
+            {
+                "policyTitle": "Market and Jobs",
+                "policyDescription": "Protecting our Single Market membership and local jobs"
+            }
+        ],
+        "mentions": {
+            "candidate": "Local James Blanchard",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "It's Lib Dem or Conservative in York Outer"
+        },
+        "issues": {
+            "brexitEurope": "A damaging Hard Brexit, ripping us out of the Single Market.",
+            "defence": "",
+            "economy": "",
+            "education": "Investing in services; protecting education and pensions.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Adding an extra 1p to income tax to raise an extra \u00a36bn a year for NHS. Putting the NHS at risk and failing to protect our health services.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Adding an extra 1p to income tax to raise an extra \u00a36bn a year for NHS"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "It's Lib Dem or Conservative in York Outer",
+                        "Putting the NHS at risk and failing to protect our health services.",
+                        "A damaging Hard Brexit, ripping us out of the Single Market."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": []
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Adding an extra 1p to income tax to raise an extra \u00a36bn a year for NHS",
+                        "Investing in services; protecting education and pensions.",
+                        "A damaging Hard Brexit, ripping us out of the Single Market."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Putting the NHS at risk and failing to protect our health services.",
+                        "A damaging Hard Brexit, ripping us out of the Single Market."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Local James Blanchard",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Local James Blanchard"
+                ]
+            }
+        }
+    }
+}

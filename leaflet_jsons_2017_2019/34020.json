@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "Ben Sims",
+        "candidateGender": "",
+        "constituency": "Leyton and Wanstead",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Stop Brexit",
+                "content": "This election is your chance to stop Brexit. Build a brighter future."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "A Liberal Democrat government led by Jo Swinson will stop Brexit on day one and get on with the job of improving people's lives."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ben Sims",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "This election is your chance to stop Brexit.",
+            "defence": "",
+            "economy": "The Conservatives want to force through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "2, de Mandeville Avenue, London, E17 8AZ",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Ben Sims with the Houses of Parliament in the background"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": []
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "This election is your chance to stop Brexit.",
+                        "Build a brighter future.",
+                        "The Conservatives want to force through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom.",
+                        "Who knows where Jeremy Corbyn stands on Brexit?"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": []
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Stop Brexit.",
+                        "The Conservatives want to force through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom.",
+                        "A Liberal Democrat government led by Jo Swinson will stop Brexit on day one and get on with the job of improving people's lives."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives want to force through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Who knows where Jeremy Corbyn stands on Brexit?"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Who knows where Jeremy Corbyn stands on Brexit? Labour now say they want to negotiate their own Brexit deal."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

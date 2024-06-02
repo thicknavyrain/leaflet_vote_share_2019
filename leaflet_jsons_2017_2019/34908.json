@@ -1,0 +1,197 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Scottish Conservative and Unionist",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "The Facts",
+                "content": "1. Nicola Sturgeon has said she will count every vote for her at this election as a vote for another independence referendum - and she says she wants to hold that referendum as early as next year.\n2. Jeremy Corbyn has said he won't stand in the way of another independence referendum and the LibDem leader has refused to rule out working with Labour.\n3. So it's clear - everyone who wants to stop another independence referendum being held needs to lend their vote to the Scottish Conservatives at this election. There's no other way to stop Indyref2 - and this could be our last chance."
+            },
+            {
+                "title": "Make Her Listen!",
+                "content": "Stop Indyref2"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Indyref2",
+                "policyDescription": "The Scottish Conservatives are against holding another independence referendum."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Nicola Sturgeon, Jeremy Corbyn, LibDem leader",
+            "partyLeader": "",
+            "tacticalSituation": "Everyone who wants to stop another independence referendum being held needs to lend their vote to the Scottish Conservatives at this election. There's no other way to stop Indyref2 - and this could be our last chance."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.conservatives.com/privacy",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Scotsman",
+                "endorsement": "SNP election win would be 'instruction' for indyref2, says Sturgeon."
+            },
+            {
+                "endorser": "Scotsman",
+                "endorsement": "Corbyn could back new indyref 'as early as 2021'."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "SNP election win would be 'instruction' for indyref2, says Sturgeon.",
+                "source": "Scotsman",
+                "date": "Nov 2019"
+            },
+            {
+                "text": "Corbyn could back new indyref 'as early as 2021'.",
+                "source": "Scotsman",
+                "date": "Oct 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Make Her Listen! Stop Indyref2"
+                },
+                {
+                    "caption": "Jeremy Corbyn"
+                },
+                {
+                    "caption": "Nicola Sturgeon"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "SNP election win would be 'instruction' for indyref2, says Sturgeon.",
+                        "Corbyn could back new indyref 'as early as 2021'."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Everyone who wants to stop another independence referendum being held needs to lend their vote to the Scottish Conservatives at this election. There's no other way to stop Indyref2 - and this could be our last chance."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "SNP election win would be 'instruction' for indyref2, says Sturgeon."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "SNP election win would be 'instruction' for indyref2, says Sturgeon.",
+                    "Corbyn could back new indyref 'as early as 2021'."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Everyone who wants to stop another independence referendum being held needs to lend their vote to the Scottish Conservatives at this election. There's no other way to stop Indyref2 - and this could be our last chance."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Nicola Sturgeon has said she will count every vote for her at this election as a vote for another independence referendum - and she says she wants to hold that referendum as early as next year."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn has said he won't stand in the way of another independence referendum and the LibDem leader has refused to rule out working with Labour."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

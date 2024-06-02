@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "Andy Slaughter",
+        "candidateGender": "",
+        "constituency": "Hammersmith",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "RE-ELECT ANDY SLAUGHTER",
+                "content": "I'm Andy Slaughter, Labour candidate for Hammersmith. I have worked hard for people in Shepherds Bush, Hammersmith and Fulham for over 30 years. Re-elect me if you want a public vote on Brexit and to remain in the EU. Together, we saved Charing Cross Hospital. Now, after 10 years of Conservative austerity, we need to invest in our NHS, schools and police. We must build more affordable homes. We must make the UK carbon neutral by 2030. Only Labour can stop the Conservatives in Hammersmith. Vote for me on 12 December."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Public Vote on Brexit",
+                "policyDescription": "Re-elect me if you want a public vote on Brexit and to remain in the EU."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Together, we saved Charing Cross Hospital. Now, after 10 years of Conservative austerity, we need to invest in our NHS."
+            },
+            {
+                "policyTitle": "Affordable Homes",
+                "policyDescription": "We must build more affordable homes."
+            },
+            {
+                "policyTitle": "Carbon Neutrality",
+                "policyDescription": "We must make the UK carbon neutral by 2030."
+            }
+        ],
+        "mentions": {
+            "candidate": "Andy Slaughter",
+            "otherPartyLeaderCandidate": "No specific individual mentioned",
+            "partyLeader": "",
+            "tacticalSituation": "Two years ago, the Lib Dems won only 5% of the vote in Hammersmith, the Greens less than 2%. Only Labour can stop the Conservatives in Hammersmith."
+        },
+        "issues": {
+            "brexitEurope": "Public vote on Brexit and to remain in the EU.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "We must make the UK carbon neutral by 2030.",
+            "governance": "",
+            "government": "",
+            "health": "Together, we saved Charing Cross Hospital. Now, after 10 years of Conservative austerity, we need to invest in our NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "We must build more affordable homes.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I'm Andy Slaughter, Labour candidate for Hammersmith. I have worked hard for people in Shepherds Bush, Hammersmith and Fulham for over 30 years.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "28 Greyhound Road, London, W6 8NX",
+            "phone": "020 7610 1950",
+            "email": "andy@andyslaughter.com",
+            "website": "www.andyslaughter.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Andy Slaughter"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 4,
+                    "examples": [
+                        "97% of our schools have had their funding cut since 2015",
+                        "Police numbers are down a third since 2010",
+                        "A Brexit deal that will leave us \u00a370 billion poorer",
+                        "Rough sleeping up 165% since 2010"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "The Conservatives have failed Hammersmith",
+                        "Only Labour can stop the Conservatives in Hammersmith."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "97% of our schools have had their funding cut since 2015",
+                        "Police numbers are down a third since 2010",
+                        "Charing Cross and Hammersmith Hospitals have a \u00a3500 million backlog of repairs",
+                        "Together, we saved Charing Cross Hospital."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "A Brexit deal that will leave us \u00a370 billion poorer",
+                        "40,000 people a year dying because of polluted air",
+                        "Rough sleeping up 165% since 2010"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 3,
+                    "examples": [
+                        "97% of our schools have had their funding cut since 2015",
+                        "Police numbers are down a third since 2010",
+                        "Charing Cross and Hammersmith Hospitals have a \u00a3500 million backlog of repairs"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "A Brexit deal that will leave us \u00a370 billion poorer"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I have worked hard for people in Shepherds Bush, Hammersmith and Fulham for over 30 years.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I have worked hard for people in Shepherds Bush, Hammersmith and Fulham for over 30 years."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "York Outer",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "It's Official: Voting Labour here only helps him win",
+                "content": "Here's why independent Best for Britain is recommending you vote Liberal Democrat in York Outer:"
+            },
+            {
+                "title": "Make sure your vote counts",
+                "content": "Back the Liberal Democrats"
+            },
+            {
+                "title": "Your vote will make the difference...",
+                "content": "A pro-European candidate can win here in York Outer if you vote for them"
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "Voting Labour in York Outer splits the anti-Tory Remain vote and risks letting Boris Johnson's candidate win."
+        },
+        "issues": {
+            "brexitEurope": "The Lib Dems are unequivocal remainers who want to stop Brexit from happening.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "The Guardian",
+                "endorsement": "The Lib Dems are unequivocal remainers who want to stop Brexit from happening."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Labour have no Councillors in York Outer."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Voting Labour in York Outer splits the anti-Tory Remain vote and risks letting Boris Johnson's candidate win.",
+                        "A pro-European candidate can win here in York Outer if you vote for them"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The Lib Dems are unequivocal remainers who want to stop Brexit from happening."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "The Guardian: The Lib Dems are unequivocal remainers who want to stop Brexit from happening."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Labour finished far behind the Liberal Democrats in the local and European elections in York.",
+                        "Voting Labour in York Outer splits the anti-Tory Remain vote and risks letting Boris Johnson's candidate win."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Voting Labour in York Outer splits the anti-Tory Remain vote and risks letting Boris Johnson's candidate win."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

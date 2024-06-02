@@ -1,0 +1,196 @@
+{
+    "leaflet": {
+        "candidateName": "Dr Wendy Taylor",
+        "candidateGender": "Female",
+        "constituency": "Newcastle North",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "8th June 2017",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Investment in mental health services, protecting the NHS from underfunding."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Investment and funding for schools; support for disadvantaged and special needs children."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Opposition to hard Brexit, advocating for staying in the Single Market to protect jobs."
+            }
+        ],
+        "mentions": {
+            "candidate": "Dr Wendy Taylor",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Nick Clegg",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Opposition to hard Brexit, staying in the Single Market.",
+            "defence": "",
+            "economy": "",
+            "education": "Investment in schools, funding for special needs education.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Investment in mental health services, protecting the NHS from underfunding.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Candidate for Newcastle North",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Anita.lowec@newcastlenorthlibdems.org.uk",
+            "phone": "0800 086 8398",
+            "email": "wendytaylor@newcastlenorthlibdems.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Nick Clegg",
+                "endorsement": "Strongly supports the campaign, emphasizing the importance of staying in the Single Market."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Keeping Britain in the Single Market to protect jobs.",
+                "source": "Dr Wendy Taylor",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Dr. Wendy Taylor with hospital staff."
+                },
+                {
+                    "caption": "Family engaging with the candidate."
+                },
+                {
+                    "caption": "Party campaign with a message of hope for Britain's future."
+                },
+                {
+                    "caption": "Retail worries and closure of shops."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Investment worth over \u00a331 million more in schools and colleges.",
+                        "Figures released in March showing a 1% rise in inflation."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Protecting the NHS from underfunding.",
+                        "Emphasizing the importance of staying in the Single Market.",
+                        "Retail worries and closure of shops."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 3,
+                "candidateAlone": 0,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Investment in local schools.",
+                        "Retail worries and closure of shops."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Opposition to hard Brexit.",
+                        "Staying in the Single Market.",
+                        "Investment in NHS and mental health services."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Dr. Wendy Taylor with hospital staff.",
+                    "issueRelated": "Healthcare"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Nick Clegg supporting the campaign."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Retail worries and closure of shops."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Hard Brexit would be disastrous."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

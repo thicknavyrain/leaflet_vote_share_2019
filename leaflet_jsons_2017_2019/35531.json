@@ -1,0 +1,150 @@
+{
+    "leaflet": {
+        "candidateName": "Steve Double",
+        "candidateGender": "",
+        "constituency": "St Austell and Newquay",
+        "politicalParty": "Conservatives",
+        "electionDate": "12th December",
+        "messages": [
+            {
+                "title": "Standing Up for St Austell and Newquay",
+                "content": "The General Election on 12th December is the most important election in a generation."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Investing in our NHS",
+                "policyDescription": "Thanks to Boris Johnson and this Conservative government we have seen the biggest ever increase in investment in our NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "I am asking you to vote for me so that I can continue to be your strong Cornish voice in Parliament.",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "\u00a320.5billion new investment in our NHS. A new Mental Health Unit for Bodmin worth \u00a35.1million.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Member of Parliament",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.stevedouble.org.uk",
+            "socialMedia": {
+                "facebook": "fb.com/stevedouble2015",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "\u00a320.5billion new investment in our NHS.",
+                        "\u00a35.1million new Mental Health Unit for Bodmin.",
+                        "\u00a345.5million for a new mother and baby unit at Treliske."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "I can continue to be your strong Cornish voice in Parliament."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 5,
+                "candidateAlone": 3,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Standing Up for St Austell and Newquay"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Investing in our NHS"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "strong Cornish voice",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "strong Cornish voice"
+                ]
+            }
+        }
+    }
+}

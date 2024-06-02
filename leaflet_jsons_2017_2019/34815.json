@@ -1,0 +1,177 @@
+{
+    "leaflet": {
+        "candidateName": "Diana Johnson",
+        "candidateGender": "",
+        "constituency": "Kingston upon Hull North",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "I'm Voting Labour",
+                "content": "\"If I'm re-elected, I will continue fighting for a fair deal for Hull: I am ambitious for our city's future. It's also time to end the divisions of recent years and move forward together.\""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Real choice in housing",
+                "policyDescription": "The Tories have slashed house-building to the lowest levels since the 1920s. Labour will build affordable homes and end homelessness."
+            },
+            {
+                "policyTitle": "Ending Food Bank Britain",
+                "policyDescription": "Labour will support working families and those in need to make sure everyone can afford to put food on the table and have a decent standard of living."
+            },
+            {
+                "policyTitle": "Hull's Green Industrial Revolution",
+                "policyDescription": "Labour will insulate homes, cutting energy bills and helping to save the planet."
+            }
+        ],
+        "mentions": {
+            "candidate": "Diana Johnson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Labour will insulate homes, cutting energy bills and helping to save the planet. Recent flooding has shown again the growing climate emergency.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "connecting the north",
+            "socialWelfare": "Labour will support working families and those in need to make sure everyone can afford to put food on the table and have a decent standard of living.",
+            "community": [
+                {
+                    "content": "Labour will build affordable homes and end homelessness.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "\"If I'm re-elected, I will continue fighting for a fair deal for Hull: I am ambitious for our city's future. It's also time to end the divisions of recent years and move forward together.\"",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "01482 319135",
+            "email": "dianajohnsonhull@gmail.com",
+            "website": "dianajohnsonhull@gmail.com",
+            "socialMedia": {
+                "facebook": "fb.me/DianaJohnsonforHullNorth",
+                "twitter": "@DianaJohnsonMP",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Amber Moore, Bricknell Ward resident",
+                "endorsement": "\"Diana's a great champion for Hull and has stood up for us in Parliament for many years. Only Labour will make Hull fairer, safer and more equal and Diana represents that better than anyone.\""
+            },
+            {
+                "endorser": "Newland and Beverley Ward resident",
+                "endorsement": "\"Diana's an excellent representative for Kingston upon Hull North and of the Labour Party. She knows what the city and its people need and I believe that she'd do a great job.\""
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                },
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Expanding free childcare, 1,000 new SureStart children's centers."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I am ambitious for our city's future.",
+                        "Only Labour will make Hull fairer, safer and more equal.",
+                        "Labour will support working families and those in need to make sure everyone can afford to put food on the table."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 3,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Supporting Hull youngsters",
+                        "Hull's Green Industrial Revolution"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Ending Food Bank Britain",
+                        "Decent housing for people in Hull",
+                        "Connecting the North"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "Amber Moore, Bricknell Ward resident: \"Diana's a great champion for Hull and has stood up for us in Parliament for many years.",
+                    "Newland and Beverley Ward resident: Diana's an excellent representative for Kingston upon Hull North and of the Labour Party."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Tories have slashed house-building to the lowest levels since the 1920s."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Diana represents Hull in Parliament and continues to be a strong voice for the people of Kingston upon Hull North."
+                ]
+            }
+        }
+    }
+}

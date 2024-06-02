@@ -1,0 +1,169 @@
+{
+    "leaflet": {
+        "candidateName": "Keith Aspden",
+        "candidateGender": "",
+        "constituency": "York Outer",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Vote Liberal Democrat for a brighter future"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Proven track record",
+                "policyDescription": "Keith worked to save Yearsley Pool and secure vital local flood defences."
+            },
+            {
+                "policyTitle": "United and working hard",
+                "policyDescription": "Keith and the Lib Dems have built council homes and fought to protect the green belt."
+            },
+            {
+                "policyTitle": "Local choice",
+                "policyDescription": "Keith is the local choice \u2013 the Labour and Tory candidates don't live in our constituency."
+            }
+        ],
+        "mentions": {
+            "candidate": "Keith Aspden",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": "Only a vote for the Lib Dems can stop the Conservatives here in York Outer."
+        },
+        "issues": {
+            "brexitEurope": "They want an MP who will protect our NHS, fight for a fairer deal and give people the final say on Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "They want an MP who will protect our NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Keith worked to save Yearsley Pool and secure vital local flood defences.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Local Council Leader Keith Aspden has been selected as the Liberal Democrat candidate for York Outer. Keith is a qualified history teacher and has been a local councillor since 2003.",
+        "politicalExperience": [
+            {
+                "role": "Local Councillor",
+                "duration": "since 2003",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Right across the UK, Jo Swinson's Liberal Democrats are winning and gaining momentum."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Gained over 700 new councillors in May's local elections.",
+                        "Beat Labour and the Conservatives in May's European Elections."
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "The Lib Dem fightback is real and it's changing everything.",
+                        "They want an MP who will protect our NHS, fight for a fairer deal and give people the final say on Brexit.",
+                        "Only the Lib Dems can beat the Conservatives.",
+                        "A proven track record",
+                        "United and working hard",
+                        "The local choice"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Keith worked to save Yearsley Pool and secure vital local flood defences.",
+                        "Keith and the Lib Dems have built council homes and fought to protect the green belt.",
+                        "Keith is the local choice \u2013 the Labour and Tory candidates don't live in our constituency."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "They want an MP who will protect our NHS, fight for a fairer deal and give people the final say on Brexit.",
+                        "Beat Labour and the Conservatives in May's European Elections."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives in York voted against protecting our local libraries \u2013 a service the Lib Dems have doubled."
+                    ]
+                },
+                "nationalIssues": {},
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Keith is a local choice \u2013 the Labour and Tory candidates don't live in our constituency.",
+                "employment": "Keith is a qualified history teacher.",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Keith is a qualified history teacher and has been a local councillor since 2003."
+                ]
+            }
+        }
+    }
+}

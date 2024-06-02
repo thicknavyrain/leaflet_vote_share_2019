@@ -1,0 +1,186 @@
+{
+    "leaflet": {
+        "candidateName": "Josh Fenton-Glynn",
+        "candidateGender": "",
+        "constituency": "Calder Valley",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "A message of hope for Calder Valley",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protecting the planet for future generations",
+                "policyDescription": "Urgent action needed on the environment, Labour is the only party to tackle the climate crisis."
+            },
+            {
+                "policyTitle": "Rebuilding a health service which all can use",
+                "policyDescription": "Labour will rebuild our health service, ending privatisation and putting the NHS back in public hands."
+            },
+            {
+                "policyTitle": "Rebuilding the economy with long-term investment",
+                "policyDescription": "Labour\u2019s long-term investment will rebuild our economy, creating well-paid, highly-skilled, unionised jobs."
+            },
+            {
+                "policyTitle": "A well-run country enjoys well-run railways",
+                "policyDescription": "Labour will take the railways back into public ownership, ending the costly private railways."
+            }
+        ],
+        "mentions": {
+            "candidate": "Josh Fenton-Glynn",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "Why Labour can beat the Conservatives in Calder Valley\u2019s 53rd seat. If everyone who wants to vote Labour in the hopes that we\u2019re the party that can beat the Conservatives does vote Labour, we can create a victory."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Labour\u2019s long-term investment will rebuild our economy, creating well-paid, highly-skilled, unionised jobs.",
+            "education": "",
+            "environment": "Urgent action needed on the environment, Labour is the only party to tackle the climate crisis.",
+            "governance": "",
+            "government": "",
+            "health": "Labour will rebuild our health service, ending privatisation and putting the NHS back in public hands.",
+            "immigration": "",
+            "labourEmployment": "Labour\u2019s long-term investment will rebuild our economy, creating well-paid, highly-skilled, unionised jobs.",
+            "lawCrime": "",
+            "transport": "Labour will take the railways back into public ownership, ending the costly private railways.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "A message of hope for Calder Valley",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "My pledges to you: A fairer society, A strong local economy, An NHS to be proud of, Creating decent jobs, Fighting climate change.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "calder_labour",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Sharon Power",
+                "endorsement": "Josh Fenton-Glynn has the compassion and determination to be the MP Calder Valley deserves."
+            },
+            {
+                "endorser": "Paula Sherriff",
+                "endorsement": "Josh has boundless energy and commitment to our area."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "He works hard to labour up the headlines on good jobs, housing and transport, and doesn\u2019t let down.",
+                "source": "www.caldervalley.labour.org.uk",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Labour can beat the Conservatives in Calder Valley\u2019s 53rd seat if everyone who wants to vote Labour does."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Urgent action needed on the environment.",
+                        "Boundless energy and commitment."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "A message of hope for Calder Valley"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Protecting the planet for future generations",
+                        "Rebuilding a health service which all can use/Accident & Emergency",
+                        "A well-run country enjoys well-run railways"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Josh Fenton-Glynn has the compassion and determination to be the MP Calder Valley deserves.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "Sharon Power: Josh Fenton-Glynn has the compassion and determination to be the MP Calder Valley deserves.",
+                    "Paula Sherriff: Josh has boundless energy and commitment to our area."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Labour will take the railways back into public ownership, ending the costly private railways.",
+                        "Labour will rebuild our health service, ending privatisation and putting the NHS back in public hands."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

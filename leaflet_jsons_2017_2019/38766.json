@@ -1,0 +1,172 @@
+{
+    "leaflet": {
+        "candidateName": "Greg Marshall",
+        "candidateGender": "",
+        "constituency": "Broxtowe",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Broxtowe's local choice",
+                "content": "\"For years Broxtowe has desperately needed a local candidate committed to our communities. As we face a defining election I want to be the one to defend our NHS, tackle the climate crisis, improve our schools and bring our country together.\""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Defend our NHS",
+                "policyDescription": "Defend the NHS against cuts and privatisation."
+            },
+            {
+                "policyTitle": "Tackle the climate crisis",
+                "policyDescription": "Implement strong policies to address the climate crisis."
+            },
+            {
+                "policyTitle": "Improve our schools",
+                "policyDescription": "Ensure better funding and support for schools."
+            },
+            {
+                "policyTitle": "Bring our country together",
+                "policyDescription": "Work towards a united and cohesive community."
+            }
+        ],
+        "mentions": {
+            "candidate": "Greg Marshall",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Improve our schools.",
+            "environment": "Tackle the climate crisis.",
+            "governance": "",
+            "government": "",
+            "health": "Defend our NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Broxtowe has desperately needed a local candidate committed to our communities.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07856 812006",
+            "email": "greg4broxtowe@gmail.com",
+            "website": "www.broxtowelabour.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@greg4broxtowe",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "For the many not the few."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "For years Broxtowe has desperately needed a local candidate committed to our communities."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "For years Broxtowe has desperately needed a local candidate committed to our communities."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Defend our NHS.",
+                        "Tackle the climate crisis."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Broxtowe's local choice",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Broxtowe's local choice"
+                ]
+            }
+        }
+    }
+}

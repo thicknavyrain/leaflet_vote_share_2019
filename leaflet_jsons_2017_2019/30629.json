@@ -1,0 +1,163 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Nottingham South Constituency",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "11 days after you vote",
+                "content": "Just 11 days after you vote on Thursday, the EU wants to start Brexit negotiations with Britain. Our Prime Minister must be up to the job, and have the strongest possible hand in any negotiations."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Strong & Stable Leadership",
+                "policyDescription": "The best Brexit deal; Economic security for Britain"
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "EU wants to start Brexit negotiations 11 days after you vote",
+            "defence": "",
+            "economy": "Economic security for Britain",
+            "education": "",
+            "environment": "",
+            "governance": "Strong & Stable Leadership",
+            "government": "",
+            "health": "",
+            "immigration": "No controls on immigration",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "SNP call shots on Brexit and tax rises",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "A loss of just 6 seats will cost Theresa May her majority and create a hung parliament \u2013 and that will deliver chaos",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "A loss of just 6 seats will cost Theresa May her majority and create a hung parliament."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Turn over to reveal what local outcome your vote will deliver..."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "EU wants to start Brexit negotiations 11 days after you vote",
+                        "A loss of just 6 seats will cost Theresa May her majority and create a hung parliament",
+                        "Turn over to reveal what local outcome your vote will deliver..."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "A loss of just 6 seats will cost Theresa May her majority and create a hung parliament \u2013 and that will deliver chaos."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 3,
+                    "examples": [
+                        "It means Jeremy Corbyn as Prime Minister propped up by the Lib Dems and SNP.",
+                        "That would mean Jeremy Corbyn negotiating Brexit just 11 days after you vote.",
+                        "Jeremy Corbyn as Prime Minister propped up by the Coalition of Chaos"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

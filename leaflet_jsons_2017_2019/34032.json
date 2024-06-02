@@ -1,0 +1,191 @@
+{
+    "leaflet": {
+        "candidateName": "Colin Clark",
+        "candidateGender": "Male",
+        "constituency": "Gordon",
+        "politicalParty": "",
+        "electionDate": "Thursday, 12th December",
+        "messages": [
+            {
+                "title": "Your vote can make a difference in Gordon",
+                "content": "The SNP has successfully weaponised the biggest working issue and widened the divide between Scotland and the rest of the United Kingdom. I am fighting this. I want to represent you in parliament to achieve a better deal. To achieve this I need your vote."
+            },
+            {
+                "title": "Why we need to back Colin Clark in Gordon",
+                "content": "Only Colin Clark can beat the SNP here. Colin Clark's team have been working hard on the ground, holding street surgeries, meeting with local groups, and working with those for the good of Gordon."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "I want to represent you in parliament to achieve a better deal for the economy."
+            },
+            {
+                "policyTitle": "Governance",
+                "policyDescription": "The SNP has weaponised the biggest working issue and divided Scotland from the UK, which I oppose."
+            }
+        ],
+        "mentions": {
+            "candidate": "Colin Clark",
+            "otherPartyLeaderCandidate": "Nicola Sturgeon",
+            "partyLeader": "",
+            "tacticalSituation": "Only Colin Clark can stop the SNP here."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Achieving a better deal for the economy.",
+            "education": "",
+            "environment": "",
+            "governance": "The SNP has successfully weaponised the biggest working issue and widened the divide between Scotland and the rest of the United Kingdom.",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Colin Clark's team has been working with local groups for the good of Gordon.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Parliamentary candidate",
+                "duration": "Current",
+                "achievements": "Holding street surgeries, meeting with local groups, and working for the good of Gordon."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "07500000000",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "Colin_Clark",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": "Colin Clark's team have been working hard on the ground for the good of Gordon."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Only Colin Clark can stop the SNP here.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Colin Clark engaging with the community."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Con - 40.7%, SNP - 35.6%, Lab - 14%, Lib Dems - 10%"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "I want to represent you in parliament to achieve a better deal for the economy.",
+                        "The SNP has successfully weaponised the biggest working issue and widened the divide between Scotland and the rest of the United Kingdom."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 2,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "I want to represent you in parliament to achieve a better deal for the economy.",
+                        "Colin Clark's team have been working hard on the ground for the good of Gordon."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The SNP has successfully weaponised the biggest working issue and widened the divide between Scotland and the rest of the United Kingdom."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Colin Clark's team has been working hard for the good of Gordon, holding street surgeries, and meeting with local groups.",
+                    "issueRelated": "Community development and outreach."
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Colin Clark's team has been working hard for the good of Gordon."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Colin Clark's team has been working hard for the good of Gordon, while SNP candidates have not."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The SNP has successfully weaponised the biggest working issue and widened the divide between Scotland and the rest of the United Kingdom."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Nicola Sturgeon"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Nicola Sturgeon"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Colin Clark's team has been working hard on the ground for the good of Gordon.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Colin Clark's team has been working hard on the ground for the good of Gordon."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "Tom Hunt",
+        "candidateGender": "",
+        "constituency": "Ipswich",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "We called to see you today",
+                "content": "Tom Hunt, A strong local voice for Ipswich"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Tougher sentences and more police on our streets",
+                "policyDescription": "Campaign for tougher sentencing and more police on the streets of Ipswich."
+            },
+            {
+                "policyTitle": "Improvements to roads and rail infrastructure",
+                "policyDescription": "Ensure our roads and train services get the significant investment they need."
+            },
+            {
+                "policyTitle": "More GPs and continuing investment into Ipswich Hospital",
+                "policyDescription": "Support our NHS services to ensure everyone can see a GP when they need to."
+            },
+            {
+                "policyTitle": "Secure up to \u00a325 million additional funding for the town centre",
+                "policyDescription": "Secure up to \u00a325 million additional funding for the town centre."
+            },
+            {
+                "policyTitle": "Local homes for local people",
+                "policyDescription": "Ensure Ipswich residents have priority for council houses."
+            },
+            {
+                "policyTitle": "Ensure greater provision of apprenticeships for young people",
+                "policyDescription": "Ensure greater provision of apprenticeships for young people."
+            }
+        ],
+        "mentions": {
+            "candidate": "Tom Hunt",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "More GPs and continuing investment into Ipswich Hospital.",
+            "immigration": "",
+            "labourEmployment": "Ensure greater provision of apprenticeships for young people.",
+            "lawCrime": "Tougher sentences and more police on our streets.",
+            "transport": "Improvements to roads and rail infrastructure.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Local homes for local people. Ensure Ipswich residents have priority for council houses.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "tom@tom4ipswich.com",
+            "website": "www.tom4ipswich.com",
+            "socialMedia": {
+                "facebook": "facebook.com/tom4ipswich",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Secure up to \u00a325 million additional funding for the town centre."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Campaign for tougher sentencing and more police on the streets of Ipswich.",
+                        "Ensure our roads and train services get the significant investment they need.",
+                        "Support our NHS services to ensure everyone can see a GP when they need to.",
+                        "Ensure Ipswich residents have priority for council houses.",
+                        "Ensure greater provision of apprenticeships for young people."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 6,
+                    "examples": [
+                        "Campaign for tougher sentencing and more police on the streets of Ipswich.",
+                        "Ensure our roads and train services get the significant investment they need.",
+                        "Support our NHS services to ensure everyone can see a GP when they need to.",
+                        "Secure up to \u00a325 million additional funding for the town centre.",
+                        "Ensure Ipswich residents have priority for council houses.",
+                        "Ensure greater provision of apprenticeships for young people."
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "A strong local voice for Ipswich"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "leaflet": {
+        "candidateName": "Paul Edgeworth",
+        "candidateGender": "",
+        "constituency": "Sunderland",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "Thursday 12th December",
+        "messages": [
+            {
+                "title": "Labour MP does nowt & should be kicked out",
+                "content": "Lifelong Labour supporters are turning their back on the party and are switching to the local Liberal Democrats this time. Local Lib Dem campaigner Paul Edgeworth said: 'For decades Sunderland has been let down by neglect and complacency by Labour MPs & Labour councillors in charge of Sunderland Council. We deserve better and the Liberal Democrats demand better. We never hear from the Labour MP around here. She never knocks on doors to find out what local people are concerned about. She never runs campaigns to improve our area. She never stands up to Labour-run Sunderland Council\u2019s bad decisions and stupid spending. She\u2019s been allowed to get away with these failures and has done nothing for far too long.'"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Local Services",
+                "policyDescription": "Fighting to save vital services such as street cleaning, regular bin collections and lollipop men and women."
+            },
+            {
+                "policyTitle": "Stop Wasteful Spending",
+                "policyDescription": "Campaigning to stop shameful wasteful spending by Labour-run Sunderland Council."
+            }
+        ],
+        "mentions": {
+            "candidate": "Paul Edgeworth",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Involved in local cleanup campaigns across Wearside, fighting to save vital services including street cleaning, regular bin collections and lollipop men and women.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Local lad and Liberal Democrat campaigner for our area",
+                "duration": "",
+                "achievements": "Involved in local cleanup campaigns across Wearside, fighting to save vital services."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "For decades Sunderland has been let down by neglect and complacency by Labour MPs & Labour councillors in charge of Sunderland Council. We deserve better and the Liberal Democrats demand better.",
+                "source": "Paul Edgeworth",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "For decades Sunderland has been let down by neglect and complacency by Labour MPs & Labour councillors in charge of Sunderland Council. We deserve better and the Liberal Democrats demand better.",
+                        "We never hear from the Labour MP around here. She never knocks on doors to find out what local people are concerned about."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 2,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Campaigning to stop shameful wasteful spending by Labour-run Sunderland Council.",
+                        "Involved in local cleanup campaigns across Wearside, fighting to save vital services including street cleaning, regular bin collections and lollipop men and women."
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "We never hear from the Labour MP around here. She never knocks on doors to find out what local people are concerned about. She never runs campaigns to improve our area. She never stands up to Labour-run Sunderland Council\u2019s bad decisions and stupid spending. She\u2019s been allowed to get away with these failures and has done nothing for far too long."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Local lad and Liberal Democrat campaigner for our area",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Local lad and Liberal Democrat campaigner for our area"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "leaflet": {
+        "candidateName": "Shaun Thomas",
+        "candidateGender": "",
+        "constituency": "Rhondda",
+        "politicalParty": "Wales Green Party",
+        "electionDate": "December 12th",
+        "messages": [
+            {
+                "title": "",
+                "content": "I grew up in Ferndale in the Rhondda Fach. I'm proud of the industrial heritage and the resilience of people in these valleys. I've seen the impacts successive governments have had on our communities and our environment."
+            },
+            {
+                "title": "",
+                "content": "As your Green MP I will be an independent voice for a fair and green new economy, creating 100,000s of jobs. We're proposing a whole new relationship with work, by piloting a four day week and a Universal Basic Income scheme. I will always stand up for public ownership of our NHS and other public services."
+            },
+            {
+                "title": "",
+                "content": "The Green Party is the only political party truly putting climate breakdown on the agenda - we won't get another chance with just 10 years left to combat climate change. We need to act now and we're not afraid to offer bold new ideas. Every Green vote counts!"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Green new economy",
+                "policyDescription": "Creating 100,000s of jobs, proposing a four day week and a Universal Basic Income scheme."
+            },
+            {
+                "policyTitle": "Climate change",
+                "policyDescription": "Putting climate breakdown on the agenda with urgency to act within the next 10 years."
+            },
+            {
+                "policyTitle": "Public ownership",
+                "policyDescription": "Stand up for public ownership of the NHS and other public services."
+            }
+        ],
+        "mentions": {
+            "candidate": "As your Green MP I will be an independent voice for a fair and green new economy",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Creating 100,000s of jobs, proposing a four day week and a Universal Basic Income scheme.",
+            "education": "",
+            "environment": "I've seen the impacts successive governments have had on our communities and our environment.",
+            "governance": "",
+            "government": "",
+            "health": "I will always stand up for public ownership of our NHS and other public services.",
+            "immigration": "",
+            "labourEmployment": "Creating 100,000s of jobs, proposing a four day week and a Universal Basic Income scheme.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Creating 100,000s of jobs, proposing a four day week and a Universal Basic Income scheme.",
+            "community": [
+                {
+                    "content": "I grew up in Ferndale in the Rhondda Fach. I'm proud of the industrial heritage and the resilience of people in these valleys.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "SHAUNTHOMAS@WALESGREENPARTY.ORG.UK",
+            "website": "CARDIFFGREENPARTY.ORG.UK",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@SHAUNTHOMAS777",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "VOTE SHAUN THOMAS"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Creating 100,000s of jobs."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "I grew up in Ferndale in the Rhondda Fach. I'm proud of the industrial heritage and the resilience of people in these valleys.",
+                        "I've seen the impacts successive governments have had on our communities and our environment."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "I grew up in Ferndale in the Rhondda Fach. I'm proud of the industrial heritage and the resilience of people in these valleys."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "I will always stand up for public ownership of our NHS and other public services.",
+                        "We need to act now and we're not afraid to offer bold new ideas. Every Green vote counts!"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I grew up in Ferndale in the Rhondda Fach.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I grew up in Ferndale in the Rhondda Fach.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I grew up in Ferndale in the Rhondda Fach."
+                ]
+            }
+        }
+    }
+}

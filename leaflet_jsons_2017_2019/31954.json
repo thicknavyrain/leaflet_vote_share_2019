@@ -1,0 +1,150 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "West Bromwich West",
+        "politicalParty": "",
+        "electionDate": "November 2019",
+        "messages": [
+            {
+                "title": "New Brexit deal agreed with EU",
+                "content": "Prime Minister Boris Johnson has secured a new Brexit deal with the EU. This deal protects jobs and trade. Protects workers' rights and environmental standards. And ends uncertainty for our economy. As the PM writes in this paper, the deal is now ready. Meaning the deal is ready to go from day one of a new parliament. So the fate of this deal rests on whether the country elects a Conservative majority government that can get Brexit done. Or another parliament that can't. For more info, see the back."
+            },
+            {
+                "title": "Brexit deal agreed and ready to go",
+                "content": "Protects jobs and trade. Ends uncertainty for our economy. Ready to go from day one of a new parliament."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "New Brexit deal agreed with EU. Protects jobs and trade. Ends uncertainty for our economy. Ready to go from day one of a new parliament."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "So the fate of this deal rests on whether the country elects a Conservative majority government that can get Brexit done. Or another parliament that can't."
+        },
+        "issues": {
+            "brexitEurope": "Prime Minister Boris Johnson has secured a new Brexit deal with the EU. This deal protects jobs and trade. Protects workers' rights and environmental standards. And ends uncertainty for our economy. As the PM writes in this paper, the deal is now ready. Meaning the deal is ready to go from day one of a new parliament.",
+            "defence": "",
+            "economy": "Protects jobs and trade. Ends uncertainty for our economy.",
+            "education": "",
+            "environment": "Protects workers' rights and environmental standards.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "The new Brexit deal protects jobs, trade and ends uncertainty."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Prime Minister Boris Johnson has secured a new Brexit deal with the EU.",
+                        "Ready to go from day one of a new parliament."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "This deal protects jobs and trade.",
+                        "Protects workers' rights and environmental standards.",
+                        "Ends uncertainty for our economy.",
+                        "As the PM writes in this paper, the deal is now ready. Meaning the deal is ready to go from day one of a new parliament."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "VOTERS IN WEST BROMWICH WEST WILL DECIDE THIS ELECTION"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The fate of this deal rests on whether the country elects a Conservative majority government that can get Brexit done."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

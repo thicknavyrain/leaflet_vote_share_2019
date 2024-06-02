@@ -1,0 +1,186 @@
+{
+    "leaflet": {
+        "candidateName": "Aaron Bell",
+        "candidateGender": "",
+        "constituency": "Newcastle",
+        "politicalParty": "Conservatives",
+        "electionDate": "12 December 2019",
+        "messages": [
+            {
+                "title": "Standing up for Newcastle",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Investing in Our Priorities",
+                "policyDescription": "We must get Brexit done so we can move on to dealing with our priorities: 20,000 more police, 50 million more GP appointments, \u00a314 billion into our schools, and reaching Net Zero by 2050."
+            }
+        ],
+        "mentions": {
+            "candidate": "Aaron Bell",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Get Brexit Done",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Reaching Net Zero by 2050",
+            "governance": "",
+            "government": "",
+            "health": "50 million more GP appointments",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "20,000 more police",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Standing up for Newcastle, Newcastle-under-Lyme, local independents back Aaron to get Brexit done",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "About Aaron",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "01782 911760",
+            "email": "campaign@newcastleconservatives.co.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Local Independents",
+                "endorsement": "Local Independents back Aaron to get Brexit done"
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Get Brexit Done",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 4,
+                    "examples": [
+                        "20,000 more police",
+                        "50 million more GP appointments",
+                        "\u00a314 billion into our schools",
+                        "Reaching Net Zero by 2050"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Get Brexit Done",
+                        "Standing up for Newcastle"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 7,
+                "candidateAlone": 3,
+                "candidateWithOthers": 4
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Standing up for Newcastle"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Get Brexit Done",
+                        "Investing in Our Priorities"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Aaron Bell, new voice for Newcastle-under-Lyme",
+                    "issueRelated": "Community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Local Independents back Aaron to get Brexit done"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Standing up for Newcastle",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Standing up for Newcastle"
+                ]
+            }
+        }
+    }
+}

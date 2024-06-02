@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "Anna Turley",
+        "candidateGender": "",
+        "constituency": "Redcar",
+        "politicalParty": "",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "I'm proud of my record: fighting back for you",
+                "content": "I\u2019ve fought tooth and nail for our community and to make sure your voice is heard in Westminster. Two years ago, you put your trust in me to serve our community as your Member of Parliament. I try to repay that trust by working hard every day to make sure your voice is heard again in Westminster. From fighting to save our steel and challenging Tory and Lib Dem cuts to our schools and hospitals, to securing investment for our town centres, I have been your local champion. You are my boss. I\u2019m asking for your support again to continue to serve you and to fight your corner."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Steelworkers",
+                "policyDescription": "Fought tooth and nail for our steelworks when the Tories closed it, and helped secure compensation for steelworkers via Community Union."
+            },
+            {
+                "policyTitle": "Medical Centre Closures",
+                "policyDescription": "Campaigned against medical centre closures and housing on our green wedge."
+            },
+            {
+                "policyTitle": "Town Centre Investment",
+                "policyDescription": "Helped secure \u00a35 million investment for our job centres."
+            },
+            {
+                "policyTitle": "Funding for Local People",
+                "policyDescription": "Won back over \u00a3200,000 for local people."
+            },
+            {
+                "policyTitle": "Armed Forces",
+                "policyDescription": "Supported our armed forces."
+            },
+            {
+                "policyTitle": "Animal Cruelty Sentences",
+                "policyDescription": "Brought forward a Bill to toughen up animal cruelty sentences."
+            },
+            {
+                "policyTitle": "Article 50",
+                "policyDescription": "Voted to trigger Article 50 after you spoke loud and clear."
+            }
+        ],
+        "mentions": {
+            "candidate": "Anna Turley",
+            "otherPartyLeaderCandidate": "Tories",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "Supported our armed forces.",
+            "economy": "",
+            "education": "",
+            "environment": "Campaigned against medical centre closures and housing on our green wedge.",
+            "governance": "",
+            "government": "Brought forward a Bill to toughen up animal cruelty sentences.",
+            "health": "Campaigned against medical centre closures.",
+            "immigration": "",
+            "labourEmployment": "Fought tooth and nail for our steelworks when the Tories closed it, and helped secure compensation for steelworkers via Community Union.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Fought tooth and nail for our steelworks when the Tories closed it, and helped secure compensation for steelworkers via Community Union.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "01642 485138",
+            "email": "anna@anna4redcar.org.uk",
+            "website": "www.anna4redcar.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Photograph: Ian Forsyth"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 4,
+                    "examples": [
+                        "Won back over \u00a3200,000 for local people.",
+                        "Helped secure \u00a35 million investment for our job centres.",
+                        "Brought forward a Bill to toughen up animal cruelty sentences.",
+                        "Voted to trigger Article 50 after you spoke loud and clear."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Fought tooth and nail for our steelworks when the Tories closed it.",
+                        "Supported our armed forces."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "Fought tooth and nail for our steelworks when the Tories closed it.",
+                        "Helped secure compensation for steelworkers via Community Union.",
+                        "Won back over \u00a3200,000 for local people.",
+                        "Helped secure \u00a35 million investment for our town centres."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Supported our armed forces.",
+                        "Voted to trigger Article 50 after you spoke loud and clear."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Fought tooth and nail for our steelworks when the Tories closed it."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

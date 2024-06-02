@@ -1,0 +1,200 @@
+{
+    "leaflet": {
+        "candidateName": "Emma Whysall",
+        "candidateGender": "",
+        "constituency": "Chipping Barnet",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fighting to remain in the EU",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Climate Emergency Action",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "A Fairer Economy",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Investment in Education",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Protecting the NHS",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Emma Whysall",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "Only labour can beat the Conservatives in Chipping Barnet"
+        },
+        "issues": {
+            "brexitEurope": "Fighting to remain in the EU",
+            "defence": "",
+            "economy": "A Fairer Economy",
+            "education": "Investment in Education",
+            "environment": "Climate Emergency Action",
+            "governance": "",
+            "government": "",
+            "health": "Protecting the NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "020 8883 6349",
+            "email": "emmaforchippingbarnet@gmail.com",
+            "website": "emmawhysall.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Only labour can beat the Conservatives in Chipping Barnet",
+                        "2017 General Election Results: Conservative: 25,679, Labour: 25,326, Liberal Democrats: 3,012, Green: 1,406"
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Only labour can beat the Conservatives in Chipping Barnet"
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "Fighting to remain in the EU",
+                        "Climate Emergency Action",
+                        "A Fairer Economy",
+                        "Investment in Education",
+                        "Protecting the NHS"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

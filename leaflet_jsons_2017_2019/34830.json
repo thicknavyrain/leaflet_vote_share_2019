@@ -1,0 +1,214 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Scottish Conservative and Unionist",
+        "electionDate": "Thursday",
+        "messages": [
+            {
+                "title": "Important Information",
+                "content": "On Thursday, you will decide whether or not there is another independence referendum. There's only one way to stop it."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Independence Referendum",
+                "policyDescription": "There is only one way to stop another independence referendum."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Corbyn, Sturgeon",
+            "partyLeader": "",
+            "tacticalSituation": "Scotland sleepwalking into indyref2"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "67 Northumberland Street, Edinburgh EH3 6JG and Castlebrae Business Centre, Peffer Place, Edinburgh, EH16 4BB",
+            "phone": "",
+            "email": "",
+            "website": "www.scottishconservatives.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Scotsman, Daily Mail, Metro",
+                "endorsement": "SNP election win would be \u2018instruction\u2019 for indyref2, says Sturgeon; Corbyn could back new indyref \u2018as early as 2021\u2019; Labour last night declared it would not block a second Scottish independence referendum; Nicola Sturgeon will back Jeremy Corbyn if he agrees to Scottish referendum; 10 DAYS TO SAVE UNION; DON\u2019T LET SCOTLAND SLEEPWALK INTO INDYREF2"
+            }
+        ],
+        "quotes": [
+            {
+                "text": "SNP election win would be \u2018instruction\u2019 for indyref2, says Sturgeon",
+                "source": "Scotsman",
+                "date": "Nov 2019"
+            },
+            {
+                "text": "Corbyn could back new indyref \u2018as early as 2021\u2019",
+                "source": "Scotsman",
+                "date": "Oct 2019"
+            },
+            {
+                "text": "Labour last night declared it would not block a second Scottish independence referendum",
+                "source": "Daily Mail",
+                "date": "Aug 2019"
+            },
+            {
+                "text": "Nicola Sturgeon will back Jeremy Corbyn if he agrees to Scottish referendum",
+                "source": "Metro",
+                "date": "Nov 2019"
+            },
+            {
+                "text": "10 DAYS TO SAVE UNION",
+                "source": "Scottish Daily Mail",
+                "date": "Dec 2019"
+            },
+            {
+                "text": "DON\u2019T LET SCOTLAND SLEEPWALK INTO INDYREF2",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "There is only one way to stop another independence referendum."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Stop Independence Referendum",
+                        "Scotland sleepwalking into indyref2"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 6,
+                "examples": [
+                    "SNP election win would be \u2018instruction\u2019 for indyref2, says Sturgeon",
+                    "Corbyn could back new indyref \u2018as early as 2021\u2019",
+                    "Labour last night declared it would not block a second Scottish independence referendum",
+                    "Nicola Sturgeon will back Jeremy Corbyn if he agrees to Scottish referendum",
+                    "10 DAYS TO SAVE UNION",
+                    "DON\u2019T LET SCOTLAND SLEEPWALK INTO INDYREF2"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Scotland sleepwalking into indyref2",
+                        "10 DAYS TO SAVE UNION"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Corbyn could back new indyref \u2018as early as 2021\u2019",
+                        "Nicola Sturgeon will back Jeremy Corbyn if he agrees to Scottish referendum"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Labour last night declared it would not block a second Scottish independence referendum"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

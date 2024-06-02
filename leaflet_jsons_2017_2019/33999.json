@@ -1,0 +1,181 @@
+{
+    "leaflet": {
+        "candidateName": "Johno Lee",
+        "candidateGender": "",
+        "constituency": "Bolton South East",
+        "politicalParty": "",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "FORMER SOLDIER AND LAD FROM FARNWORTH SELECTED AS CANDIDATE",
+                "content": "My first priority is to help Boris Johnson get a workable majority so we can get Brexit done, so we can concentrate on our NHS - getting better mental health services and fairer funding for our schools."
+            },
+            {
+                "title": "REGENERATING OUR TOWN ITS SERVICES AND HELPING THOSE WHO NEED IT MOST",
+                "content": "I'm fighting for better infrastructure for our front line services as well as for more police on our streets and better support for our Servicemen and veterans. With 40 year of Labour in Bolton it's time for change."
+            },
+            {
+                "title": "DEFENDING OUR PRECIOUS GREENBELT",
+                "content": "We must protect our precious Greenbelt and Public Spaces from inappropriate development - including the historic Hulton Park Estate and our other great Greenspaces."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Help Boris Johnson get a workable majority to get Brexit done."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Getting better mental health services and fairer funding for schools."
+            },
+            {
+                "policyTitle": "Town Regeneration",
+                "policyDescription": "Fight for better infrastructure for front line services, more police on streets, and support for Servicemen and veterans."
+            },
+            {
+                "policyTitle": "Greenbelt",
+                "policyDescription": "Protect Greenbelt and Public Spaces from inappropriate development, including historic Hulton Park Estate."
+            }
+        ],
+        "mentions": {
+            "candidate": "Johno Lee",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Help Boris Johnson get a workable majority so we can get Brexit done.",
+            "defence": "Better support for Servicemen and veterans.",
+            "economy": "",
+            "education": "Fairer funding for schools.",
+            "environment": "Protect Greenbelt and Public Spaces from inappropriate development, including historic Hulton Park Estate.",
+            "governance": "",
+            "government": "",
+            "health": "Getting better mental health services.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "More police on our streets.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Regenerating our town and its services.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Johno Lee in Farnworth"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Getting better mental health services and fairer funding for our schools.",
+                        "Fighting for better infrastructure for front line services.",
+                        "Protecting Greenbelt and Public Spaces from inappropriate development."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 3,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Fighting for better infrastructure for front line services."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Help Boris Johnson get a workable majority so we can get Brexit done."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "With 40 year of Labour in Bolton it's time for change."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Former soldier and lad from Farnworth",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Former soldier and lad from Farnworth"
+                ]
+            }
+        }
+    }
+}

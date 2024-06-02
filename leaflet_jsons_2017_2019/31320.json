@@ -1,0 +1,181 @@
+{
+    "leaflet": {
+        "candidateName": "Sam Collins",
+        "candidateGender": "female",
+        "constituency": "Sittingbourne & Sheppey",
+        "politicalParty": "Green Party",
+        "electionDate": "12th December 2019",
+        "messages": [
+            {
+                "title": "Our Priorities",
+                "content": "Action on the Climate Emergency, An Economy that Works for All, Decent Homes for Everyone, Better, Greener Transport, Free, High Quality Education, Protect our NHS, Action to improve Animal Welfare"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Action on the Climate Emergency",
+                "policyDescription": "Urgent action on the climate emergency and deliver a Green New Deal which will create a greener, fairer Britain for all."
+            },
+            {
+                "policyTitle": "An Economy that Works for All",
+                "policyDescription": "A fairer economy which works for everyone."
+            },
+            {
+                "policyTitle": "Decent Homes for Everyone",
+                "policyDescription": "Secure affordable housing for everyone."
+            },
+            {
+                "policyTitle": "Better, Greener Transport",
+                "policyDescription": "Promote better and greener transportation solutions."
+            },
+            {
+                "policyTitle": "Free, High Quality Education",
+                "policyDescription": "Provision of free, high quality education."
+            },
+            {
+                "policyTitle": "Protect our NHS",
+                "policyDescription": "Ensure the protection of the NHS."
+            },
+            {
+                "policyTitle": "Action to improve Animal Welfare",
+                "policyDescription": "Introduce measures to improve animal welfare."
+            }
+        ],
+        "mentions": {
+            "candidate": "Sam Collins",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "An Economy that Works for All. Economic justice.",
+            "education": "Free, High Quality Education.",
+            "environment": "Action on the Climate Emergency. Fairer Britain for all.",
+            "governance": "",
+            "government": "",
+            "health": "Protect our NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Better, Greener Transport.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Make a difference for my family and community. Secure affordable housing for everyone.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I just want to make a difference for my family and community. This is my home, my partner was born on the Island and my children will grow up here. I look forward to the challenges ahead. The Green Party is the way forward now; the mainstream parties continuously let us down. I am campaigning for social justice and to protect our planet from climate change.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Secure affordable housing for everyone #DECNTHOMES"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Secure affordable housing for everyone."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "I just want to make a difference for my family and community.",
+                        "I am campaigning for social justice and to protect our planet from climate change."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Make a difference for my family and community."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Urgent action on the climate emergency and deliver a Green New Deal which will create a greener, fairer Britain for all."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I just want to make a difference for my family and community. This is my home, my partner was born on the Island and my children will grow up here.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Unlike other parties, the Green Party does not accept funding from big business, the finance sector or trade unions. We do this so that we can stay independent from these agendas and act in the best interests of our community."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "The conservatives have failed Sittingbourne & Sheppey."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "This is my home, my partner was born on the Island and my children will grow up here.",
+                "employment": "",
+                "education": "",
+                "family": "My partner was born on the Island and my children will grow up here."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "This is my home, my partner was born on the Island and my children will grow up here."
+                ]
+            }
+        }
+    }
+}

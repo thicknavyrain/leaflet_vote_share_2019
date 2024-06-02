@@ -1,0 +1,188 @@
+{
+    "leaflet": {
+        "candidateName": "Keir Starmer",
+        "candidateGender": "",
+        "constituency": "Holborn and St Pancras",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Restore the NHS",
+                "policyDescription": "To restore the NHS to a properly funded, patient-centred health service."
+            },
+            {
+                "policyTitle": "Ensure excellent education",
+                "policyDescription": "To ensure excellent education for our children, supporting local schools and small class sizes across the country."
+            },
+            {
+                "policyTitle": "Provide affordable housing",
+                "policyDescription": "To provide genuinely affordable housing and action for fairer renting and rogue landlords."
+            },
+            {
+                "policyTitle": "Tackle air pollution",
+                "policyDescription": "To tackle air pollution and introduce a national framework for air quality."
+            },
+            {
+                "policyTitle": "Work with community groups",
+                "policyDescription": "To work with community groups and residents in the face of HS2."
+            }
+        ],
+        "mentions": {
+            "candidate": "Re-Elect Keir Starmer",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "To ensure excellent education for our children, supporting local schools and small class sizes across the country.",
+            "environment": "To tackle air pollution and introduce a national framework for air quality.",
+            "governance": "",
+            "government": "",
+            "health": "To restore the NHS to a properly funded, patient-centred health service.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "To work with community groups and residents in the face of HS2.",
+                    "yimbyNimby": "NA"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Labour candidate for Holborn and St Pancras",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "7 Crowndale Road, NW1 1TU",
+            "phone": "020 7388 7862",
+            "email": "keir.starmer.mp@parliament.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@Keir_Starmer",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "I'm voting Labour"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "To restore the NHS to a properly funded, patient-centred health service.",
+                        "To ensure excellent education for our children, supporting local schools and small class sizes across the country.",
+                        "To provide genuinely affordable housing and action for fairer renting and rogue landlords.",
+                        "To tackle air pollution and introduce a national framework for air quality.",
+                        "To work with community groups and residents in the face of HS2."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "To work with community groups and residents in the face of HS2."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "To restore the NHS to a properly funded, patient-centred health service.",
+                        "To ensure excellent education for our children, supporting local schools and small class sizes across the country.",
+                        "To provide genuinely affordable housing and action for fairer renting and rogue landlords.",
+                        "To tackle air pollution and introduce a national framework for air quality."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

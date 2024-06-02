@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Dr Adam Thompson",
+        "candidateGender": "",
+        "constituency": "Amber Valley",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "It's time for change in Amber Valley",
+                "content": "Amber Valley needs an MP who will work hard for local people, protect our NHS and stand up for workers\u2019 rights. The Conservatives have given us nine years of failure and it\u2019s time for change."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Protect our NHS"
+            },
+            {
+                "policyTitle": "Workers' Rights",
+                "policyDescription": "Stand up for workers' rights"
+            }
+        ],
+        "mentions": {
+            "candidate": "Dr Adam Thompson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "The Conservatives have given us nine years of failure and it\u2019s time for change"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Protect our NHS",
+            "immigration": "",
+            "labourEmployment": "Stand up for workers' rights",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Work hard for local people",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Amber Valley needs an MP who will work hard for local people, protect our NHS and stand up for workers\u2019 rights. The Conservatives have given us nine years of failure and it\u2019s time for change.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Amber Valley needs an MP who will work hard for local people, protect our NHS and stand up for workers\u2019 rights. The Conservatives have given us nine years of failure and it\u2019s time for change"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Work hard for local people"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Protect our NHS",
+                        "Stand up for workers' rights",
+                        "The Conservatives have given us nine years of failure and it\u2019s time for change"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives have given us nine years of failure and it\u2019s time for change"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Work hard for local people",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "leaflet": {
+        "candidateName": "Jo Gideon",
+        "candidateGender": "",
+        "constituency": "Stoke-on-Trent Central",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "My plan for Stoke-on-Trent Central",
+                "content": "People have often told me, when I am out and about, that they feel let down by their current Labour MP, who is out of touch with the people he represents. This couldn\u2019t have been more clearly demonstrated than by his refusal to back the government\u2019s plan to leave the European Union, even though over two-thirds of his constituents voted to leave."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Redevelopment",
+                "policyDescription": "- Investment to help redevelop derelict sites around Spode Works.\n- Government investment to restore Sutherland Chambers."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "- New \u00a317.6 million investment into the Royal Stoke for new patient beds and reducing waiting times.\n- \u00a38 million fund that delivered 64 new patient beds."
+            },
+            {
+                "policyTitle": "Law Enforcement",
+                "policyDescription": "20,000 new police officers are being recruited nationally, with efforts to recruit as many as possible in Stoke-on-Trent."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jo Gideon",
+            "otherPartyLeaderCandidate": "current Labour MP",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "This couldn\u2019t have been more clearly demonstrated than by his refusal to back the government\u2019s plan to leave the European Union, even though over two-thirds of his constituents voted to leave.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "New \u00a317.6 million investment into the Royal Stoke, providing new patient beds and reducing waiting times. This is on top of an \u00a38 million fund that delivered 64 new patient beds.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "20,000 new police officers are being recruited nationally, and I'm fighting for as many of them as possible to be recruited in Stoke-on-Trent.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Stoke has been successful in its bid for investment from the government\u2019s new Heritage High Streets Fund. This \u00a32 million investment will help redevelop derelict sites around Spode Works. This investment builds on the \u00a3900,000 given by Historic England to restore the 120-year-old Sutherland Chambers.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I will work hard to deliver my plan for the people of Stoke-on-Trent Central, but I also need to hear from you.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "01782 899025",
+            "email": "contact@jogideon.org",
+            "website": "",
+            "socialMedia": {
+                "facebook": "fb.com/JoGideon",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "From Jo Gideon - Standing to be your next MP"
+                }
+            ]
+        },
+        "additionalNotes": "On the reverse is a short survey, so you can give me your views on your priorities for our community. You can return your completed survey free in the envelope provided, no need for a stamp!",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 4,
+                    "examples": [
+                        "new \u00a317.6 million investment into the Royal Stoke",
+                        "\u00a38 million fund that delivered 64 new patient beds",
+                        "\u00a32 million investment from the government\u2019s new Heritage High Streets Fund",
+                        "over two-thirds of his constituents voted to leave"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "people feel let down by their current Labour MP",
+                        "this couldn\u2019t have been more clearly demonstrated",
+                        "I'm fighting for as many of them as possible to be recruited in Stoke-on-Trent"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "investment to help redevelop derelict sites around Spode Works",
+                        "restoring the 120-year-old Sutherland Chambers"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "government\u2019s plan to leave the European Union",
+                        "20,000 new police officers are being recruited nationally",
+                        "Boris Johnson recently announced"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "his refusal to back the government\u2019s plan to leave the European Union"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "People have often told me, when I am out and about, that they feel let down by their current Labour MP, who is out of touch with the people he represents."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

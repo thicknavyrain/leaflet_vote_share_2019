@@ -1,0 +1,178 @@
+{
+    "leaflet": {
+        "candidateName": "Tommy Sheppard",
+        "candidateGender": "",
+        "constituency": "Edinburgh East",
+        "politicalParty": "SNP",
+        "electionDate": "June 8",
+        "messages": [
+            {
+                "title": "YOUR FUTURE, YOUR CHOICE",
+                "content": "In Scotland our health service is the best in the UK. We are building council houses again. Our children get free meals at school. We treat older people with dignity and offer them care and support without charge. Young people can go to university without running up huge debt. But we need and want to do more.\n\nAll this is despite the Conservatives at Westminster. They still control the money and they take it in taxes from Scotland\u2019s oil resources. They have cut one pound in every ten that is spent on vital public services. This election is about what direction Britain should take."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Health Service",
+                "policyDescription": "In Scotland, our health service is the best in the UK."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "We are building council houses again."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Our children get free meals at school."
+            },
+            {
+                "policyTitle": "Elderly Care",
+                "policyDescription": "We treat older people with dignity and offer them care and support without charge."
+            },
+            {
+                "policyTitle": "University Education",
+                "policyDescription": "Young people can go to university without running up huge debt."
+            }
+        ],
+        "mentions": {
+            "candidate": "Tommy Sheppard",
+            "otherPartyLeaderCandidate": "The Conservatives",
+            "partyLeader": "Nicola Sturgeon",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Our children get free meals at school. Young people can go to university without running up huge debt.",
+            "environment": "",
+            "governance": "",
+            "government": "They still control the money and they take it in taxes from Scotland\u2019s oil resources.",
+            "health": "In Scotland our health service is the best in the UK.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "This election is about what direction Britain should take.",
+            "community": [
+                {
+                    "content": "We are building council houses again.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP for Edinburgh East",
+                "duration": "elected two years ago",
+                "achievements": "one of the most active and visible representatives in Parliament"
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Re-elect Tommy Sheppard"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "They have cut one pound in every ten that is spent on vital public services."
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "In Scotland our health service is the best in the UK.",
+                        "We are building council houses again.",
+                        "Our children get free meals at school.",
+                        "We treat older people with dignity and offer them care and support without charge.",
+                        "Young people can go to university without running up huge debt.",
+                        "This election is about what direction Britain should take."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "We are building council houses again."
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "In Scotland our health service is the best in the UK.",
+                        "Our children get free meals at school.",
+                        "We treat older people with dignity and offer them care and support without charge.",
+                        "Young people can go to university without running up huge debt.",
+                        "They have cut one pound in every ten that is spent on vital public services."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "They have cut one pound in every ten that is spent on vital public services."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

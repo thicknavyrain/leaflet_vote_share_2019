@@ -1,0 +1,177 @@
+{
+    "leaflet": {
+        "candidateName": "Cat Smith",
+        "candidateGender": "",
+        "constituency": "Lancaster & Fleetwood",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Cat Smith MP and your local Labour team called today! We are sorry we missed you.",
+                "content": "As your Member of Parliament, Cat and the Labour team would like to extend our continued and enthusiastic support for the constituents. We remain dedicated to addressing key issues, including Brexit and the NHS, housing issues, and providing greater investment in our local areas."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Declaring a Climate Emergency",
+                "policyDescription": "Cat has spoken out on the critical issue of climate change and supported measures to reduce carbon emissions and protect the planet."
+            },
+            {
+                "policyTitle": "Defending the NHS",
+                "policyDescription": "Cat and Labour are also opposed to the Tory's Brexit policy, which is leading to longer waiting times due to understaffing and underfunding."
+            }
+        ],
+        "mentions": {
+            "candidate": "Cat Smith",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Cat and Labour are opposed to a no-deal Brexit, which threatens our farming community, the future of our NHS, and our international relationships.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Cat has spoken out on the critical issue of climate change and supported measures to reduce carbon emissions and protect the planet.",
+            "governance": "",
+            "government": "",
+            "health": "Cat and Labour are also opposed to the Tory's Brexit policy, which is leading to longer waiting times due to understaffing and underfunding.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Cat supports a number of local campaigns and speaks out on behalf of the issues that matter most to local residents, like fighting for our NHS, improving remote communities' transport links, and ensuring adequate funding for our schools.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "As your Member of Parliament, I would like to extend my continued and enthusiastic support for the constituents. I am dedicated to addressing key issues and providing greater investment in our local areas.",
+        "politicalExperience": [
+            {
+                "role": "Member of Parliament",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "50 Lord Street, Fleetwood FY7 6DT",
+            "phone": "01253 490 440",
+            "email": "cat.smith.mp@parliament.uk",
+            "website": "http://www.catsmith.co.uk",
+            "socialMedia": {
+                "facebook": "http://www.facebook.com/CatSmithMP",
+                "twitter": "Twitter: @CatSmithMP",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Cat has spoken out on the critical issue of climate change and supported measures to reduce carbon emissions and protect the planet.",
+                        "Cat supports a number of local campaigns and speaks out on behalf of the issues that matter most to local residents, like fighting for our NHS, improving remote communities' transport links, and ensuring adequate funding for our schools.",
+                        "As your Member of Parliament, I would like to extend my continued and enthusiastic support for the constituents."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Cat supports a number of local campaigns and speaks out on behalf of the issues that matter most to local residents, like fighting for our NHS, improving remote communities' transport links, and ensuring adequate funding for our schools."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Cat has spoken out on the critical issue of climate change and supported measures to reduce carbon emissions and protect the planet.",
+                        "Cat and Labour are also opposed to the Tory's Brexit policy, which is leading to longer waiting times due to understaffing and underfunding."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "As your Member of Parliament, Cat and the Labour team would like to extend our continued and enthusiastic support for the constituents.",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Cat and Labour are also opposed to the Tory's Brexit policy, which is leading to longer waiting times due to understaffing and underfunding."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Cat supports a number of local campaigns and speaks out on behalf of the issues that matter most to local residents.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Cat supports a number of local campaigns and speaks out on behalf of the issues that matter most to local residents."
+                ]
+            }
+        }
+    }
+}

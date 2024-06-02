@@ -1,0 +1,206 @@
+{
+    "leaflet": {
+        "candidateName": "Lucy Frazer",
+        "candidateGender": "",
+        "constituency": "South East Cambridgeshire",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Lucy Supports Our Local Schools",
+                "content": "Our area has been historically underfunded \u2013 Lucy is fighting for more funds"
+            },
+            {
+                "title": "Strong and Stable Leadership",
+                "content": "This election is our chance to secure the strong and stable leadership the country needs to see us through Brexit and beyond"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Support for Local Schools",
+                "policyDescription": "Fighting for more funds to address historical underfunding."
+            },
+            {
+                "policyTitle": "Improved Infrastructure",
+                "policyDescription": "Working to secure critical projects like the Ely Southern Bypass."
+            },
+            {
+                "policyTitle": "Broader Broadband Access",
+                "policyDescription": "Facilitating broader access to high-speed internet in areas like West Wickham, Cottenham, and Reach."
+            },
+            {
+                "policyTitle": "Support for Local Healthcare",
+                "policyDescription": "Working to improve access and quality in healthcare services."
+            },
+            {
+                "policyTitle": "Support for Local Businesses",
+                "policyDescription": "Supporting local businesses to boost the economy."
+            }
+        ],
+        "mentions": {
+            "candidate": "Lucy Frazer",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "secure the strong and stable leadership the country needs to see us through Brexit and beyond",
+            "defence": "",
+            "economy": "",
+            "education": "Our area has been historically underfunded \u2013 Lucy is fighting for more funds",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "supporting healthcare",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Ely Southern Bypass",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Working to improve infrastructure and provide community support.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP for South East Cambridgeshire",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Wellington Chambers, Butcher Row, Ely, Cambs CB7 4NA",
+            "phone": "01353 669970",
+            "email": "lucyfrazer.southeastcambs@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "facebook.com/FrazerLucy",
+                "twitter": "twitter.com/FrazerLucy",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Ely Southern Bypass"
+                },
+                {
+                    "caption": "Supporting Local Business"
+                },
+                {
+                    "caption": "Supporting Schools"
+                },
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Our area has been historically underfunded \u2013 Lucy is fighting for more funds",
+                        "This election is our chance to secure the strong and stable leadership the country needs to see us through Brexit and beyond",
+                        "Working to improve infrastructure and provide community support."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 4,
+                "candidateAlone": 2,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 5,
+                    "examples": [
+                        "supporting healthcare",
+                        "supporting local business",
+                        "Ely Southern Bypass",
+                        "Working to improve infrastructure and provide community support",
+                        "Our area has been historically underfunded \u2013 Lucy is fighting for more funds"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "secure the strong and stable leadership the country needs to see us through Brexit and beyond"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Lucy is pictured working with local students and businesses to highlight her achievements and local engagement",
+                    "issueRelated": "education and employment"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "A strong voice for South East Cambridgeshire",
+                    "working with local businesses to boost the economy"
+                ]
+            }
+        }
+    }
+}

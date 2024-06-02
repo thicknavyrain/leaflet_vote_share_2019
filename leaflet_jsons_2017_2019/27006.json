@@ -1,0 +1,176 @@
+{
+    "leaflet": {
+        "candidateName": "Molly Scott Cato",
+        "candidateGender": "",
+        "constituency": "Bristol",
+        "politicalParty": "Green Party",
+        "electionDate": "8 June",
+        "messages": [
+            {
+                "title": "Greens Can Win in Bristol",
+                "content": "Make history: elect a Green MP on 8 June. At the last general election the Green Party came second in your area on 8 June, Greens can win here."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Public Ownership",
+                "policyDescription": "Public ownership of our NHS, railways, buses and schools."
+            },
+            {
+                "policyTitle": "Quality Jobs",
+                "policyDescription": "Quality well-paid low-carbon jobs."
+            },
+            {
+                "policyTitle": "Affordable Homes",
+                "policyDescription": "Affordable homes and living rents."
+            },
+            {
+                "policyTitle": "Opposing Brexit Plans",
+                "policyDescription": "Opposing damaging Tory Brexit plans."
+            }
+        ],
+        "mentions": {
+            "candidate": "Molly Scott Cato",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "At the last general election the Green Party came second in your area. On 8 June, Greens can win here."
+        },
+        "issues": {
+            "brexitEurope": "Opposing damaging Tory Brexit plans.",
+            "defence": "",
+            "economy": "Quality well-paid low-carbon jobs.",
+            "education": "Public ownership of our NHS, railways, buses and schools.",
+            "environment": "Quality well-paid low-carbon jobs.",
+            "governance": "",
+            "government": "",
+            "health": "Public ownership of our NHS.",
+            "immigration": "",
+            "labourEmployment": "Quality well-paid low-carbon jobs.",
+            "lawCrime": "",
+            "transport": "Public ownership of our railways, buses.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Affordable homes and living rents.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "molly@bristol.greenparty.org.uk",
+            "website": "www.gov.uk/register-to-vote",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "At the last general election the Green Party came second in your area."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Greens can win in Bristol.",
+                        "Make history: elect a Green MP on 8 June.",
+                        "It's time for Bristol to take its place on the national stage.",
+                        "The Greens are united behind an optimistic, long term vision that's right for our city."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Affordable homes and living rents.",
+                        "It's time for Bristol to take its place on the national stage."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Opposing damaging Tory Brexit plans.",
+                        "Public ownership of our NHS, railways, buses and schools."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Opposing damaging Tory Brexit plans."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "It's time for Bristol to take its place on the national stage.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "It's time for Bristol to take its place on the national stage."
+                ]
+            }
+        }
+    }
+}

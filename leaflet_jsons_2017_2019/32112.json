@@ -1,0 +1,183 @@
+{
+    "leaflet": {
+        "candidateName": "Pippa Heylings",
+        "candidateGender": "",
+        "constituency": "South East Cambs",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "At the coming general election, we face a stark choice between Boris Johnson's Conservatives pushing his terrible Brexit deal, and those who are willing to stand up for an open, fair and inclusive future for our country."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "I want to stop the damage that Brexit is doing."
+            },
+            {
+                "policyTitle": "Climate Change",
+                "policyDescription": "I have the expertise internationally and at local level to make a real difference. I have put in place an ambitious green agenda, with strong policies to get us quickly to zero carbon and to greatly increase our biodiversity."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "I am campaigning for more money for our schools, so that they have what they need to provide the support that each child needs."
+            }
+        ],
+        "mentions": {
+            "candidate": "Pippa Heylings",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": "In South East Cambridgeshire, the Liberal Democrats are the only party that can challenge the Conservatives. Labour do not have a single councillor in the area and a recent poll by Survation showed that I could beat the current Conservative, while Labour are a distant third."
+        },
+        "issues": {
+            "brexitEurope": "Brexit is the biggest challenge that we have faced for decades. The residents of South East Cambridgeshire need to know that their MP is fighting for their interests and doing everything possible to stop Brexit and get a final say on a deal. We do not need a Conservative puppet who is merely loyal to this Prime Minister.",
+            "defence": "",
+            "economy": "",
+            "education": "I am campaigning for more money for our schools, so that they need to provide the support that each child needs.",
+            "environment": "Climate change is a threat to the world and we must take urgent action to tackle it. I have the expertise internationally and at local level to make a real difference. I have put in place an ambitious green agenda, with strong policies to get us quickly to zero carbon and to greatly increase our biodiversity. The council is now recognised as one of the greenest in the country. As an MP in Westminster, I could do so much more.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "The council is now recognised as one of the greenest in the country.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "PS I want to stop the damage that Brexit is doing, tackle climate change, protect our NHS\u2014and build a brighter future for our country.",
+        "politicalExperience": [
+            {
+                "role": "Councillor",
+                "duration": "",
+                "achievements": "The council is now recognised as one of the greenest in the country."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.pippaheylings.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@pippaheylings",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Labour do not have a single councillor in the area and a recent poll by Survation showed that I could beat the current Conservative, while Labour are a distant third."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Brexit is the biggest challenge that we have faced for decades.",
+                        "Climate change is a threat to the world and we must take urgent action to tackle it.",
+                        "I am campaigning for more money for our schools, so that they need to provide the support that each child needs.",
+                        "I want to stop the damage that Brexit is doing, tackle climate change, protect our NHS\u2014and build a brighter future for our country."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "I am campaigning for more money for our schools, so that they need to provide the support that each child needs.",
+                        "The council is now recognised as one of the greenest in the country."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Brexit is the biggest challenge that we have faced for decades.",
+                        "Climate change is a threat to the world and we must take urgent action to tackle it."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "The council is now recognised as one of the greenest in the country.",
+                    "issueRelated": "environment"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "We do not need a Conservative puppet who is merely loyal to this Prime Minister."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Conservative puppet"
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

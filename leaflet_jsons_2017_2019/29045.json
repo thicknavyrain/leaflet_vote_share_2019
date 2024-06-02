@@ -1,0 +1,163 @@
+{
+    "leaflet": {
+        "candidateName": "Philip Smith",
+        "candidateGender": "",
+        "constituency": "Boston and Skegness",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8th 2017",
+        "messages": [
+            {
+                "title": "Philip Smith - THE STRONG VOICE FOR US",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fighting against Hard Brexit",
+                "policyDescription": "Liberal Democrats are the only party that has always fought for Britain\u2019s membership of the European Union, and that\u2019s why we are fighting for you to have your say on the final Brexit deal."
+            },
+            {
+                "policyTitle": "Standing up for the NHS",
+                "policyDescription": "We know we need additional investment in health and care services as a matter of urgency. The Liberal Democrats would give it the funds it needs."
+            },
+            {
+                "policyTitle": "Opposing school cuts",
+                "policyDescription": "Local schools are under threat from a Conservative Party that has stopped listening to local people. Schools in Boston and Skegness are set to lose around \u00a33.5million from their budgets."
+            }
+        ],
+        "mentions": {
+            "candidate": "Philip Smith",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Fighting against Hard Brexit. Liberal Democrats are the only party that has always fought for Britain\u2019s membership of the European Union, and that\u2019s why we are fighting for you to have your say on the final Brexit deal.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Standing up for the NHS. We know we need additional investment in health and care services as a matter of urgency. The Liberal Democrats would give it the funds it needs.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Opposing school cuts. Local schools are under threat from a Conservative Party that has stopped listening to local people. Schools in Boston and Skegness are set to lose around \u00a33.5million from their budgets.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "32 Taverner road, Boston, Lincolnshire PE218NJ",
+            "phone": "",
+            "email": "",
+            "website": "libdems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                },
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Schools in Boston and Skegness are set to lose around \u00a33.5million from their budgets."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Liberal Democrats are the only party that has always fought for Britain\u2019s membership of the European Union.",
+                        "We know we need additional investment in health and care services as a matter of urgency.",
+                        "The Conservative Party has stopped listening to local people."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 0,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Local schools are under threat from a Conservative Party that has stopped listening to local people. Schools in Boston and Skegness are set to lose around \u00a33.5million from their budgets."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Liberal Democrats are the only party that has always fought for Britain\u2019s membership of the European Union.",
+                        "We know we need additional investment in health and care services as a matter of urgency."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Local schools are under threat from a Conservative Party that has stopped listening to local people."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

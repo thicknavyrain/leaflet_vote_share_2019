@@ -1,0 +1,167 @@
+{
+    "leaflet": {
+        "candidateName": "Eleanor PRICE",
+        "candidateGender": "",
+        "constituency": "Edinburgh East",
+        "politicalParty": "",
+        "electionDate": "Thursday 12th December",
+        "messages": [
+            {
+                "title": "My Priorities for EDINBURGH EAST",
+                "content": "To stand firm against the SNP's plans for another divisive independence referendum. To hold the SNP to account for its failure to deliver the new sick kids hospital - now many years overdue. To secure more investment in vital local transport infrastructure and improvements to local roads. To defend the constituency from overdevelopment."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Independence Referendum",
+                "policyDescription": "To stand firm against the SNP's plans for another divisive independence referendum."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "To hold the SNP to account for its failure to deliver the new sick kids hospital - now many years overdue."
+            },
+            {
+                "policyTitle": "Transport Infrastructure",
+                "policyDescription": "To secure more investment in vital local transport infrastructure and improvements to local roads."
+            },
+            {
+                "policyTitle": "Development",
+                "policyDescription": "To defend the constituency from overdevelopment."
+            }
+        ],
+        "mentions": {
+            "candidate": "Eleanor PRICE",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "To hold the SNP to account for its failure to deliver the new sick kids hospital - now many years overdue.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "To secure more investment in vital local transport infrastructure and improvements to local roads.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "To defend the constituency from overdevelopment.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "16 Quality Street Lane, Edinburgh, EH4 5BU",
+            "phone": "0131 336 4213",
+            "email": "eleanor4edinburgheast@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "eleanor4edinburgheast",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Eleanor PRICE on the beach"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "To hold the SNP to account for its failure to deliver the new sick kids hospital - now many years overdue."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "To stand firm against the SNP's plans for another divisive independence referendum.",
+                        "To secure more investment in vital local transport infrastructure and improvements to local roads.",
+                        "To defend the constituency from overdevelopment."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "To secure more investment in vital local transport infrastructure and improvements to local roads.",
+                        "To defend the constituency from overdevelopment.",
+                        "To hold the SNP to account for its failure to deliver the new sick kids hospital - now many years overdue."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "To stand firm against the SNP's plans for another divisive independence referendum."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "To hold the SNP to account for its failure to deliver the new sick kids hospital - now many years overdue."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "To stand firm against the SNP's plans for another divisive independence referendum."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

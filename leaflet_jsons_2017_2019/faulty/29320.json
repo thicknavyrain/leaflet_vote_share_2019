@@ -1,0 +1,165 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "candidateGender": "Female",
+        "constituency": "Southampton Test",
+        "politicalParty": "Conservative Party",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Make a Plan to Vote",
+                "content": "Make a plan to vote on 8th June and back Theresa May to lead Britain\u2019s Brexit negotiations."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit Negotiations",
+                "policyDescription": "Getting Brexit right is central to everything \u2013 our economic security, our jobs, our public services."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "A loss of just 6 seats and Theresa May\u2019s government loses its majority \u2013 putting Brexit negotiations at risk."
+        },
+        "issues": {
+            "brexitEurope": "EU wants Brexit negotiations to start 11 days after you vote. Don't risk Jeremy Corbyn becoming PM and messing up Brexit.",
+            "economy": "Getting Brexit right is central to our economic security.",
+            "health": "We will deliver better days for a strong NHS.",
+            "immigration": "Sky-high immigration would continue for years under Jeremy Corbyn.",
+            "socialWelfare": "Looking after our elderly to educating our children."
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Prime Minister",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "St. James Road Methodist Church Hall, Main Hall (St. James Road Southampton)",
+            "phone": "",
+            "email": "",
+            "website": "www.conservatives.com/plantovote",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Sky-high immigration would continue for years under Jeremy Corbyn.",
+                "source": "The Sun",
+                "date": "21st May 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "A loss of just 6 seats and Theresa May\u2019s government loses its majority."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Getting Brexit right is central to our economic security.",
+                        "Looking after our elderly to educating our children."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Sky-high immigration would continue for years under Jeremy Corbyn.",
+                        "Getting Brexit right is central to our economic security.",
+                        "Looking after our elderly to educating our children."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 4,
+                    "examples": [
+                        "Sky-high immigration would continue for years under Jeremy Corbyn.",
+                        "A loss of just 6 seats and Theresa May\u2019s government loses its majority.",
+                        "Britain would face the chaos of a hung parliament.",
+                        "Sky-high immigration would continue for years under Jeremy Corbyn \u2013 the Labour leader signalled today."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Sky-high immigration would continue for years under Jeremy Corbyn.",
+                        "Don't risk Jeremy Corbyn becoming Prime Minister and messing up Brexit."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Sky-high immigration would continue for years under Jeremy Corbyn.",
+                        "Don't risk Jeremy Corbyn becoming Prime Minister and messing up Brexit."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

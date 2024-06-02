@@ -1,0 +1,173 @@
+{
+    "leaflet": {
+        "candidateName": "David Moreland",
+        "candidateGender": "",
+        "constituency": "Norwich North",
+        "politicalParty": "UKIP",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Dear Voter,\nThis is a critical General Election for Britain, and your vote will shape its future."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Vote for UKIP is a vote to honour the Referendum result. UKIP has fought for a Clean-Break Brexit for 27 years."
+            }
+        ],
+        "mentions": {
+            "candidate": "David",
+            "otherPartyLeaderCandidate": "Theresa May, Boris",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "For thirty months, Establishment politicians in Westminster have been busy betraying us, reneging on their 2017 manifesto promises. Theresa May\u2019s Surrender Treaty & Boris\u2019s Bogus Brexit are similar sell-outs, ignoring 17.4 million people who voted to LEAVE \u2013 no ifs, no buts, no gotcha\u2019s.\nVote only for UKIP is a vote to honour the Referendum result.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "Labour wants a second referendum and open-door immigration. The Libdems would revoke Article 50, to lock us into the EU forever.",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "The people of Norwich North deserve better!",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "UKIP Member",
+                "duration": "27 years",
+                "achievements": "Fought for a Clean-Break Brexit"
+            }
+        ],
+        "contactInformation": {
+            "address": "87 Links Avenue, Hellesdon, Norwich, NR6 5PG",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "ignoring 17.4 million people who voted to LEAVE"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Establishment politicians in Westminster have been busy betraying us",
+                        "Theresa May\u2019s Surrender Treaty & Boris\u2019s Bogus Brexit are similar sell-outs",
+                        "The people of Norwich North deserve better!"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "The people of Norwich North deserve better!"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "this is a critical General Election for Britain",
+                        "For thirty months, Establishment politicians in Westminster have been busy betraying us",
+                        "Honour the Referendum result"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "Establishment politicians in Westminster have been busy betraying us",
+                        "Theresa May\u2019s Surrender Treaty & Boris\u2019s Bogus Brexit are similar sell-outs",
+                        "Libdems would revoke Article 50, to lock us into the EU forever"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Theresa May\u2019s Surrender Treaty",
+                        "Boris\u2019s Bogus Brexit"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Establishment politicians in Westminster have been busy betraying us"
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Theresa May\u2019s Surrender Treaty",
+                        "Boris\u2019s Bogus Brexit"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

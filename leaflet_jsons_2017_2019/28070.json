@@ -1,0 +1,195 @@
+{
+    "leaflet": {
+        "candidateName": "Jacob Rees-Mogg",
+        "candidateGender": "",
+        "constituency": "North East Somerset",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Theresa May",
+                "content": "Strong and stable leadership in the national interest."
+            },
+            {
+                "title": "Your Choice At This Election",
+                "content": "A coalition of chaos under Jeremy Corbyn."
+            },
+            {
+                "title": "Jacob Rees-Mogg",
+                "content": "North East Somerset: Standing With Theresa May"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Negotiate the best deal for Britain, from a position of strength."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Ensure we can compete and thrive."
+            },
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "Control immigration."
+            },
+            {
+                "policyTitle": "Government",
+                "policyDescription": "Give strong and stable leadership in the national interest."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jacob Rees-Mogg",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Negotiate the best deal for Britain, from a position of strength.",
+            "defence": "",
+            "economy": "Ensure we can compete and thrive.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "Give strong and stable leadership in the national interest.",
+            "health": "",
+            "immigration": "Control immigration.",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "01761 413737",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Contact Jacob"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Strong and stable leadership in the national interest.",
+                        "A coalition of chaos under Jeremy Corbyn.",
+                        "Negotiate the best deal for Britain, from a position of strength."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Negotiate the best deal for Britain, from a position of strength.",
+                        "Ensure we can compete and thrive.",
+                        "Control immigration.",
+                        "Give strong and stable leadership in the national interest."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "A coalition of chaos under Jeremy Corbyn."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "A coalition of chaos under Jeremy Corbyn."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Jacob Rees-Mogg: North East Somerset: Standing With Theresa May"
+                ]
+            }
+        }
+    }
+}

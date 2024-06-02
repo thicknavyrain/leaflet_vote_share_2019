@@ -1,0 +1,169 @@
+{
+    "leaflet": {
+        "candidateName": "Alex Meredith",
+        "candidateGender": "",
+        "constituency": "Cardiff West",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "24th April 2017",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fighting against Hard Brexit",
+                "policyDescription": "Provides a voice of opposition to hard Brexit in Parliament."
+            },
+            {
+                "policyTitle": "Standing up for the NHS",
+                "policyDescription": "Commitment to the National Health Service."
+            },
+            {
+                "policyTitle": "A real opposition to the Conservative Government",
+                "policyDescription": "Acts as genuine opposition to Conservative plans."
+            }
+        ],
+        "mentions": {
+            "candidate": "Alex Meredith",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Plaid Leader",
+            "tacticalSituation": "Labour MPs ordered to vote for Article 50."
+        },
+        "issues": {
+            "brexitEurope": "Fighting against Hard Brexit",
+            "defence": "",
+            "economy": "The Conservatives are dragging us out of the single market.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "A real opposition to the Conservative Government.",
+            "health": "Standing up for the NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Provide the voice of opposition we need in Westminster.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "38 The Parade, Cardiff, CF24 3AD",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Alex Meredith for Cardiff West"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Fighting against Hard Brexit",
+                        "Standing up for the NHS",
+                        "A real opposition to the Conservative Government",
+                        "Provide the voice of opposition we need in Westminster",
+                        "The Conservatives are dragging us out of the single market"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Provide the voice of opposition we need in Westminster"
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Fighting against Hard Brexit",
+                        "Standing up for the NHS",
+                        "A real opposition to the Conservative Government",
+                        "The Conservatives are dragging us out of the single market."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives are dragging us out of the single market"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn and Labour are backing the Conservative plan."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

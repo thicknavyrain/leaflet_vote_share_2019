@@ -1,0 +1,170 @@
+{
+    "leaflet": {
+        "candidateName": "Max Wilkinson",
+        "candidateGender": "",
+        "constituency": "Stroud",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Max Wilkinson's top priorities",
+                "content": "AGAINST Hard Brexit\nFOR NHS & schools\nFOR Homes that local people can afford"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "AGAINST Hard Brexit",
+                "policyDescription": "Opposition to Hard Brexit"
+            },
+            {
+                "policyTitle": "FOR NHS & schools",
+                "policyDescription": "Support for NHS and schools"
+            },
+            {
+                "policyTitle": "FOR Homes that local people can afford",
+                "policyDescription": "Affordable housing for local people"
+            }
+        ],
+        "mentions": {
+            "candidate": "Max Wilkinson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "AGAINST Hard Brexit",
+            "defence": "",
+            "economy": "",
+            "education": "FOR NHS & schools",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "FOR NHS & schools",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "FOR Homes that local people can afford",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Max Wilkinson and supporters"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "AGAINST Hard Brexit",
+                        "FOR NHS & schools",
+                        "FOR Homes that local people can afford"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "FOR Homes that local people can afford"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "AGAINST Hard Brexit",
+                        "FOR NHS & schools"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "AGAINST Hard Brexit"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

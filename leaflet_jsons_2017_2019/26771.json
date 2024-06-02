@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "Teresa Murray",
+        "candidateGender": "",
+        "constituency": "Rochester & Strood",
+        "politicalParty": "Labour",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Standing up, not standing by",
+                "content": "My pledges to you: 1. Defend our NHS and tackle the care crisis. Give the NHS and social care services the money they need and join up services from hospital to home. 2. Protect living standards for all and create jobs. Introduce a real living wage of \u00a310 per hour and invest in infrastructure, skills and new technology. Labour is committed to keeping the Triple Lock for pensioners. 3. Provide affordable homes to rent and buy. Build more than a million new homes in five years and tackle the worst examples of private sector housing exploitation. 4. Give power back to local communities. Give local people a stronger say in the way their high streets and town centres develop. 5. Give all children a chance to achieve. Provide universal free school meals for primary school children and reduce class sizes."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Defend our NHS and tackle the care crisis",
+                "policyDescription": "Give the NHS and social care services the money they need and join up services from hospital to home."
+            },
+            {
+                "policyTitle": "Protect living standards for all and create jobs",
+                "policyDescription": "Introduce a real living wage of \u00a310 per hour and invest in infrastructure, skills and new technology. Labour is committed to keeping the Triple Lock for pensioners."
+            },
+            {
+                "policyTitle": "Provide affordable homes to rent and buy",
+                "policyDescription": "Build more than a million new homes in five years and tackle the worst examples of private sector housing exploitation."
+            },
+            {
+                "policyTitle": "Give power back to local communities",
+                "policyDescription": "Give local people a stronger say in the way their high streets and town centres develop."
+            },
+            {
+                "policyTitle": "Give all children a chance to achieve",
+                "policyDescription": "Provide universal free school meals for primary school children and reduce class sizes."
+            }
+        ],
+        "mentions": {
+            "candidate": "Teresa Murray",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Protect living standards for all and create jobs. Introduce a real living wage of \u00a310 per hour and invest in infrastructure, skills and new technology.",
+            "education": "Give all children a chance to achieve. Provide universal free school meals for primary school children and reduce class sizes.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Defend our NHS and tackle the care crisis. Give the NHS and social care services the money they need and join up services from hospital to home.",
+            "immigration": "",
+            "labourEmployment": "Protect living standards for all and create jobs. Introduce a real living wage of \u00a310 per hour and invest in infrastructure, skills and new technology.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Protect living standards for all and create jobs. Labour is committed to keeping the Triple Lock for pensioners.",
+            "community": [
+                {
+                    "content": "Give power back to local communities. Give local people a stronger say in the way their high streets and town centres develop.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "73 Maidstone Road, Rochester, Kent, ME1 1RL",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Your Labour candidate for Rochester & Strood"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Introduce a real living wage of \u00a310 per hour"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Defend our NHS and tackle the care crisis.",
+                        "Give all children a chance to achieve.",
+                        "Give power back to local communities."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Give power back to local communities.",
+                        "Provide affordable homes to rent and buy."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Defend our NHS and tackle the care crisis.",
+                        "Protect living standards for all and create jobs."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

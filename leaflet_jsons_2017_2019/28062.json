@@ -1,0 +1,188 @@
+{
+    "leaflet": {
+        "candidateName": "Alex White",
+        "candidateGender": "",
+        "constituency": "Central Devon",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": "Dear Friend, I want to be sure that your voice is heard and that you're not left behind as your Conservative MP votes on tax breaks for the richest. If elected as your MP, I\u2019ll be a strong opposition voice in Parliament standing up for our community."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Schools, Buses, and Policing",
+                "policyDescription": "Protect local services"
+            },
+            {
+                "policyTitle": "NHS Care",
+                "policyDescription": "Extra 5p on income tax"
+            },
+            {
+                "policyTitle": "Fair Deal for Farmers",
+                "policyDescription": "Making Brexit work for Devon; maintaining subsidies"
+            },
+            {
+                "policyTitle": "Investment",
+                "policyDescription": "Ensure more investment in our schools and NHS"
+            },
+            {
+                "policyTitle": "Taxation",
+                "policyDescription": "Vote against Conservative tax cuts"
+            }
+        ],
+        "mentions": {
+            "candidate": "Alex",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "Lib Dems 28%, Conservatives 48%, Labour 5%, UKIP 3% - Can't win here (referring to Labour and UKIP)."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Ensure more investment in our schools",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Protect our NHS; Extra 5p on income tax for the NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Protect our local Police",
+            "transport": "Protect our local Buses",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Local services including school, buses, and policing.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "If elected as your MP, I\u2019ll be a strong opposition voice in Parliament standing up for our community.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.AlexWhiteLD.org",
+            "socialMedia": {
+                "facebook": "facebook.com/AlexWhiteLD",
+                "twitter": "@alexwhiteld",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Nick Way",
+                "endorsement": "Regretted election result"
+            },
+            {
+                "endorser": "Frank Letch",
+                "endorsement": "Made a real difference"
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Lib Dems say thank you"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Lib Dem 28%, Conservatives 48%, Labour 5%, UKIP 3%"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Dear Friend, I want to be sure that your voice is heard and that you're not left behind as your Conservative MP votes on tax breaks for the richest.",
+                        "If elected as your MP, I\u2019ll be a strong opposition voice in Parliament standing up for our community."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Protect our local Police",
+                        "Local services including school, buses, and policing."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Extra 5p on income tax for the NHS",
+                        "Making Brexit work for Devon; maintaining subsidies"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "Nick Way - Regretted election result",
+                    "Frank Letch - Made a real difference"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Conservative tax breaks for the richest."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Conservative tax breaks for the richest."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "strong opposition voice in Parliament standing up for our community",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "strong opposition voice in Parliament standing up for our community"
+                ]
+            }
+        }
+    }
+}

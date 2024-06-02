@@ -1,0 +1,168 @@
+{
+    "leaflet": {
+        "candidateName": "Dr Simon Beard",
+        "candidateGender": "",
+        "constituency": "Dartford",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "June 8",
+        "messages": [
+            {
+                "title": "You Can Change Dartford's Future",
+                "content": "Fight congestion and pollution. Stand up for our NHS. Stop school cuts. Support the police. Protect your rights. Now is not the time for business as usual!"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Congestion and Pollution",
+                "policyDescription": "Fight congestion and pollution."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Stand up for our NHS."
+            },
+            {
+                "policyTitle": "School Cuts",
+                "policyDescription": "Stop school cuts."
+            },
+            {
+                "policyTitle": "Police Support",
+                "policyDescription": "Support the police."
+            },
+            {
+                "policyTitle": "Protect Rights",
+                "policyDescription": "Protect your rights."
+            }
+        ],
+        "mentions": {
+            "candidate": "Dr Simon Beard",
+            "otherPartyLeaderCandidate": "Gareth Johnson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Stop school cuts.",
+            "environment": "Fight congestion and pollution.",
+            "governance": "",
+            "government": "",
+            "health": "Stand up for our NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Fight congestion and pollution. Stand up for our NHS. Stop school cuts. Support the police. Protect your rights.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "In favour of cutting council funding by 44%.",
+                        "Against providing additional funds for social care."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Fight congestion and pollution.",
+                        "Stand up for our NHS."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Fight congestion and pollution.",
+                        "Stop school cuts."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Stand up for our NHS.",
+                        "Support the police.",
+                        "Protect your rights."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Will you keep calm and vote with Gareth Johnson: Against allowing same sex couples to marry, In favour of cutting council funding by 44%, Against a legally binding Military Covenant, In favour of the Bedroom Tax, Against increasing free child care, In favour of culling badgers, Against providing additional funds for social care."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

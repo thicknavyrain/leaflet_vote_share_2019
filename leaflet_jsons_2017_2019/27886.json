@@ -1,0 +1,198 @@
+{
+    "leaflet": {
+        "candidateName": "Julian Huppert",
+        "candidateGender": "",
+        "constituency": "Cambridge",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit wrecking the country",
+                "policyDescription": "The Liberal Democrats are the only party committed to keeping Britain in the single market and will fight any Brexit deal that threatens jobs and prosperity."
+            },
+            {
+                "policyTitle": "Real investment to save our NHS",
+                "policyDescription": "Lib Dems are the only party with a fully-funded spending plan to save our health services - Tim Farron's penny on Income Tax."
+            },
+            {
+                "policyTitle": "Fair deal for pensioners",
+                "policyDescription": "Lib Dems introduced the triple-lock and will fight any Conservative attempts to scrap it."
+            }
+        ],
+        "mentions": {
+            "candidate": "Julian Huppert",
+            "otherPartyLeaderCandidate": "Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "Bookies and pundits agree Conservatives out of the race. Ashcroft declares Cambridge seat 'too close to call'."
+        },
+        "issues": {
+            "brexitEurope": "Stop Brexit wrecking the country. Only the Lib Dems committed to keeping Britain in the single market.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Lib Dems are the only party with a fully-funded spending plan to save our health services.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Tackle Cambridge's congestion and pollution. Build an integrated transport network.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Build more affordable homes for local people",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "",
+                "achievements": "Reputation for securing improvements for Cambridge."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Lord Ashcroft",
+                "endorsement": "Declares Cambridge seat 'too close to call'."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Only the Lib Dems can stop hard Brexit",
+                "source": "The Times",
+                "date": "4 March 2017"
+            },
+            {
+                "text": "Lib Dems pledge to invest extra \u00a36 billion in NHS and social care",
+                "source": "The Independent",
+                "date": "6 May 2017"
+            },
+            {
+                "text": "Lib Dems promise to protect state pension with triple lock",
+                "source": "ITV News",
+                "date": "7 May 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Only the Lib Dems can stop hard Brexit",
+                        "Lib Dems pledge to invest extra \u00a36 billion in NHS and social care",
+                        "Lib Dems promise to protect state pension with triple lock"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Julian Huppert, The best person for the job...",
+                        "Respect and diversity in our community"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 5,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Tackle Cambridge's congestion and pollution",
+                        "Build more affordable homes for local people",
+                        "He'll carry on where he left off and work to deliver even more for local families."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Stop Brexit wrecking the country",
+                        "Real investment to save our NHS",
+                        "Fair deal for pensioners"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Julian exerted praise for putting the needs of ordinary people above party politics. He played a major role in securing widespread grassroots funding for NHS and social care.",
+                    "issueRelated": "Health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Lord Ashcroft: Declares Cambridge seat 'too close to call'."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "It's Julian or Corbyn's Labour here."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Julian built a reputation for securing improvements for Cambridge.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Julian built a reputation for securing improvements for Cambridge."
+                ]
+            }
+        }
+    }
+}

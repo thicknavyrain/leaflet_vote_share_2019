@@ -1,0 +1,167 @@
+{
+    "leaflet": {
+        "candidateName": "Will Sweet",
+        "candidateGender": "",
+        "constituency": "Putney",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "A personal message from Will Sweet",
+                "content": "Dear Resident, A General Election has been called and I am standing to be your Member of Parliament. I want to champion Putney, Southfields and Roehampton to give opportunity to everyone. Wandsworth is my home. This is where I grew up, went to school and got my first job. I have a track record of delivery here as a Wandsworth Councillor and I\u2019d use my experience working for the Foreign Office to help you. I\u2019d like to meet as many of you as possible to try to win your support. Please don\u2019t hesitate to contact me and I will do my best to help you."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Will Sweet",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Wandsworth is my home. This is where I grew up, went to school and got my first job. I have a track record of delivery here as a Wandsworth Councillor and I\u2019d use my experience working for the Foreign Office to help you.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Wandsworth is my home. This is where I grew up, went to school and got my first job. I have a track record of delivery here as a Wandsworth Councillor and I\u2019d use my experience working for the Foreign Office to help you.",
+        "politicalExperience": [
+            {
+                "role": "Wandsworth Councillor",
+                "duration": "",
+                "achievements": "Track record of delivery."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "0208 944 2905",
+            "email": "will@willsweet.org.uk",
+            "website": "willsweet.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@WillWandsworth",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "I have a track record of delivery here as a Wandsworth Councillor and I\u2019d use my experience working for the Foreign Office to help you."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "I want to champion Putney, Southfields and Roehampton to give opportunity to everyone.",
+                        "Wandsworth is my home."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "I want to champion Putney, Southfields and Roehampton to give opportunity to everyone.",
+                        "Wandsworth is my home. This is where I grew up, went to school and got my first job."
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "This is where I grew up, went to school and got my first job.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Wandsworth is my home. This is where I grew up, went to school and got my first job.",
+                "employment": "I have a track record of delivery here as a Wandsworth Councillor and I\u2019d use my experience working for the Foreign Office to help you.",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Wandsworth is my home."
+                ]
+            }
+        }
+    }
+}

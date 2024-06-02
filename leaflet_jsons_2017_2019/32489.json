@@ -1,0 +1,176 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Aberconwy",
+        "politicalParty": "Conservative",
+        "electionDate": "November 2019",
+        "messages": [
+            {
+                "title": "",
+                "content": "Voters in Aberconwy will decide this election. Seats like Aberconwy will decide this election."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Brexit deal agreed, protecting jobs and trade, ending uncertainty for the economy, ready to go from day one of a new parliament."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "More money for Welsh NHS, \u00a31.2 billion allocated to provide funding certainty for NHS Wales."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "\u00a31.24 billion extra for schools, more funding available for schools across Wales."
+            },
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "An immigration system that works for Britain, ensuring fairness for residents and British citizens, allowing legitimate migration while controlling overall numbers."
+            },
+            {
+                "policyTitle": "Police",
+                "policyDescription": "20,000 more police officers on our streets."
+            }
+        ],
+        "mentions": {
+            "candidate": "You've got to vote for Robin Millar here in Aberconwy.",
+            "otherPartyLeaderCandidate": "Corbyn",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "Last time, the Conservatives were just nine seats short of a majority."
+        },
+        "issues": {
+            "brexitEurope": "Brexit deal agreed with EU, protects jobs and trade, ends uncertainty for our economy.",
+            "defence": "",
+            "economy": "",
+            "education": "\u00a31.24 billion extra for schools, making more funding available for schools across Wales.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "More money for our Welsh NHS, \u00a31.2 billion to provide funding certainty for NHS Wales.",
+            "immigration": "An immigration system that works for Britain, fairness for residents and British citizens, controlling overall numbers of immigrants.",
+            "labourEmployment": "A higher national living wage.",
+            "lawCrime": "20,000 more police on our streets.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 5,
+                    "examples": [
+                        "Brexit deal agreed and ready to go",
+                        "More money for our Welsh NHS",
+                        "\u00a31.24 billion extra for schools",
+                        "20,000 more police on our streets",
+                        "A higher national living wage"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Let\u2019s unleash Britain\u2019s potential",
+                        "Seats like Aberconwy will decide this election"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 0,
+                "candidateWithOthers": 4
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Seats like Aberconwy will decide this election",
+                        "You've got to vote for Robin Millar here in Aberconwy"
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "Brexit deal agreed and ready to go",
+                        "More money for our Welsh NHS",
+                        "\u00a31.24 billion extra for schools",
+                        "20,000 more police on our streets",
+                        "A higher national living wage"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Corbyn = five long years of gridlock"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Seats like Aberconwy will decide this election. You've got to vote for Robin Millar here in Aberconwy.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Seats like Aberconwy will decide this election",
+                    "You've got to vote for Robin Millar here in Aberconwy"
+                ]
+            }
+        }
+    }
+}

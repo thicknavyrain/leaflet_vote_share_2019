@@ -1,0 +1,126 @@
+{
+    "leaflet": {
+        "messages": [
+            {
+                "title": "",
+                "content": "Elderly face paying full bill for their care - no matter the cost. Join the fight to stop it."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "STOP THE CONSERVATIVES' PLANS FOR A 'DEMENTIA TAX'",
+                "policyDescription": "The Conservatives want to remove the cap on the cost of care. This would mean millions of people with debilitating illnesses would have to foot the bill for the entire cost of their care."
+            },
+            {
+                "policyTitle": "LIB DEMS ARE STANDING UP FOR OUR ELDERLY AND NHS",
+                "policyDescription": "The Liberal Democrats have a costed plan to give our NHS and social care the boost they need, pledging to increase income tax by a penny for every earner to fund a \u00a36bn-a-year cash injection for the NHS and social care."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "health": "The Conservatives want to remove the cap on the cost of care. This would mean millions of people with debilitating illnesses would have to foot the bill for the entire cost of their care.",
+            "socialWelfare": "The Liberal Democrats have a costed plan to give our NHS and social care the boost they need. A Lib Dem vote on 8th June will mean more Lib Dem MPs elected, who will stand up for our NHS and the most vulnerable."
+        },
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Elderly face paying full bill for their care - no matter the cost."
+                }
+            ]
+        },
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "A Lib Dem vote on 8th June will mean more Lib Dem MPs elected.",
+                        "The Liberal Democrats have pledged to increase income tax by a penny for every earner to fund a \u00a36bn-a-year cash injection for the NHS and social care."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Elderly face paying full bill for their care - no matter the cost."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "The Conservatives want to remove the cap on the cost of care. This would mean millions of people with debilitating illnesses would have to foot the bill for the entire cost of their care.",
+                        "The Liberal Democrats have a costed plan to give our NHS and social care the boost they need."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Elderly face paying full bill for their care - no matter the cost."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May's proposal would require elderly people receiving social care to fund the entire cost."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

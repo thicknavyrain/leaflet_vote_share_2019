@@ -1,0 +1,190 @@
+{
+    "leaflet": {
+        "candidateName": "Gerard Batten",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "UKIP",
+        "electionDate": "Thursday 8th June 2017",
+        "messages": [
+            {
+                "title": "Dear Voter",
+                "content": "A general election has been called and I seek your support to be your MP. I have been an MEP for London since 2004. I have a track record of fighting for things that matter to you. I hope to represent you in Parliament and continue this work."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Spend more on the NHS",
+                "policyDescription": "Find the money by leaving the EU and slashing foreign aid."
+            },
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "Reduce and control mass immigration; Create an immigration system that treats all people equally."
+            },
+            {
+                "policyTitle": "Make Britain more secure",
+                "policyDescription": "Increase spending on The Police and Armed Forces."
+            },
+            {
+                "policyTitle": "Scrap HS2",
+                "policyDescription": "An astronomically costly white elephant nobody needs."
+            },
+            {
+                "policyTitle": "Oppose the Heathrow third runway",
+                "policyDescription": "Something unwanted by a majority of local residents."
+            },
+            {
+                "policyTitle": "Protect British culture",
+                "policyDescription": "Institute a yearly national day for all, defend free speech and free press."
+            }
+        ],
+        "mentions": {
+            "candidate": "Gerard Batten",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Brexit Must Not Be Betrayed! | Brexit Must Mean Exit!",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Spend more on the NHS: Find the money by leaving the EU and slashing foreign aid.",
+            "immigration": "Reduce and control mass immigration; Create an immigration system that treats all people equally.",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Scrap HS2: An astronomically costly white elephant nobody needs. | Oppose the Heathrow third runway: Something unwanted by a majority of local residents.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Immigration: Reduce and control mass immigration; Create an immigration system that treats all people equally.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I have been an MEP for London since 2004. I have a track record of fighting for things that matter to you. I hope to represent you in Parliament and continue this work.",
+        "politicalExperience": [
+            {
+                "role": "MEP for London",
+                "duration": "since 2004",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Brexit Must Not Be Betrayed!"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Oppose the Heathrow third runway: Something unwanted by a majority of local residents."
+                    ]
+                },
+                "national": {
+                    "count": 6,
+                    "examples": [
+                        "Spend more on the NHS: Find the money by leaving the EU and slashing foreign aid.",
+                        "Immigration: Reduce and control mass immigration; Create an immigration system that treats all people equally.",
+                        "Make Britain more secure: Increase spending on The Police and Armed Forces.",
+                        "Scrap HS2: An astronomically costly white elephant nobody needs.",
+                        "Protect British culture: Institute a yearly national day for all, defend free speech and free press.",
+                        "Brexit Must Not Be Betrayed! | Brexit Must Mean Exit!"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Oppose the Heathrow third runway: Something unwanted by a majority of local residents."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Scrap HS2: An astronomically costly white elephant nobody needs."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "leaflet": {
+        "candidateName": "Royston Smith",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Conservatives let you keep more of what you earn and all of what you own."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Tax Policy",
+                "policyDescription": "Conservatives let you keep more of what you earn and all of what you own."
+            }
+        ],
+        "mentions": {
+            "candidate": "Royston Smith",
+            "otherPartyLeaderCandidate": "Labour",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Conservative Parliamentary Candidate",
+                "duration": "",
+                "achievements": "Under the Conservatives we\u2019ve seen wages rise, taxes fall and employment reach record levels."
+            }
+        ],
+        "contactInformation": {
+            "address": "76 Dean Road",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Royston Smith",
+                "endorsement": "The only way to invest in our public services is to have a strong economy. Under the Conservatives we\u2019ve seen wages rise, taxes fall and employment reach record levels."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "The only way to invest in our public services is to have a strong economy. Under the Conservatives we\u2019ve seen wages rise, taxes fall and employment reach record levels.",
+                "source": "Royston Smith",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Royston Smith - Conservative Parliamentary Candidate"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Labour's spending plans mean an annual \u00a32400 tax rise for every taxpayer."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Labour will stop at nothing to increase the amount of tax they take from you. They plan to tax your property and your assets, and prevent you from passing on what you own to your children.",
+                        "Conservatives let you keep more of what you earn and all of what you own."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "The only way to invest in our public services is to have a strong economy. Under the Conservatives we\u2019ve seen wages rise, taxes fall and employment reach record levels."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Labour will stop at nothing to increase the amount of tax they take from you. They plan to tax your property and your assets, and prevent you from passing on what you own to your children."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

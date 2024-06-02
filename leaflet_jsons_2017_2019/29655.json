@@ -1,0 +1,183 @@
+{
+    "leaflet": {
+        "candidateName": "Matthew Faithfull",
+        "candidateGender": "",
+        "constituency": "Rushcliffe",
+        "politicalParty": "UKIP",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "",
+                "content": "Dear Voter,\nOur country has chosen independence. Now you get to decide who delivers it. I am the only candidate who can be trusted to follow through with Brexit. Labour can't, they're split and weak. The Lib Dems won't as they oppose the will of the people. Now Ken Clarke has sided with their coalition of chaos, turning against his party and his country. It's time for him to go. If you want a truly conservative government and a decent principled opposition, a strong and stable future means it is time to vote UKIP in Rushcliffe.\nYours sincerely, Matthew Faithfull"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Follow through with Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "I am the only candidate who can be trusted to follow through with Brexit.",
+            "otherPartyLeaderCandidate": "Labour can't, they're split and weak. The Lib Dems won't as they oppose the will of the people. Now Ken Clarke has sided with their coalition of chaos, turning against his party and his country.",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Our country has chosen independence. I am the only candidate who can be trusted to follow through with Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "Now Ken Clarke has sided with their coalition of chaos, turning against his party and his country. It's time for him to go.",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "0793 703 5418",
+            "email": "mfaithfull@btopenworld.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I am the only candidate who can be trusted to follow through with Brexit.",
+                        "Labour can't, they're split and weak.",
+                        "The Lib Dems won't as they oppose the will of the people."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Our country has chosen independence. Now you get to decide who delivers it."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour can't, they're split and weak. The Lib Dems won't as they oppose the will of the people."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Now Ken Clarke has sided with their coalition of chaos, turning against his party and his country."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Now Ken Clarke has sided with their coalition of chaos, turning against his party and his country."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

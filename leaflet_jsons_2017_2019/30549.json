@@ -1,0 +1,185 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Theresa May's NHS Crisis",
+                "content": "Waiting times at record highs, key services under strain, further massive cuts planned. Our NHS is on the brink."
+            },
+            {
+                "title": "The Choice for Our NHS",
+                "content": "A better future for our NHS with the Lib Dems or more of Theresa May's uncaring cuts to our NHS. Change the future for our NHS, vote Liberal Democrat on 8th June."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Increase Income Tax",
+                "policyDescription": "The Liberal Democrats will put 1p on Income Tax to raise an extra \u00a36 billion a year for our NHS and social care."
+            },
+            {
+                "policyTitle": "Health and Social Care Funding",
+                "policyDescription": "The Liberal Democrats plan a 'Five-Point Recovery Plan' to protect health and social care in the longer term, focusing on areas including social care, general practice, mental health, and public health."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Our NHS is on the brink. Theresa May's cuts causing record high waiting times, key services under strain, and further massive cuts planned. Liberal Democrats propose putting 1p on Income Tax to raise \u00a36 billion a year for the NHS and social care.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "'Cuts have left NHS on the brink of collapse says shocking report.'",
+                "source": "The Mirror",
+                "date": "13 Oct 2016"
+            },
+            {
+                "text": "'Secret plan for \u00a322billion of NHS cuts could force A&Es, hospitals and maternity units to shut.'",
+                "source": "The Mirror",
+                "date": "21 Nov 2016"
+            },
+            {
+                "text": "'More than four in 10 hospitals in England declared a major alert.'",
+                "source": "ITV News",
+                "date": "13 Jan 2017"
+            },
+            {
+                "text": "'NHS cuts blamed for 30,000 deaths in new study.'",
+                "source": "The Independent",
+                "date": "17 Feb 2017"
+            },
+            {
+                "text": "'The Liberal Democrats have pledged to increase Income Tax by a penny for every earner to fund a \u00a36bn-a-year cash injection for the NHS and social care.'",
+                "source": "The Guardian",
+                "date": "6 May 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "1p extra on income tax means \u00a36 billion extra to boost our NHS and social care."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Theresa May's NHS cuts causing record high waiting times",
+                        "The Liberal Democrats will put 1p on Income Tax to raise \u00a36 billion a year for our NHS and social care."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Our NHS is on the brink.",
+                        "Theresa May's uncaring cuts to our NHS",
+                        "A better future for our NHS with the Lib Dems"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": []
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Theresa May's NHS crisis",
+                        "The Liberal Democrats' plan to raise money for the NHS through increased Income Tax"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 4,
+                    "examples": [
+                        "'Cuts have left NHS on the brink of collapse says shocking report.'",
+                        "'Secret plan for \u00a322billion of NHS cuts could force A&Es, hospitals and maternity units to shut.'",
+                        "'More than four in 10 hospitals in England declared a major alert.'",
+                        "'NHS cuts blamed for 30,000 deaths in new study.'"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

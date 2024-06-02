@@ -1,0 +1,161 @@
+{
+    "leaflet": {
+        "candidateName": "Robert Jenrick",
+        "candidateGender": "",
+        "constituency": "Newark & Southwell",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Newark's gridlock is coming to an end. Robert Jenrick's 5-year campaign to secure a \u00a3450 million northern by-pass for Newark has been successful."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A46 Bypass Secured",
+                "policyDescription": "The \u00a3450 million northern by-pass for Newark, which will alleviate traffic congestion and improve quality of life for residents."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Only a vote for Robert Jenrick and the Conservatives can get Brexit done."
+            }
+        ],
+        "mentions": {
+            "candidate": "Robert Jenrick",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Only a vote for Robert Jenrick and the Conservatives can get Brexit done.",
+            "defence": "",
+            "economy": "Lobbying ministers, it will be the largest investment in the town since the Victorian paving works.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "Improving quality of life for residents, creating more jobs.",
+            "lawCrime": "",
+            "transport": "Newark's gridlock is coming to an end. The A46 will now be dualled from Farndon to Winthorpe. Ending the dangerous slip-road onto the A1 at Northgate roundabout.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Newark's gridlock is coming to an end. Improving quality of life for residents.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Local Conservative candidate",
+                "duration": "",
+                "achievements": "Securing a \u00a3450 million northern by-pass for Newark."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Robert Jenrick at A46 site"
+                },
+                {
+                    "caption": "Robert's local achievements"
+                },
+                {
+                    "caption": "Robert working locally and nationally"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": []
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Only a vote for Robert Jenrick and the Conservatives can get Brexit done."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Newark's gridlock is coming to an end."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Only a vote for Robert Jenrick and the Conservatives can get Brexit done."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Robert's local achievements",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Robert's local achievements."
+                ]
+            }
+        }
+    }
+}

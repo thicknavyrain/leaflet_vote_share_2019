@@ -1,0 +1,155 @@
+{
+    "leaflet": {
+        "candidateName": "Barry Holliday",
+        "candidateGender": "",
+        "constituency": "Nottingham South",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "STOP BREXIT",
+                "content": "Build A Brighter Future"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Working in the EU enables us to work together to protect our planet. On a local level, Barry will work hard to make Nottingham carbon neutral at the earliest possible date."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "The Lib Dems will build an economy that works for everyone."
+            }
+        ],
+        "mentions": {
+            "candidate": "Contact Barry email Barry.Holliday@nottinghamlibdems.org.uk.",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "European Election Results in East Midlands show that the Lib Dems can win in Nottingham South."
+        },
+        "issues": {
+            "brexitEurope": "Climate change and air pollution threaten our future.",
+            "defence": "",
+            "economy": "The Lib Dems will build an economy that works for everyone.",
+            "education": "",
+            "environment": "Working in the EU enables us to work together to protect our planet. On a local level, Barry will work hard to make Nottingham carbon neutral at the earliest possible date.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "Britain today is less fair than ever. People who work hard and play by the rules should be able to get on in life, but our failing economic model means that more and more people are being left behind.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "On a local level, Barry will work hard to make Nottingham carbon neutral at the earliest possible date.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "Barry.Holliday@nottinghamlibdems.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "European Election Results in East Midlands show that the Lib Dems can win in Nottingham South."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "East Mids European Election Results, 2019"
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Climate change and air pollution threaten our future."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "On a local level, Barry will work hard to make Nottingham carbon neutral at the earliest possible date."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Climate change and air pollution threaten our future.",
+                        "The Lib Dems will build an economy that works for everyone.",
+                        "Britain today is less fair than ever."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Climate change and air pollution threaten our future."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "On a local level, Barry will work hard to make Nottingham carbon neutral at the earliest possible date."
+                ]
+            }
+        }
+    }
+}

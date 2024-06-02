@@ -1,0 +1,164 @@
+{
+    "leaflet": {
+        "candidateName": "Will Gallagher",
+        "candidateGender": "",
+        "constituency": "Chester",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Clear Vote Choice for Chester",
+                "content": "Will Gallagher \u2013 the local choice for Chester."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Taking strong economic measures to ensure prosperity."
+            },
+            {
+                "policyTitle": "Transport",
+                "policyDescription": "Will raise the case for transport improvements."
+            },
+            {
+                "policyTitle": "City Centre Plan",
+                "policyDescription": "Will calls for City Centre action plan."
+            }
+        ],
+        "mentions": {
+            "candidate": "Will Gallagher",
+            "otherPartyLeaderCandidate": "Mention of an opponent",
+            "partyLeader": "Mentions of party leader in text",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Europe/Brexit related reasons for general election.",
+            "defence": "",
+            "economy": "Economic measures and reasons for general election.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Transport improvements.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Local community development and involvement.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "will.gallagher@chestertories.com",
+            "website": "chesterconservatives.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Will Gallagher engaging with the community."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Reasons for general election - economy specifics.",
+                        "Transport improvements specifics.",
+                        "Definition of strong economic measures."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Will Gallagher \u2013 the local choice for Chester.",
+                        "Local community development and involvement."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Local community development.",
+                        "City Centre action plan."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Economic measures.",
+                        "Transport improvements."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Reasons for election targeting opponent's stance."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Mentions of opposing party leader."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "The local choice for Chester.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Will Gallagher \u2013 the local choice for Chester."
+                ]
+            }
+        }
+    }
+}

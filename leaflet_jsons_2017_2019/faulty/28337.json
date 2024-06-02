@@ -1,0 +1,178 @@
+{
+    "leaflet": {
+        "candidateName": "Dan Lodge",
+        "candidateGender": "",
+        "constituency": "Brecon and Radnorshire",
+        "politicalParty": "Welsh Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop the Tories in their tracks",
+                "policyDescription": "No More Cuts"
+            },
+            {
+                "policyTitle": "Slashed Wales\u2019 funding",
+                "policyDescription": "By \u00a31.2 Billion"
+            },
+            {
+                "policyTitle": "Local jobs",
+                "policyDescription": "With proper pay"
+            },
+            {
+                "policyTitle": "Living Wage",
+                "policyDescription": "Labour will bring in a Living Wage of \u00a310 per hour"
+            },
+            {
+                "policyTitle": "Make Brexit work for Brecon and Radnorshire",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Promote jobs, tourism and agriculture",
+                "policyDescription": "We need to promote jobs, tourism and agriculture here"
+            }
+        ],
+        "mentions": {
+            "candidate": "Dan Lodge",
+            "otherPartyLeaderCandidate": "Lib Dems backed the Tories in 2010",
+            "partyLeader": "",
+            "tacticalSituation": "Only Labour will take on the Conservatives. Tactical voting is dangerous, Lib Dems backed the Tories in 2010"
+        },
+        "issues": {
+            "brexitEurope": "Make Brexit work for Brecon and Radnorshire",
+            "defence": "",
+            "economy": [
+                "Labour will bring in a Living Wage of \u00a310 per hour"
+            ],
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "Local jobs with proper pay",
+            "lawCrime": "Stop the Tories in their tracks : No More Cuts",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "We need to promote jobs, tourism and agriculture here",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "45 Pontwilyn Brecon LD3 9BS",
+            "phone": "07562 144 363",
+            "email": "danlodgeb@googlemail.com",
+            "website": "vote.labour.org.uk/dan-lodge",
+            "socialMedia": {
+                "facebook": "DanLodgeLabour@facebook.com",
+                "twitter": "@danlodgebrecon",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "they\u2019ve slashed Wales\u2019 funding by \u00a31.2 billion"
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "Only Labour will take on the Conservatives",
+                        "Tactical voting is dangerous, Lib Dems backed the Tories in 2010",
+                        "Stop the Tories in their tracks: No More Cuts",
+                        "Local jobs with proper pay",
+                        "Labour will bring in a Living Wage of \u00a310 per hour",
+                        "We need to promote jobs, tourism and agriculture here"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Local jobs with proper pay",
+                        "Make Brexit work for Brecon and Radnorshire",
+                        "We need to promote jobs, tourism and agriculture here"
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Only Labour will take on the Conservatives",
+                        "Tactical voting is dangerous, Lib Dems backed the Tories in 2010",
+                        "Stop the Tories in their tracks : No More Cuts",
+                        "they\u2019ve slashed Wales\u2019 funding by \u00a31.2 Billion"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "Only Labour will take on the Conservatives",
+                        "Tactical voting is dangerous, Lib Dems backed the Tories in 2010",
+                        "Stop the Tories in their tracks : No More Cuts"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

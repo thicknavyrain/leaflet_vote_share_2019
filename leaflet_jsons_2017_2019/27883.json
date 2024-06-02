@@ -1,0 +1,198 @@
+{
+    "leaflet": {
+        "candidateName": "Claire Young",
+        "candidateGender": "Female",
+        "constituency": "Thornbury and Yate",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Join the fight against the Dementia Tax",
+                "content": "Social care should be based on need, not ability to pay. Claire Young pledges to protect the elderly with fairer funding."
+            },
+            {
+                "title": "Thornbury School Funding Crisis",
+                "content": "#41 teachers at risk in the Thornbury area due to Conservative cuts. Claire Young is fighting to protect our schools."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Protection of school funding and prevention of teacher job losses in the Thornbury area."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Maintaining NHS services and protecting them from cuts under the Conservative government."
+            },
+            {
+                "policyTitle": "Social Care",
+                "policyDescription": "Fairer funding for social care, not based on ability to pay."
+            }
+        ],
+        "mentions": {
+            "candidate": "Claire Young",
+            "otherPartyLeaderCandidate": "Conservative government",
+            "partyLeader": "",
+            "tacticalSituation": "Only Claire Young can beat the Conservatives here."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Protection of school funding and prevention of teacher job losses.",
+            "environment": "Taking action to cut energy bills and caring for the environment.",
+            "governance": "",
+            "government": "Join the fight against the Dementia Tax. Social care should be based on need, not ability to pay.",
+            "health": "Maintaining NHS services and protecting them from cuts under the Conservative government.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Join the fight against the Dementia Tax. Social care should be based on need, not ability to pay.",
+            "community": [
+                {
+                    "content": "Tories continue to back Buckover 'Garden Village' against local wishes.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Claire and her Focus team record of action"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "#41 teachers at risk in the Thornbury area due to Conservative cuts."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Join the fight against the Dementia Tax",
+                        "Claire Young pledges to protect the elderly with fairer funding.",
+                        "Claire Young is fighting to protect our schools."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 10,
+                "candidateAlone": 0,
+                "candidateWithOthers": 10
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Tories continue to back Buckover 'Garden Village' against local wishes.",
+                        "#41 teachers at risk in the Thornbury area due to Conservative cuts."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Maintaining NHS services and protecting them from cuts under the Conservative government.",
+                        "Join the fight against the Dementia Tax. Social care should be based on need, not ability to pay."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Tories continue to back Buckover 'Garden Village' against local wishes."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "#41 teachers at risk in the Thornbury area due to Conservative cuts.",
+                        "Maintaining NHS services and protecting them from cuts under the Conservative government."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

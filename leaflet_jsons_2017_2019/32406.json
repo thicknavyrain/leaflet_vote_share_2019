@@ -1,0 +1,201 @@
+{
+    "leaflet": {
+        "candidateName": "Graham Cockarill",
+        "candidateGender": "",
+        "constituency": "North East Hampshire",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "A BRIGHTER FUTURE",
+                "content": "Balanced finances, vision and leadership that works for everyone, not just the richest. Jo Swinson is the Prime Minister we deserve."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "Build a Brighter Future."
+            },
+            {
+                "policyTitle": "INVEST IN SCHOOLS, OUR NHS, AND POLICING",
+                "policyDescription": "The Liberal Democrats will invest in education, recruit more nurses, and support our police services."
+            },
+            {
+                "policyTitle": "TACKLE THE CLIMATE EMERGENCY",
+                "policyDescription": "The Liberal Democrats will take the urgent steps needed to tackle the climate emergency, harnessing renewable energy and green technology."
+            }
+        ],
+        "mentions": {
+            "candidate": "Graham Cockarill",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "The Liberal Democrats will invest in education.",
+            "environment": "The Liberal Democrats will harness renewable energy and green technology to tackle the climate emergency.",
+            "governance": "",
+            "government": "",
+            "health": "The Liberal Democrats will recruit more nurses.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "The Liberal Democrats will support our police services.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "The Bulcoteers move at Grove Farm.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "The Guardian",
+                "endorsement": "'Both Tories and Labor have failed the country.'"
+            }
+        ],
+        "quotes": [
+            {
+                "text": "\u2018Both Tories and Labour have failed the country\u2019",
+                "source": "The Guardian",
+                "date": ""
+            },
+            {
+                "text": "'British politics is in chaos and our country is being damaged. We need a new way of doing things. Jo Swinson can take the Liberal Democrats into Government. Vote Liberal Democrat for a brighter future for us and future generations.'",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "\u2018Both Tories and Labour have failed the country\u2019",
+                        "British politics is in chaos and our country is being damaged.",
+                        "Balanced finances, vision and leadership that works for everyone, not just the richest.",
+                        "Jo Swinson can take the Liberal Democrats into Government."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 5,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "The Bulcoteers move at Grove Farm."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Balanced finances, vision and leadership that works for everyone, not just the richest.",
+                        "The Liberal Democrats will invest in education.",
+                        "The Liberal Democrats will harness renewable energy and green technology to tackle the climate emergency.",
+                        "The Liberal Democrats will recruit more nurses and support our police services."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "The Bulcoteers move at Grove Farm.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "The Guardian: Both Tories and Labour have failed the country."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "\u2018Both Tories and Labour have failed the country\u2019",
+                        "British politics is in chaos and our country is being damaged."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

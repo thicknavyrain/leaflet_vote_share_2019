@@ -1,0 +1,162 @@
+{
+    "leaflet": {
+        "candidateName": "Stewart Gardiner",
+        "candidateGender": "",
+        "constituency": "Wirral South",
+        "politicalParty": "",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "My Priorities for Wirral South",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Parental Choice in Education",
+                "policyDescription": "I will stand up for Wirral's grammar schools against Labour's plans to abolish them. I will always defend parents' right to choose the best type of education for their children."
+            },
+            {
+                "policyTitle": "Securing NHS Funding",
+                "policyDescription": "The government has announced \u00a333.9 billion for the NHS. I will fight to ensure local hospitals such as Clatterbridge see their fair share of this investment."
+            },
+            {
+                "policyTitle": "Protection for Our Green Belt",
+                "policyDescription": "Thanks to Wirral Labour, our precious Green Belt is under threat of development. That\u2019s why I will demand a properly written local plan."
+            }
+        ],
+        "mentions": {
+            "candidate": "Stewart Gardiner",
+            "otherPartyLeaderCandidate": "Labour",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "I will stand up for Wirral's grammar schools against Labour's plans to abolish them. I will always defend parents' right to choose the best type of education for their children.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The government has announced \u00a333.9 billion for the NHS. I will fight to ensure local hospitals such as Clatterbridge see their fair share of this investment.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Thanks to Wirral Labour, our precious Green Belt is under threat of development. That\u2019s why I will demand a properly written local plan.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "The government has announced \u00a333.9 billion for the NHS."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "I will stand up for Wirral's grammar schools against Labour's plans to abolish them.",
+                        "Thanks to Wirral Labour, our precious Green Belt is under threat of development."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 3,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "I will fight to ensure local hospitals such as Clatterbridge see their fair share of this investment.",
+                        "Thanks to Wirral Labour, our precious Green Belt is under threat of development.",
+                        "I will stand up for Wirral's grammar schools against Labour's plans to abolish them."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The government has announced \u00a333.9 billion for the NHS."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Thanks to Wirral Labour, our precious Green Belt is under threat of development."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "I will fight to ensure local hospitals such as Clatterbridge see their fair share of this investment."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "I will stand up for Wirral's grammar schools against Labour's plans to abolish them."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

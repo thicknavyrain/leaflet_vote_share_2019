@@ -1,0 +1,202 @@
+{
+    "leaflet": {
+        "candidateName": "Vernon Coaker",
+        "candidateGender": "",
+        "constituency": "Gedling",
+        "politicalParty": "Labour Party",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "My pledges to you",
+                "content": "Put decent and reliable health and social care at the top of the agenda. Campaign to retain the national triple lock to guarantee pension increases. Promote equality in State Education funding to provide better opportunities for all our children. Campaign for increased funding for all our schools. Support new businesses and provide advice and grants for them. Invest in Our Public Services: NHS and police force to increase their performance and safety."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Health and Social Care",
+                "policyDescription": "Put decent and reliable health and social care at the top of the agenda."
+            },
+            {
+                "policyTitle": "Pensions",
+                "policyDescription": "Campaign to retain the national triple lock to guarantee pension increases."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Promote equality in State Education funding to provide better opportunities for all our children. Campaign for increased funding for all our schools."
+            },
+            {
+                "policyTitle": "Business Support",
+                "policyDescription": "Support new businesses and provide advice and grants for them."
+            },
+            {
+                "policyTitle": "Public Services",
+                "policyDescription": "Invest in Our Public Services: NHS and police force to increase their performance and safety."
+            }
+        ],
+        "mentions": {
+            "candidate": "Vernon Coaker",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Promote equality in State Education funding to provide better opportunities for all our children. Campaign for increased funding for all our schools.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Put decent and reliable health and social care at the top of the agenda.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Invest in Our Public Services: NHS and police force to increase their performance and safety.",
+            "transport": "",
+            "socialWelfare": "Campaign to retain the national triple lock to guarantee pension increases.",
+            "community": [
+                {
+                    "content": "Support new businesses and provide advice and grants for them.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Vernon always stands up for us. He is a proven and experienced candidate and insists on fighting for our best interests.",
+        "politicalExperience": [
+            {
+                "role": "Labour candidate for Gedling",
+                "duration": "",
+                "achievements": "Insists on fighting for local interests and getting results for the community."
+            }
+        ],
+        "contactInformation": {
+            "address": "4 Regina Crescent, Mapperley, Nottingham, NG3 6DU",
+            "phone": "07539 757 187",
+            "email": "vernon.coaker@labour.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Local residents",
+                "endorsement": "Vernon always stands up for us."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Vernon always stands up for us.",
+                "source": "Local residents",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Vernon Coaker with local residents and supporters."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Put decent and reliable health and social care at the top of the agenda.",
+                        "Vernon always stands up for us.",
+                        "He is a proven and experienced candidate and insists on fighting for our best interests."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Promote equality in State Education funding to provide better opportunities for all our children.",
+                        "Put decent and reliable health and social care at the top of the agenda.",
+                        "Campaign to retain the national triple lock to guarantee pension increases."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Vernon always stands up for us.",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Vernon always stands up for us."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "He is a proven and experienced candidate and insists on fighting for our best interests.",
+                    "Labour candidate for Gedling."
+                ]
+            }
+        }
+    }
+}

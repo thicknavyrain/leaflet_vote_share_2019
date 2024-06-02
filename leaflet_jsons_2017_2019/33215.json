@@ -1,0 +1,176 @@
+{
+    "leaflet": {
+        "candidateName": "Jason Edwards",
+        "candidateGender": "",
+        "constituency": "Aberconwy",
+        "politicalParty": "Welsh Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "WE HAVE A CLEAR CHOICE",
+                "content": "CONSERVATIVES - A Brexit deal that harms Wales\nLABOUR - No one knows where they stand\nLIBERAL DEMOCRATS - Stop Brexit on day one"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "Demand better for Wales."
+            },
+            {
+                "policyTitle": "Public Services",
+                "policyDescription": "Ensure that Wales has the best possible public services with a \u00a3400 million funding boost for schools."
+            },
+            {
+                "policyTitle": "Climate Change",
+                "policyDescription": "Address global problems with serious solutions, making Britain a zero-carbon neutral country."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jason Edwards",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "\u00a3400 million funding boost for Welsh schools.",
+            "environment": "Climate change and air pollution threaten our future.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "Jason Edwards will always put the interests of the people of Aberconwy first, standing for local issues, and stopping Brexit to ensure better opportunities for Wales.",
+        "politicalExperience": [
+            {
+                "role": "Liberal Democrat councillor",
+                "duration": "",
+                "achievements": "Representing local communities and standing for the area's interests."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Funding boost of more than \u00a3400 million for our schools."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Stop Brexit on day one.",
+                        "Demand better for Wales.",
+                        "Climate change and air pollution threaten our future."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 2,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Representing local communities and standing for the area's interests."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Climate change and air pollution threaten our future.",
+                        "Stop Brexit on day one."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Jason Edwards will always put the interests of the people of Aberconwy first, standing for local issues, and stopping Brexit to ensure better opportunities for Wales.",
+                    "issueRelated": "Brexit, local issues"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "CONSERVATIVES - A Brexit deal that harms Wales"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "LABOUR - No one knows where they stand"
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Jason Edwards will always put the interests of the people of Aberconwy first.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Jason Edwards will always put the interests of the people of Aberconwy first."
+                ]
+            }
+        }
+    }
+}

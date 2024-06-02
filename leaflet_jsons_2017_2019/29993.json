@@ -1,0 +1,183 @@
+{
+    "leaflet": {
+        "candidateName": "Alan Booth",
+        "candidateGender": "",
+        "constituency": "Chesham & Amersham",
+        "politicalParty": "Green Party",
+        "electionDate": "June 8",
+        "messages": [
+            {
+                "title": "",
+                "content": "If the age-old way of doing politics doesn't work for you then... stand up"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Democracy",
+                "policyDescription": "First-past-the-post voting is unfair and needs to go!"
+            },
+            {
+                "policyTitle": "EU Referendum",
+                "policyDescription": "Last June our region voted decisively to remain in the European Union. Tell them no at the ballot box."
+            },
+            {
+                "policyTitle": "Our Core Ethos",
+                "policyDescription": "Committed to social and environmental justice, renewable energy transformation, and safer world."
+            }
+        ],
+        "mentions": {
+            "candidate": "Alan Booth",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Last June our region voted decisively to remain in the European Union. Since the referendum, hopes and wishes of 48% of voters, and tens of thousands of younger people, have largely been ignored.",
+            "defence": "",
+            "economy": "An economy for everyone is a key focus.",
+            "education": "Education for all is a priority.",
+            "environment": "Protecting our environment through renewable energy is crucial.",
+            "governance": "",
+            "government": "A citizens' democracy emphasizing fair voting.",
+            "health": "A truly public NHS is essential.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "A safer world focus.",
+            "transport": "A people\u2019s transport system is advocated.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Empowerment through voting and active community participation.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "First Green Councillor",
+                "duration": "Elected in May 2015",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "green4cheshamamersham@gmail.com",
+            "website": "www.chilterngreenparty.org.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/green4chilterns",
+                "twitter": "@green4chilterns",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Alan Booth"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Voting is between 7am and 10pm.",
+                        "Last June our region voted decisively to remain in the European Union."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "First-past-the-post voting is unfair and needs to go!",
+                        "Empowerment through voting and active community participation.",
+                        "Protecting our environment through renewable energy is crucial.",
+                        "Education for all is a priority.",
+                        "An economy for everyone is a key focus."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "Last June our region voted decisively to remain in the European Union.",
+                        "First-past-the-post voting is unfair and needs to go!",
+                        "An economy for everyone is a key focus.",
+                        "Education for all is a priority.",
+                        "A truly public NHS is essential."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "The hopes and wishes of 48% of voters, and tens of thousands of younger people, have largely been ignored.",
+                        "First-past-the-post voting is unfair and needs to go!"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": "I am married with three children."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I have lived in Chesham now for 12 years."
+                ]
+            }
+        }
+    }
+}

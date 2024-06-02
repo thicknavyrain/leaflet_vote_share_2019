@@ -1,0 +1,201 @@
+{
+    "leaflet": {
+        "candidateName": "Julia Lopez",
+        "candidateGender": "",
+        "constituency": "Hornchurch and Upminster",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Getting Brexit Done",
+                "content": "Only a Conservative Government will respect the result of the referendum and deliver on our deal to take Britain out of the EU."
+            },
+            {
+                "title": "Safer Streets",
+                "content": "We plan to provide an extra 20,000 more police officers, with the powers they need to keep our streets safe so people can live without the fear of crime."
+            },
+            {
+                "title": "Creating Jobs",
+                "content": "Unemployment is down to a record low rate while the number of people in work has never been higher. We have also cut income tax for 32 million people."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Getting Brexit Done",
+                "policyDescription": "Only a Conservative Government will respect the result of the referendum and deliver on our deal to take Britain out of the EU."
+            },
+            {
+                "policyTitle": "Safer Streets",
+                "policyDescription": "We plan to provide an extra 20,000 more police officers, with the powers they need to keep our streets safe so people can live without the fear of crime."
+            },
+            {
+                "policyTitle": "Creating Jobs",
+                "policyDescription": "Unemployment is down to a record low rate while the number of people in work has never been higher. We have also cut income tax for 32 million people."
+            }
+        ],
+        "mentions": {
+            "candidate": "Julia Lopez",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Only a Conservative Government will respect the result of the referendum and deliver on our deal to take Britain out of the EU.",
+            "defence": "",
+            "economy": "Unemployment is down to a record low rate while the number of people in work has never been higher. We have also cut income tax for 32 million people.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "Unemployment is down to a record low rate while the number of people in work has never been higher.",
+            "lawCrime": "We plan to provide an extra 20,000 more police officers, with the powers they need to keep our streets safe so people can live without the fear of crime.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "01708 443321",
+            "email": "votejulialopez@gmail.com",
+            "website": "www.julialopez.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@JuliaLopezHU",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "We plan to provide an extra 20,000 more police officers.",
+                        "Unemployment is down to a record low rate.",
+                        "We have also cut income tax for 32 million people."
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Only a Conservative Government will respect the result of the referendum and deliver on our deal to take Britain out of the EU.",
+                        "We plan to provide an extra 20,000 more police officers, with the powers they need to keep our streets safe so people can live without the fear of crime.",
+                        "Unemployment is down to a record low rate while the number of people in work has never been higher. We have also cut income tax for 32 million people."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

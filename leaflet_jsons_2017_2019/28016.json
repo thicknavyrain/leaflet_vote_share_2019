@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Theresa May's Plan For a Stronger Britain",
+                "content": "Strong, stable leadership in the national interest. A plan for Brexit and beyond. A stronger economy for your future."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protecting Our Children and Young People",
+                "policyDescription": "Measures to safeguard children and young people."
+            },
+            {
+                "policyTitle": "Lower Bills",
+                "policyDescription": "Working to reduce bills and expenses."
+            },
+            {
+                "policyTitle": "Theresa May's Plan For a Stronger Britain",
+                "policyDescription": "Strong, stable leadership, a plan for Brexit and beyond, a stronger economy."
+            },
+            {
+                "policyTitle": "Affordable Homes",
+                "policyDescription": "Ensuring access to affordable housing."
+            },
+            {
+                "policyTitle": "Better Schools",
+                "policyDescription": "Improving the quality and number of school places."
+            },
+            {
+                "policyTitle": "Skills",
+                "policyDescription": "Enhancing skills training and education."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Labour's counterplan is chaos",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Making a success of Brexit",
+            "defence": "",
+            "economy": "",
+            "education": "Better school places and skills",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Protecting our NHS",
+            "immigration": "",
+            "labourEmployment": "More jobs",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Help for first-time buyers",
+            "community": [
+                {
+                    "content": "Improving public services, supporting local activities.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Labour's counterplan is chaos"
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

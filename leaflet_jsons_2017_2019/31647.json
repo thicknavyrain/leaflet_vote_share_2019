@@ -1,0 +1,192 @@
+{
+    "leaflet": {
+        "candidateName": "Rick Page",
+        "candidateGender": "",
+        "constituency": "Salisbury",
+        "politicalParty": "Green Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Climate Change",
+                "policyDescription": "The climate emergency needs urgent action now."
+            },
+            {
+                "policyTitle": "Europe",
+                "policyDescription": "Yes to Europe."
+            }
+        ],
+        "mentions": {
+            "candidate": "Rick Page",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Yes to Europe.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "No to climate chaos. The climate emergency needs urgent action now.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "I live in Salisbury and am a long serving head teacher of a large inner city primary school in Southampton. Previously I was a partner in a successful Salisbury business. I served on the elected council of Liberty and as a board member of a homeless charity. I was invited to address the Student Climate Strikes in June and September along with the recent Salisbury for Europe rally. The climate emergency needs urgent action now. My priority is to secure our future through democracy, education, social justice and green entrepreneurship. Rick Page",
+        "politicalExperience": [
+            {
+                "role": "Head teacher of a primary school",
+                "duration": "Long serving",
+                "achievements": ""
+            },
+            {
+                "role": "Partner in a successful business",
+                "duration": "",
+                "achievements": ""
+            },
+            {
+                "role": "Elected council member of Liberty",
+                "duration": "",
+                "achievements": ""
+            },
+            {
+                "role": "Board member of a homeless charity",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "25 Sarum Close, Salisbury, SP2 7LE",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I live in Salisbury and am a long serving head teacher of a large inner city primary school in Southampton.",
+                        "Previously I was a partner in a successful Salisbury business.",
+                        "My priority is to secure our future through democracy, education, social justice and green entrepreneurship. Rick Page"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "I live in Salisbury and am a long serving head teacher of a large inner city primary school in Southampton."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Yes to Europe.",
+                        "The climate emergency needs urgent action now."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I live in Salisbury and am a long serving head teacher of a large inner city primary school in Southampton. Previously I was a partner in a successful Salisbury business. I served on the elected council of Liberty and as a board member of a homeless charity. I was invited to address the Student Climate Strikes in June and September along with the recent Salisbury for Europe rally.",
+                    "issueRelated": "Climate Change, Education, Community Involvement"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I live in Salisbury.",
+                "employment": "Long serving head teacher of a large inner city primary school in Southampton. Previously I was a partner in a successful Salisbury business.",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I live in Salisbury."
+                ]
+            }
+        }
+    }
+}

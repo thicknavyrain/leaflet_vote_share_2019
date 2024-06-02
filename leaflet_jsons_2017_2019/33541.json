@@ -1,0 +1,192 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Brecon and Radnorshire",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Why you should vote Liberal Democrats",
+                "content": "Your vote can make the difference. 3 good reasons why in your area you should vote..."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "The Liberal Democrats can win here",
+                "policyDescription": "Across the UK the Liberal Democrats beat both Labour and the Conservatives at the European Elections back in May - and gained over 700 councillors at the local elections. They are winning elections up and down the country."
+            },
+            {
+                "policyTitle": "The Labour Party can't win here",
+                "policyDescription": "In many parts of the country Labour are in third place and can't win on Thursday. The key question for Labour supporters in places like this is who can stop Boris Johnson getting a majority? Here the answer is the Liberal Democrats."
+            },
+            {
+                "policyTitle": "This is 1 of 50 seats where a Lib Dem vote on Thursday can stop the Tories",
+                "policyDescription": "Thursday's election here is on a knife edge. Every Liberal Democrat vote here can help beat Boris Johnson's Conservatives."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": "Thursday's election here is on a knife edge. Every Liberal Democrat vote here can help beat Boris Johnson's Conservatives."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Across the UK the Liberal Democrats beat both Labour and the Conservatives at the European Elections back in May - and gained over 700 councillors at the local elections.",
+                        "This is 1 of 50 seats where a Lib Dem vote on Thursday can stop the Tories."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Your vote can make the difference.",
+                        "The Labour Party can't win here.",
+                        "Thursday's election here is on a knife edge."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "The key question for Labour supporters in places like this is who can stop Boris Johnson getting a majority?"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

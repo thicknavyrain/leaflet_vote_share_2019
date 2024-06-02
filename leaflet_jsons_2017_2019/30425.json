@@ -1,0 +1,190 @@
+{
+    "leaflet": {
+        "candidateName": "Layla Moran",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Good Morning!",
+                "content": "Vote for a brighter future today with the Liberal Democrats"
+            },
+            {
+                "title": "Layla to WIN TODAY",
+                "content": ""
+            },
+            {
+                "title": "3 reasons to back Layla today:",
+                "content": "1. Layla opposes the Dementia tax.\n2. Layla backs better funding for our local NHS and schools.\n3. Layla will fight for infrastructure BEFORE developments."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stopping Theresa May's dementia tax",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "\u00a36 billion extra each year for our NHS",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "\u00a37 billion extra for our schools",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Layla Moran",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": "YouGov say it's neck and neck"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "better funding for our local NHS and schools",
+            "health": "\u00a36 billion extra each year for our NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Stopping Theresa May's dementia tax",
+            "community": [
+                {
+                    "content": "Layla will fight for infrastructure BEFORE developments.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Nicola Blackwood",
+                "endorsement": "supports it."
+            },
+            {
+                "endorser": "Nicola Blackwood",
+                "endorsement": "failing to deliver on her promises."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "\u00a36 billion extra each year for our NHS",
+                        "\u00a37 billion extra for our schools",
+                        "Con 41% - Lab 16% - Lib Dem 41% - Can't win here"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Vote for a brighter future today with the Liberal Democrats",
+                        "Layla to WIN TODAY"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Layla will fight for infrastructure BEFORE developments."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "\u00a36 billion extra each year for our NHS",
+                        "\u00a37 billion extra for our schools",
+                        "Stopping Theresa May's dementia tax"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "Nicola Blackwood supports it.",
+                    "Nicola Blackwood failing to deliver on her promises."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Stop Theresa May's heartless dementia tax and NHS cuts"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Nicola Blackwood failing to deliver on her promises."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

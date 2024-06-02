@@ -1,0 +1,191 @@
+{
+    "leaflet": {
+        "candidateName": "Amy Gray",
+        "candidateGender": "",
+        "constituency": "Hackney North and Stoke Newington",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Education",
+                "policyDescription": "I qualified as a teacher in Hackney; I'll campaign to ensure all our children get a good education."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Hackney is my home; I'll fight to ensure that we have enough good quality and affordable homes for everyone."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Only with Theresa May's leadership can we get a Brexit deal that works for Britain and for Hackney."
+            }
+        ],
+        "mentions": {
+            "candidate": "Amy Gray",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Only with Theresa May's leadership can we get a Brexit deal that works for Britain and for Hackney.",
+            "defence": "",
+            "economy": "",
+            "education": "I qualified as a teacher in Hackney; I'll campaign to ensure all our children get a good education.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Hackney is my home; I'll fight to ensure that we have enough good quality and affordable homes for everyone.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        "Only with Theresa May's leadership can we get a Brexit deal that works for Britain and for Hackney.",
+                        "I qualified as a teacher in Hackney; I'll campaign to ensure all our children get a good education.",
+                        "Hackney is my home; I'll fight to ensure that we have enough good quality and affordable homes for everyone."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Hackney is my home; I'll fight to ensure that we have enough good quality and affordable homes for everyone."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Only with Theresa May's leadership can we get a Brexit deal that works for Britain and for Hackney."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I qualified as a teacher in Hackney.",
+                    "issueRelated": "Education"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Hackney is my home",
+                "employment": "I qualified as a teacher in Hackney",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Hackney is my home; I'll fight to ensure that we have enough good quality and affordable homes for everyone."
+                ]
+            }
+        }
+    }
+}

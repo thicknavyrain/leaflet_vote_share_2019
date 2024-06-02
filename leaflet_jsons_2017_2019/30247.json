@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Conservative Party",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Strong, Stable Leadership in the National Interest",
+                "content": "Strong and stable leadership with me in the national interest, where what you see is what you get."
+            },
+            {
+                "title": "A Coalition of Chaos with Jeremy Corbyn",
+                "content": "A hung parliament and coalition of chaos under Jeremy Corbyn \u2013 which every single one of us will pay for in higher taxes, fewer jobs, more waste and more debt."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Getting the best possible deal from Brexit, a growing economy to secure our future."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn, Nicola Sturgeon",
+            "partyLeader": "",
+            "tacticalSituation": "Our opponents are already seeking to disrupt our chances of getting the best Brexit deal possible."
+        },
+        "issues": {
+            "brexitEurope": "Our opponents are already seeking to disrupt our chances of getting the best Brexit deal possible. Some people say Jeremy Corbyn as Prime Minister is not going to happen, but in the days of shock election results and global uncertainty, no one can ever really be sure who will win.",
+            "defence": "",
+            "economy": "It is a vote to strengthen our negotiating position to ensure we get the best Brexit deal possible, and it is a vote to strengthen our economy for the future.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "6 Albemarle Crescent, Scarborough YO11 1XS",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "We have the strong and stable leadership we need to see us through Brexit and beyond.",
+                "source": "Theresa May",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Strong and stable leadership in the national interest",
+                        "A hung parliament and coalition of chaos under Jeremy Corbyn"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Getting the best possible deal from Brexit, a growing economy to secure our future.",
+                        "Some people say Jeremy Corbyn as Prime Minister is not going to happen, but in the days of shock election results and global uncertainty, no one can ever really be sure who will win."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Our opponents are already seeking to disrupt our chances of getting the best Brexit deal possible."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Some people say Jeremy Corbyn as Prime Minister is not going to happen, but in the days of shock election results and global uncertainty, no one can ever really be sure who will win."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "A hung parliament and coalition of chaos under Jeremy Corbyn \u2013 which every single one of us will pay for in higher taxes, fewer jobs, more waste and more debt."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

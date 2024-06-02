@@ -1,0 +1,170 @@
+{
+    "leaflet": {
+        "candidateName": "Douglas Lumsden",
+        "candidateGender": "",
+        "constituency": "Aberdeen South",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Every vote for Douglas Lumsden is a vote against Indyref2"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Indyref2",
+                "policyDescription": "Douglas Lumsden opposes Indyref2, advocating against another divisive referendum."
+            }
+        ],
+        "mentions": {
+            "candidate": "Douglas Lumsden",
+            "otherPartyLeaderCandidate": "Nicola Sturgeon",
+            "partyLeader": "",
+            "tacticalSituation": "Marie Boulton: 'In this election, it is vital that we send a message to Nicola Sturgeon's SNP that we do not want another divisive referendum.'"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "Indyref2",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Marie Boulton: 'Only a vote for Douglas is a vote to protect the union.'",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Marie Boulton",
+                "endorsement": "In this election it is vital that we send a message to Nicola Sturgeon's SNP that we do not want another divisive referendum. Only a vote for Douglas is a vote to protect the union."
+            },
+            {
+                "endorser": "Anna O'Byrne",
+                "endorsement": "I was a Labour party member for many years but it is clear that it is only Douglas who can beat the SNP here in Aberdeen South and stop Indyref2!"
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Douglas Lumsden with Marie Boulton and Anna O'Byrne endorsing him."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Every vote for Douglas Lumsden is a vote against Indyref2",
+                        "It is clear that it is only Douglas who can beat the SNP here in Aberdeen South and stop Indyref2!"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "It is clear that it is only Douglas who can beat the SNP here in Aberdeen South and stop Indyref2!"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "In this election, it is vital that we send a message to Nicola Sturgeon\u2019s SNP that we do not want another divisive referendum."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "In this election it is vital that we send a message to Nicola Sturgeon's SNP that we do not want another divisive referendum. Only a vote for Douglas is a vote to protect the union.",
+                    "I was a Labour party member for many years but it is clear that it is only Douglas who can beat the SNP here in Aberdeen South and stop Indyref2!"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "It is vital that we send a message to Nicola Sturgeon\u2019s SNP that we do not want another divisive referendum."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "In this election, it is vital that we send a message to Nicola Sturgeon's SNP that we do not want another divisive referendum."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

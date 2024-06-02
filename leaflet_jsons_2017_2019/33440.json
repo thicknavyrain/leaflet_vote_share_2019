@@ -1,0 +1,163 @@
+{
+  "leaflet": {
+    "candidateName": "Sara Kumar",
+    "candidateGender": "",
+    "constituency": "West Ham",
+    "politicalParty": "",
+    "electionDate": "Thursday 12 December 2019",
+    "messages": [
+      {
+        "title": "My Priorities for West Ham",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Homes Fit for the Future",
+        "policyDescription": "Too many people in West Ham struggle with high rents and poor housing. I will work to ensure a real mix of affordable, attractive homes that are fit for families."
+      },
+      {
+        "policyTitle": "Transport That Meets All Our Needs",
+        "policyDescription": "Our public transport is being let down by the Labour Mayor and local government. Crossrail has been delayed and services are overcrowded. I will push for better services across buses, Tube and DLR, and to ensure upgrades happen on time and on budget."
+      },
+      {
+        "policyTitle": "Support for Small Businesses",
+        "policyDescription": "As a business owner, I know how important small businesses are to our economy - creating jobs and paying taxes to fund our public services. I will fight against unfair regulations and costs that punish local entrepreneurs."
+      }
+    ],
+    "mentions": {
+      "candidate": "Sara Kumar",
+      "otherPartyLeaderCandidate": "Labour Mayor",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "defence": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "government": "",
+      "health": "",
+      "immigration": "",
+      "labourEmployment": "",
+      "lawCrime": "",
+      "transport": "Our public transport is being let down by the Labour Mayor and local government.",
+      "socialWelfare": "",
+      "community": [
+        {
+          "content": "Too many people in West Ham struggle with high rents and poor housing. I will work to ensure a real mix of affordable, attractive homes that are fit for families.",
+          "yimbyNimby": "YIMBY"
+        },
+        {
+          "content": "As a business owner, I know how important small businesses are to our economy - creating jobs and paying taxes to fund our public services. I will fight against unfair regulations and costs that punish local entrepreneurs.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "",
+    "analysis": {
+      "statementAnalysis": {
+        "quantitative": {
+          "count": 0,
+          "examples": [""]
+        },
+        "qualitative": {
+          "count": 3,
+          "examples": [
+            "Too many people in West Ham struggle with high rents and poor housing.",
+            "Our public transport is being let down by the Labour Mayor and local government.",
+            "As a business owner, I know how important small businesses are to our economy."
+          ]
+        }
+      },
+      "photoAnalysis": {
+        "localPlaces": 0,
+        "people": 3,
+        "candidateAlone": 2,
+        "candidateWithOthers": 1
+      },
+      "issueFocus": {
+        "local": {
+          "count": 3,
+          "examples": [
+            "Too many people in West Ham struggle with high rents and poor housing.",
+            "Our public transport is being let down by the Labour Mayor and local government.",
+            "As a business owner, I know how important small businesses are to our economy."
+          ]
+        },
+        "national": {
+          "count": 1,
+          "examples": [
+            "creating jobs and paying taxes to fund our public services"
+          ]
+        }
+      },
+      "personalStories": [],
+      "endorsementsUsed": {
+        "count": 0,
+        "examples": [""]
+      },
+      "negativeMessaging": {
+        "localIssues": {
+          "count": 1,
+          "examples": [
+            "Our public transport is being let down by the Labour Mayor and local government."
+          ]
+        },
+        "nationalIssues": {
+          "count": 0,
+          "examples": [""]
+        },
+        "leaderOfOpponentsParty": {
+          "count": 1,
+          "examples": [
+            "Our public transport is being let down by the Labour Mayor and local government."
+          ]
+        },
+        "oppositeCandidateNoName": {
+          "count": 0,
+          "examples": [""]
+        },
+        "oppositeCandidateWithName": {
+          "count": 0,
+          "examples": [""]
+        }
+      },
+      "nonPolicyAttributes": {
+        "localness": "",
+        "employment": "",
+        "education": "",
+        "family": ""
+      },
+      "localCandidate": {
+        "isLocal": false,
+        "examples": [""]
+      }
+    }
+  }
+}

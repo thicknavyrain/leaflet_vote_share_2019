@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "Graham Hunt",
+        "candidateGender": "",
+        "constituency": "Gedling",
+        "politicalParty": "The Brexit Party",
+        "electionDate": "December 12th",
+        "messages": [
+            {
+                "title": "",
+                "content": "There are around 130 seats that the Conservatives haven't won in at least 50 years. Only the Brexit Party can beat Corbyn's Labour. Leavers, don't waste your vote. Vote for the Brexit Party in Gedling on December 12th."
+            },
+            {
+                "title": "",
+                "content": "Without the Brexit Party, there can be no real Brexit. Vote for the Brexit Party on December 12th."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A Clean-Break Brexit",
+                "policyDescription": "Leave the European Union with no further delays."
+            },
+            {
+                "policyTitle": "Investing in the Regions",
+                "policyDescription": "Re-invest \u00a3200bn from EU savings into the regions."
+            },
+            {
+                "policyTitle": "Reforming the Political System",
+                "policyDescription": "Introduction of proportional representation."
+            },
+            {
+                "policyTitle": "Securing UK Borders",
+                "policyDescription": "Increase border security and control immigration."
+            },
+            {
+                "policyTitle": "Supporting the NHS",
+                "policyDescription": "Increase funding for the NHS and stop the privatization."
+            }
+        ],
+        "mentions": {
+            "candidate": "Graham Hunt",
+            "otherPartyLeaderCandidate": "Corbyn",
+            "partyLeader": "Nigel Farage",
+            "tacticalSituation": "There are around 130 seats that the Conservatives haven't won in at least 50 years."
+        },
+        "issues": {
+            "brexitEurope": "Only the Brexit Party can beat Corbyn's Labour. Without the Brexit Party, there can be no real Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "Introduction of proportional representation.",
+            "health": "Increase funding for the NHS and stop the privatization.",
+            "immigration": "Increase border security and control immigration.",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "83 Victoria Street, London, SW1H 0HW",
+            "phone": "0800 414 8525",
+            "email": "",
+            "website": "www.thebrexitparty.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "There are around 130 seats that the Conservatives haven't won in at least 50 years."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Only the Brexit Party can beat Corbyn's Labour.",
+                        "Leavers, don't waste your vote.",
+                        "Without the Brexit Party, there can be no real Brexit.",
+                        "Vote for the Brexit Party on December 12th."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "There are around 130 seats that the Conservatives haven't won in at least 50 years.",
+                        "Only the Brexit Party can beat Corbyn's Labour."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "There are around 130 seats that the Conservatives haven't won in at least 50 years.",
+                        "Only the Brexit Party can beat Corbyn's Labour."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Only the Brexit Party can beat Corbyn's Labour."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Leavers, don't waste your vote."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

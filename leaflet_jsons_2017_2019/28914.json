@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "Molly Scott Cato",
+        "candidateGender": "",
+        "constituency": "Bristol West",
+        "politicalParty": "Green Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "JUST WHO THERESA MAY DOESN'T WANT IN THE NEXT PARLIAMENT...",
+                "content": "1. An economist who will take the Tories to task over their economic mismanagement.\n2. An expert on tax, who will resist Theresa May turning the UK into a post-Brexit tax haven.\n3. An MEP with deep understanding of the EU and contacts across Europe that she will use to oppose the Tories' damaging Brexit plans."
+            },
+            {
+                "title": "IT'S GREEN OR LABOUR IN BRISTOL WEST",
+                "content": "Bristol is special. You're voting in a seat where the Green Party can win. The Tories don't stand a chance here so you have a genuine choice. Molly Scott Cato is an experienced, bold voice for our city, who will speak up for you on a national stage. Vote for a future to believe in."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "An economist who will take the Tories to task over their economic mismanagement."
+            },
+            {
+                "policyTitle": "Tax",
+                "policyDescription": "An expert on tax, who will resist Theresa May turning the UK into a post-Brexit tax haven."
+            },
+            {
+                "policyTitle": "EU and Brexit",
+                "policyDescription": "An MEP with deep understanding of the EU and contacts across Europe that she will use to oppose the Tories' damaging Brexit plans."
+            }
+        ],
+        "mentions": {
+            "candidate": "Molly Scott Cato",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": "You're voting in a seat where the Green Party can win. The Tories don't stand a chance here so you have a genuine choice."
+        },
+        "issues": {
+            "brexitEurope": "An MEP with deep understanding of the EU and contacts across Europe that she will use to oppose the Tories' damaging Brexit plans.",
+            "defence": "",
+            "economy": "An economist who will take the Tories to task over their economic mismanagement.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Bristol is special. You're voting in a seat where the Green Party can win. The Tories don't stand a chance here so you have a genuine choice.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MEP",
+                "duration": "",
+                "achievements": "Deep understanding of the EU and contacts across Europe"
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Vote for a future to believe in."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "The Tories don't stand a chance here."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "An economist who will take the Tories to task over their economic mismanagement.",
+                        "An expert on tax, who will resist Theresa May turning the UK into a post-Brexit tax haven."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Bristol is special. You're voting in a seat where the Green Party can win."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "An expert on tax, who will resist Theresa May turning the UK into a post-Brexit tax haven.",
+                        "An economist who will take the Tories to task over their economic mismanagement."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "An MEP with deep understanding of the EU and contacts across Europe that she will use to oppose the Tories' damaging Brexit plans."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "An expert on tax, who will resist Theresa May turning the UK into a post-Brexit tax haven."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "An expert on tax, who will resist Theresa May turning the UK into a post-Brexit tax haven."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "leaflet": {
+        "candidateName": "Anneliese Dodds",
+        "candidateGender": "",
+        "constituency": "Oxford East",
+        "politicalParty": "Labour",
+        "electionDate": "December 12th",
+        "messages": [
+            {
+                "title": "It's Time for Real Change",
+                "content": "This is a crucially important election that will decide the future of our country for decades to come. It is a once-in-a-generation chance to transform our country and take on the vested interests holding people back."
+            },
+            {
+                "title": "Give the people the final say on Brexit",
+                "content": "The ongoing Brexit chaos has divided our country and brought huge uncertainty for businesses and employers. Boris Johnson\u2019s extreme Brexit proposals aim at fundamentally reshaping our country, turning us into a bargain-basement tax haven on the fringes of Europe. Only a Labour Government can deliver a public vote on Brexit and bring people back together."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Public vote on any Brexit Deal",
+                "policyDescription": "Anneliese will campaign to Remain as it is the best deal for Oxford and Britain."
+            },
+            {
+                "policyTitle": "Increased funding for the NHS",
+                "policyDescription": "NHS waiting lists, cuts to healthcare services, and more funding for healthcare."
+            },
+            {
+                "policyTitle": "Reaction to the climate crisis",
+                "policyDescription": "A Green New Deal bringing at least 400,000 new clean, green jobs."
+            },
+            {
+                "policyTitle": "Real Living Wage",
+                "policyDescription": "At least \u00a310 an hour, stronger tenants' rights and real action on homelessness and food poverty."
+            },
+            {
+                "policyTitle": "Real funding increases for Oxford's cash-strapped schools",
+                "policyDescription": "Reduced class sizes for 5-7 year-olds and scrapping of tuition fees."
+            }
+        ],
+        "mentions": {
+            "candidate": "Anneliese Dodds",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "give the people the final say on Brexit",
+            "defence": "",
+            "economy": "bargain basement tax haven",
+            "education": "real funding increases for Oxford's cash-strapped schools; reduced class sizes; scrapping of tuition fees",
+            "environment": "Reaction to the climate crisis; Green New Deal bringing 400,000 new clean, green jobs",
+            "governance": "",
+            "government": "",
+            "health": "increased funding for the NHS; NHS waiting lists; cuts to healthcare services",
+            "immigration": "",
+            "labourEmployment": "Real Living Wage of at least \u00a310 an hour",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "stronger tenants' rights; real action on homelessness and food poverty",
+            "community": [
+                {
+                    "content": "Labour will build a fairer Britain that cares for all, where wealth and power are shared.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "In these testing times it is critical that we have a local MP who will stand up for our city. Anneliese lives locally in Rose Hill and is fighting for you.",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "",
+                "achievements": "As a local MP with the shadow Treasury team, she has helped force the government to abandon the punitive public sector pay cap and extend the Childcare Vouchers scheme."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Real Living Wage of at least \u00a310 an hour",
+                        "Green New Deal bringing 400,000 new clean, green jobs"
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "It's time for real change",
+                        "Crucially important election",
+                        "Once-in-a-generation chance",
+                        "Labour will build a fairer Britain that cares for all",
+                        "Stand up for our city"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Anneliese lives locally in Rose Hill and is fighting for you.",
+                        "Real funding increases for Oxford's cash-strapped schools"
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "A Green New Deal bringing at least 400,000 new clean, green jobs",
+                        "Public vote on any Brexit Deal",
+                        "Increased funding for the NHS",
+                        "Real Living Wage of at least \u00a310 an hour"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Boris Johnson\u2019s extreme Brexit",
+                        "Turning us into a bargain basement tax haven"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Anneliese lives locally in Rose Hill.",
+                "employment": "As a local MP with the shadow Treasury team",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Anneliese lives locally in Rose Hill and is fighting for you."
+                ]
+            }
+        }
+    }
+}

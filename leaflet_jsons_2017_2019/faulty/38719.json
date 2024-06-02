@@ -1,0 +1,183 @@
+{
+    "leaflet": {
+        "candidateName": "Cat Smith",
+        "candidateGender": "",
+        "constituency": "Lancaster and Fleetwood",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Over the last four years, it has been a huge privilege to serve as your local Member of Parliament. With your backing, I hope to be able to continue fighting for you and those dearest to you."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Labour will give our NHS the investment it requires, including more doctors and nurses."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Labour's plan will sort Brexit within six months, negotiating a trade-related deal aligned with the majority decision."
+            },
+            {
+                "policyTitle": "Crime",
+                "policyDescription": "Increase police force presence, including 700 more officers since 2010."
+            },
+            {
+                "policyTitle": "Pensions",
+                "policyDescription": "Protect the Triple Lock on pensions to ensure payments always go up with wages."
+            }
+        ],
+        "mentions": {
+            "candidate": "Cat Smith",
+            "otherPartyLeaderCandidate": "Tories",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Labour's plan will sort Brexit within six months.",
+            "defence": "",
+            "economy": "Tory plan to charge most pensioners over \u00a3150 for a TV license.",
+            "education": "",
+            "environment": "",
+            "governance": "Taking back control of our mail, rail, energy and water.",
+            "government": "",
+            "health": "People are waiting far too long for GP appointments, surgery dates, and even urgent cancer treatment.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Lancashire Constabulary has suffered too \u2013 losing more than 700 police since 2010.",
+            "transport": "",
+            "socialWelfare": "Labour will ensure those who have paid in their whole lives can enjoy security and dignity in retirement.",
+            "community": [
+                {
+                    "content": "I live locally, I'm raising my family here, and I'm proud to have delivered for local people. I love our city but know there is much work needed to make life better in Lancaster, ensuring we have a thriving city centre, the right mix of highly quality housing that is affordable for local people, and public services that meet the needs of our city's population.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "With your backing, I hope to be able to continue fighting for you and those dearest to you.",
+        "politicalExperience": [
+            {
+                "role": "Local MP",
+                "duration": "since 2015",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Scotforth Labour Hall, 47 Scotforth Road, Lancaster, LA1 4SA",
+            "phone": "01524 566 570",
+            "email": "cat@catsmith.co.uk",
+            "website": "www.catsmith.co.uk",
+            "socialMedia": {}
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 4,
+                    "examples": [
+                        "700 police since 2010.",
+                        "over three years they have failed to get Brexit sorted in a shambles of repeated delays and uncertainty.",
+                        "Some 400,000 additional pensioners have been forced into poverty under the Conservatives.",
+                        "Tory plan to charge most pensioners over \u00a3150 for a TV license."
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "It has been a huge privilege to serve as your local Member of Parliament.",
+                        "I'm raising my family here, and I'm proud to have delivered for local people.",
+                        "Labour's bold vision for Britain is about taking back control.",
+                        "Making sure they're run in the interests of the people and not a few super-rich investors.",
+                        "I hope you can put your trust in me once again so I can get on with the job of fighting on the issues that matter to us all.",
+                        "It's been an honour to speak up for our city since 2015."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "I live locally, I'm raising my family here, and I'm proud to have delivered for local people."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Our NHS is at the brink.",
+                        "Labour's plan will sort Brexit within six months.",
+                        "Protect the Triple Lock on pensions.",
+                        "400,000 additional pensioners forced into poverty."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Some 400,000 additional pensioners have been forced into poverty under the Conservatives."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "The Tories have been in power every day since the referendum but have taken up time with two leadership elections and two general elections. For over three years they have failed to get Brexit sorted in a shambles of repeated delays and uncertainty."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I live locally, I'm raising my family here.",
+                "employment": "",
+                "education": "",
+                "family": "raising my family"
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I live locally, I'm raising my family here."
+                ]
+            }
+        }
+    }
+}

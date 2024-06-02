@@ -1,0 +1,160 @@
+{
+    "leaflet": {
+        "candidateName": "Luke Charters-Reid",
+        "candidateGender": "",
+        "constituency": "York Outer",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Vote Labour in the General Election",
+                "content": "If a disabled or postal voter, you can vote any time from now before 10 pm Thursday."
+            },
+            {
+                "title": "Today you are faced with a choice:",
+                "content": "Elect an MP who lives locally. A Labour government will mean an end to low wage, insecure jobs, cuts to NHS, falling incomes, and more cuts to York public services."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Local Issues",
+                "policyDescription": "Investment in York's infrastructure and public services."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "A Labour government will mean an end to cuts to NHS and falling incomes."
+            }
+        ],
+        "mentions": {
+            "candidate": "Labour Candidate for York Outer.",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Labour Party leader",
+            "tacticalSituation": "This election is a two horse race. Vote today, or let the Tories ignore York for 5 more years."
+        },
+        "issues": {
+            "economy": "An end to low wage, insecure jobs.",
+            "government": "This election is a two horse race.",
+            "health": "Cuts to NHS.",
+            "labourEmployment": "An end to low wage, insecure jobs.",
+            "community": [
+                {
+                    "content": "Investment in York's infrastructure and public services.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "01904 622552",
+            "email": "",
+            "website": "https://www.labour.org.uk",
+            "socialMedia": {
+                "facebook": "@Luke4YorkOuter",
+                "twitter": "@Luke4YorkOuter",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "THIS ELECTION IS A TWO HORSE RACE"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Investment in York's infrastructure and public services.",
+                        "A Labour government will mean an end to cuts to NHS and falling incomes.",
+                        "An end to low wage, insecure jobs."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Investment in York's infrastructure and public services."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "A Labour government will mean an end to cuts to NHS and falling incomes."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "This election is a two horse race."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Elect an MP who lives locally.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Elect an MP who lives locally."
+                ]
+            }
+        }
+    }
+}

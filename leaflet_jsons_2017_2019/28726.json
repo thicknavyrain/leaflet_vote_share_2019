@@ -1,0 +1,169 @@
+{
+    "leaflet": {
+        "candidateName": "Mark Williams",
+        "candidateGender": "",
+        "constituency": "Ceredigion",
+        "politicalParty": "Welsh Liberal Democrats",
+        "electionDate": "8th June",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "More money for Wales\u2019 NHS"
+            },
+            {
+                "policyTitle": "Rural Broadband",
+                "policyDescription": "Fighting for rural broadband"
+            },
+            {
+                "policyTitle": "Pension",
+                "policyDescription": "Pension rises guaranteed"
+            }
+        ],
+        "mentions": {
+            "candidate": "Mark Williams",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "Jeremy Corbyn",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "More money for Wales\u2019 NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Pension rises guaranteed",
+            "community": [
+                {
+                    "content": "Fighting for rural broadband",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "32 North Parade, Aberystwyth, Ceredigion, SY23 2NF",
+            "phone": "07388 497 357",
+            "email": "",
+            "website": "www.ceredigionlibdems.org.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/mark4ceredigion",
+                "twitter": "@mark4ceredigion",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Re-elect a strong local MP"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "A better future for Britain with the Liberal Democrats",
+                        "Theresa May\u2019s heartless cuts to pensions and our NHS with the Conservatives",
+                        "Jeremy Corbyn\u2019s Labour party are too weak and simply cannot win",
+                        "Dyfodol gwell i Brydain gyda\u2019r Dem Rhydd",
+                        "Toriadau di-eniaid Theresa May i bensiynau a\u2019n GIG gyda\u2019r Ceidwadwyr"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Fighting for rural broadband"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "More money for Wales\u2019 NHS",
+                        "Pension rises guaranteed",
+                        "A better future for Britain with the Liberal Democrats"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "theresa May\u2019s heartless cuts to pensions and our NHS with the Conservatives",
+                        "Jeremy Corbyn\u2019s Labour party are too weak and simply cannot win"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May\u2019s heartless cuts to pensions and our NHS with the Conservatives"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn\u2019s Labour party are too weak and simply cannot win"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Re-elect a strong local MP",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Re-elect a strong local MP"
+                ]
+            }
+        }
+    }
+}

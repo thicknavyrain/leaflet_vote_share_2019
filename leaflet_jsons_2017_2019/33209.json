@@ -1,0 +1,198 @@
+{
+    "leaflet": {
+        "candidateName": "Sam Jordan",
+        "candidateGender": "",
+        "constituency": "Eastleigh",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "I've had enough and I'm pretty sure you have too... I've lived in Eastleigh for 30 years and this is the worst it has been. It's time for someone local to take over, drive change and get things done for our community.\n\nTogether, we can ensure that Eastleigh doesn't suffer as the Tories hide the truth behind a Brexit smokescreen. Your vote for me is a vote for Eastleigh, and together we will:\n\n- Increase police presence and demand an Eastleigh police station\n- Improve our vital infrastructure and services (roads, doctors, schools)\n- Rejuvenate and revitalise our high streets\n- Support the right kind of housing developments\n- Give you, the people of Eastleigh, a voice!"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Increase police presence",
+                "policyDescription": "Demand an Eastleigh police station"
+            },
+            {
+                "policyTitle": "Improve our vital infrastructure",
+                "policyDescription": "Enhance services like roads, doctors, and schools"
+            },
+            {
+                "policyTitle": "Rejuvenate and revitalise our high streets",
+                "policyDescription": "Focus on rejuvenating high streets"
+            },
+            {
+                "policyTitle": "Support the right kind of housing developments",
+                "policyDescription": "Advocate for suitable housing developments"
+            },
+            {
+                "policyTitle": "Give you, the people of Eastleigh, a voice",
+                "policyDescription": "Ensure that community voices are heard"
+            }
+        ],
+        "mentions": {
+            "candidate": "Sam Jordan",
+            "otherPartyLeaderCandidate": "Tories",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Together, we can ensure that Eastleigh doesn't suffer as the Tories hide the truth behind a Brexit smokescreen.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Increase police presence and demand an Eastleigh police station",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Improve our vital infrastructure and services (roads, doctors, schools)",
+                    "yimbyNimby": "N/A"
+                },
+                {
+                    "content": "Rejuvenate and revitalise our high streets",
+                    "yimbyNimby": "YIMBY"
+                },
+                {
+                    "content": "Support the right kind of housing developments",
+                    "yimbyNimby": "YIMBY"
+                },
+                {
+                    "content": "Give you, the people of Eastleigh, a voice",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Eastleigh Labour Party, 69 Leigh Road, Eastleigh, SO50 9DF",
+            "phone": "023 8061 3357",
+            "email": "sam@eastleighlabour.co.uk",
+            "website": "eastleighlabour.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Sam Jordan - The Labour Party"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "I've had enough and I'm pretty sure you have too...",
+                        "I've lived in Eastleigh for 30 years and this is the worst it has been.",
+                        "It's time for someone local to take over, drive change and get things done for our community.",
+                        "Together, we can ensure that Eastleigh doesn't suffer as the Tories hide the truth behind a Brexit smokescreen."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 5,
+                    "examples": [
+                        "Increase police presence and demand an Eastleigh police station",
+                        "Improve our vital infrastructure and services (roads, doctors, schools)",
+                        "Rejuvenate and revitalise our high streets",
+                        "Support the right kind of housing developments",
+                        "Give you, the people of Eastleigh, a voice"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Together, we can ensure that Eastleigh doesn't suffer as the Tories hide the truth behind a Brexit smokescreen."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Together, we can ensure that Eastleigh doesn't suffer as the Tories hide the truth behind a Brexit smokescreen."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Grew up on Passfield Avenue in a single parent family during the rise of New Labour\nCurrently living in central Eastleigh amongst lifelong friends and family",
+                "employment": "Worked for numerous local businesses, including Eastleigh College",
+                "education": "Attended Norwood and Alderman Quilley schools respectively",
+                "family": "Grew up on Passfield Avenue in a single parent family"
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Grew up on Passfield Avenue in a single parent family during the rise of New Labour",
+                    "Currently living in central Eastleigh amongst lifelong friends and family",
+                    "Attended Norwood and Alderman Quilley schools respectively",
+                    "Worked for numerous local businesses, including Eastleigh College",
+                    "Established a community club to help support the people of Eastleigh"
+                ]
+            }
+        }
+    }
+}

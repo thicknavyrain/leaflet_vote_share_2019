@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "Andrew Rosindell",
+        "candidateGender": "",
+        "constituency": "Romford",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 12th December",
+        "messages": [
+            {
+                "title": "Vote Conservative",
+                "content": "Keep our local M.P., working for Romford and standing up for Britain!"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Deliver Brexit as soon as possible."
+            },
+            {
+                "policyTitle": "Local Development",
+                "policyDescription": "Protect our parks and green spaces."
+            }
+        ],
+        "mentions": {
+            "candidate": "Andrew Rosindell",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Deliver Brexit as soon as possible.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Protect our parks and green spaces.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP for Romford",
+                "duration": "Since June 2001",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "(01708) 766700",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "AndrewRosindell",
+                "twitter": "AndrewRosindell",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Election Date: Thursday 12th December"
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Keep our local M.P., working for Romford and standing up for Britain!"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Protect our parks and green spaces."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Deliver Brexit as soon as possible."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Keep our local M.P.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Keep our local M.P."
+                ]
+            }
+        }
+    }
+}

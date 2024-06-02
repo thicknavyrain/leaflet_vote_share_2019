@@ -1,0 +1,176 @@
+{
+    "leaflet": {
+        "candidateName": "Stewart Golton",
+        "candidateGender": "",
+        "constituency": "Rothwell",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "",
+                "content": "We are living through a challenging time in our country's future. But this is not a time to gamble on the extremism of right or left. \nTheresa May's Tory party acts increasingly like Blukip as she pursues a Hard Brexit that could do long-term damage to our economy and our communities. And, under Jeremy Corbyn, Labour is simply not up to the task. \nThis is why I urge you to support the Liberal Democrats at this election. Every vote we gain nationally is a vote for an outward-looking, confident, optimistic future. \nTo the communities feeling ignored and rejected I would say this: no party works harder to get your views heard. As a Rothwell councillor, and leader of the Liberal Democrats on Leeds City Council, this has always been my driving force."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economic Stability",
+                "policyDescription": "Opposes Hard Brexit to avoid long-term damage to the economy and communities."
+            },
+            {
+                "policyTitle": "Community Representation",
+                "policyDescription": "No party works harder to get local views heard."
+            }
+        ],
+        "mentions": {
+            "candidate": "Stewart Golton",
+            "otherPartyLeaderCandidate": "Theresa May, Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Theresa May's Tory party acts increasingly like Blukip as she pursues a Hard Brexit that could do long-term damage to our economy and our communities.",
+            "defence": "",
+            "economy": "Theresa May's Tory party acts increasingly like Blukip as she pursues a Hard Brexit that could do long-term damage to our economy and our communities.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "To the communities feeling ignored and rejected I would say this: no party works harder to get your views heard.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Councillor for Rothwell ward",
+                "duration": "since 2006",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "https://www.facebook.com/ElmetandRothwellLiberalDemocrats/",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "We are living through a challenging time in our country's future. But this is not a time to gamble on the extremism of right or left.",
+                        "To the communities feeling ignored and rejected I would say this: no party works harder to get your views heard.",
+                        "Every vote we gain nationally is a vote for an outward-looking, confident, optimistic future."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "To the communities feeling ignored and rejected I would say this: no party works harder to get your views heard."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May's Tory party acts increasingly like Blukip as she pursues a Hard Brexit that could do long-term damage to our economy and our communities."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "As a Rothwell councillor, and leader of the Liberal Democrats on Leeds City Council, this has always been my driving force.",
+                    "issueRelated": "Community Representation"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May's Tory party acts increasingly like Blukip as she pursues a Hard Brexit that could do long-term damage to our economy and our communities."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May's Tory party acts increasingly like Blukip as she pursues a Hard Brexit that could do long-term damage to our economy and our communities."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Lives inOulton",
+                "employment": "Councillor for Rothwell ward",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "As a Rothwell councillor, and leader of the Liberal Democrats on Leeds City Council, this has always been my driving force."
+                ]
+            }
+        }
+    }
+}

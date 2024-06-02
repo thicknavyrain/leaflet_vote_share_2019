@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "The Brexit Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Our Contract With The People",
+                "content": "Dear Voter, This is no ordinary General Election. The choice on December 12th is the last in which there has to be a stark choice between the Brexit Party and Corbyn's Remainers. We are standing against Labour and The Remainers across the country. The Brexit Party is the only way to get a proper Brexit, given that there is a fixed Brexit date in the next five years. The only way to get a real Brexit core of elected Brexit Party MPs in Parliament."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A Clean-Break Brexit",
+                "policyDescription": "We must leave the EU with no borders, money, fishing and defence."
+            },
+            {
+                "policyTitle": "Fundamental Democratic Reform",
+                "policyDescription": "We want to change the way the government works to ensure trust and transparency."
+            },
+            {
+                "policyTitle": "Investing In The NHS",
+                "policyDescription": "We need to properly finance the NHS with no privatization."
+            },
+            {
+                "policyTitle": "Cutting The Cost of Living",
+                "policyDescription": "We will reduce costs on energy bills and make food and clothing cheaper."
+            },
+            {
+                "policyTitle": "A Brexit Dividend",
+                "policyDescription": "Boosting investments in the regions and creating more jobs."
+            },
+            {
+                "policyTitle": "Controlled Immigration",
+                "policyDescription": "We need fair, points-based immigration controls to enhance growth."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Nigel Farage",
+            "tacticalSituation": "There are around 130 parliamentary seats the Conservatives have not won for at least 50 years. The only way to get a real Brexit core of elected Brexit Party MPs in Parliament."
+        },
+        "issues": {
+            "brexitEurope": "A clean Brexit with no borders, money, fishing and defence.",
+            "defence": "",
+            "economy": "Cutting the cost of living. A Brexit dividend boosting investment schemes and job growth.",
+            "education": "",
+            "environment": "",
+            "governance": "Fundamental Democratic Reform to ensure trust and transparency.",
+            "government": "",
+            "health": "Properly finance the NHS with no privatization.",
+            "immigration": "Controlled immigration with a fair points-based system to enhance growth.",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.thebrexitparty.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Leader of The Brexit Party"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Dear Voter, This is no ordinary General Election. The only way to get a real Brexit core of elected Brexit Party MPs in Parliament."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "A clean Brexit with no borders, money, fishing and defence."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

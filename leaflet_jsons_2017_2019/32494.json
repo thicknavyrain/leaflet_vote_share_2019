@@ -1,0 +1,198 @@
+{
+    "leaflet": {
+        "candidateName": "John Glen",
+        "candidateGender": "",
+        "constituency": "Salisbury",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "ONLY A MAJORITY GOVERNMENT CAN GET ON WITH THE COUNTRY'S PRIORITIES",
+                "content": "At the end of the selection, we'll either get a Conservative majority - or a hung parliament."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "UPGRADING OUR INFRASTRUCTURE",
+                "policyDescription": "I helped make sure that Salisbury was the first full fibre broadband city in the UK. Now we need to focus on improvements to the A36 and enhance the appeal of the city centre and The Maltings."
+            },
+            {
+                "policyTitle": "IMPROVING THE ENVIRONMENT",
+                "policyDescription": "The natural environment is our greatest treasure. I am committed to greening the city centre in Salisbury and protecting the rural character of villages across South Wiltshire."
+            },
+            {
+                "policyTitle": "HIGH-QUALITY LOCAL JOBS",
+                "policyDescription": "I want to see us harness the science and technology hubs at Porton and Boscombe Down to create high-value jobs for local people. I am passionate about creating a strong local economy with fantastic employment opportunities."
+            }
+        ],
+        "mentions": {
+            "candidate": "John Glen",
+            "otherPartyLeaderCandidate": "polls teeter between hung parliament and slim Tory majority",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "The natural environment is our greatest treasure. I am committed to greening the city centre in Salisbury and protecting the rural character of villages across South Wiltshire.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "I want to see us harness the science and technology hubs at Porton and Boscombe Down to create high-value jobs for local people. I am passionate about creating a strong local economy with fantastic employment opportunities.",
+            "lawCrime": "",
+            "transport": "We need to focus on improvements to the A36.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I am committed to greening the city centre in Salisbury and protecting the rural character of villages across South Wiltshire.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "polls teeter between hung parliament and slim Tory majority",
+                "source": "John Curtice",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "I helped make sure that Salisbury was the first full fibre broadband city in the UK.",
+                        "The natural environment is our greatest treasure.",
+                        "I am committed to greening the city centre in Salisbury and protecting the rural character of villages across South Wiltshire.",
+                        "I want to see us harness the science and technology hubs at Porton and Boscombe Down to create high-value jobs for local people."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "I helped make sure that Salisbury was the first full fibre broadband city in the UK.",
+                        "I am committed to greening the city centre in Salisbury and protecting the rural character of villages across South Wiltshire.",
+                        "I want to see us harness the science and technology hubs at Porton and Boscombe Down to create high-value jobs for local people.",
+                        "We need to focus on improvements to the A36."
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "polls teeter between hung parliament and slim Tory majority",
+                        "SNP to back labour government only with Scottish independence vote",
+                        "End of the soft prison sentence",
+                        "Government plans billions on soft projects"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I helped make sure that Salisbury was the first full fibre broadband city in the UK."
+                ]
+            }
+        }
+    }
+}

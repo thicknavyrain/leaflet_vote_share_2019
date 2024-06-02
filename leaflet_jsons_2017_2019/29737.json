@@ -1,0 +1,186 @@
+{
+    "leaflet": {
+        "candidateName": "Anna Soubry",
+        "candidateGender": "female",
+        "constituency": "Broxtowe",
+        "politicalParty": "Conservative",
+        "electionDate": "June 8",
+        "messages": [
+            {
+                "title": "Every vote will count in important General Election",
+                "content": "Why Theresa May is right to call the General Election by Anna Soubry. The Prime Minister has not been afraid to tackle difficult issues and she is right to ensure Britain gets the best possible Brexit deal - by calling this election now."
+            },
+            {
+                "title": "Supporting our great NHS",
+                "content": "Broxtowe residents Maureen Hunt works as a nurse in the NHS and is backing Anna Soubry and Theresa May. The NHS is one of our country\u2019s most valuable institutions, we rely on our NHS and therefore the funding must be protected and sustained. Theresa will provide for our NHS and the funds needed."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Supporting Syrian refugees",
+                "policyDescription": "Anna Soubry visited Jordan as a guest of Oxfam and saw how Britain is aiding Syria's refugees. She praises Britain's role and campaigns for further support."
+            },
+            {
+                "policyTitle": "Backing HS2 - representing everyone on the route",
+                "policyDescription": "Anna Soubry supports HS2, which will benefit Broxtowe's economy and provide jobs. She addressed concerns to Parliament and achieved assurances, showing her effectiveness in representing all residents."
+            }
+        ],
+        "mentions": {
+            "candidate": "Anna Soubry",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Theresa May is the only leader with the ability to get a good Brexit deal.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The NHS is one of our country\u2019s most valuable institutions, we rely on our NHS and therefore the funding must be protected and sustained.",
+            "immigration": "Supporting Syrian refugees",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Backing HS2 - representing everyone on the route",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "People power over future development; More apprenticeships, jobs and growth in Broxtowe",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Member of Parliament",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "63 High Road, Chilwell, N9 4AJ",
+            "phone": "07749959115",
+            "email": "anna@annasoubry.org.uk",
+            "website": "annasoubry.org.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/BroxtoweCons",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Trip to Jordan demonstrates the benefits of British aid for refugees fleeing war and terror - Supporting Syrian refugees"
+                },
+                {
+                    "caption": "Gregory Inductors discuss their future - People power over future development"
+                },
+                {
+                    "caption": "Gregory Inductors discuss their future - People power over future development"
+                },
+                {
+                    "caption": "Anna Soubry with fellow MP, Nusrat Ghani at Toton Sidings - Backing HS2 - representing everyone on the route"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Broxtowe residents Maureen Hunt works as a nurse in the NHS and is backing Anna Soubry and Theresa May.",
+                        "She addressed concerns to Parliament and achieved assurances, showing her effectiveness in representing all residents.",
+                        "Anna Soubry supports HS2, which will benefit Broxtowe's economy and provide jobs."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Anna Soubry is straight talking, hard working and gets stuff done.",
+                        "We rely on our NHS and therefore the funding must be protected and sustained."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 3,
+                "people": 4,
+                "candidateAlone": 1,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "People power over future development",
+                        "More apprenticeships, jobs and growth in Broxtowe",
+                        "Supporting our great towns",
+                        "Supporting our great NHS"
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "Theresa May is right to call the General Election",
+                        "A coalition of chaos with Jeremy Corbyn",
+                        "Strong, stable leadership in the national interest",
+                        "A coalition of chaos with Jeremy Corbyn",
+                        "The NHS is one of our country\u2019s most valuable institutions"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn",
+                        "A coalition of chaos with Jeremy Corbyn"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "People power over future development",
+                    "More apprenticeships, jobs and growth in Broxtowe"
+                ]
+            }
+        }
+    }
+}

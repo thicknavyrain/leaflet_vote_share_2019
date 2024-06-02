@@ -1,0 +1,201 @@
+{
+    "leaflet": {
+        "candidateName": "Val Allen",
+        "candidateGender": "Female",
+        "constituency": "Warrington North",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "What this Election is About",
+                "content": "Strong and stable leadership in the national interest with Theresa May and the Conservatives - or weak and unstable coalition government led by Jeremy Corbyn."
+            },
+            {
+                "title": "Helping Young People Buy Their Own Home",
+                "content": "As a mum, Val knows that getting onto the property ladder is a struggle for many people. Val supports local families on a variety of issues, including home ownership and development on brownfield sites."
+            },
+            {
+                "title": "Making a Success of Brexit",
+                "content": "Only a Conservative Government, under Theresa May, can make a success of Brexit. Val will back Theresa May and take the plan for a stronger, united Britain to the House of Commons."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Establish Britain as the strongest country",
+                "policyDescription": "Building a stronger economy that rewards those who work hard and creates secure and well-paid jobs."
+            },
+            {
+                "policyTitle": "Equal Opportunity for All",
+                "policyDescription": "Ensuring the opportunity for everyone to get on in life, by providing affordable housing and high-quality healthcare."
+            },
+            {
+                "policyTitle": "Secure United Nation",
+                "policyDescription": "Take action against the extremists who try to divide us and take control of our borders and laws."
+            }
+        ],
+        "mentions": {
+            "candidate": "Val Allen",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Every vote cast for Theresa May and the Conservatives will strengthen Britain\u2019s hand in the Brexit negotiations.",
+            "defence": "",
+            "economy": "Building a stronger economy that rewards those who work hard and creates secure and well-paid jobs.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "Providing strong and stable leadership in the national interest.",
+            "health": "We will provide everyone with access to high-quality healthcare.",
+            "immigration": "Take control of our borders and laws.",
+            "labourEmployment": "We will stick to the Plan for a Stronger Britain and take the difficult decisions needed for Britain to succeed at home.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Val is supporting development on brownfield sites.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Val Allen, a local mum, understands the struggles of getting onto the property ladder and supports families on home ownership and development.",
+        "politicalExperience": [
+            {
+                "role": "Candidate",
+                "duration": "",
+                "achievements": "Supports development on brownfield sites, backs Theresa May\u2019s plan for a stronger Britain."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "conservatives.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Theresa May",
+                "endorsement": "Strong and stable leadership for Warrington."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "We need a General Election now to secure the strong and stable leadership the country needs to see us through Brexit and beyond.",
+                "source": "Theresa May",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Val Allen and Theresa May will provide viable leadership for our town."
+                },
+                {
+                    "caption": "Val is supporting development on brownfield sites."
+                }
+            ]
+        },
+        "additionalNotes": "Local people have welcomed the apprenticeships that Val Allen has supported in Warrington North.",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Over 12,000 apprenticeships started in Warrington North.",
+                        "Cut the deficit, control debt and help young people buy affordable homes."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Strong and stable leadership for Warrington.",
+                        "Making a success of Brexit.",
+                        "Strong leadership for a stronger Britain."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Val is supporting development on brownfield sites.",
+                        "Local people have welcomed the apprenticeships Val Allen supports."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Every vote cast for Theresa May and the Conservatives will strengthen Britain\u2019s hand in the Brexit negotiations.",
+                        "Providing strong and stable leadership in the national interest.",
+                        "Take action against the extremists who try to divide us."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "As a mum, Val knows that getting onto the property ladder is a struggle for many people.",
+                    "issueRelated": "Housing/Community Development"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Theresa May: Strong and stable leadership for Warrington."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Only a Conservative Government can make a success of Brexit.",
+                        "Weak and unstable coalition government led by Jeremy Corbyn."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn and his candidate here in Warrington North."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Val Allen is a local mum who understands the struggles of getting onto the property ladder.",
+                "employment": "",
+                "education": "",
+                "family": "As a mum, Val knows the struggles families face."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Val Allen is a local mum who supports families on a variety of issues."
+                ]
+            }
+        }
+    }
+}

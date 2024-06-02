@@ -1,0 +1,207 @@
+{
+    "leaflet": {
+        "candidateName": "Bob Seely",
+        "candidateGender": "",
+        "constituency": "Isle of Wight",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "Local Resident and Public Servant",
+                "content": "Bob was in the British Army - receiving a Military MBE - prior to becoming the Island's MP. He served in Afghanistan and Iraq, returning to the Island between tours. Bob was twice elected as an IOW councillor. He lives near Brighstone."
+            },
+            {
+                "title": "Championing the Isle of Wight in Westminster",
+                "content": "Bob is a passionate advocate for our Island - and he gets results. Working with others, he has secured \u00a348m for the NHS and \u00a326m for Island Line. Sandown School and Ventnor Quays have been saved. Bob will continue to deliver for the Island."
+            },
+            {
+                "title": "Protecting Our Island & Housing for Islanders",
+                "content": "As an Islander, Bob has campaigned to improve the Island Plan. He is working with the Council to protect green fields, reduce housing targets & prioritize homes for local families. He will push for greater environmental protections for the Island."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "Secured \u00a348m for the NHS."
+            },
+            {
+                "policyTitle": "Island Line Funding",
+                "policyDescription": "Secured \u00a326m for Island Line."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Protect green fields and prioritize homes for local families."
+            },
+            {
+                "policyTitle": "Environmental Protections",
+                "policyDescription": "Push for greater environmental protections for the Island."
+            }
+        ],
+        "mentions": {
+            "candidate": "Bob Seely",
+            "otherPartyLeaderCandidate": "Corbyn propped up by parties like the Scottish Nationalists.",
+            "partyLeader": "",
+            "tacticalSituation": "Polls teeter between hung parliament and slim Tory majority."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "English schools to get three-year \u00a314bn funding boost.",
+            "environment": "Push for greater environmental protections for the Island.",
+            "governance": "",
+            "government": "",
+            "health": "Secured \u00a348m for the NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "End of the soft prison sentence.",
+            "transport": "Secured \u00a326m for Island Line.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Bob has campaigned to improve the Island Plan. He is working with the Council to protect green fields, reduce housing targets & prioritize homes for local families.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "British Army",
+                "duration": "",
+                "achievements": "Receiving a Military MBE"
+            },
+            {
+                "role": "IOW Councillor",
+                "duration": "",
+                "achievements": "Twice elected"
+            }
+        ],
+        "contactInformation": {
+            "address": "3 The Mall, Carisbrooke Road, Newport, Isle of Wight PO30 1BW",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Secured \u00a348m for the NHS.",
+                        "Secured \u00a326m for Island Line.",
+                        "English schools to get three-year \u00a314bn funding boost."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Bob is a passionate advocate for our Island",
+                        "Bob was twice elected as an IOW councillor.",
+                        "Push for greater environmental protections for the Island.",
+                        "End of the soft prison sentence."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 1,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "Bob has campaigned to improve the Island Plan.",
+                        "Secured \u00a326m for Island Line.",
+                        "Push for greater environmental protections for the Island.",
+                        "Prioritize homes for local families."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Secured \u00a348m for the NHS.",
+                        "English schools to get three-year \u00a314bn funding boost.",
+                        "End of the soft prison sentence.",
+                        "Push for greater environmental protections for the Island."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Bob was in the British Army - receiving a Military MBE - prior to becoming the Island's MP. He served in Afghanistan and Iraq, returning to the Island between tours. Bob was twice elected as an IOW councillor.",
+                    "issueRelated": false
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "John Curtice: Polls teeter between hung parliament and slim Tory majority."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "With Corbyn propped up by parties like the Scottish Nationalists. And they're demanding ANOTHER referendum to break up Britain. That's five long years of gridlock and uncertainty."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Local Resident and Public Servant",
+                "employment": "Worked in the British Army",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Bob has campaigned to improve the Island Plan.",
+                    "Bob lives near Brighstone."
+                ]
+            }
+        }
+    }
+}

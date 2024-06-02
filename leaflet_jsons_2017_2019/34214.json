@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Nottingham South",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Let's unleash Britain's potential.",
+                "content": "Let's get Brexit done. Let's get on with the country's priorities."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Health",
+                "policyDescription": "\u00a333.9 billion extra for the NHS. 40 new hospitals across the country."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "More funding for every pupil in every school."
+            },
+            {
+                "policyTitle": "Safety",
+                "policyDescription": "20,000 extra police for safer streets."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "\u00a33.6 billion to help towns invest and attract new businesses."
+            },
+            {
+                "policyTitle": "Infrastructure",
+                "policyDescription": "Gigabit broadband for the whole country."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "\u00a33.6 billion to help towns invest and attract new businesses.",
+            "education": "More funding for every pupil in every school.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "\u00a333.9 billion extra for the NHS. 40 new hospitals across the country.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "20,000 extra police for safer streets.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Gigabit broadband for the whole country.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 6,
+                    "examples": [
+                        "\u00a333.9 billion extra for the NHS.",
+                        "40 new hospitals across the country.",
+                        "20,000 extra police for safer streets.",
+                        "More funding for every pupil in every school.",
+                        "\u00a33.6 billion to help towns invest and attract new businesses.",
+                        "Gigabit broadband for the whole country."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Let's unleash Britain's potential.",
+                        "Let's get Brexit done. Let's get on with the country's priorities."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 5,
+                "candidateAlone": 0,
+                "candidateWithOthers": 5
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Gigabit broadband for the whole country."
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "\u00a333.9 billion extra for the NHS.",
+                        "40 new hospitals across the country.",
+                        "20,000 extra police for safer streets.",
+                        "More funding for every pupil in every school.",
+                        "\u00a33.6 billion to help towns invest and attract new businesses."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

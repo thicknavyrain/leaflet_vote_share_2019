@@ -1,0 +1,186 @@
+{
+    "leaflet": {
+        "candidateName": "Julia Lopez",
+        "candidateGender": "",
+        "constituency": "Hornchurch & Upminster",
+        "politicalParty": "Conservative Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Brexit done. Better hospitals. Safer streets. Improved schools. Let's unlock Britain's future."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get Brexit done with our deal and end the uncertainty."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "\u00a333.9 billion extra for the NHS. Local GPs will give you the healthcare you need."
+            },
+            {
+                "policyTitle": "Safety",
+                "policyDescription": "30,000 extra police officers with powers needed to keep us safe."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "More funding for every pupil in every school for a better education."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "A growing economy that creates jobs and pays for public services."
+            }
+        ],
+        "mentions": {
+            "candidate": "Julia Lopez",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "Last time we were just NINE seats short of a majority. This election will be just as close."
+        },
+        "issues": {
+            "brexitEurope": "Brexit",
+            "defence": "",
+            "economy": "growing economy that creates jobs and pays for public services.",
+            "education": "More funding for every pupil in every school. Better education.",
+            "environment": "",
+            "governance": "With a majority government we can get stuff done. The great thing about a majority government is that it can get stuff done.",
+            "government": "Your postal vote can secure a majority government - if you vote Conservative.",
+            "health": "\u00a333.9 billion extra for the NHS. Your hospital and local GPs give you the healthcare you need.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "30,000 extra police officers with the powers they need to keep us safe.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "We've had three years of arguing in a hung parliament that agrees on nothing except more arguments.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": []
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "\u00a333.9 billion extra for the NHS.",
+                        "30,000 extra police officers."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Better hospitals. Safer streets. Improved schools.",
+                        "We've had three years of arguing in a hung parliament.",
+                        "A growing economy that creates jobs and pays for public services."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 7,
+                    "examples": [
+                        "Brexit done. Better hospitals. Safer streets. Improved schools.",
+                        "\u00a333.9 billion extra for the NHS.",
+                        "More funding for every pupil in every school.",
+                        "30,000 extra police officers.",
+                        "A growing economy that creates jobs.",
+                        "We've had three years of arguing in a hung parliament.",
+                        "Last time we were just NINE seats short of a majority."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Britain has spent too long going nowhere, spinning round in a hamster wheel of doom."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

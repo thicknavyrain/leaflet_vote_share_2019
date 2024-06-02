@@ -1,0 +1,169 @@
+{
+    "leaflet": {
+        "candidateName": "Ukonu Obasi",
+        "candidateGender": "",
+        "constituency": "Walthamstow",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": "Election Communication Protect our NHS and fight Brexit"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protect our NHS",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Fight Brexit",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Ukonu Obasi will be a Champion for the people of Walthamstow.",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn and Theresa May worked together to trigger Article 50. Stella Creasy's Labour Party will not guarantee that we will remain in the Single Market.",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Jeremy Corbyn and Theresa May worked together to trigger Article 50. Stella Creasy's Labour Party will not guarantee that we will remain in the Single Market. The Liberal Democrats are now the only opposition to a destructive Hard Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Ukonu Obasi will be a Champion for the people of Walthamstow.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Photo of Ukonu Obasi"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Jeremy Corbyn and Theresa May worked together to trigger Article 50.",
+                        "Stella Creasy's Labour Party will not guarantee that we will remain in the Single Market.",
+                        "The Liberal Democrats are now the only opposition to a destructive Hard Brexit.",
+                        "Ukonu Obasi will be a Champion for the people of Walthamstow.",
+                        "Protect our NHS and fight Brexit"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 0,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Ukonu Obasi will be a Champion for the people of Walthamstow."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Jeremy Corbyn and Theresa May worked together to trigger Article 50.",
+                        "Stella Creasy's Labour Party will not guarantee that we will remain in the Single Market.",
+                        "The Liberal Democrats are now the only opposition to a destructive Hard Brexit."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Stella Creasy's Labour Party will not guarantee that we will remain in the Single Market."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn and Theresa May worked together to trigger Article 50."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Stella Creasy's Labour Party will not guarantee that we will remain in the Single Market."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Ukonu Obasi will be a Champion for the people of Walthamstow.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Ukonu Obasi will be a Champion for the people of Walthamstow."
+                ]
+            }
+        }
+    }
+}

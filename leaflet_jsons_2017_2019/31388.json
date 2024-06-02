@@ -1,0 +1,198 @@
+{
+    "leaflet": {
+        "candidateName": "Paul Beresford",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "12 December 2019",
+        "messages": [
+            {
+                "title": "DON'T RISK IT!",
+                "content": "IF YOU VOTE... YOU WILL ELECT..."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "SAFE STREETS REAL JUSTICE",
+                "policyDescription": "Conservatives will crack down on violent crime and introduce tougher sentencing policies."
+            },
+            {
+                "policyTitle": "LABOUR DANGER",
+                "policyDescription": "Labour plans to raise taxes and increase mass immigration."
+            },
+            {
+                "policyTitle": "RECORD INVESTMENT INTO OUR NHS",
+                "policyDescription": "Conservatives will invest significantly in the NHS to improve services."
+            },
+            {
+                "policyTitle": "WORKING TO REVIVE OUR TOWNS",
+                "policyDescription": "Conservatives will stimulate economic growth and job creation in towns."
+            },
+            {
+                "policyTitle": "GET BREXIT DONE, EMBRACE THE WORLD",
+                "policyDescription": "Conservatives will complete Brexit and negotiate trade deals around the world."
+            },
+            {
+                "policyTitle": "VOTE FOR EXPERIENCE",
+                "policyDescription": "Paul Beresford has extensive experience in Parliament and local issues."
+            },
+            {
+                "policyTitle": "BACK BORIS",
+                "policyDescription": "Support Boris Johnson to deliver Brexit, invest in schools, and fund the NHS."
+            },
+            {
+                "policyTitle": "OUR GREEN BELT IS AT RISK",
+                "policyDescription": "Green belt land needs protection from overdevelopment."
+            }
+        ],
+        "mentions": {
+            "candidate": "Paul Beresford",
+            "otherPartyLeaderCandidate": "Jo Swinson, Jeremy Corbyn",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Conservatives will complete Brexit and negotiate new trade deals.",
+            "defence": "",
+            "economy": "Stimulate economic growth and job creation in towns.",
+            "education": "Invest in every school.",
+            "environment": "Protect the green belt from overdevelopment.",
+            "governance": "",
+            "government": "Vote for a stable government to deliver Brexit.",
+            "health": "Invest significantly in the NHS.",
+            "immigration": "Labour plans to increase mass immigration.",
+            "labourEmployment": "",
+            "lawCrime": "Crack down on violent crime with tougher sentencing policies.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Protect the green belt from overdevelopment.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Member of Parliament",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "01306 883312",
+            "email": "office@molevalleyconservatives.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "twitter.com/sirpaulberesford",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Vote for Experience, Vote Paul Beresford"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Crack down on violent crime with tougher sentencing policies."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Protect the green belt from overdevelopment."
+                    ]
+                },
+                "national": {
+                    "count": 6,
+                    "examples": [
+                        "Conservatives will complete Brexit.",
+                        "Invest in every school.",
+                        "Invest significantly in the NHS.",
+                        "Conservatives will stimulate economic growth and job creation in towns.",
+                        "Conservatives will introduce tougher sentencing policies.",
+                        "Labour plans to raise taxes and increase mass immigration."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour plans to raise taxes and increase mass immigration."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jo Swinson"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

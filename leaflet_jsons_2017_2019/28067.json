@@ -1,0 +1,232 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Scottish Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Only the Lib Dems can stop a hard Brexit",
+                "content": "\"Only the Lib Dems can stop a hard Brexit\" - The Times, 4th April 2017"
+            },
+            {
+                "title": "Lib Dems to oppose second independence referendum",
+                "content": "\"Lib Dems to oppose second independence referendum\" - The Herald, 6th September 2016"
+            },
+            {
+                "title": "",
+                "content": "\"The Liberal Democrats could be the big winners.\" - The Times, 21st March 2017"
+            },
+            {
+                "title": "",
+                "content": "\"Local poll results 'real springboard' for Scottish Lib Dems\" - The Herald, 6th May 2017"
+            },
+            {
+                "title": "",
+                "content": "Mr Rennie said his party had been \"strongest\" in areas where it is targeting the SNP in the June 8 General Election. - The Herald, 6th May 2017"
+            },
+            {
+                "title": "Scotland has lost out",
+                "content": "Scotland has lost out because the SNP have been distracted by independence"
+            },
+            {
+                "title": "The choice in this election is clear",
+                "content": "ONLY ONE PARTY CAN STOP THE SNP"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop another divisive independence referendum",
+                "policyDescription": "The Scottish Liberal Democrats will stop another divisive independence referendum."
+            },
+            {
+                "policyTitle": "Oppose the Conservative's damaging hard Brexit",
+                "policyDescription": "The Scottish Liberal Democrats will oppose the Conservative's damaging hard Brexit."
+            },
+            {
+                "policyTitle": "Invest in education and mental health",
+                "policyDescription": "The Scottish Liberal Democrats will invest in education and mental health."
+            }
+        ],
+        "mentions": {
+            "candidate": "Mr Rennie",
+            "otherPartyLeaderCandidate": "Alex Salmond, The SNP",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The Scottish Liberal Democrats will oppose the Conservative's damaging hard Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "Invest in education and mental health.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Invest in education and mental health.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Scotland has lost out because the SNP have been distracted by independence",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "\"Only the Lib Dems can stop a hard Brexit\"",
+                "source": "The Times",
+                "date": "4th April 2017"
+            },
+            {
+                "text": "\"Lib Dems to oppose second independence referendum\"",
+                "source": "The Herald",
+                "date": "6th September 2016"
+            },
+            {
+                "text": "\"The Liberal Democrats could be the big winners.\"",
+                "source": "The Times",
+                "date": "21st March 2017"
+            },
+            {
+                "text": "\"Local poll results 'real springboard' for Scottish Lib Dems\"",
+                "source": "The Herald",
+                "date": "6th May 2017"
+            },
+            {
+                "text": "Mr Rennie said his party had been \"strongest\" in areas where it is targeting the SNP in the June 8 General Election.",
+                "source": "The Herald",
+                "date": "6th May 2017"
+            },
+            {
+                "text": "\"Alex Salmond says General Election is a vote on indyref2\"",
+                "source": "The Scotsman",
+                "date": "26th April 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "\"Only the Lib Dems can stop a hard Brexit\"",
+                        "\"Lib Dems to oppose second independence referendum\"",
+                        "\"The Liberal Democrats could be the big winners.\"",
+                        "\"Local poll results 'real springboard' for Scottish Lib Dems\"",
+                        "Mr Rennie said his party had been \"strongest\" in areas where it is targeting the SNP in the June 8 General Election.",
+                        "\"Alex Salmond says General Election is a vote on indyref2\""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Scotland has lost out because the SNP have been distracted by independence"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Stop another divisive independence referendum.",
+                        "Oppose the Conservative's damaging hard Brexit.",
+                        "Invest in education and mental health."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Scotland has lost out because the SNP have been distracted by independence"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "The SNP are obsessed with independence.",
+                        "Conservatives want a blank cheque for a damaging hard brexit.",
+                        "The Liberal Democrats oppose another divisive independence referendum and the Tory hard Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Alex Salmond says General Election is a vote on indyref2"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 2,
+                    "examples": [
+                        "The SNP are obsessed with independence.",
+                        "Conservatives want a blank cheque for a damaging hard brexit."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Alex Salmond says General Election is a vote on indyref2"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

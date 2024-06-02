@@ -1,0 +1,190 @@
+{
+    "leaflet": {
+        "candidateName": "John Glen",
+        "candidateGender": "",
+        "constituency": "Salisbury and South Wiltshire",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Standing with Theresa May",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Opportunity For All",
+                "policyDescription": "Improving skills and expanding apprenticeships."
+            },
+            {
+                "policyTitle": "A Long-Term Plan And Determination In Defending Our Country",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Protecting Our Services Including The NHS",
+                "policyDescription": "Ensuring the services get the resources they need."
+            }
+        ],
+        "mentions": {
+            "candidate": "John Glen",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Strong negotiation hand to get the best deal for Britain.",
+            "defence": "",
+            "economy": "Economic future for Britain.",
+            "education": "Improving skills and expanding apprenticeships.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Ensuring the NHS gets the resources it needs.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "01722 323 050",
+            "email": "john.glen.mp@parliment.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "facebook.com/johnglenmp",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Theresa May",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Think Jeremy Corbyn as Prime Minister is never going to happen? Don't be so sure.",
+                        "Jeremy Corbyn higher debt, higher taxes, economic chaos."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "John Glen, Salisbury and South Wiltshire.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "John Glen, Salisbury and South Wiltshire."
+                ]
+            }
+        }
+    }
+}

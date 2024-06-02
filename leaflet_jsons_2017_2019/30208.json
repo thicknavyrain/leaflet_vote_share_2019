@@ -1,0 +1,156 @@
+{
+    "leaflet": {
+        "candidateName": "Mick Harold",
+        "candidateGender": "",
+        "constituency": "Stoke-on-Trent Central",
+        "politicalParty": "UK Independence Party (UKIP)",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Dear Voter,",
+                "content": "I was born in Stoke where I have lived all my life. I have worked hard to earn a living and running my own local business, therefore I understand the problems facing the many small enterprises in the area. If elected, I will put the people of this City first above any party politics, striving to raise the profile of S-O-T and working to bring the much needed investment and better paid jobs. I campaigned for the UK to leave the EU believing that we are better off out, as do the majority of people in this great City."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Investment and Jobs",
+                "policyDescription": "Working to bring the much needed investment and better paid jobs."
+            }
+        ],
+        "mentions": {
+            "candidate": "Mick Harold",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "I campaigned for the UK to leave the EU believing that we are better off out, as do the majority of people in this great City.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "I have worked hard to earn a living and running my own local business, therefore I understand the problems facing the many small enterprises in the area.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "If elected, I will put the people of this City first above any party politics, striving to raise the profile of S-O-T and working to bring the much needed investment and better paid jobs.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "I was born in Stoke where I have lived all my life.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07968 046272",
+            "email": "candidate@ukip.org",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "I campaigned for the UK to leave the EU believing that we are better off out, as do the majority of people in this great City."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I was born in Stoke where I have lived all my life.",
+                        "If elected, I will put the people of this City first above any party politics, striving to raise the profile of S-O-T and working to bring the much needed investment and better paid jobs.",
+                        "I have worked hard to earn a living and running my own local business, therefore I understand the problems facing the many small enterprises in the area."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "I was born in Stoke where I have lived all my life.",
+                        "I have worked hard to earn a living and running my own local business, therefore I understand the problems facing the many small enterprises in the area.",
+                        "If elected, I will put the people of this City first above any party politics, striving to raise the profile of S-O-T and working to bring the much needed investment and better paid jobs."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "I campaigned for the UK to leave the EU believing that we are better off out, as do the majority of people in this great City."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I was born in Stoke where I have lived all my life.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I was born in Stoke where I have lived all my life.",
+                "employment": "I have worked hard to earn a living and running my own local business.",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I was born in Stoke where I have lived all my life."
+                ]
+            }
+        }
+    }
+}

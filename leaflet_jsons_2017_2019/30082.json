@@ -1,0 +1,200 @@
+{
+    "leaflet": {
+        "candidateName": "Iain Ramsbottom",
+        "candidateGender": "",
+        "constituency": "North West Cambridgeshire",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "Justice, dignity and a positive future",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Action to secure our environment",
+                "policyDescription": "We will take action to fulfil the Paris climate agreement and prevent climate change."
+            },
+            {
+                "policyTitle": "Put the public back into our economy",
+                "policyDescription": "We will put public transport back into public ownership, create a million good jobs, and make the economy work for everyone."
+            },
+            {
+                "policyTitle": "Cut inequality in income and wealth",
+                "policyDescription": "We will tackle falling incomes and raging inequality by increasing wages of the lowest paid."
+            }
+        ],
+        "mentions": {
+            "candidate": "Iain Ramsbottom",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Put the public back into our economy; create a million good jobs",
+            "education": "Invest in schools; National Education Service",
+            "environment": "Action to secure our environment; prevent climate change",
+            "governance": "",
+            "government": "",
+            "health": "Invest in the NHS",
+            "immigration": "",
+            "labourEmployment": "Secure at work; tackle falling incomes",
+            "lawCrime": "Invest in police",
+            "transport": "Public transport back into public ownership",
+            "socialWelfare": "Social justice; secure homes and social care",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Cambridgeshire Labour, Horizon Resource Centre, Oxney Road, March, Cambridgeshire PE15 8JZ",
+            "phone": "01733 224224",
+            "email": "",
+            "website": "www.labour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "The Tories are sacrificing our hard won prosperity and driving down wages while handing out the wealthiest tax cuts for big business.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "create a million good jobs"
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Justice, dignity and a positive future",
+                        "take action to fulfil the Paris climate agreement",
+                        "tackle falling incomes and raging inequality",
+                        "increase wages of the lowest paid",
+                        "put public transport back into public ownership"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 8,
+                    "examples": [
+                        "Invest in the NHS",
+                        "Invest in schools",
+                        "National Education Service",
+                        "Action to secure our environment",
+                        "Put public transport back into public ownership",
+                        "create a million good jobs",
+                        "cut inequality",
+                        "prevent climate change"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Why I am backing Iain Ramsbottom",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Tories are sacrificing our hard won prosperity"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

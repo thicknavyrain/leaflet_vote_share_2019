@@ -1,0 +1,181 @@
+{
+    "leaflet": {
+        "candidateName": "Jo Swinson",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "It's Time to Build a Brighter Future",
+                "content": "Both the Conservatives and Labour are failing time and again to deliver a better future. The Liberal Democrats' plan for government stands in stark contrast to the ideologically driven Conservatives or the Labour Party that has lost its way. Whether it's the Conservatives' hostile environment for immigrants, a hallmark of both Labour and Conservative administrations. A Liberal Democrat government will stop Brexit and deliver a brighter future for everyone."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Leading the fight to Stop Brexit",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Cut NHS waiting times."
+            },
+            {
+                "policyTitle": "Climate Emergency",
+                "policyDescription": "Tackle the climate emergency."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Drive up performance in our schools."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jo Swinson",
+            "otherPartyLeaderCandidate": "Boris Johnson, Jeremy Corbyn",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Leading the fight to Stop Brexit",
+            "defence": "",
+            "economy": "",
+            "education": "Drive up performance in our schools.",
+            "environment": "Tackle the climate emergency.",
+            "governance": "",
+            "government": "",
+            "health": "Cut NHS waiting times.",
+            "immigration": "Conservatives' hostile environment for immigrants",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Tackle the climate emergency.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Liberal Democrats, 8-10 Great George Street, London, SW1P 3AE",
+            "phone": "",
+            "email": "",
+            "website": "www.LibDems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Cut NHS waiting times."
+                    ]
+                },
+                "qualitative": {
+                    "count": 7,
+                    "examples": [
+                        "It's Time to Build a Brighter Future",
+                        "failing time and again to deliver a better future",
+                        "ideologically driven Conservatives",
+                        "The Labour Party that has lost its way",
+                        "A Liberal Democrat government will stop Brexit",
+                        "A Liberal Democrat government will deliver a brighter future for everyone",
+                        "Conservatives' hostile environment for immigrants"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Tackle the climate emergency."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Leading the fight to Stop Brexit",
+                        "Cut NHS waiting times",
+                        "Drive up performance in our schools"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Labour Party that has lost its way"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn's Labour Party: Taking us backwards.",
+                        "Boris Johnson's Conservatives: Taking us backwards."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Boris Johnson: Making a mess out of Brexit.",
+                        "Jeremy Corbyn: Wants to negotiate his own Brexit deal."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

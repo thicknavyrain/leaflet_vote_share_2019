@@ -1,0 +1,195 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "EVERYONE KNOWS LABOUR CAN'T WIN THIS TIME. VOTE LIB DEM TO CHANGE BRITAIN'S FUTURE."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Lib Dems will give you a say on the final Brexit deal. Only the Lib Dems can stop a hard Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Theresa May, Nigel Farage",
+            "partyLeader": "Tim Farron",
+            "tacticalSituation": "Everyone knows Labour can't win this time."
+        },
+        "issues": {
+            "brexitEurope": "Lib Dems will give you a say on the final Brexit deal. Theresa May is pushing the extreme Brexit UKIP want.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "The Times",
+                "endorsement": "Only the Lib Dems can stop a hard Brexit."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "The Lib Dems... have vowed to fight us every step of the way.",
+                "source": "Theresa May",
+                "date": ""
+            },
+            {
+                "text": "All the things that I've been banging on about for the last 20 years have now been adopted wholesale by Theresa May.",
+                "source": "Nigel Farage",
+                "date": "5 May 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 7,
+                    "examples": [
+                        "Tim Farron's Lib Dems will give you a say on the final Brexit deal.",
+                        "Theresa May is pushing the extreme Brexit UKIP want.",
+                        "Everyone knows Labour can't win this time.",
+                        "Vote Lib Dem to change Britain\u2019s future.",
+                        "The Lib Dems... have vowed to fight us every step of the way.",
+                        "Only the Lib Dems can stop a hard Brexit.",
+                        "If her final Brexit deal is a poisoned apple... why should you have to eat it?"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Lib Dems will give you a say on the final Brexit deal. Theresa May is pushing the extreme Brexit UKIP want."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Only the Lib Dems can stop a hard Brexit."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Theresa May is pushing the extreme Brexit UKIP want.",
+                        "Only the Lib Dems can stop a hard Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "The Lib Dems... have vowed to fight us every step of the way. - Theresa May",
+                        "All the things that I've been banging on about for the last 20 years have now been adopted wholesale by Theresa May. - Nigel Farage"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Theresa May is pushing the extreme Brexit UKIP want.",
+                        "Everyone knows Labour can't win this time."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

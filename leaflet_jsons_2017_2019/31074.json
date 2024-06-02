@@ -1,0 +1,176 @@
+{
+    "leaflet": {
+        "candidateName": "Lindsey Hall",
+        "candidateGender": "",
+        "constituency": "Westminster North",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": "Give me and my candidate your vote on Thursday 8th June and I will provide strong and stable leadership for our country. Get the best Brexit deal possible to deliver economic security for our future. Always stand up for you and your family. Don\u2019t risk our future at this crucial moment in history with a vote for anyone else."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Leadership",
+                "policyDescription": "Provide strong and stable leadership for our country."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get the best Brexit deal possible to deliver economic security for our future."
+            },
+            {
+                "policyTitle": "Family Support",
+                "policyDescription": "Always stand up for you and your family. Fight for you and your family as your local champion."
+            },
+            {
+                "policyTitle": "Local Businesses",
+                "policyDescription": "Support local businesses and help them create jobs."
+            },
+            {
+                "policyTitle": "Affordable Housing and Education",
+                "policyDescription": "Deliver on affordable housing and outstanding schools for local residents."
+            }
+        ],
+        "mentions": {
+            "candidate": "Lindsey Hall",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Get the best Brexit deal possible to deliver economic security for our future.",
+            "defence": "",
+            "economy": "",
+            "education": "Deliver on outstanding schools for local residents.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Deliver on affordable housing for local residents.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "209 Shirland Road, London W9 3JP",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Give me and my candidate your vote on Thursday 8th June and I will provide strong and stable leadership for our country."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Deliver on affordable housing for local residents.",
+                        "Deliver on outstanding schools for local residents."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Get the best Brexit deal possible to deliver economic security for our future."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I will continue to be your local champion.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I will continue to be your local champion."
+                ]
+            }
+        }
+    }
+}

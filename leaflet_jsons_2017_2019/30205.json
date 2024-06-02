@@ -1,0 +1,188 @@
+{
+    "leaflet": {
+        "candidateName": "Daniel Jellyman",
+        "candidateGender": "",
+        "constituency": "Stoke-on-Trent Central",
+        "politicalParty": "Conservative",
+        "electionDate": "8 June 2017",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Backing Theresa May\u2019s Strong and Stable Leadership",
+                "policyDescription": "Support Theresa May\u2019s stance in Brexit negotiations and work with her."
+            }
+        ],
+        "mentions": {
+            "candidate": "Daniel Jellyman",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "Local people are backing Daniel Jellyman for stability and Brexit support."
+        },
+        "issues": {
+            "brexitEurope": "Supports Theresa May and Brexit negotiations.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Local people from all political persuasions and backgrounds are backing Daniel Jellyman.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "We need an MP who is going to back Theresa May\u2019s strong and stable leadership during the Brexit negotiations. We need a person fighting for the best deal for Stoke-on-Trent.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "conservatives.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Tom Ward",
+                "endorsement": "I used to support Labour, but I feel let down by how they have treated this city for the last fifty years. We have seen no improvements. It is time to vote for a local lad to be our MP."
+            },
+            {
+                "endorser": "Tamsin Boden",
+                "endorsement": "I have known Daniel since we met at Fenton Sixth Form College. I know how dedicated he is to our city and how hard he will work for everyone, young and old."
+            },
+            {
+                "endorser": "Phill Ball",
+                "endorsement": "We need an MP who supports this and works for local people. This man is Daniel Jellyman, he is a local lad, a local politician and a Brexit supporter."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Local people from all political persuasions and backgrounds are backing local lad Daniel Jellyman to be our next MP. Daniel, was born and lives in Stoke-on-Trent, voted for Brexit and worked in the pottery industry.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Daniel Jellyman shaking hands with Theresa May"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "This City voted overwhelmingly to leave the European Union."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I used to support Labour, but I feel let down by how they have treated this city for the last fifty years.",
+                        "I have known Daniel since we met at Fenton Sixth Form College. I know how dedicated he is to our city.",
+                        "We need an MP who is going to back Theresa May\u2019s strong and stable leadership during the Brexit negotiations."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Daniel, was born and lives in Stoke-on-Trent.",
+                        "We need an MP fighting for the best deal for Stoke-on-Trent. I will be a local MP working in the best interests of each and every resident of our city."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Supports Theresa May and Brexit negotiations."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I have known Daniel since we met at Fenton Sixth Form College. I know how dedicated he is to our city and how hard he will work for everyone, young and old.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 3,
+                "examples": [
+                    "I used to support Labour, but I feel let down by how they have treated this city for the last fifty years.",
+                    "I have known Daniel since we met at Fenton Sixth Form College. I know how dedicated he is to our city and how hard he will work for everyone, young and old.",
+                    "This City voted overwhelmingly to leave the European Union. We need an MP who supports this and works for local people. This man is Daniel Jellyman."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "I used to support Labour, but I feel let down by how they have treated this city for the last fifty years."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "I feel let down by how Labour have treated this city."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Daniel, was born and lives in Stoke-on-Trent.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Daniel, was born and lives in Stoke-on-Trent."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "leaflet": {
+        "candidateName": "Rebecca Long Bailey",
+        "candidateGender": "",
+        "constituency": "Salford and Eccles",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Living Wage",
+                "policyDescription": "Introduce a real living wage of \u00a310 per hour and give all workers full rights from day one."
+            },
+            {
+                "policyTitle": "Pension Protection",
+                "policyDescription": "Protect Pensioners and guarantee the triple lock to protect older people\u2019s pensions and living standards."
+            },
+            {
+                "policyTitle": "Affordable Housing",
+                "policyDescription": "We will build more affordable homes to rent and buy."
+            },
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "We will give the NHS the money it needs."
+            }
+        ],
+        "mentions": {
+            "candidate": "Rebecca Long Bailey",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Introduce a real living wage of \u00a310 per hour and give all workers full rights from day one.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "We will give the NHS the money it needs.",
+            "immigration": "",
+            "labourEmployment": "Introduce a real living wage of \u00a310 per hour and give all workers full rights from day one.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Protect Pensioners and guarantee the triple lock to protect older people\u2019s pensions and living standards.",
+            "community": [
+                {
+                    "content": "We will build more affordable homes to rent and buy.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Introduce a real living wage of \u00a310 per hour"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "give all workers full rights from day one",
+                        "Protect Pensioners and guarantee the triple lock",
+                        "We will give the NHS the money it needs"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "We will build more affordable homes to rent and buy."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Introduce a real living wage of \u00a310 per hour",
+                        "Protect Pensioners and guarantee the triple lock",
+                        "We will give the NHS the money it needs."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

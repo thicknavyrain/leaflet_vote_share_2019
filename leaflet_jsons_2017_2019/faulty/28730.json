@@ -1,0 +1,150 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Welsh NHS Special...",
+                "content": "The Conservatives in Westminster are starving the Welsh NHS of funding. The Liberal Democrats are the only party who will provide the funding our NHS needs."
+            },
+            {
+                "title": "",
+                "content": "The Tory Government are cutting NHS funding, plunging it into crisis. The Conservative Party's record on the NHS is weak. Years of funding squeezes. They have never provided Wales with the resources the NHS needs. And key services are under strain. Five more years under Theresa May will bring our NHS to its knees. Theresa May is trying to ignore the NHS in this election."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "The Liberal Democrats will provide the funding the NHS needs."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "health": "The Conservatives in Westminster are starving the Welsh NHS of funding. The Liberal Democrats are the only party who will provide the funding our NHS needs. The Tory Government are cutting NHS funding, plunging it into crisis. The Conservative Party's record on the NHS is weak. Years of funding squeezes. They have never provided Wales with the resources the NHS needs. And key services are under strain. Five more years under Theresa May will bring our NHS to its knees. Theresa May is trying to ignore the NHS in this election."
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "The Tory Government are cutting NHS funding, plunging it into crisis.",
+                        "The Conservative Party's record on the NHS is weak. Years of funding squeezes.",
+                        "They have never provided Wales with the resources the NHS needs. And key services are under strain.",
+                        "Five more years under Theresa May will bring our NHS to its knees."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The Tory Government are cutting NHS funding, plunging it into crisis."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Tory Government are cutting NHS funding, plunging it into crisis."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Five more years under Theresa May will bring our NHS to its knees.",
+                        "Theresa May is trying to ignore the NHS in this election."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "The Tory Government are cutting NHS funding, plunging it into crisis."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Five more years under Theresa May will bring our NHS to its knees.",
+                        "Theresa May is trying to ignore the NHS in this election."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

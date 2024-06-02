@@ -1,0 +1,153 @@
+{
+    "leaflet": {
+        "candidateName": "Geoffrey Cox",
+        "candidateGender": "",
+        "constituency": "Torridge & West Devon",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday December 12",
+        "messages": [
+            {
+                "title": "Conservatives announce huge boost for local schools",
+                "content": "Geoffrey Cox has secured a massive boost for local schools, helping reverse decades of underfunding. A record-beating \u00a314 billion funding increase has been announced by the Prime Minister after Geoffrey made the case for extra funding in Westminster and Whitehall, allowing for a 15% budget increase in the next 3 years. Schools in Torridge and West Devon will receive one of the largest rises, an immediate 5% under a Conservative Government, rising further to \u00a35,267 per pupil in local primary schools and \u00a35,433 per secondary school pupil in 2020-21. This huge extra injection of funds into local schools means finally reversing decades of Devon\u2019s underfunding. Children with special education-needs and disabilities will get a separate package worth \u00a3700 million to make sure extra support is available for those who need it most. After listening to parents and teachers in his regular visits to local schools, Geoffrey made powerful arguments to ensure the case was heard. Geoffrey said: 'Responsible economic management means we can give this boost to our schools, putting education at the heart of our plan for government.'"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Education Funding",
+                "policyDescription": "Geoffrey Cox has secured a record-beating \u00a314 billion funding increase for local schools, ensuring a 15% budget increase over the next 3 years. Schools in Torridge and West Devon will receive one of the largest rises, with increased per-pupil funding."
+            },
+            {
+                "policyTitle": "Support for Special Education Needs",
+                "policyDescription": "A separate package worth \u00a3700 million will be allocated for children with special education-needs and disabilities to ensure extra support."
+            }
+        ],
+        "mentions": {
+            "candidate": "Geoffrey Cox",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Geoffrey Cox has secured a massive boost for local schools, helping reverse decades of underfunding.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Geoffrey Cox has secured a massive boost for local schools, helping reverse decades of underfunding. A record-beating \u00a314 billion funding increase has been announced by the Prime Minister after Geoffrey made the case for extra funding in Westminster and Whitehall, allowing for a 15% budget increase in the next 3 years.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Geoffrey on one of his regular visits to local schools, listening to pupils, teachers and parents."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 4,
+                    "examples": [
+                        "\u00a314 billion funding increase",
+                        "15% budget increase in the next 3 years",
+                        "\u00a35,267 per pupil in local primary schools",
+                        "\u00a35,433 per secondary school pupil in 2020-21"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "helping reverse decades of underfunding",
+                        "education at the heart of our plan for government"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Geoffrey Cox has secured a massive boost for local schools, helping reverse decades of underfunding. A record-beating \u00a314 billion funding increase has been announced by the Prime Minister after Geoffrey made the case for extra funding in Westminster and Whitehall, allowing for a 15% budget increase in the next 3 years."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "A record-beating \u00a314 billion funding increase has been announced by the Prime Minister."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

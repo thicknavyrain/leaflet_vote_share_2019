@@ -1,0 +1,181 @@
+{
+    "leaflet": {
+        "candidateName": "Chuka Umunna",
+        "candidateGender": "",
+        "constituency": "Cities of London & Westminster",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Building a Brighter Future For Cities of London & Westminster",
+                "content": "Chuka Umunna - Fighting for Cities of London & Westminster."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "Will Stop Brexit and build a brighter future."
+            },
+            {
+                "policyTitle": "Support Local Businesses",
+                "policyDescription": "Support local businesses through business rate reform."
+            },
+            {
+                "policyTitle": "Invest in Schools",
+                "policyDescription": "Invest in schools and mental health services."
+            },
+            {
+                "policyTitle": "Climate Emergency",
+                "policyDescription": "Tackle the climate emergency."
+            }
+        ],
+        "mentions": {
+            "candidate": "Chuka Umunna",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": "Only the Lib Dems can beat the Conservatives."
+        },
+        "issues": {
+            "brexitEurope": "Will Stop Brexit and build a brighter future.",
+            "defence": "",
+            "economy": "Support local businesses through business rate reform.",
+            "education": "Invest in schools and mental health services.",
+            "environment": "Tackle the climate emergency.",
+            "governance": "",
+            "government": "",
+            "health": "Invest in mental health services.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Support local businesses through business rate reform.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "chuka@cLWLbdems.org.uk",
+            "website": "cLWLbdems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 7,
+                    "examples": [
+                        "Chuka Umunna - Fighting for Cities of London & Westminster.",
+                        "Will Stop Brexit and build a brighter future.",
+                        "Support local businesses through business rate reform.",
+                        "Invest in schools and mental health services.",
+                        "Tackle the climate emergency.",
+                        "Only the Lib Dems can beat the Conservatives.",
+                        "The choice here is clear: Lib Dem Chuka Umunna or Boris Johnson's Conservatives."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Support local businesses through business rate reform."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Will Stop Brexit and build a brighter future.",
+                        "Invest in schools and mental health services.",
+                        "Tackle the climate emergency."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "Pursuing a disastrous Brexit",
+                        "Damaging the economy",
+                        "Putting public services at risk"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

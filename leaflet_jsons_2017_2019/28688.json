@@ -1,0 +1,186 @@
+{
+    "leaflet": {
+        "candidateName": "Kevin Brennan",
+        "candidateGender": "",
+        "constituency": "Cardiff West",
+        "politicalParty": "Welsh Labour",
+        "electionDate": "Thursday, 8 June",
+        "messages": [
+            {
+                "title": "Our Welsh Labour pledges to you",
+                "content": "Protect living standards and create better jobs closer to home. Defend our NHS and protect social care. Give all children a chance to achieve. More bobbies on the beat to make our neighborhoods safer. Provide more affordable homes to rent and buy."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protect living standards",
+                "policyDescription": "Create better jobs closer to home."
+            },
+            {
+                "policyTitle": "Defend our NHS",
+                "policyDescription": "Protect social care."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Give all children a chance to achieve."
+            },
+            {
+                "policyTitle": "Law and Order",
+                "policyDescription": "More bobbies on the beat to make our neighborhoods safer."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Provide more affordable homes to rent and buy."
+            }
+        ],
+        "mentions": {
+            "candidate": "Kevin Brennan",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Give all children a chance to achieve.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Defend our NHS and protect social care.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "More bobbies on the beat to make our neighborhoods safer.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Provide more affordable homes to rent and buy.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Welsh Labour candidate for Cardiff West",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Re-Elect Kevin Brennan"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Protect living standards and create better jobs closer to home.",
+                        "Defend our NHS and protect social care.",
+                        "Give all children a chance to achieve.",
+                        "More bobbies on the beat to make our neighborhoods safer.",
+                        "Provide more affordable homes to rent and buy."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Create better jobs closer to home.",
+                        "More bobbies on the beat to make our neighborhoods safer."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Defend our NHS and protect social care."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

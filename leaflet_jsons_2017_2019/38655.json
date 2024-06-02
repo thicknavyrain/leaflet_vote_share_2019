@@ -1,0 +1,187 @@
+{
+    "leaflet": {
+        "candidateName": "Tom Randall",
+        "candidateGender": "",
+        "constituency": "Gedling",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Tom Randall, Your local voice, backing Brexit, backing Boris.",
+                "content": ""
+            },
+            {
+                "title": "my plan for Gedling",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Get Brexit Done",
+                "policyDescription": "Like the majority of Gedling's residents, I voted for Brexit. Gedling's vote to Leave has constantly been ignored by Jeremy Corbyn's Labour candidate. Only the Conservatives can get Brexit done."
+            },
+            {
+                "policyTitle": "More police on Gedling's streets",
+                "policyDescription": "I'll secure Gedling's fair share of the 20,000 extra police officers we'll recruit. I'll also support stronger sentencing, sending a clear message that we are coming after criminals."
+            },
+            {
+                "policyTitle": "More jobs in Gedling",
+                "policyDescription": "Building on our record levels of employment, I'll work with businesses and residents to attract investment and jobs to Gedling."
+            },
+            {
+                "policyTitle": "Supporting our NHS",
+                "policyDescription": "Our NHS is vitally important to all of us. We need more investment so our local NHS services are fit for purpose for patients and staff alike. The Conservatives are investing an extra \u00a333.9 billion in our NHS - I'll secure funding for Gedling."
+            },
+            {
+                "policyTitle": "More funding for schools",
+                "policyDescription": "Every child should have the chance to succeed in life. The Conservatives' \u00a314 billion cash injection will boost per pupil funding for all in Gedling."
+            },
+            {
+                "policyTitle": "Protecting our green spaces",
+                "policyDescription": "Our green spaces are precious and once they're built on, they're gone forever. I'll demand penalties for developers to build on brownfield land first."
+            }
+        ],
+        "mentions": {
+            "candidate": "Tom Randall",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Get Brexit Done",
+            "defence": "",
+            "economy": "More jobs in Gedling",
+            "education": "More funding for schools",
+            "environment": "Protecting our green spaces",
+            "governance": "",
+            "government": "",
+            "health": "Supporting our NHS",
+            "immigration": "",
+            "labourEmployment": "More jobs in Gedling",
+            "lawCrime": "More police on Gedling's streets",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Protecting our green spaces. Our green spaces are precious and once they're built on, they're gone forever. I'll demand penalties for developers to build on brownfield land first.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "1A King Edward Court, King Edward Street, Nottingham, NG1 1EW",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "The Conservatives are investing an extra \u00a333.9 billion in our NHS.",
+                        "The Conservatives' \u00a314 billion cash injection will boost per pupil funding for all in Gedling."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Our NHS is vitally important to all of us.",
+                        "Our green spaces are precious and once they're built on, they're gone forever."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "More police on Gedling's streets",
+                        "More jobs in Gedling"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Get Brexit Done",
+                        "Supporting our NHS"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Like the majority of Gedling's residents, I voted for Brexit. Gedling's vote to Leave has constantly been ignored by Jeremy Corbyn's Labour candidate."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Like the majority of Gedling's residents, I voted for Brexit.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Like the majority of Gedling's residents, I voted for Brexit."
+                ]
+            }
+        }
+    }
+}

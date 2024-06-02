@@ -1,0 +1,146 @@
+{
+    "leaflet": {
+        "candidateName": "Flick Drummond",
+        "candidateGender": "",
+        "constituency": "Portsmouth South",
+        "politicalParty": "",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "",
+                "content": "Since being elected in 2015, I have been putting my 'Plan for Portsmouth' into action. I am hoping to be re-elected by you on June 8th so that I can carry on the work I am doing with some of the brilliant people who support the local community. Portsmouth is a city with some outstanding schools, low unemployment, and improving living standards for everyone. It is a great place to live, work and study."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS Spending and Local Hospitals",
+                "policyDescription": "Government has increased NHS spending to record levels, and the candidate is fighting for further investment in Portsmouth's hospitals."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "I have recently been out with our ambulance teams to see for myself the challenges they face, and we owe everyone working in our NHS a huge debt. This government has increased NHS spending to record levels, and I am fighting for further investment in Portsmouth's hospitals.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Portsmouth is a city with some outstanding schools, low unemployment, and improving living standards for everyone.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "02392 292690",
+            "email": "flick@flickdrummond.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "fb.com/flickdrummond",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "This government has increased NHS spending to record levels."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Portsmouth is a city with some outstanding schools, low unemployment, and improving living standards for everyone."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 4,
+                "candidateAlone": 1,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "I have recently been out with our ambulance teams to see for myself the challenges they face, and we owe everyone working in our NHS a huge debt.",
+                        "Portsmouth is a city with some outstanding schools, low unemployment, and improving living standards for everyone."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "This government has increased NHS spending to record levels."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

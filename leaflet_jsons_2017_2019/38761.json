@@ -1,0 +1,164 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "\u00a310billion extra for schools",
+                "content": "The Liberal Democrats will reverse severe cuts by investing an extra \u00a310billion in schools. We should be investing in our children\u2019s futures, not damaging them."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Education",
+                "policyDescription": "End Tory cuts to education and ensure our teachers have the resources needed for our children to learn."
+            },
+            {
+                "policyTitle": "Mental Health",
+                "policyDescription": "Mental health professionals in schools."
+            },
+            {
+                "policyTitle": "Youth Services",
+                "policyDescription": "Increased funding for youth services."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "People are fed up with the Brexit chaos. It has become a national embarrassment.",
+            "defence": "",
+            "economy": "",
+            "education": "The Liberal Democrats will reverse severe cuts by investing an extra \u00a310billion in schools. We should be investing in our children\u2019s futures, not damaging them.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Mental health professionals in schools.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "\u00a310billion extra for schools",
+                        "End Tory cuts to education and ensure our teachers have the resources needed for our children to learn."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "We should be investing in our children\u2019s futures, not damaging them.",
+                        "People are fed up with the Brexit chaos. It has become a national embarrassment."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "People are fed up with the Brexit chaos. It has become a national embarrassment."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "People are fed up with the Brexit chaos. It has become a national embarrassment."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn's Labour party have aided and abetted the Conservatives on Brexit and have made it clear that they too are a party of Brexit."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

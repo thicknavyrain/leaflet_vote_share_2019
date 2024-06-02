@@ -1,0 +1,189 @@
+{
+    "leaflet": {
+        "candidateName": "Angela Rayner",
+        "candidateGender": "Female",
+        "constituency": "Ashton-under-Lyne",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Defending public services",
+                "policyDescription": "Defending our public services and protecting our green spaces."
+            },
+            {
+                "policyTitle": "Supporting local businesses and jobs",
+                "policyDescription": "Standing up for local people, fighting for our businesses and jobs."
+            }
+        ],
+        "mentions": {
+            "candidate": "I've been a strong voice for this area but I need your support to be re-elected as your Labour MP.",
+            "otherPartyLeaderCandidate": "Theresa May's Tory Government is taking a hammer to public services.",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The Brexit result was clear, and I accept it.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Protecting our green spaces",
+            "governance": "",
+            "government": "",
+            "health": "As a local doctor, I've witnessed the effects of Tory underfunding and privatisation of our NHS. Angela is the only credible candidate in this election pledging to protect our vital health service.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "If you've worked all your life you should not fear retirement. Tory plans to scrap the 'Triple Lock' which Labour pledges to protect shows only a vote for Angela can protect the state pension.",
+            "community": [
+                {
+                    "content": "Working hard for Ashton-under-Lyne.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "As a local candidate who lives in the constituency, the place I have chosen to raise my family, it has been an honour and a privilege to represent you as your Member of Parliament.",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "0161 331 2177",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Kailash Chand OBE",
+                "endorsement": "As a local doctor I've witnessed the effects of Tory underfunding and privatisation of our NHS. Angela is the only credible candidate in this election pledging to protect our vital health service."
+            },
+            {
+                "endorser": "Joan Davis",
+                "endorsement": "If you've worked all your life you should not fear retirement. Tory plans to scrap the 'Triple Lock' which Labour pledges to protect shows only a vote for Angela can protect the state pension."
+            },
+            {
+                "endorser": "Linda Hughes",
+                "endorsement": "I want my children to be able to go to University. Labour's plans to bring back maintenance grants will help them continue their education without worrying about money."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Tory plans to scrap the 'Triple Lock'."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Angela is the only credible candidate in this election pledging to protect our vital health service."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 4,
+                "candidateAlone": 1,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Local GP services are being stretched.",
+                        "Schools forced to send begging letters to parents.",
+                        "Real wages for local people down \u00a31,110 per year."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May's Tory Government is taking a hammer to public services."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I am proud of my record of standing up for local people.",
+                    "issueRelated": "Local people and businesses"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 3,
+                "examples": [
+                    "As a local doctor I've witnessed the effects of Tory underfunding and privatisation of our NHS.",
+                    "If you've worked all your life you should not fear retirement.",
+                    "I want my children to be able to go to University."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 3,
+                    "examples": [
+                        "Local GP services are being stretched.",
+                        "Schools forced to send begging letters to parents.",
+                        "Real wages for local people down \u00a31,110 per year."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May's Tory Government is taking a hammer to public services."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May's Tory Government is taking a hammer to public services."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "As a local candidate who lives in the constituency, the place I have chosen to raise my family.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "As a local candidate who lives in the constituency, the place I have chosen to raise my family."
+                ]
+            }
+        }
+    }
+}

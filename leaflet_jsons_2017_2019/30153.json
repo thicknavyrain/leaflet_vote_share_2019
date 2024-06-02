@@ -1,0 +1,145 @@
+{
+    "leaflet": {
+        "candidateName": "Daniel Jellyman",
+        "candidateGender": "",
+        "constituency": "Stoke-on-Trent Central",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Standing with Theresa May",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Daniel Jellyman",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "BREXIT: EUROPE STUNNED BY UK LEAVE VOTE",
+            "defence": "",
+            "economy": "The risk is just too big to take: Higher debt, higher taxes, economic chaos",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "Strong, stable leadership in the national interest",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "BREXIT: EUROPE STUNNED BY UK LEAVE VOTE",
+                        "CORBYN WAS 200/1 OUTSIDER",
+                        "THE RISK IS JUST TOO BIG TO TAKE: HIGHER DEBT, HIGHER TAXES, ECONOMIC CHAOS"
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 3,
+                "candidateAlone": 2,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": []
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Strong, stable leadership in the national interest",
+                        "Think Jeremy Corbyn as Prime Minister is never going to happen? DON'T BE SO SURE",
+                        "The risk is just too big to take: Higher debt, higher taxes, economic chaos",
+                        "A coalition of chaos with Jeremy Corbyn"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn",
+                        "The risk is just too big to take: Higher debt, higher taxes, economic chaos"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

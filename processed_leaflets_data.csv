@@ -1,0 +1,1008 @@
+leaflet_ID,Party,Constituency,mention_Candidate,mention_Other party/leader/candidate,mention_Party leader,mention_Tactical situation,issue_Brexit/Europe,issue_Economy,issue_Education,issue_Environment,issue_Governance,issue_Health,issue_Immigration,issue_Social welfare,num_key_policies,yimby_nimby,num_quantitative_statements,num_qualitative_statements,num_local_issues,num_national_issues,num_endorsements,negative_local_issues,negative_national_issues,negative_leader_of_opponents_party,negative_opposite_candidate_no_name,negative_opposite_candidate_with_name,is_local
+31182,Liberal Democrats,Cambridge,1,1,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,4,0,1,0,0,1,1,0,0,0
+31193,Conservative Party,South Holland and The Deepings,1,0,0,0,1,0,0,0,0,0,0,0,0,OTHER,1,5,2,3,1,0,0,0,0,0,0
+31210,Liberal Democrats,South Cambridgeshire,1,0,0,0,0,0,1,1,0,0,0,0,2,OTHER,0,2,0,2,0,0,1,0,0,0,0
+31222,Labour Party,Aberconwy,0,1,0,0,1,0,0,1,0,1,0,0,6,OTHER,2,4,0,6,1,0,1,0,0,0,0
+31260,Conservative Party,Sittingbourne and Sheppey,1,1,1,0,1,0,0,0,0,0,0,0,1,OTHER,1,2,2,1,0,0,0,1,0,0,1
+31273,Labour Party,Cambridge,1,1,0,0,1,0,0,1,0,1,0,0,1,OTHER,0,1,0,1,0,0,0,1,0,0,0
+31292,Conservative Party,Winchester,1,1,0,1,1,0,0,0,0,1,0,0,1,OTHER,2,2,1,2,0,0,1,1,0,0,0
+31302,Liberal Democrats,Colchester,1,0,0,1,0,0,0,0,0,0,0,0,1,OTHER,1,3,1,1,3,0,1,0,0,1,1
+31320,Green Party,Sittingbourne and Sheppey,1,0,0,0,0,1,1,1,0,1,0,0,7,YIMBY,1,2,1,1,0,0,1,0,1,0,1
+31332,Conservative Party,Reading West,1,1,1,0,1,1,1,1,0,1,0,0,6,YIMBY,3,3,8,6,0,0,1,1,0,0,1
+31351,Conservative Party,Reading West,1,0,0,1,1,0,1,0,0,1,0,0,4,OTHER,2,2,0,3,0,0,0,0,0,0,0
+31360,Conservative Party,Southampton Test,0,0,0,0,0,0,0,0,0,0,0,0,3,OTHER,3,2,0,1,0,0,0,0,0,0,0
+31385,Liberal Democrats,Newbury,1,0,0,0,0,0,1,1,0,0,0,0,2,OTHER,0,1,0,2,1,0,0,0,0,0,0
+31401,Conservative Party,Barrow and Furness,0,1,0,1,1,0,1,0,0,1,0,0,3,OTHER,4,1,1,3,0,0,3,2,1,2,0
+31413,Conservative Party,Witney,1,0,0,0,0,0,0,0,0,0,0,0,3,OTHER,3,1,1,2,0,0,0,0,0,0,1
+31433,Liberal Democrats,Vauxhall,1,0,1,1,0,0,0,0,0,0,0,0,1,NIMBY,1,3,1,1,0,0,0,0,0,0,0
+31444,Conservative Party,Brecon and Radnorshire,0,1,1,1,1,0,1,0,0,1,0,0,5,OTHER,3,6,2,2,0,0,1,1,0,0,0
+31462,Brexit/Reform Party,West Bromwich West,0,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,1,1,0,1,0,0,1,0,0,0,0
+31471,Labour Party,Ealing Southall,1,0,0,0,1,0,1,1,0,1,0,1,5,OTHER,0,3,2,3,3,0,0,0,0,0,1
+31482,Labour Party,Sheffield Central,1,0,0,0,1,1,1,1,0,1,0,1,7,NIMBY,0,8,0,4,1,1,2,0,1,0,1
+31490,Scottish National Party,Edinburgh North and Leith,1,0,0,0,1,1,0,1,1,0,0,1,4,OTHER,1,4,2,2,0,0,0,0,0,0,1
+31511,Labour Party,Vauxhall,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,0,0,0,0,0,1
+31520,Labour Party,Southampton Test,1,1,0,0,0,0,1,1,0,1,0,0,5,OTHER,1,1,2,2,0,0,1,0,0,1,1
+31531,Conservative Party,Chingford and Woodford Green,1,1,1,1,1,1,1,1,0,1,0,1,5,NIMBY,3,3,5,2,0,2,2,1,0,2,1
+31540,Scottish National Party,Glasgow Central,1,0,0,0,0,0,0,0,0,0,0,1,2,NIMBY,2,3,1,2,1,0,1,0,0,0,0
+31562,Liberal Democrats,Altrincham and Sale West,1,0,1,0,0,0,0,0,0,0,0,0,0,YIMBY,0,4,1,2,0,0,2,0,0,0,0
+31570,Green Party,Tewkesbury,1,0,1,1,1,0,0,1,0,0,0,0,3,OTHER,2,3,1,2,1,0,1,0,0,0,1
+31602,Liberal Democrats,Skipton and Ripon,1,1,0,1,1,0,0,1,0,0,0,0,1,OTHER,1,3,2,3,0,0,1,3,0,3,1
+31622,Liberal Democrats,Chingford and Woodford Green,0,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,3,0,1,3,0,0,0,0,0,0
+31642,Conservative Party,Mid Sussex,1,0,1,1,1,0,1,1,0,1,0,0,7,OTHER,3,4,4,3,0,0,3,1,1,0,1
+31650,Labour Party,Airdrie and Shotts,1,0,0,0,0,0,0,0,0,1,0,0,0,OTHER,1,0,1,1,0,0,0,0,0,0,0
+31662,Liberal Democrats,Putney,1,1,1,0,1,1,1,1,0,1,0,0,5,OTHER,0,1,0,2,0,0,1,1,0,0,0
+31690,Labour Party,Leeds North West,1,1,0,0,0,0,0,1,0,1,0,0,3,YIMBY,0,1,3,2,1,0,1,1,0,0,1
+31702,Green Party,West Dorset,1,0,0,0,1,0,0,1,0,0,0,0,2,OTHER,0,1,0,2,1,0,0,0,0,0,0
+31721,Conservative Party,Congleton,1,1,0,0,0,0,1,1,0,1,0,0,6,YIMBY,1,3,3,1,0,0,0,0,0,0,1
+31734,Liberal Democrats,Wantage,1,1,0,1,1,0,0,1,0,0,0,0,1,OTHER,0,4,2,1,0,0,0,0,0,1,1
+31742,Labour Party,Birmingham Ladywood,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,0,0,0,0,0,1
+31894,Conservative Party,Birmingham Erdington,1,1,0,0,1,0,0,1,0,1,0,0,9,NIMBY,2,5,3,2,0,1,1,1,0,0,1
+31919,Labour Party,Lewisham West and Penge,1,0,0,1,1,0,0,1,0,0,0,0,4,YIMBY,2,3,1,1,1,0,1,0,0,0,1
+31932,Liberal Democrats,South West Wiltshire,1,1,1,0,1,0,0,1,0,0,0,0,1,OTHER,0,2,0,2,0,0,0,0,0,0,0
+31944,Scottish National Party,Gordon,1,1,0,0,1,0,0,0,0,0,0,1,0,YIMBY,1,4,1,2,0,1,2,1,0,1,1
+31954,Conservative Party,West Bromwich West,0,0,1,1,1,1,0,1,0,0,0,0,1,OTHER,2,4,1,1,0,0,0,0,0,0,0
+31960,Conservative Party,Welwyn Hatfield,1,1,1,1,1,0,0,0,0,1,0,0,4,YIMBY,2,3,4,1,0,0,0,1,0,0,1
+31973,Liberal Democrats,North East Fife,1,0,0,1,0,0,0,0,0,1,0,0,3,YIMBY,1,2,7,0,3,1,0,0,1,0,1
+31980,Green Party,Mid Worcestershire,1,0,0,0,1,0,0,1,0,0,0,0,2,OTHER,0,0,0,2,1,0,0,0,0,0,0
+32000,Liberal Democrats,South East Cambridgeshire,1,0,0,0,1,0,1,1,0,1,0,0,3,OTHER,1,1,0,5,0,0,0,0,0,0,0
+32012,Conservative Party,Brecon and Radnorshire,1,0,1,1,1,1,1,0,0,1,0,1,4,OTHER,2,2,1,2,1,0,0,0,0,0,1
+32032,Liberal Democrats,Sittingbourne and Sheppey,1,1,1,0,1,0,0,1,0,1,0,0,4,YIMBY,2,3,2,3,1,0,1,1,0,0,1
+32041,Plaid Cymru,Cardiff West,1,1,1,0,1,0,0,0,0,0,0,0,1,NIMBY,0,3,1,2,0,0,1,1,0,0,0
+32051,Green Party,Oxford East,1,0,1,0,1,0,1,1,0,1,0,0,4,OTHER,1,5,2,5,1,1,1,0,0,0,1
+32062,Conservative Party,Workington,0,1,1,1,1,1,0,0,0,0,0,0,1,OTHER,0,0,0,1,1,0,0,0,0,0,0
+32070,Conservative Party,Newport West,1,0,1,1,1,1,1,0,0,1,0,0,5,OTHER,3,2,0,1,0,0,1,0,0,0,0
+32080,Liberal Democrats,Guildford,0,1,0,0,1,1,1,0,0,1,0,0,1,OTHER,2,2,0,4,0,0,1,1,0,0,0
+32090,Conservative Party,Salisbury,1,1,0,0,1,0,1,1,0,1,0,0,6,YIMBY,4,2,2,4,1,0,2,1,0,1,1
+32102,Conservative Party,Southampton Itchen,1,1,1,1,1,1,1,0,0,0,0,0,4,YIMBY,3,3,1,4,1,0,1,2,0,1,0
+32123,Liberal Democrats,Southampton Itchen,1,1,1,0,0,0,1,0,0,1,0,0,2,OTHER,2,5,0,2,0,0,1,2,0,0,0
+32138,Green Party,Sutton Coldfield,1,0,0,0,1,0,0,1,0,0,0,0,1,OTHER,0,1,0,2,0,0,0,0,0,0,0
+32154,Conservative Party,Pendle,1,1,1,1,1,0,0,0,0,0,0,0,4,YIMBY,2,3,2,1,0,0,1,1,0,1,1
+32160,Conservative Party,North East Hampshire,1,1,1,0,1,1,1,0,0,1,0,0,5,NIMBY,3,3,3,5,0,0,0,1,0,0,1
+32182,Brexit/Reform Party,Sedgefield,0,1,0,1,1,0,0,0,0,0,0,0,1,OTHER,0,2,1,2,1,0,0,1,0,1,0
+32190,Scottish National Party,Edinburgh North and Leith,1,0,0,0,1,1,0,1,0,1,0,1,6,NIMBY,0,3,3,3,6,0,1,0,0,0,1
+32213,Labour Party,Ealing Southall,1,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,0,0,1,0,0,0,0,0,0,0
+32224,Liberal Democrats,Brecon and Radnorshire,1,0,0,0,0,0,0,0,0,1,0,0,1,OTHER,1,3,0,1,0,0,1,0,0,0,0
+32231,Green Party,Congleton,1,0,0,0,1,0,0,1,0,0,0,0,3,OTHER,0,3,1,3,0,0,1,0,0,0,0
+32240,Green Party,Huddersfield,1,1,0,1,0,1,0,1,0,1,0,0,3,NIMBY,1,1,4,1,0,1,0,0,1,0,1
+32260,Liberal Democrats,Cambridge,1,1,0,0,0,0,0,0,0,1,0,0,1,OTHER,2,3,0,1,0,0,1,0,0,0,0
+32272,Labour Party,Cardiff West,1,1,1,0,1,0,1,1,0,1,0,0,3,YIMBY,1,1,3,3,1,0,1,1,0,0,1
+32292,Labour Party,Cambridge,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,0,0,0,0,0,0
+32322,Labour Party,Croydon South,0,1,0,0,1,0,0,1,0,1,0,0,6,OTHER,0,1,0,2,1,0,1,1,0,0,0
+32330,Liberal Democrats,City of Durham,1,1,0,1,0,0,0,1,1,1,0,0,3,OTHER,2,2,1,1,1,0,0,1,0,0,0
+32343,Labour Party,Croydon South,1,1,0,1,1,0,0,1,0,1,0,0,3,OTHER,0,3,2,1,0,0,0,1,0,0,0
+32361,Scottish National Party,Central Ayrshire,1,1,0,0,1,0,0,0,1,1,0,1,4,OTHER,2,4,0,3,0,0,2,1,2,1,0
+32372,Liberal Democrats,Shipley,1,1,1,0,1,1,0,0,0,0,0,0,1,OTHER,0,3,0,3,1,0,3,2,0,0,0
+32385,Conservative Party,Esher and Walton,1,1,1,0,1,0,1,1,0,1,0,0,6,YIMBY,1,2,2,1,0,0,0,1,0,0,0
+32395,Liberal Democrats,Northampton North,1,1,1,0,1,1,0,0,0,0,0,0,1,OTHER,1,3,0,2,0,0,1,1,1,0,0
+32403,Liberal Democrats,Cambridge,0,1,0,1,1,0,0,0,0,0,0,0,0,OTHER,1,2,1,3,0,1,1,1,1,1,0
+32411,Conservative Party,Suffolk Coastal,1,0,0,0,0,0,0,0,0,0,0,0,3,OTHER,0,0,0,0,1,0,0,0,0,0,0
+32423,Conservative Party,Chesham and Amersham,1,0,0,0,1,1,1,1,0,1,0,0,5,YIMBY,5,3,3,2,0,0,0,0,0,0,1
+32432,Conservative Party,South West Surrey,1,0,0,0,0,0,0,0,0,1,0,0,2,OTHER,2,2,2,1,1,0,0,0,0,0,0
+32442,Labour Party,Ealing Southall,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,0,0,0,0,0,1
+32460,Liberal Democrats,Wantage,1,1,0,0,0,0,0,0,0,1,0,0,1,OTHER,1,5,0,1,0,0,1,0,0,0,0
+32471,Liberal Democrats,Brecon and Radnorshire,0,1,0,1,0,0,0,0,0,0,0,0,1,YIMBY,0,1,1,1,1,0,1,0,0,0,0
+32481,Liberal Democrats,Altrincham and Sale West,0,1,0,1,1,0,0,0,0,0,0,0,1,OTHER,3,2,1,2,2,0,1,1,0,0,0
+32491,Liberal Democrats,Watford,1,0,0,1,1,0,0,0,0,0,0,0,0,OTHER,2,2,0,2,0,0,1,0,0,0,0
+32510,Scottish National Party,Aberdeen South,1,0,0,0,0,0,0,0,0,0,0,0,1,OTHER,0,0,1,0,1,0,0,0,0,0,0
+32521,Labour Party,Kingston upon Hull North,1,1,0,0,0,0,0,1,0,1,0,1,6,OTHER,1,1,1,5,0,0,1,0,1,0,0
+32542,Liberal Democrats,Woking,1,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,1,0,1,0,0,0,0,0,0,0
+32556,Liberal Democrats,Witney,1,0,0,0,0,0,0,0,0,0,0,0,3,YIMBY,0,0,3,0,0,0,0,0,0,0,1
+32564,Liberal Democrats,Wirral South,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,1,3,1,0,0,0,0,0,0,0,1
+32581,Labour Party,Walsall North,1,0,0,0,0,0,0,0,0,0,0,0,0,YIMBY,0,1,1,0,0,0,0,0,0,0,0
+32593,Green Party,Skipton and Ripon,1,0,1,0,1,0,0,1,0,0,0,0,5,NIMBY,0,2,1,1,1,0,0,0,0,0,0
+32610,Labour Party,North Norfolk,1,0,0,0,1,0,1,0,0,1,0,0,3,YIMBY,0,3,3,1,1,0,0,0,0,0,1
+32620,Liberal Democrats,Witney,1,1,1,1,1,1,0,1,0,1,0,0,3,OTHER,1,5,0,2,0,0,2,1,0,0,0
+32644,Green Party,Bradford South,1,0,0,0,0,0,0,1,0,0,0,0,3,NIMBY,0,3,1,2,1,1,0,0,0,0,0
+32650,Conservative Party,Richmond Park,0,1,0,1,0,0,0,0,0,0,0,0,0,NIMBY,1,2,1,1,0,0,2,1,0,0,0
+32671,Conservative Party,Sittingbourne and Sheppey,1,0,1,1,1,1,1,0,0,1,0,0,5,OTHER,4,3,1,1,1,0,1,0,0,0,1
+32680,Conservative Party,Gordon,1,1,0,1,0,0,0,0,0,0,0,0,1,OTHER,2,5,0,6,0,0,1,1,0,0,0
+32690,Conservative Party,City of Durham,1,0,0,1,0,0,0,0,0,0,0,0,0,OTHER,1,2,1,0,0,0,0,0,0,0,0
+32711,Labour Party,Bishop Auckland,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,1,0,0,1,0,0,0,0
+32732,Conservative Party,Bognor Regis and Littlehampton,1,0,1,0,0,1,1,1,0,1,0,1,3,NIMBY,2,4,3,2,1,0,0,0,0,0,0
+32742,Liberal Democrats,Wantage,1,1,1,0,0,1,0,0,0,1,0,0,3,YIMBY,1,1,1,2,1,0,0,3,0,0,0
+32753,Labour Party,North Durham,1,0,0,0,1,0,0,0,0,1,0,1,5,OTHER,4,4,3,3,5,1,3,0,0,0,1
+32770,Conservative Party,Aylesbury,1,1,0,1,0,0,0,0,0,1,0,0,3,YIMBY,4,7,2,1,0,0,1,1,0,1,0
+32809,Conservative Party,Chingford and Woodford Green,1,1,1,0,1,1,1,1,0,1,0,0,9,NIMBY,3,3,5,3,1,1,3,1,0,0,0
+32812,Conservative Party,Croydon Central,0,0,1,0,0,0,0,0,0,0,0,0,0,OTHER,1,6,0,1,0,0,1,1,0,0,0
+32834,Conservative Party,North Norfolk,0,0,1,1,1,0,0,0,0,0,0,0,1,OTHER,1,0,1,1,1,0,0,0,0,0,0
+32841,Liberal Democrats,Croydon South,1,1,1,1,1,0,0,0,0,0,0,0,5,YIMBY,2,2,1,3,0,1,2,0,1,0,1
+32850,Conservative Party,Northampton North,1,0,0,0,0,1,0,0,0,0,0,0,3,YIMBY,1,5,3,1,0,0,0,0,0,0,0
+32862,Conservative Party,West Bromwich West,1,0,0,0,0,0,1,0,0,1,0,0,6,YIMBY,1,6,5,2,0,0,0,0,0,0,1
+32873,Liberal Democrats,Wigan,1,1,1,0,1,1,1,1,0,1,0,0,4,YIMBY,0,6,2,4,0,0,1,1,0,0,1
+32882,Conservative Party,Reading West,1,1,0,1,0,0,1,1,0,1,0,0,6,YIMBY,2,3,3,4,0,0,0,1,0,0,0
+32901,Liberal Democrats,Brigg and Goole,1,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,0,0,1,1,0,0,0,0,0,0
+32922,Liberal Democrats,Esher and Walton,1,1,0,1,1,0,1,0,0,1,0,0,2,OTHER,0,6,0,3,0,0,2,2,0,2,1
+32932,Labour Party,Gedling,0,0,0,0,0,0,0,0,0,1,0,0,1,OTHER,0,2,1,1,0,0,1,0,1,0,1
+32952,Conservative Party,Gordon,1,0,0,1,0,0,0,0,0,0,0,0,1,OTHER,1,1,1,0,0,0,0,0,0,0,0
+32970,Conservative Party,Boston and Skegness,1,0,0,0,1,0,0,0,0,1,0,0,3,OTHER,2,2,2,1,0,0,0,0,0,0,0
+32999,Liberal Democrats,North Norfolk,1,1,0,0,1,0,1,1,0,1,0,0,4,OTHER,1,4,0,4,2,0,0,1,0,1,0
+33002,Labour Party,Putney,1,1,0,1,1,1,1,1,0,1,0,1,5,YIMBY,1,4,1,5,0,0,1,1,0,0,0
+33013,Liberal Democrats,Putney,0,0,0,1,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,0,0,1,0,0,0,0,0
+33024,Conservative Party,Hornchurch and Upminster,0,1,0,1,1,1,1,1,1,1,1,0,7,OTHER,2,2,1,1,1,0,1,1,0,0,0
+33030,Liberal Democrats,Leeds West,1,0,1,0,1,1,1,1,0,1,1,0,4,OTHER,1,2,2,5,0,0,1,0,0,0,1
+33044,Labour Party,Croydon South,1,1,0,1,1,0,0,0,0,1,0,0,2,NIMBY,2,4,1,2,1,0,1,1,0,0,1
+33073,Scottish National Party,North East Fife,1,1,0,0,1,0,0,1,0,1,0,1,5,OTHER,1,1,3,3,3,0,1,1,0,0,1
+33093,Liberal Democrats,North East Hampshire,1,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,1,0,1,0,0,0,0,0,0,0
+33101,Green Party,Isle of Wight,1,0,0,1,1,0,0,1,0,0,0,0,4,OTHER,1,2,2,2,0,1,1,0,0,0,0
+33120,Brexit/Reform Party,Cardiff West,1,1,0,1,1,0,0,0,0,0,0,0,1,OTHER,1,0,0,1,1,0,1,0,0,0,0
+33148,Conservative Party,Tonbridge and Malling,1,0,0,0,1,0,1,0,0,1,0,0,4,YIMBY,0,2,1,1,4,0,0,0,0,0,0
+33150,Conservative Party,Arundel and South Downs,1,0,0,0,0,1,1,1,0,1,0,0,6,NIMBY,1,1,2,4,0,1,1,0,0,0,1
+33161,Labour Party,Chipping Barnet,1,0,0,1,1,1,1,1,0,1,0,0,5,OTHER,2,0,1,5,1,0,0,0,0,0,0
+33171,Labour Party,Thirsk and Malton,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,1,0,0,0,0,0,0,0,0
+33181,Liberal Democrats,Witney,0,1,0,0,0,0,0,0,0,1,0,0,1,OTHER,1,3,0,3,1,0,2,1,0,2,0
+33202,Labour Party,Lewisham Deptford,1,0,0,0,1,0,1,1,0,1,0,0,5,YIMBY,1,5,3,3,1,2,1,1,0,0,1
+33222,Labour Party,Wirral South,1,1,0,0,0,0,0,0,0,1,0,0,1,OTHER,0,5,1,1,1,1,1,0,0,0,1
+33233,Liberal Democrats,Brecon and Radnorshire,0,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+33244,Conservative Party,Wallasey,1,1,1,1,1,1,1,0,0,1,0,0,6,YIMBY,4,4,1,4,1,1,0,1,0,1,1
+33252,Conservative Party,Wallasey,1,1,0,0,1,0,0,0,0,1,0,1,6,OTHER,2,2,1,2,0,0,1,1,0,1,1
+33272,Labour Party,Cambridge,1,1,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,2,1,1,0,0,1,1,0,0,0
+33285,Conservative Party,Sutton Coldfield,1,1,1,1,1,1,1,1,0,1,0,0,7,NIMBY,8,6,6,9,0,0,1,1,0,2,1
+33293,Labour Party,Congleton,1,0,1,0,0,0,1,1,0,1,0,0,3,YIMBY,1,3,3,2,1,0,0,0,0,0,0
+33300,Conservative Party,South West Norfolk,1,0,0,0,0,0,1,0,0,0,0,0,3,OTHER,1,8,1,3,0,0,0,0,0,0,0
+33311,Liberal Democrats,South West Norfolk,1,0,1,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+33324,Liberal Democrats,Scarborough and Whitby,1,0,1,0,1,0,0,0,0,0,0,0,1,OTHER,1,3,1,1,0,0,1,0,0,0,0
+33342,Labour Party,Scarborough and Whitby,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,0,0,0,0,0,1
+33351,Labour Party,Brecon and Radnorshire,1,1,0,0,0,0,0,1,0,1,0,0,5,YIMBY,1,4,2,3,2,1,3,0,0,0,1
+33360,Brexit/Reform Party,Poplar and Limehouse,1,0,0,1,0,1,0,0,0,0,0,1,1,OTHER,0,3,1,1,0,1,0,0,0,0,0
+33372,Labour Party,Newport West,1,0,0,1,0,0,0,0,0,1,0,1,3,OTHER,0,1,0,3,1,0,0,0,0,0,0
+33401,Labour Party,Skipton and Ripon,1,1,1,0,1,0,1,1,0,1,0,0,3,OTHER,0,8,3,3,1,1,3,1,0,0,1
+33414,Conservative Party,South Cambridgeshire,0,0,1,0,1,0,1,0,0,1,0,0,4,OTHER,2,1,0,4,0,0,0,0,0,0,0
+33425,Conservative Party,Airdrie and Shotts,0,1,1,1,0,0,0,0,0,0,0,0,1,OTHER,1,1,0,1,0,0,0,1,0,1,0
+33440,Conservative Party,West Ham,1,1,0,0,0,0,0,0,0,0,0,0,3,YIMBY,0,3,3,1,0,1,0,1,0,0,0
+33454,Liberal Democrats,Reading West,1,1,1,1,1,1,1,1,0,1,0,0,5,OTHER,1,9,0,4,4,0,1,2,0,0,1
+33473,Labour Party,Woking,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,0,0,0,0,0,0
+33482,Conservative Party,Woking,1,1,0,1,0,0,0,1,0,1,0,0,3,YIMBY,1,4,5,2,0,0,0,1,0,0,1
+33500,Liberal Democrats,Mid Sussex,1,0,0,1,1,0,1,1,0,0,1,0,4,YIMBY,4,2,3,3,1,0,2,0,0,0,1
+33511,Labour Party,Newbury,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+33520,Conservative Party,Newbury,1,0,0,0,0,0,1,1,0,1,0,1,3,YIMBY,1,4,2,0,0,0,0,0,0,0,0
+33533,Liberal Democrats,Woking,1,1,0,1,1,1,1,1,0,1,0,0,3,OTHER,3,2,2,3,2,0,2,2,1,0,1
+33550,Liberal Democrats,Brecon and Radnorshire,1,1,0,1,0,0,1,0,0,1,0,0,2,NIMBY,2,3,0,2,2,0,2,1,0,1,0
+33560,Conservative Party,North Norfolk,0,0,0,0,0,0,0,0,0,1,0,0,4,OTHER,4,1,0,1,0,0,0,0,0,0,0
+33571,Conservative Party,Torridge and West Devon,1,0,1,0,1,1,1,0,0,1,0,0,7,YIMBY,3,3,1,6,0,0,0,0,0,0,1
+33592,Conservative Party,Southampton Itchen,0,1,0,0,1,0,0,0,0,0,0,0,1,OTHER,1,1,0,1,0,0,1,1,0,0,0
+33602,Labour Party,Chingford and Woodford Green,1,0,0,0,1,0,1,0,0,1,0,0,6,NIMBY,2,7,4,1,0,0,0,0,0,0,0
+33621,Green Party,Rhondda,1,0,0,0,0,1,0,1,0,1,0,1,3,OTHER,1,2,1,2,0,0,0,0,0,0,1
+33630,Labour Party,Calder Valley,1,0,0,1,0,0,0,1,0,1,0,0,5,YIMBY,1,9,3,2,0,0,0,0,0,0,1
+33641,Conservative Party,Newcastle-under-Lyme,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+33651,Conservative Party,Newcastle-under-Lyme,0,1,1,1,1,1,1,0,0,1,0,0,6,OTHER,6,4,2,6,0,0,1,0,0,1,0
+33661,Conservative Party,Newcastle-under-Lyme,1,0,0,0,1,0,0,1,0,1,0,0,1,OTHER,4,2,1,2,1,0,0,0,0,0,1
+33672,Labour Party,Witney,1,0,0,1,1,0,1,1,0,1,0,1,7,OTHER,1,8,1,2,1,0,0,0,0,0,0
+33692,Labour Party,Newcastle-under-Lyme,1,0,0,0,0,1,0,1,0,1,0,1,1,OTHER,1,1,2,2,1,1,1,0,0,0,1
+33700,Conservative Party,Newcastle-under-Lyme,1,1,0,0,1,0,0,0,0,1,1,0,8,OTHER,5,1,0,3,1,0,0,1,0,1,0
+33732,Conservative Party,Reading West,1,1,1,0,1,0,1,1,1,1,1,1,7,YIMBY,8,5,3,11,1,0,0,1,1,0,1
+33751,Labour Party,Airdrie and Shotts,1,0,0,0,0,0,0,0,0,1,0,0,0,OTHER,0,1,0,1,0,0,0,0,0,0,0
+33782,Labour Party,Dundee East,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+33792,Conservative Party,Croydon South,1,0,1,0,1,0,1,0,0,1,0,0,3,YIMBY,2,3,2,3,1,1,0,0,0,0,1
+33832,Liberal Democrats,Sheffield Hallam,1,1,1,1,0,0,0,0,0,0,0,0,0,OTHER,2,2,2,1,0,1,0,0,1,0,1
+33844,Labour Party,Bosworth,1,0,0,1,1,0,0,1,0,1,0,0,3,YIMBY,0,10,5,3,1,0,0,0,0,0,1
+33860,Liberal Democrats,Streatham,1,1,1,1,1,1,0,0,0,0,0,1,2,YIMBY,1,2,2,2,1,0,1,1,0,1,0
+33877,Conservative Party,Cambridge,1,1,0,0,1,0,1,0,0,1,0,0,4,NIMBY,3,2,1,4,1,0,1,1,0,2,0
+33880,Green Party,Cambridge,1,0,1,0,1,0,1,1,0,1,0,0,12,OTHER,2,3,1,1,1,0,0,0,0,0,1
+33890,Liberal Democrats,North Norfolk,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,0,0,0,0,0,0
+33901,Conservative Party,Sittingbourne and Sheppey,1,0,0,0,1,0,0,0,0,1,0,0,3,OTHER,2,1,0,3,1,0,0,0,0,0,0
+33910,Labour Party,Suffolk Coastal,1,1,0,0,0,0,0,1,0,1,0,0,3,OTHER,1,1,1,2,1,0,1,0,0,0,0
+33921,Labour Party,Mid Derbyshire,1,0,0,0,0,0,0,1,0,1,0,0,4,YIMBY,1,5,1,3,2,0,0,0,0,0,0
+33933,Liberal Democrats,The Cotswolds,1,0,0,0,1,0,1,1,0,1,0,0,4,YIMBY,0,3,1,2,0,0,1,0,0,0,1
+33942,Labour Party,"Dumfriesshire, Clydesdale and Tweeddale",1,1,0,1,1,0,1,1,0,1,0,0,5,OTHER,1,5,2,4,0,1,2,1,1,0,1
+33955,Liberal Democrats,Bethnal Green and Bow,1,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,2,0,1,0,0,0,0,0,0,0
+33960,Liberal Democrats,North East Hampshire,1,1,1,1,1,1,1,1,0,1,0,0,5,OTHER,1,2,1,1,0,0,1,1,0,0,1
+33982,Brexit/Reform Party,Poplar and Limehouse,0,0,1,0,1,0,0,0,0,0,0,0,1,OTHER,0,1,0,1,1,0,0,0,0,0,0
+33993,Liberal Democrats,Poplar and Limehouse,1,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,1,0,1,0,0,0,0,0,0,0
+34012,Green Party,Arundel and South Downs,1,0,0,0,1,1,0,1,0,0,0,0,4,NIMBY,0,3,1,3,0,0,1,0,0,0,0
+34032,Conservative Party,Gordon,1,1,0,1,0,1,0,0,1,0,0,0,2,OTHER,1,2,2,1,1,1,1,1,0,1,1
+34048,Liberal Democrats,Congleton,1,1,1,0,1,1,0,1,0,1,0,0,3,OTHER,2,5,0,4,1,0,2,1,0,0,0
+34067,Brexit/Reform Party,Aberdeen North,0,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,1,0,1,0,0,1,0,0,0,0
+34071,Labour Party,Aberdeen North,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+34092,Liberal Democrats,Cambridge,0,0,0,0,1,0,1,0,0,0,0,0,3,OTHER,1,1,0,1,1,0,0,0,0,0,0
+34102,Conservative Party,Rochester and Strood,1,0,0,0,1,1,0,1,0,1,0,0,3,OTHER,0,0,0,0,1,0,0,0,0,0,0
+34117,UK Independence Party,Norwich North,1,1,0,0,1,0,0,0,0,0,1,0,1,OTHER,1,3,1,3,0,0,3,2,1,2,0
+34133,Liberal Democrats,Ealing Southall,1,0,0,0,1,0,0,1,0,1,0,0,5,OTHER,1,2,1,1,1,1,0,0,0,0,1
+34142,Scottish National Party,Gordon,0,1,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,0,0,0,0,1,0,0,0
+34160,Green Party,Bury St Edmunds,1,0,0,0,0,0,0,1,0,0,0,0,1,NIMBY,1,5,4,1,1,1,1,0,0,0,1
+34191,Brexit/Reform Party,Stoke-on-Trent Central,1,1,0,1,1,0,0,0,0,0,0,0,1,OTHER,1,2,0,1,0,0,1,0,0,1,0
+34211,Brexit/Reform Party,Nottingham South,0,0,1,1,1,1,0,0,1,1,1,0,6,OTHER,0,1,0,1,0,0,0,0,0,0,0
+34220,Liberal Democrats,Nottingham South,1,0,0,1,1,1,0,1,0,0,0,0,2,YIMBY,1,1,1,3,0,0,1,0,0,0,1
+34252,Labour Party,Broxtowe,0,1,0,1,1,1,1,1,0,0,0,1,6,YIMBY,2,3,1,3,0,0,0,1,1,0,0
+34262,Liberal Democrats,Glasgow Central,1,1,1,0,1,1,1,1,0,1,0,0,4,YIMBY,0,0,1,3,0,0,0,2,0,0,0
+34271,Brexit/Reform Party,Mitcham and Morden,1,0,0,0,1,0,0,0,0,1,0,0,4,YIMBY,1,1,2,1,1,0,0,0,0,0,1
+34301,Labour Party,Walthamstow,1,1,0,0,1,0,1,1,0,0,0,0,3,OTHER,2,4,4,3,2,0,1,1,0,0,1
+34331,Labour Party,Sheffield South East,1,1,0,0,1,0,1,1,0,1,0,1,4,YIMBY,4,2,1,3,2,0,1,0,0,0,1
+34351,Liberal Democrats,Derbyshire Dales,1,0,0,0,0,0,0,1,0,0,0,0,1,OTHER,0,1,0,1,1,0,0,0,0,0,0
+34362,Conservative Party,Bishop Auckland,0,1,0,0,1,0,0,0,0,0,0,0,0,OTHER,0,1,0,1,0,0,1,1,0,0,0
+34382,Conservative Party,Carlisle,1,0,0,0,0,0,0,0,0,1,0,0,6,YIMBY,2,6,2,0,0,0,0,0,0,0,0
+34393,Labour Party,Warwick and Leamington,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,2,1,1,0,0,0,0,0,0,0,1
+34416,Brexit/Reform Party,Warwick and Leamington,1,1,0,1,1,0,0,0,0,1,1,1,6,YIMBY,1,5,1,4,1,0,1,1,0,0,0
+34422,Conservative Party,Central Ayrshire,1,1,0,1,0,0,0,0,0,0,0,0,1,OTHER,3,1,0,1,0,0,0,1,0,0,0
+34440,Scottish National Party,Central Ayrshire,0,1,0,1,1,0,0,0,0,0,0,0,3,OTHER,0,1,0,1,0,0,2,1,0,1,0
+34452,Conservative Party,Newport West,1,1,0,1,1,1,0,0,0,0,0,0,1,OTHER,1,1,0,2,2,0,2,1,0,1,0
+34462,Brexit/Reform Party,Wirral South,0,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,1,0,1,1,0,0,0,0,0,0
+34472,Labour Party,Maldon,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,0,0,0,0,0,0,0,1
+34491,Green Party,Milton Keynes North,1,0,0,0,1,0,0,1,0,0,0,0,0,OTHER,0,0,0,2,0,0,0,0,0,0,0
+34522,Labour Party,Newport West,0,0,0,1,0,0,0,0,0,0,0,0,0,OTHER,1,1,0,0,0,0,0,0,0,0,0
+34540,Liberal Democrats,North East Fife,1,1,1,1,1,0,1,1,1,1,0,0,3,YIMBY,2,1,1,1,0,0,1,2,0,0,0
+34562,Liberal Democrats,Brecon and Radnorshire,0,1,0,1,1,0,0,0,0,0,0,0,1,OTHER,0,2,0,1,1,0,0,1,0,0,0
+34570,Green Party,Edinburgh South,0,0,0,0,1,0,0,1,0,0,0,0,3,OTHER,0,1,0,2,0,0,0,0,0,0,0
+34590,Liberal Democrats,Cambridge,0,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,0,0,0,0,0,0,0,0
+34602,Liberal Democrats,Cambridge,0,1,0,1,1,0,0,0,0,0,0,0,1,OTHER,2,3,1,1,0,0,1,1,0,0,1
+34611,Liberal Democrats,Ealing Southall,1,0,0,0,1,0,0,0,0,1,0,0,3,YIMBY,0,3,1,1,0,0,0,0,0,0,0
+34631,Liberal Democrats,Hazel Grove,1,0,0,1,0,0,0,0,0,0,0,0,0,YIMBY,2,1,1,0,0,0,0,0,0,0,0
+34641,Labour Party,Leyton and Wanstead,1,1,0,0,1,0,0,1,0,1,0,0,5,NIMBY,0,4,3,2,0,0,0,0,0,0,0
+34650,Conservative Party,Plymouth Sutton and Devonport,1,1,0,0,1,0,1,0,0,1,0,0,3,OTHER,3,2,0,3,1,0,1,1,0,0,1
+34662,Labour Party,Broxtowe,1,1,0,0,1,0,1,1,0,1,0,1,5,YIMBY,2,2,2,2,2,0,1,1,0,0,1
+34683,Labour Party,Cambridge,1,1,1,0,1,0,0,1,0,1,0,1,4,OTHER,1,3,0,3,0,1,1,1,0,0,0
+34702,Labour Party,Louth and Horncastle,1,0,0,0,0,0,1,1,0,1,0,0,3,OTHER,0,2,1,3,1,0,1,0,0,0,1
+34713,Labour Party,Beaconsfield,1,1,0,0,0,0,1,0,0,0,0,0,3,NIMBY,3,2,2,2,1,1,1,0,0,0,1
+34721,Conservative Party,Beaconsfield,1,0,1,1,1,1,1,0,0,1,0,0,5,OTHER,2,6,1,2,1,0,1,0,0,0,0
+34731,Brexit/Reform Party,Gedling,1,1,1,1,1,0,0,0,0,1,1,0,5,OTHER,1,4,0,2,0,0,2,1,1,0,0
+34750,Brexit/Reform Party,West Ham,1,1,1,0,1,0,0,0,0,0,0,0,3,OTHER,1,3,0,2,1,0,0,1,0,1,0
+34760,Green Party,West Ham,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+34775,Conservative Party,Holborn and St Pancras,1,1,1,0,0,0,1,1,0,1,0,0,3,OTHER,4,3,1,3,1,0,0,0,0,0,0
+34782,Liberal Democrats,Holborn and St Pancras,1,1,1,0,1,0,1,1,0,0,0,0,3,YIMBY,0,5,1,2,0,0,1,1,0,0,0
+34791,Conservative Party,Devizes,1,0,1,0,1,0,0,0,0,0,0,0,3,OTHER,0,3,3,1,1,0,0,0,0,0,0
+34812,Labour Party,Kingston upon Hull North,1,1,0,1,0,0,0,1,0,1,0,1,5,OTHER,0,2,0,3,0,0,1,1,0,0,0
+34821,Liberal Democrats,East Lothian,1,0,0,0,1,0,1,1,1,1,0,0,6,OTHER,0,1,0,6,1,0,0,0,0,0,0
+34830,Conservative Party,East Lothian,0,1,0,1,0,0,0,0,0,0,0,0,1,OTHER,0,1,0,2,1,0,2,2,0,1,0
+34840,Labour Party,Reading West,1,0,0,1,1,0,1,1,0,1,0,1,6,YIMBY,1,7,3,4,2,2,1,0,1,0,1
+34851,Liberal Democrats,East Lothian,1,1,1,0,1,1,1,1,0,1,0,0,3,OTHER,1,3,1,1,0,0,3,1,0,2,1
+34861,Labour Party,East Lothian,1,0,0,0,1,0,0,0,0,0,0,1,5,YIMBY,3,5,4,1,2,0,1,0,0,0,1
+34880,Conservative Party,East Lothian,0,1,0,0,0,0,0,0,0,0,0,0,1,OTHER,0,1,0,1,0,0,1,1,0,1,0
+34891,Conservative Party,East Lothian,1,1,0,0,0,0,0,0,0,0,0,0,1,OTHER,2,2,1,1,0,0,0,1,0,0,1
+34915,Liberal Democrats,Calder Valley,1,1,1,0,1,1,1,1,0,1,1,0,5,YIMBY,1,2,1,4,0,0,2,1,0,0,1
+34930,Labour Party,Gedling,1,1,0,0,0,0,1,0,0,1,0,0,2,YIMBY,2,5,1,1,1,0,1,0,0,0,1
+34940,Conservative Party,Rushcliffe,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+34972,Conservative Party,Rushcliffe,1,1,0,1,0,0,1,1,0,1,0,0,6,NIMBY,1,1,1,1,0,0,0,1,0,0,0
+34993,Labour Party,Nottingham North,1,0,0,1,0,0,1,0,0,1,0,1,7,NIMBY,2,5,1,1,0,0,0,1,0,0,0
+35003,Brexit/Reform Party,Newcastle upon Tyne Central,1,1,0,1,1,0,0,0,0,1,1,0,5,YIMBY,1,3,1,3,0,0,1,1,0,0,0
+35020,Conservative Party,East Surrey,1,0,1,0,1,0,0,0,0,1,0,0,3,OTHER,2,1,0,3,1,0,0,0,0,0,0
+35543,Labour Party,Broxtowe,0,1,0,0,0,0,0,0,0,0,0,0,1,YIMBY,1,6,1,1,1,0,1,0,0,0,0
+35552,Scottish National Party,Glasgow North,1,0,1,1,1,0,0,1,0,1,0,1,5,OTHER,1,6,2,9,1,0,2,0,0,0,1
+35570,Brexit/Reform Party,Glasgow North,1,0,1,0,1,1,0,0,1,1,1,0,5,YIMBY,2,4,3,5,0,0,1,0,0,0,1
+35592,Liberal Democrats,York Outer,0,1,0,0,1,1,0,1,0,1,0,0,1,OTHER,0,3,0,4,0,0,1,1,0,1,0
+35600,Liberal Democrats,York Outer,1,1,0,0,1,1,0,0,0,0,0,0,0,OTHER,1,7,1,3,1,0,1,1,0,0,1
+35621,Liberal Democrats,York Outer,1,1,1,1,1,1,1,1,0,1,0,0,3,OTHER,1,4,0,1,0,0,1,0,0,2,0
+35630,Liberal Democrats,York Outer,1,1,0,0,1,1,1,1,0,1,0,1,5,OTHER,3,3,0,5,4,0,2,0,0,0,0
+35651,Labour Party,Lancaster and Fleetwood,1,1,0,0,1,1,0,1,0,1,0,0,6,YIMBY,1,6,3,3,0,0,1,1,0,0,1
+36688,Green Party,Feltham and Heston,1,0,0,0,1,0,0,1,0,0,0,0,2,OTHER,0,0,0,2,1,0,0,0,0,0,0
+36820,Liberal Democrats,Oxford East,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,0,0,0,0,0,0
+36850,Liberal Democrats,Oxford East,1,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,0,1,1,1,0,0,0,0,0,0
+36870,Liberal Democrats,Oxford East,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,0,0,0,0,0,0,0,0
+38082,Labour Party,Walsall North,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,0,0,0,0,0,0
+38661,Liberal Democrats,Newark,1,0,0,0,1,0,0,1,0,1,0,0,3,OTHER,0,3,0,3,0,0,0,0,0,0,0
+38674,Conservative Party,Newark,1,0,0,0,1,1,0,0,0,0,0,0,2,YIMBY,0,1,1,1,0,0,0,0,0,0,1
+38681,Conservative Party,Bristol East,0,0,0,0,0,0,0,1,0,0,0,0,3,YIMBY,0,3,3,0,0,0,0,0,0,0,0
+38690,Liberal Democrats,Bristol East,1,0,1,0,1,1,1,1,0,1,0,0,5,OTHER,1,1,0,5,3,0,1,0,2,0,0
+38711,Green Party,Lancaster and Fleetwood,1,0,1,0,0,0,0,1,0,0,0,0,3,OTHER,1,1,0,1,1,0,0,0,0,0,0
+38731,Conservative Party,Newbury,1,1,1,1,1,0,1,1,0,1,0,0,5,YIMBY,3,2,1,4,0,0,0,1,0,1,0
+38740,Green Party,Broxtowe,1,0,0,1,1,0,0,1,0,1,0,1,3,OTHER,1,1,0,2,1,0,1,0,0,0,0
+38761,Liberal Democrats,Sheffield Hallam,0,1,0,0,1,0,1,0,0,1,0,0,3,OTHER,2,2,0,1,0,0,1,1,0,1,0
+38772,Labour Party,Erewash,0,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,0,0,0,0,0,0,0,0
+38796,Conservative Party,Rushcliffe,1,1,1,1,1,0,1,1,0,1,0,0,3,NIMBY,5,2,2,2,0,0,1,1,0,0,0
+38803,Labour Party,Erewash,1,1,0,0,0,0,0,1,0,1,0,0,5,OTHER,0,0,5,0,0,0,5,0,0,1,0
+38821,Labour Party,Erewash,1,1,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,0,0,0,0,1,0
+38842,Labour Party,Sheffield Hallam,0,0,0,0,0,1,0,0,0,0,0,1,3,OTHER,3,0,0,3,1,0,3,0,0,0,0
+38862,Labour Party,Sheffield Hallam,1,0,0,0,1,0,0,1,1,0,0,0,1,OTHER,0,5,0,3,1,0,1,0,0,0,0
+38871,Green Party,Sheffield Hallam,1,0,1,0,1,0,1,1,0,1,0,0,3,OTHER,0,3,2,1,0,1,1,0,1,0,0
+38880,Liberal Democrats,North West Cambridgeshire,1,0,0,0,0,0,0,1,0,0,0,0,3,YIMBY,2,3,1,2,0,0,1,0,0,0,0
+38890,Labour Party,Manchester Withington,1,0,0,0,1,0,0,1,0,1,0,0,5,YIMBY,1,1,1,1,0,0,0,0,0,0,1
+38901,Liberal Democrats,Sheffield Hallam,1,1,1,0,1,0,0,1,0,1,0,0,3,OTHER,2,3,1,3,0,0,1,0,0,0,0
+38912,Liberal Democrats,Rushcliffe,1,0,1,1,1,0,0,0,0,1,0,0,1,OTHER,5,2,2,2,0,1,0,0,1,0,0
+38932,Labour Party,Nottingham East,1,0,0,0,1,1,0,1,0,0,0,1,4,OTHER,4,3,1,3,1,1,1,0,0,0,0
+38941,Brexit/Reform Party,Nottingham East,1,1,0,1,1,0,0,0,0,0,0,0,1,OTHER,1,2,1,1,0,0,0,1,0,0,0
+38962,Conservative Party,St Ives,1,0,0,0,0,0,0,1,0,1,0,0,6,YIMBY,1,8,6,0,0,0,0,0,0,0,0
+38972,Liberal Democrats,St Ives,0,1,0,0,0,0,0,0,0,1,0,0,3,OTHER,1,1,0,1,0,0,1,0,0,1,0
+38992,Labour Party,York Outer,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,0,0,0,0,0,0,0,0
+39000,Liberal Democrats,York Outer,1,1,0,1,1,0,0,0,1,1,0,0,2,OTHER,1,3,2,2,1,1,1,1,0,0,0
+31168,Labour Party,Stoke-on-Trent South,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+31171,Conservative Party,Brecon and Radnorshire,0,0,0,0,1,1,1,0,0,1,0,0,3,OTHER,3,3,0,1,0,0,2,0,0,0,0
+31177,Liberal Democrats,Brecon and Radnorshire,1,0,0,0,0,1,1,1,0,1,0,0,3,OTHER,0,0,0,3,0,0,0,0,0,0,0
+31179,Conservative Party,Chingford and Woodford Green,1,1,1,1,1,1,1,0,0,1,0,0,2,OTHER,4,3,1,5,0,0,1,1,0,1,1
+31185,Liberal Democrats,Brecon and Radnorshire,1,1,0,0,0,0,0,0,0,0,0,0,0,OTHER,2,2,0,1,0,0,2,0,0,0,0
+31188,Liberal Democrats,Brecon and Radnorshire,1,1,1,1,1,1,1,1,0,1,0,0,5,OTHER,2,1,2,5,0,0,0,0,1,0,1
+31196,Liberal Democrats,Wantage,1,1,0,1,1,0,0,1,0,1,0,1,1,YIMBY,1,5,2,1,0,0,1,1,0,0,1
+31198,Liberal Democrats,Tunbridge Wells,1,0,0,1,1,0,0,1,0,1,0,0,2,YIMBY,2,2,3,3,0,1,1,0,0,0,1
+31213,Liberal Democrats,South Cambridgeshire,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,3,0,0,2,0,0,1,0,0,0
+31216,Liberal Democrats,Wantage,1,1,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,4,0,4,0,0,2,0,0,0,0
+31219,Labour Party,Ipswich,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,1,0,0,0,0,0,0,1
+31225,Labour Party,Broxtowe,0,1,0,0,1,1,1,1,0,1,0,1,5,YIMBY,0,6,2,3,0,0,1,1,0,1,0
+31228,Liberal Democrats,Sutton and Cheam,1,0,0,1,1,1,0,1,0,0,0,0,3,NIMBY,0,3,4,2,0,1,2,0,0,1,1
+31233,Brexit/Reform Party,North East Derbyshire,0,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,1,0,1,1,0,0,0,0,0,0
+31238,Conservative Party,Stoke-on-Trent Central,1,1,1,0,1,0,0,0,0,1,0,0,3,YIMBY,4,3,2,3,0,0,1,0,1,0,0
+31244,Liberal Democrats,Portsmouth South,1,1,0,1,1,1,1,1,0,0,0,0,1,OTHER,1,6,1,4,0,0,1,2,0,0,0
+31247,Conservative Party,Sittingbourne and Sheppey,1,0,1,0,1,0,1,0,0,0,0,0,2,OTHER,1,2,1,1,0,0,0,0,0,0,1
+31249,Green Party,Kingston and Surbiton,1,0,0,1,1,0,0,1,0,0,0,0,5,NIMBY,0,1,2,1,0,0,0,0,0,0,1
+31254,Liberal Democrats,Putney,1,1,1,1,1,0,0,0,0,0,0,0,3,OTHER,1,7,1,2,1,0,3,1,0,0,1
+31257,Green Party,Truro and Falmouth,1,0,0,0,1,0,0,1,0,0,0,0,3,OTHER,0,3,0,2,0,0,0,0,0,0,0
+31262,Liberal Democrats,Vauxhall,1,0,0,0,1,1,1,1,0,1,0,0,5,OTHER,0,0,0,5,0,0,0,0,0,0,0
+31265,Labour Party,Stoke-on-Trent South,1,0,0,0,0,1,1,0,0,1,0,0,5,OTHER,0,5,1,4,0,0,0,0,0,0,0
+31269,Liberal Democrats,Woking,1,0,0,1,0,0,0,0,0,0,0,0,0,OTHER,2,3,0,1,0,0,0,0,1,0,1
+31276,Labour Party,Hertsmere,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+31282,Liberal Democrats,Cities of London and Westminster,1,0,0,0,1,1,1,1,0,1,0,0,5,OTHER,0,0,0,5,1,0,0,0,0,0,0
+31289,Green Party,Kingston and Surbiton,1,0,0,1,1,0,0,1,0,0,0,0,3,NIMBY,2,3,3,1,0,0,1,0,0,0,1
+31295,Scottish National Party,"East Kilbride, Strathaven and Lesmahagow",1,0,0,0,0,0,0,0,0,1,0,1,6,YIMBY,2,9,2,3,1,0,0,0,0,0,1
+31298,Labour Party,Bedford,1,1,0,0,1,0,0,1,0,1,0,1,5,OTHER,1,5,2,4,0,0,2,1,0,0,0
+31305,Liberal Democrats,Wantage,1,1,0,0,1,1,1,1,0,1,0,0,5,OTHER,1,6,0,7,0,0,1,0,0,0,0
+31308,Labour Party,Oxford East,1,1,0,0,1,1,1,1,0,1,0,1,5,YIMBY,2,5,2,4,0,0,2,1,0,0,1
+31311,Liberal Democrats,Leeds North West,1,1,0,0,0,1,1,1,0,1,0,0,5,OTHER,0,3,0,5,0,0,1,0,0,0,0
+31314,Liberal Democrats,Cities of London and Westminster,1,1,0,1,1,1,1,1,0,1,0,0,4,OTHER,0,7,1,3,0,0,3,1,0,1,0
+31323,Green Party,Faversham and Mid Kent,1,0,0,0,1,1,0,1,0,0,0,0,6,OTHER,0,1,2,2,0,0,0,0,0,0,1
+31335,Green Party,Hexham,1,0,1,0,1,1,1,1,0,1,0,0,6,YIMBY,2,5,2,5,1,0,1,0,0,0,1
+31337,Liberal Democrats,Altrincham and Sale West,1,1,0,1,1,0,1,0,0,0,0,0,3,OTHER,2,3,2,1,0,1,1,0,0,0,0
+31342,Liberal Democrats,Winchester,1,1,1,0,1,1,1,1,0,1,0,0,4,OTHER,1,1,0,3,0,0,2,0,0,1,0
+31345,Liberal Democrats,Cheadle,1,1,1,1,1,0,1,1,0,1,0,0,3,YIMBY,1,4,4,1,1,0,0,0,3,0,1
+31348,Conservative Party,Putney,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,1,2,2,0,0,0,0,0,0,0,1
+31354,Liberal Democrats,Leeds North West,1,1,0,0,1,0,0,0,0,0,0,0,3,OTHER,0,3,1,1,0,0,2,1,0,0,1
+31357,Labour Party,Southampton Test,1,1,0,1,1,1,1,1,1,0,0,0,5,YIMBY,1,3,4,3,0,0,2,2,1,2,1
+31363,Liberal Democrats,Watford,1,0,0,0,1,1,1,1,0,1,0,0,5,OTHER,0,1,0,5,1,0,1,0,0,0,0
+31369,Liberal Democrats,Finchley and Golders Green,1,1,1,1,1,0,1,1,0,1,0,0,3,YIMBY,1,2,2,2,1,0,1,1,0,0,0
+31375,Conservative Party,Ealing Central and Acton,1,0,0,0,1,0,0,0,0,0,0,0,3,YIMBY,0,5,1,2,0,0,0,0,0,0,1
+31379,Liberal Democrats,Newbury,1,1,1,0,0,0,0,0,0,1,0,0,1,OTHER,2,3,0,1,1,0,2,1,0,1,0
+31388,Conservative Party,Mole Valley,1,1,1,0,1,1,1,1,0,1,1,0,8,NIMBY,0,1,1,6,0,0,1,1,0,1,0
+31391,Liberal Democrats,Newbury,0,0,1,1,1,0,1,1,0,0,0,0,3,OTHER,1,6,3,3,0,0,1,1,0,0,1
+31394,Conservative Party,Milton Keynes North,1,1,0,0,0,0,1,0,0,1,0,0,6,NIMBY,7,3,3,2,0,2,1,1,0,0,1
+31397,Liberal Democrats,Northampton North,1,0,1,0,0,0,0,0,1,0,0,0,1,YIMBY,5,3,4,0,0,1,0,0,0,0,1
+31404,Conservative Party,Gordon,1,1,0,0,0,0,0,0,0,0,0,0,1,OTHER,0,7,0,1,0,0,1,1,0,1,0
+31407,Liberal Democrats,Mole Valley,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,4,0,0,0,0,0,1,0,0,0
+31428,Scottish National Party,Kirkcaldy and Cowdenbeath,1,1,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,3,0,1,0,0,2,0,0,0,0
+31435,Liberal Democrats,Vauxhall,1,1,0,1,1,0,0,1,0,0,0,0,4,YIMBY,3,6,3,1,0,1,0,1,0,0,0
+31438,Liberal Democrats,Mid Sussex,1,1,0,1,1,1,0,1,0,1,1,0,2,YIMBY,2,5,3,4,0,0,1,1,0,1,1
+31447,Liberal Democrats,Brecon and Radnorshire,1,1,1,0,1,1,1,1,0,1,0,0,5,OTHER,2,2,0,3,0,0,0,1,0,0,0
+31450,Conservative Party,Mid Sussex,1,0,0,0,0,0,1,1,0,1,0,0,6,OTHER,1,1,5,1,1,0,0,0,0,0,1
+31453,Brexit/Reform Party,West Bromwich West,0,1,0,0,1,1,0,0,1,0,1,0,1,OTHER,1,5,0,6,0,0,1,1,0,1,0
+31465,Liberal Democrats,Reading West,1,1,1,0,1,0,0,1,0,0,0,0,5,YIMBY,1,4,1,1,0,0,2,1,1,1,1
+31468,Labour Party,Southport,1,0,0,1,0,0,0,0,0,1,0,0,1,OTHER,0,4,0,1,0,0,0,0,0,0,0
+31474,Labour Party,Putney,1,1,0,1,1,0,0,1,0,1,0,0,4,OTHER,2,5,1,2,0,0,1,0,0,0,1
+31479,Conservative Party,Bedford,1,1,0,0,1,1,1,0,0,1,0,0,3,OTHER,3,2,4,2,1,0,0,0,0,0,1
+31488,Labour Party,Truro and Falmouth,1,0,0,1,0,0,1,1,0,1,0,0,1,OTHER,0,2,0,2,1,0,1,0,0,0,1
+31493,Labour Party,Putney,0,1,0,1,1,1,1,1,0,1,0,1,5,OTHER,1,8,1,1,0,0,1,1,1,1,0
+31496,Conservative Party,Midlothian,1,1,0,0,0,0,0,0,0,0,0,0,1,OTHER,0,1,1,1,0,0,1,1,0,0,0
+31499,Labour Party,Kirkcaldy and Cowdenbeath,0,1,0,1,1,0,0,1,0,1,0,1,6,YIMBY,4,4,1,2,0,0,2,1,0,0,0
+31502,Labour Party,Edinburgh North and Leith,0,1,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,1,0,0,1,1,0,0,0
+31505,Liberal Democrats,Winchester,1,1,0,0,1,0,1,1,0,1,0,0,5,OTHER,1,3,0,6,0,0,1,0,0,0,0
+31508,Labour Party,Brecon and Radnorshire,1,1,0,1,1,0,0,1,0,1,0,1,5,YIMBY,1,5,2,5,0,1,1,1,0,1,1
+31514,Conservative Party,Putney,0,1,0,1,1,0,1,1,0,1,0,0,4,OTHER,3,3,1,3,0,0,1,1,0,2,0
+31517,Green Party,Bethnal Green and Bow,1,0,0,0,1,0,0,1,0,1,0,0,3,OTHER,0,4,0,3,1,0,3,0,0,0,0
+31523,Labour Party,Chingford and Woodford Green,1,1,0,1,1,1,1,1,0,1,0,0,6,YIMBY,1,4,2,4,0,0,3,0,0,1,1
+31525,Green Party,Henley,1,0,0,0,1,1,1,1,0,1,0,1,5,YIMBY,0,2,1,2,0,1,1,0,1,0,0
+31534,Liberal Democrats,Bishop Auckland,1,1,1,0,1,1,1,1,0,1,0,0,3,OTHER,1,1,0,1,0,0,1,1,0,1,0
+31537,Conservative Party,Morecambe and Lunesdale,0,1,1,0,1,1,1,0,0,1,0,0,4,OTHER,4,4,0,4,0,0,3,1,0,0,0
+31544,Scottish National Party,Midlothian,1,1,1,1,1,0,0,0,0,1,0,0,7,YIMBY,8,3,2,2,0,0,1,1,0,1,1
+31567,Conservative Party,Tewkesbury,1,0,1,1,1,0,0,1,0,1,1,0,6,YIMBY,2,2,3,3,1,0,1,0,0,0,1
+31573,Conservative Party,Mid Derbyshire,1,0,0,0,1,0,1,0,0,1,0,0,3,OTHER,0,6,0,3,1,0,0,0,0,0,0
+31577,Liberal Democrats,Southport,1,1,0,1,0,0,0,0,0,1,0,0,2,YIMBY,2,2,1,1,1,1,1,1,1,0,1
+31580,Liberal Democrats,Chipping Barnet,1,1,0,0,1,0,1,1,0,1,0,0,4,OTHER,1,4,1,2,0,0,2,1,0,0,1
+31584,Scottish National Party,Central Ayrshire,1,1,0,1,1,1,0,0,1,1,0,0,3,OTHER,0,1,1,1,0,1,1,0,1,0,0
+31587,Conservative Party,Ealing Southall,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+31596,Green Party,Shipley,1,0,0,0,1,0,0,1,0,0,0,0,3,OTHER,0,0,0,3,1,0,0,0,0,0,0
+31599,Liberal Democrats,Rochester and Strood,1,0,0,0,1,0,1,1,1,0,0,1,6,OTHER,0,1,0,1,0,0,0,0,0,0,0
+31605,Liberal Democrats,Harwich and North Essex,0,0,0,0,1,1,0,0,0,0,0,0,1,OTHER,0,1,1,1,0,0,1,0,0,0,0
+31608,Green Party,Poplar and Limehouse,1,0,0,0,1,1,0,1,0,0,0,0,4,YIMBY,2,1,2,3,0,0,1,0,0,0,0
+31615,Labour Party,Chingford and Woodford Green,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,2,1,0,0,0,0,0,0,0,1
+31625,Conservative Party,Ipswich,1,1,1,0,1,0,1,0,0,1,0,0,6,YIMBY,3,5,3,5,0,0,1,0,1,0,0
+31631,Liberal Democrats,Salisbury,1,0,0,0,1,0,0,0,1,1,0,0,3,YIMBY,0,5,2,1,0,1,0,0,0,0,0
+31634,Labour Party,Ipswich,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,3,2,2,2,0,0,0,0,0,0,1
+31637,Liberal Democrats,Brecon and Radnorshire,1,1,0,1,0,0,0,1,0,1,0,0,3,OTHER,1,3,2,1,0,0,2,1,2,0,0
+31647,Green Party,Salisbury,1,0,0,0,1,0,0,1,0,0,0,0,2,OTHER,0,3,1,2,0,0,0,0,0,0,1
+31653,Scottish National Party,Airdrie and Shotts,1,0,0,0,1,0,1,0,0,1,0,1,5,OTHER,3,2,2,3,0,0,1,0,0,0,0
+31656,Liberal Democrats,Wantage,1,0,1,0,1,1,1,1,0,1,0,0,5,OTHER,2,4,0,5,4,0,1,0,0,0,0
+31659,Liberal Democrats,Cambridge,1,1,0,1,1,0,1,1,0,1,0,0,3,OTHER,1,3,1,3,1,1,1,1,0,0,1
+31669,Liberal Democrats,Wantage,1,1,0,1,1,1,0,1,0,1,0,0,3,YIMBY,2,7,5,4,1,1,2,1,1,0,1
+31674,Liberal Democrats,Cambridge,1,0,0,0,1,0,0,1,0,0,0,0,3,OTHER,0,2,0,3,0,0,0,0,0,0,0
+31679,Liberal Democrats,Cambridge,1,1,0,1,1,0,0,0,0,1,0,0,1,OTHER,1,3,1,2,3,1,2,1,0,0,0
+31683,Conservative Party,Brecon and Radnorshire,1,0,0,0,0,0,0,0,0,0,0,0,1,OTHER,0,0,1,0,1,0,0,0,0,0,0
+31693,Labour Party,Southampton Itchen,1,1,0,1,0,1,1,1,0,1,0,1,6,YIMBY,2,2,5,7,0,1,1,1,0,1,1
+31696,Conservative Party,Southampton Itchen,1,1,0,0,0,0,0,0,0,0,0,0,1,OTHER,1,2,0,0,1,0,0,0,0,1,0
+31699,Liberal Democrats,Gordon,1,1,1,0,1,0,1,1,0,1,0,0,5,NIMBY,0,5,3,4,0,1,0,0,0,1,1
+31707,Green Party,Dulwich and West Norwood,1,1,0,1,1,0,0,1,0,0,0,0,3,NIMBY,3,2,1,3,1,1,0,0,0,0,0
+31709,Liberal Democrats,Witney,1,1,0,1,0,0,0,0,0,1,0,0,3,YIMBY,2,5,3,2,0,1,1,0,0,0,0
+31712,Liberal Democrats,Witney,1,0,1,0,1,1,1,1,0,1,0,0,5,OTHER,5,0,0,4,0,0,0,0,0,0,0
+31724,Conservative Party,Putney,1,1,0,0,1,1,1,0,0,1,0,0,4,OTHER,4,2,0,4,1,0,0,1,0,0,1
+31737,Labour Party,Calder Valley,1,0,0,0,0,0,0,1,0,1,0,0,5,YIMBY,0,5,2,2,0,0,0,0,0,0,1
+31745,Liberal Democrats,Hampstead and Kilburn,1,1,1,1,1,0,0,1,0,1,0,0,1,OTHER,1,4,0,3,1,0,1,3,0,0,0
+31747,Labour Party,Cambridge,1,1,0,0,1,0,1,1,0,0,0,0,1,YIMBY,3,3,1,1,1,0,1,1,0,1,1
+31909,Labour Party,Lancaster and Fleetwood,1,0,0,0,1,0,0,1,0,1,0,1,6,YIMBY,2,4,3,3,0,0,0,0,0,0,0
+31923,Liberal Democrats,Wantage,1,1,0,1,1,0,0,1,0,1,0,0,3,YIMBY,0,2,1,2,1,1,1,1,0,0,1
+31936,Liberal Democrats,North East Hampshire,1,1,0,1,1,0,0,1,0,1,0,0,4,NIMBY,1,2,1,2,1,0,1,1,0,0,0
+31939,Liberal Democrats,Watford,1,1,1,1,1,0,0,1,0,0,0,0,2,YIMBY,1,3,2,2,0,0,2,1,0,1,1
+31956,Liberal Democrats,Welwyn Hatfield,1,0,0,1,1,1,0,0,0,0,0,0,1,OTHER,2,8,0,2,0,0,0,0,0,0,0
+31967,Liberal Democrats,Woking,1,1,1,0,1,0,1,1,0,1,1,0,4,YIMBY,1,7,1,3,0,0,1,2,0,2,0
+31976,Liberal Democrats,North East Fife,1,1,1,1,1,0,0,0,0,0,0,0,2,OTHER,2,6,2,1,1,0,1,1,1,0,1
+32005,Brexit/Reform Party,Ipswich,1,0,0,1,1,1,0,0,1,1,1,0,5,OTHER,2,3,1,2,0,0,0,0,0,0,0
+32008,Conservative Party,Brecon and Radnorshire,1,0,1,1,1,1,1,0,0,1,0,0,5,OTHER,2,2,0,3,0,1,1,0,0,0,1
+32015,Conservative Party,Brecon and Radnorshire,1,1,1,1,1,1,1,1,0,1,0,0,9,OTHER,5,4,1,3,3,0,1,1,0,1,0
+32023,Liberal Democrats,Brecon and Radnorshire,1,1,1,0,1,0,0,1,0,0,0,1,2,OTHER,0,3,1,2,0,0,3,3,0,2,0
+32028,Conservative Party,Huddersfield,1,1,0,0,1,0,0,1,0,1,0,0,3,OTHER,3,4,3,1,0,0,1,0,0,1,1
+32036,Labour Party,Hammersmith,1,1,0,1,1,0,0,1,0,1,0,0,4,YIMBY,4,2,4,3,0,3,1,0,0,0,1
+32059,Labour Party,Boston and Skegness,1,0,0,1,0,0,1,0,0,0,0,0,0,NIMBY,0,6,1,1,0,1,0,0,0,0,1
+32067,Labour Party,Newport West,1,0,0,1,1,1,0,1,0,1,0,1,6,OTHER,4,4,1,2,0,0,1,0,0,0,1
+32077,Liberal Democrats,Witney,0,0,0,0,0,0,1,0,0,0,0,0,1,OTHER,1,1,0,0,1,0,0,0,0,0,0
+32109,Liberal Democrats,Woking,1,0,0,0,0,0,0,0,0,0,0,0,1,OTHER,0,2,0,1,0,0,0,0,0,0,0
+32112,Liberal Democrats,South East Cambridgeshire,1,1,0,1,1,0,1,1,0,0,0,0,3,YIMBY,1,4,2,2,0,0,1,1,1,0,0
+32148,Liberal Democrats,Rushcliffe,0,0,0,0,0,0,1,0,0,0,0,0,1,OTHER,1,1,0,1,1,0,1,0,0,0,0
+32156,Conservative Party,Copeland,0,1,1,1,1,1,0,0,0,0,0,0,1,OTHER,0,3,0,1,0,0,0,0,0,0,0
+32170,Conservative Party,Pudsey,1,1,0,1,1,1,1,0,0,1,1,0,4,NIMBY,4,2,1,5,0,0,2,1,0,0,1
+32179,Brexit/Reform Party,Ealing Central and Acton,1,1,0,1,1,0,0,0,1,0,0,0,2,OTHER,1,7,1,7,0,0,4,2,0,2,0
+32185,Labour Party,Lancaster and Fleetwood,1,0,0,0,1,0,0,1,0,1,0,0,2,NIMBY,0,3,1,2,0,0,1,0,0,0,1
+32207,Conservative Party,Bishop Auckland,0,1,0,0,1,1,1,0,0,1,0,1,8,NIMBY,7,4,0,3,0,2,5,1,1,1,0
+32219,Liberal Democrats,Brecon and Radnorshire,1,1,1,0,1,1,1,1,0,1,0,0,2,OTHER,2,1,0,4,0,0,1,1,0,0,0
+32228,Conservative Party,Brecon and Radnorshire,1,0,1,1,1,0,1,0,0,1,0,0,4,YIMBY,3,2,2,2,0,0,1,0,0,0,0
+32234,Liberal Democrats,Ealing Central and Acton,1,1,0,1,1,0,0,0,0,0,0,0,3,OTHER,1,2,0,1,0,0,1,2,0,0,0
+32237,Liberal Democrats,Ealing Central and Acton,1,1,0,1,1,0,0,1,0,0,0,0,3,OTHER,1,2,1,2,0,0,0,1,0,0,1
+32242,Liberal Democrats,Witney,1,0,0,0,0,0,0,0,0,1,0,0,1,OTHER,1,4,0,1,0,0,1,0,0,0,0
+32245,Liberal Democrats,Witney,0,1,1,0,0,0,0,0,0,1,0,0,1,OTHER,2,4,0,2,1,0,2,1,0,0,0
+32249,Green Party,Hove,1,0,1,0,1,0,0,1,0,0,0,0,3,YIMBY,2,2,3,3,1,0,0,0,0,0,0
+32258,Liberal Democrats,Cambridge,1,1,1,0,1,0,1,1,0,1,0,0,2,OTHER,0,1,0,2,0,0,0,3,0,0,0
+32263,Liberal Democrats,Cambridge,0,1,1,0,1,1,0,1,0,1,0,0,2,OTHER,2,4,0,2,1,0,1,1,1,0,0
+32275,Conservative Party,Sutton Coldfield,1,1,0,1,0,0,0,0,1,0,0,0,3,NIMBY,2,4,5,4,0,1,4,1,0,1,1
+32281,Liberal Democrats,Vauxhall,1,1,0,1,1,1,1,1,0,1,0,0,4,OTHER,2,2,0,4,0,0,0,1,0,0,0
+32286,Conservative Party,Tewkesbury,1,1,1,1,1,1,1,1,0,1,0,0,4,YIMBY,0,6,2,3,0,0,1,1,1,1,1
+32288,Liberal Democrats,Cambridge,1,1,0,0,1,0,0,0,0,0,0,0,0,OTHER,1,7,2,5,0,0,2,2,0,0,0
+32294,Labour Party,Vauxhall,1,0,0,0,0,0,1,0,0,0,0,0,1,OTHER,1,1,0,1,1,0,0,0,0,0,0
+32297,Green Party,Coatbridge Chryston and Bellshill,1,0,0,0,0,0,0,1,0,0,0,0,3,OTHER,0,3,1,1,0,0,0,0,0,0,0
+32300,Labour Party,Bishop Auckland,0,0,0,0,1,1,0,0,0,1,0,0,3,OTHER,2,2,1,2,0,1,1,0,0,0,0
+32303,Labour Party,Bishop Auckland,0,0,0,0,1,1,1,1,0,1,0,0,6,OTHER,0,1,1,5,0,0,0,0,0,0,0
+32308,Green Party,Huddersfield,1,0,1,0,1,0,0,1,0,0,0,0,3,OTHER,0,2,1,2,1,1,1,0,0,0,1
+32319,Green Party,Newcastle upon Tyne Central,1,0,1,0,1,0,0,1,0,1,0,1,12,YIMBY,0,6,5,4,1,1,1,1,0,0,1
+32324,Liberal Democrats,Hornsey and Wood Green,1,1,0,0,1,0,0,0,0,0,0,0,1,OTHER,1,3,0,1,0,0,1,1,0,1,0
+32327,Green Party,Croydon South,1,0,1,0,1,0,0,1,0,0,0,0,3,OTHER,1,1,1,2,1,0,1,0,0,0,1
+32332,Conservative Party,Calder Valley,1,0,1,1,1,1,1,0,0,1,0,0,4,OTHER,4,2,0,5,0,0,1,0,0,0,0
+32335,Brexit/Reform Party,Sedgefield,0,1,1,1,1,1,0,0,1,1,1,0,5,OTHER,1,1,0,2,1,0,1,1,0,1,0
+32346,Conservative Party,Southend West,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+32349,Labour Party,Morley and Outwood,1,0,0,1,0,0,1,0,0,1,0,1,4,OTHER,5,3,1,1,0,0,3,0,0,0,1
+32355,Conservative Party,Southampton Itchen,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,2,1,0,0,0,0,0,0,0,1
+32364,Green Party,Southampton Test,1,0,0,0,0,1,1,1,1,1,0,0,6,NIMBY,1,3,1,4,0,1,0,0,0,0,0
+32367,Conservative Party,Putney,1,1,0,1,0,0,1,1,0,1,0,0,8,YIMBY,2,2,4,3,1,0,1,1,0,1,1
+32376,Liberal Democrats,South East Cambridgeshire,1,1,0,1,1,0,0,0,0,0,0,0,1,OTHER,2,1,1,2,1,0,2,1,0,1,1
+32379,Conservative Party,North East Hampshire,0,0,0,0,0,0,0,0,0,1,0,0,3,OTHER,2,2,0,1,0,0,0,0,0,0,0
+32388,Brexit/Reform Party,Plymouth Sutton and Devonport,0,0,0,0,0,0,0,0,0,1,0,0,1,OTHER,0,4,0,1,4,0,0,0,0,0,0
+32406,Liberal Democrats,North East Hampshire,1,0,1,0,0,0,1,1,0,1,0,0,3,OTHER,0,4,1,4,1,0,2,0,0,0,0
+32413,Liberal Democrats,Bath,1,0,0,1,1,0,0,0,0,0,0,0,1,OTHER,2,5,1,1,0,0,0,0,0,0,0
+32416,Labour Party,Newport West,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,0,0,0,0,0,1
+32436,Labour Party,Tiverton and Honiton,1,1,0,1,0,0,1,1,0,1,0,0,3,YIMBY,2,2,3,1,1,0,1,0,0,0,1
+32438,Liberal Democrats,Wantage,1,0,0,1,1,0,0,0,0,0,0,0,0,OTHER,2,2,0,1,0,0,0,0,0,0,0
+32445,Liberal Democrats,Wantage,0,1,1,0,0,0,0,0,0,1,0,0,1,OTHER,3,6,0,3,1,0,2,1,0,2,0
+32455,Liberal Democrats,Wantage,1,1,0,0,1,0,0,1,0,0,0,0,2,OTHER,0,3,1,2,0,0,1,0,0,0,0
+32458,Liberal Democrats,Wantage,0,0,0,0,0,0,1,0,0,0,0,0,1,OTHER,1,1,0,3,0,0,0,0,0,0,0
+32463,Conservative Party,Wantage,1,0,1,0,0,0,0,1,0,0,0,0,4,YIMBY,1,6,4,2,0,0,0,0,0,0,1
+32473,Liberal Democrats,Liverpool Riverside,1,1,0,1,1,1,1,1,0,1,0,1,6,OTHER,1,1,1,3,0,1,0,1,0,0,0
+32476,Labour Party,Liverpool Riverside,1,0,0,0,0,1,0,0,0,1,0,0,3,YIMBY,3,4,1,2,1,0,1,0,0,0,0
+32478,Liberal Democrats,Altrincham and Sale West,1,1,0,1,1,0,1,1,0,1,0,0,4,YIMBY,2,3,1,4,0,0,0,1,0,0,0
+32484,Green Party,Bradford South,1,0,0,1,0,0,0,1,0,1,0,1,3,OTHER,2,3,2,3,0,1,0,0,0,0,1
+32489,Conservative Party,Aberconwy,1,1,1,1,1,0,1,0,0,1,1,0,5,OTHER,5,2,2,5,0,0,0,1,0,0,1
+32494,Conservative Party,Salisbury,1,1,0,0,0,0,0,1,0,0,0,0,3,YIMBY,0,4,4,0,1,0,0,1,0,0,1
+32498,Conservative Party,Stafford,1,0,1,1,1,1,1,0,0,1,0,0,4,OTHER,2,4,0,4,0,0,2,0,0,0,0
+32501,Conservative Party,Southampton Itchen,1,1,0,1,1,1,1,0,0,1,0,0,5,OTHER,5,4,0,7,0,0,1,1,1,0,0
+32503,Conservative Party,Aberdeen South,1,1,0,1,0,0,0,0,1,0,0,0,1,OTHER,0,2,1,1,2,0,1,1,0,0,0
+32507,Labour Party,Erith and Thamesmead,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,1,0,0,0,0,0,0,0,1
+32512,Conservative Party,North East Hampshire,1,0,1,1,1,1,1,0,0,1,0,0,4,OTHER,2,3,0,5,0,0,1,0,0,0,0
+32525,Labour Party,Ealing Central and Acton,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,0,0,0,0,0,1
+32532,Liberal Democrats,Witney,1,1,0,0,1,1,1,1,0,1,0,0,5,OTHER,1,1,0,5,0,0,0,0,0,0,0
+32535,Green Party,Haltemprice and Howden,1,0,0,0,1,1,0,1,1,0,0,1,5,OTHER,0,5,1,5,1,0,0,0,0,0,1
+32538,Labour Party,Chipping Barnet,0,1,0,1,1,0,1,1,0,1,0,0,6,OTHER,1,3,1,4,0,0,1,1,0,0,0
+32545,Conservative Party,Plymouth Sutton and Devonport,1,0,0,0,0,0,1,0,0,1,0,0,3,YIMBY,0,3,4,0,0,0,0,0,0,0,0
+32567,Labour Party,Chingford and Woodford Green,0,1,0,0,0,0,1,0,0,0,0,0,1,OTHER,1,1,0,2,1,0,2,1,0,0,0
+32572,Labour Party,Wirral South,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,0,0,0,0,0,0,0,0
+32577,Liberal Democrats,Wirral South,1,0,0,0,1,1,1,1,0,1,0,0,3,OTHER,0,5,0,4,1,0,1,0,0,0,0
+32584,Green Party,Birkenhead,1,0,0,0,1,0,0,1,0,0,0,0,2,NIMBY,0,1,1,2,0,1,0,0,0,0,1
+32588,Green Party,Shipley,1,0,0,0,0,0,0,1,0,0,0,0,1,OTHER,1,1,0,1,1,0,0,0,0,0,0
+32597,Labour Party,Brecon and Radnorshire,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,1,0,0,0,0,0,0
+32599,Liberal Democrats,Wantage,1,1,1,1,1,1,0,1,0,1,0,0,6,OTHER,1,8,0,6,0,0,2,1,1,0,0
+32602,Conservative Party,Brecon and Radnorshire,1,1,1,1,1,1,0,1,0,1,0,0,3,OTHER,1,1,1,2,0,0,1,1,0,0,1
+32606,Liberal Democrats,Newbury,1,0,0,0,1,0,1,1,0,1,0,0,5,OTHER,0,5,1,4,0,0,0,0,0,0,0
+32615,Liberal Democrats,North Norfolk,1,1,0,1,0,0,0,1,0,1,0,0,5,OTHER,1,5,1,2,0,0,1,1,1,0,0
+32618,Labour Party,Broxtowe,0,0,0,0,1,1,1,1,0,1,0,0,6,OTHER,0,1,0,6,1,0,0,0,0,0,0
+32623,Green Party,Newbury,1,1,0,1,1,0,0,1,0,1,0,0,3,YIMBY,0,8,4,3,0,0,0,0,0,1,1
+32626,Brexit/Reform Party,Ipswich,0,1,1,1,1,0,0,0,0,0,0,0,1,OTHER,1,4,0,2,1,0,2,1,0,1,0
+32629,Conservative Party,Ipswich,1,0,0,0,0,0,0,0,0,1,0,0,6,YIMBY,1,5,6,0,0,0,0,0,0,0,1
+32633,Labour Party,Vale of Glamorgan,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,1,0,0,0,0,0
+32636,Conservative Party,Mid Sussex,1,1,1,1,1,1,1,0,0,1,0,0,3,OTHER,0,9,4,3,1,0,5,1,0,1,1
+32639,Labour Party,Vale of Glamorgan,1,1,0,1,0,0,0,1,0,0,0,0,5,OTHER,2,2,2,1,4,0,0,0,0,1,1
+32653,Liberal Democrats,Skipton and Ripon,0,1,0,1,1,0,1,1,0,1,0,0,4,OTHER,2,2,1,2,0,0,1,2,0,0,1
+32656,Green Party,South West Norfolk,1,0,0,0,0,0,0,1,0,0,0,0,5,OTHER,0,1,5,1,0,0,0,0,0,0,1
+32664,Conservative Party,Congleton,1,0,1,1,1,1,1,0,0,1,0,0,5,OTHER,4,3,2,3,1,0,1,0,0,0,0
+32666,Labour Party,Dulwich and West Norwood,1,1,0,0,1,0,1,1,0,1,0,0,5,OTHER,0,1,1,1,0,0,1,0,1,0,0
+32669,Brexit/Reform Party,Sedgefield,1,1,0,1,1,0,0,0,0,1,0,0,2,OTHER,1,6,2,3,0,2,0,2,0,0,0
+32676,Labour Party,Sittingbourne and Sheppey,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+32683,Conservative Party,North East Hampshire,1,1,1,0,1,1,1,0,0,1,0,0,8,YIMBY,5,6,2,6,0,1,0,1,0,0,0
+32688,Conservative Party,Lichfield,1,0,0,1,0,0,0,0,0,0,0,0,1,OTHER,1,0,0,0,1,0,0,0,0,0,0
+32692,Labour Party,Ipswich,1,0,0,0,0,1,1,1,0,1,0,1,8,YIMBY,1,4,3,2,1,1,0,0,0,0,1
+32696,Liberal Democrats,Lichfield,1,1,0,0,1,1,0,1,0,0,0,0,2,OTHER,3,5,1,2,0,0,3,2,0,1,1
+32702,Liberal Democrats,Brecon and Radnorshire,1,0,0,1,1,0,0,0,0,0,0,0,1,NIMBY,2,1,1,1,0,0,1,0,0,0,0
+32705,Liberal Democrats,Gateshead,1,1,1,0,1,0,0,0,0,0,0,0,1,YIMBY,1,5,2,3,0,0,2,1,0,0,0
+32707,Conservative Party,Vale of Glamorgan,1,1,0,1,1,1,0,0,0,0,0,0,5,OTHER,0,15,0,8,1,0,7,7,0,7,0
+32714,Labour Party,Bishop Auckland,0,0,0,0,0,0,0,1,0,0,0,0,0,OTHER,1,1,2,2,0,0,0,0,0,0,0
+32719,Brexit/Reform Party,Ogmore,1,0,0,1,1,0,0,0,0,0,0,0,4,YIMBY,1,3,2,1,0,1,0,0,1,0,1
+32737,Labour Party,Wantage,1,1,0,1,1,1,1,1,0,1,0,0,6,NIMBY,2,3,1,3,1,1,2,1,1,1,0
+32746,Liberal Democrats,Skipton and Ripon,0,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,1,0,0,0,0,0,0,0
+32748,Liberal Democrats,Witney,1,1,0,0,1,0,0,0,0,1,0,0,1,NIMBY,2,5,1,1,0,1,1,0,0,0,0
+32755,Conservative Party,Morley and Outwood,1,0,1,1,1,0,1,0,0,1,0,0,4,OTHER,2,1,0,4,0,0,1,0,0,0,0
+32758,Liberal Democrats,Vauxhall,0,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,1,0,1,1,0,0,0,0,0,0
+32761,Green Party,Aylesbury,1,0,0,0,1,0,0,1,0,0,0,0,2,OTHER,0,0,0,0,1,0,0,0,0,0,0
+32767,Green Party,Airdrie and Shotts,1,0,0,0,0,0,0,1,0,0,0,0,1,OTHER,0,1,0,1,1,0,0,0,0,0,0
+32786,Labour Party,Aberconwy,1,0,0,0,0,0,0,1,0,0,0,0,4,YIMBY,0,0,0,0,1,0,0,0,0,0,1
+32790,Labour Party,Rochester and Strood,1,1,0,0,1,0,1,1,0,0,0,0,3,YIMBY,0,1,1,3,1,0,1,1,0,0,0
+32799,Conservative Party,Rochester and Strood,0,0,1,1,1,1,1,1,0,1,0,0,3,YIMBY,1,3,2,3,1,0,2,0,0,0,0
+32814,Conservative Party,North East Bedfordshire,1,0,0,0,0,0,0,1,0,1,0,0,3,NIMBY,0,3,3,1,0,0,0,0,0,0,0
+32817,Green Party,Faversham and Mid Kent,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,0,0,0,0,0,0,0,0
+32819,Labour Party,Rochester and Strood,1,1,0,1,1,1,1,1,0,1,0,0,5,YIMBY,2,3,1,2,1,0,1,1,0,0,1
+32836,Conservative Party,Bishop Auckland,1,1,1,1,1,1,0,0,1,0,0,0,1,OTHER,0,3,0,6,1,0,5,1,0,1,0
+32844,Labour Party,Stoke-on-Trent Central,1,0,0,0,0,0,0,0,0,1,0,1,0,OTHER,0,1,0,1,0,0,1,0,0,0,0
+32853,Liberal Democrats,Cheltenham,0,0,0,1,0,0,0,0,0,0,0,0,1,YIMBY,2,2,1,2,1,0,0,0,0,0,0
+32856,Conservative Party,Bury South,0,1,1,1,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,1,0,0,0,1,0,0,0
+32859,Labour Party,West Bromwich West,0,1,0,0,0,0,0,0,0,0,0,1,1,OTHER,1,2,0,1,0,0,1,0,0,0,0
+32865,Conservative Party,Southampton Itchen,1,0,1,0,0,0,0,0,0,1,0,0,3,OTHER,1,3,2,2,0,0,0,0,0,0,0
+32868,Labour Party,Brecon and Radnorshire,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,0,1,0,0,0,1
+32879,Labour Party,Aberdeen South,1,0,0,0,1,0,0,1,0,1,0,1,5,YIMBY,1,4,1,4,0,0,0,0,0,0,0
+32888,Liberal Democrats,Witney,1,1,1,1,1,0,0,1,0,0,0,0,3,YIMBY,3,4,3,1,1,1,1,1,1,1,1
+32891,Conservative Party,Sittingbourne and Sheppey,1,0,0,0,0,0,0,0,0,0,0,0,3,NIMBY,1,2,3,0,0,1,0,0,0,0,1
+32894,Labour Party,Central Ayrshire,1,0,0,0,1,1,0,1,0,1,0,1,4,YIMBY,4,8,2,4,1,0,1,0,1,0,1
+32897,Liberal Democrats,Southampton Test,1,1,0,0,1,1,0,1,0,1,0,0,3,YIMBY,3,4,2,2,0,1,2,1,0,0,1
+32904,Conservative Party,North Norfolk,1,1,0,1,0,0,0,0,0,0,0,1,3,OTHER,1,1,0,3,1,0,3,1,0,1,0
+32907,Liberal Democrats,South East Cambridgeshire,1,1,0,1,1,0,0,0,0,0,0,0,0,OTHER,1,2,0,1,0,0,0,1,0,0,0
+32915,Liberal Democrats,South East Cambridgeshire,0,1,0,0,1,1,0,1,0,1,0,0,1,OTHER,0,1,0,1,1,0,0,2,0,0,0
+32917,Liberal Democrats,South East Cambridgeshire,0,1,1,1,1,0,0,0,0,0,0,0,1,OTHER,1,1,1,1,0,0,0,0,0,0,0
+32919,Liberal Democrats,Wokingham,0,0,0,1,1,0,0,0,0,0,0,0,0,OTHER,0,2,0,2,0,0,0,0,0,0,0
+32929,Conservative Party,Gedling,0,0,1,0,1,0,0,0,0,1,0,0,2,OTHER,0,0,0,0,1,0,0,0,0,0,0
+32946,Green Party,Glasgow Central,1,0,0,0,0,0,0,1,0,0,0,0,3,OTHER,0,2,0,1,0,0,0,0,0,0,0
+32949,Conservative Party,South East Cambridgeshire,1,1,0,1,0,0,1,1,1,1,0,0,6,OTHER,2,2,3,3,0,0,3,1,0,1,1
+32958,Conservative Party,Sutton Coldfield,1,1,0,0,1,1,1,0,0,1,0,0,4,NIMBY,4,2,1,4,1,0,1,1,0,0,1
+32964,Liberal Democrats,Sutton Coldfield,1,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,0,0,1,1,0,0,0,0,0,0
+32967,Liberal Democrats,South West Hertfordshire,1,1,1,1,1,1,1,1,0,1,0,0,5,OTHER,4,5,0,0,1,0,1,1,1,0,0
+32976,Liberal Democrats,Bath,0,1,0,1,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,1,0,0,0,1,0,0,0
+32981,Liberal Democrats,South West Surrey,1,1,1,0,1,1,1,1,0,1,0,0,5,YIMBY,0,6,2,5,2,0,2,0,0,2,1
+32984,Conservative Party,Congleton,1,1,0,1,0,0,1,1,0,1,0,0,6,YIMBY,2,3,3,3,0,0,1,1,0,0,1
+33005,Conservative Party,Old Bexley and Sidcup,0,0,0,0,0,0,0,0,0,1,0,0,3,OTHER,0,0,3,0,0,0,0,0,0,0,0
+33009,Labour Party,Putney,1,1,0,1,1,0,1,1,0,1,0,0,3,YIMBY,2,5,3,2,1,0,2,1,0,1,0
+33016,Conservative Party,Dagenham and Rainham,1,1,1,1,1,1,1,0,0,1,0,0,5,YIMBY,4,3,2,2,1,0,0,0,0,0,1
+33019,Conservative Party,Romford,1,0,0,0,1,0,0,0,0,0,0,0,2,YIMBY,1,1,1,1,0,0,0,0,0,0,1
+33027,Conservative Party,Bury South,1,1,0,1,0,0,1,1,0,1,0,0,6,NIMBY,1,3,1,3,0,0,0,1,0,0,0
+33033,Liberal Democrats,Staffordshire Moorlands,1,1,1,0,1,1,1,1,0,1,0,1,3,YIMBY,0,0,1,2,1,0,1,1,0,0,0
+33039,Conservative Party,Croydon South,0,1,0,1,0,0,1,0,0,1,0,0,3,YIMBY,1,1,3,2,0,0,0,1,0,0,1
+33047,Conservative Party,Glenrothes,1,1,0,1,0,1,1,0,0,1,0,0,3,OTHER,1,4,3,1,0,0,1,1,0,0,0
+33051,Liberal Democrats,Glenrothes,1,0,0,0,1,0,0,0,1,0,0,0,1,OTHER,0,1,0,2,1,0,0,0,0,0,0
+33053,Conservative Party,Paisley and Renfrewshire North,1,1,0,0,0,0,0,0,0,0,0,0,1,OTHER,1,3,0,1,3,0,1,2,0,0,0
+33056,Conservative Party,Easington,1,1,0,1,1,0,1,0,0,1,0,0,4,OTHER,3,3,1,4,0,1,2,2,0,0,0
+33064,Plaid Cymru,Aberconwy,1,1,1,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,1,0,0,2,0,0,2,0
+33068,Labour Party,Aylesbury,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,0,0,0,0,0,0,0,1
+33076,Conservative Party,Kenilworth and Southam,1,1,0,0,1,1,1,1,0,1,0,0,3,OTHER,3,3,2,2,0,0,1,2,0,1,0
+33083,Scottish National Party,North East Fife,1,1,0,0,1,0,0,0,0,0,0,0,0,OTHER,0,3,0,2,3,0,2,1,0,0,1
+33086,Conservative Party,North East Hampshire,1,1,0,1,0,0,1,1,0,1,0,0,6,YIMBY,2,4,5,2,0,0,3,1,0,0,0
+33089,Conservative Party,Stoke-on-Trent Central,1,0,0,0,1,1,1,0,0,1,0,0,6,OTHER,1,1,1,1,0,0,0,0,0,0,0
+33104,Labour Party,Bath,1,0,0,0,1,0,1,1,0,0,0,0,3,OTHER,0,3,1,2,1,0,0,0,0,0,1
+33111,Labour Party,North East Fife,0,1,0,0,1,0,0,1,0,1,0,1,6,YIMBY,2,1,1,5,0,0,1,1,0,0,0
+33114,Conservative Party,Cardiff West,1,1,0,1,1,1,1,1,0,1,0,0,2,NIMBY,1,1,2,1,0,2,0,0,0,1,0
+33117,Conservative Party,Cardiff West,0,1,0,0,0,0,0,0,0,1,0,0,1,OTHER,2,1,0,1,1,0,1,0,0,0,0
+33127,Conservative Party,Bishop Auckland,1,0,0,0,0,0,0,0,0,1,0,0,3,YIMBY,1,4,3,1,0,0,0,0,0,0,0
+33134,Brexit/Reform Party,Bishop Auckland,0,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,1,0,1,1,0,0,0,0,0,0
+33137,Brexit/Reform Party,Tynemouth,1,0,1,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,1,0,0,0,0,0,0,0
+33139,Labour Party,Tynemouth,1,1,0,1,1,0,1,0,0,1,0,1,1,NIMBY,1,4,2,4,0,0,1,0,1,0,1
+33152,Labour Party,Bishop Auckland,1,1,0,1,1,1,1,1,0,0,0,1,3,OTHER,1,1,3,4,1,0,1,0,0,1,1
+33155,Green Party,Cambridge,1,0,0,0,1,0,0,1,1,1,0,1,3,YIMBY,0,1,0,0,0,0,0,0,0,0,1
+33158,Conservative Party,Isle of Wight,0,1,0,0,1,1,1,1,0,1,0,0,4,NIMBY,3,4,5,2,0,0,0,1,0,0,1
+33164,Labour Party,North East Hampshire,1,0,0,0,1,1,1,0,0,1,0,0,3,YIMBY,3,2,2,4,1,0,1,0,0,0,0
+33175,Liberal Democrats,Epsom and Ewell,1,0,0,0,1,1,1,0,0,1,0,0,5,YIMBY,1,3,1,5,0,0,1,0,0,0,0
+33178,Conservative Party,Edinburgh East,1,0,0,0,0,0,0,0,0,1,0,0,4,NIMBY,1,3,3,1,0,1,1,0,0,0,0
+33189,Liberal Democrats,Witney,1,1,0,1,1,1,1,1,0,1,0,0,5,OTHER,3,5,1,2,4,0,1,2,0,0,0
+33191,Scottish National Party,Aberdeen South,1,1,0,1,1,1,1,1,0,1,0,0,5,OTHER,1,1,1,1,0,0,1,1,0,0,0
+33194,Labour Party,Aberdeen South,1,1,1,0,1,0,1,1,0,1,0,1,5,YIMBY,3,6,1,6,1,0,1,0,0,0,1
+33199,Liberal Democrats,Leyton and Wanstead,1,0,0,0,1,0,1,0,0,0,0,0,3,OTHER,0,2,2,1,3,0,0,0,0,0,0
+33206,Conservative Party,Epsom and Ewell,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+33209,Labour Party,Eastleigh,1,1,0,0,1,0,0,0,0,0,0,0,5,OTHER,0,4,5,1,0,0,1,0,0,0,1
+33215,Liberal Democrats,Aberconwy,1,0,1,0,0,0,1,1,0,0,0,0,3,OTHER,1,3,1,2,0,0,0,1,1,0,1
+33229,Liberal Democrats,Brecon and Radnorshire,0,1,0,0,1,0,0,0,0,0,0,0,0,OTHER,0,2,0,1,3,0,1,1,1,0,0
+33236,Conservative Party,Wallasey,0,1,0,1,1,0,0,0,0,0,0,0,2,OTHER,1,4,0,2,0,0,1,3,0,3,0
+33247,Conservative Party,Wallasey,1,1,0,1,1,0,1,0,0,1,0,1,9,NIMBY,6,3,4,5,0,1,1,1,0,0,0
+33249,Conservative Party,Wallasey,1,1,0,0,1,1,1,0,0,1,0,0,5,OTHER,3,6,1,3,0,1,1,4,2,1,0
+33257,Liberal Democrats,North Norfolk,1,1,1,0,0,0,0,0,0,1,0,0,2,OTHER,1,4,0,2,0,0,1,2,2,3,0
+33260,Labour Party,Stoke-on-Trent Central,1,0,0,0,0,0,0,0,0,1,0,0,0,OTHER,0,1,0,2,0,0,1,0,0,0,0
+33263,Liberal Democrats,Tonbridge and Malling,1,0,1,1,1,1,1,1,0,1,0,0,5,YIMBY,1,0,2,2,0,0,0,0,0,0,1
+33266,Conservative Party,Cambridge,1,0,0,0,0,0,1,0,0,1,0,0,3,OTHER,1,3,3,2,0,0,0,0,0,0,0
+33269,Liberal Democrats,Cambridge,1,1,0,1,0,0,0,0,0,1,0,0,2,OTHER,0,6,1,2,0,0,1,1,0,0,0
+33275,Green Party,Hexham,1,0,1,0,1,1,0,1,0,0,0,1,2,YIMBY,1,6,1,4,0,0,0,0,0,0,1
+33279,Labour Party,Sutton Coldfield,1,1,0,0,1,1,1,0,0,1,0,1,4,NIMBY,1,2,2,1,0,1,1,1,0,1,1
+33288,Conservative Party,Walthamstow,1,0,0,0,0,0,1,0,0,1,0,0,3,OTHER,0,4,1,2,0,0,0,0,0,0,0
+33303,Conservative Party,Broxtowe,1,1,1,0,1,0,0,0,0,1,0,0,4,OTHER,1,3,3,1,0,0,0,0,0,1,1
+33314,Labour Party,Tonbridge and Malling,1,0,0,0,0,0,0,0,0,1,0,1,0,OTHER,0,1,1,1,0,1,1,0,0,0,0
+33333,Conservative Party,Witney,1,0,0,0,0,0,1,0,0,1,0,0,3,OTHER,2,1,2,1,1,0,0,0,0,0,1
+33339,Conservative Party,Scarborough and Whitby,1,0,0,0,1,0,0,0,0,1,0,0,3,OTHER,3,1,1,3,1,0,0,0,0,0,0
+33345,Labour Party,Scarborough and Whitby,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,0,0,0,0,0,0,0,1
+33348,Labour Party,Scarborough and Whitby,1,0,0,0,0,0,1,1,0,1,0,0,4,NIMBY,0,1,1,1,0,0,1,0,0,0,1
+33354,Brexit/Reform Party,Brighton Kemptown,1,0,1,1,1,1,0,1,0,1,1,0,7,OTHER,1,2,0,1,1,0,0,1,0,0,0
+33357,Conservative Party,Bury South,0,1,1,0,1,1,1,1,0,1,0,0,7,YIMBY,7,4,1,5,0,0,0,2,0,1,0
+33363,Labour Party,Aberconwy,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,0,0,0,0,0,0,0,0
+33378,Conservative Party,Newport West,1,1,0,1,1,1,1,0,0,1,0,0,6,YIMBY,5,5,5,6,0,0,0,1,0,0,1
+33381,Brexit/Reform Party,Newport West,1,1,0,1,1,0,0,0,0,0,0,0,1,OTHER,1,3,0,1,0,0,0,1,0,0,0
+33387,Liberal Democrats,East Surrey,1,1,0,0,1,1,0,0,0,0,0,0,1,OTHER,1,2,1,1,1,0,2,2,0,0,1
+33393,Green Party,Tonbridge and Malling,1,0,0,0,0,0,0,1,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+33396,Conservative Party,Dundee East,1,1,1,1,0,0,0,0,0,0,0,0,0,OTHER,1,4,0,2,0,0,0,3,0,2,0
+33409,Liberal Democrats,Southampton Test,1,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,1,0,1,1,0,0,0,0,0,0
+33437,Liberal Democrats,Airdrie and Shotts,1,0,0,0,1,0,0,0,0,0,0,0,3,OTHER,0,0,0,0,0,0,0,0,0,0,0
+33442,Liberal Democrats,Woking,1,0,0,1,1,0,1,1,0,1,0,0,3,OTHER,2,5,2,3,0,0,1,0,0,0,1
+33457,Liberal Democrats,North Norfolk,1,1,0,0,0,0,1,1,0,1,0,0,3,YIMBY,0,8,3,1,0,0,1,1,0,1,1
+33460,Liberal Democrats,Woking,1,1,0,1,1,0,1,0,0,1,0,0,2,OTHER,1,3,2,2,0,0,1,1,0,0,1
+33463,Brexit/Reform Party,Jarrow,1,0,1,0,1,0,0,0,0,1,1,0,5,OTHER,1,1,1,5,0,0,0,0,0,0,1
+33469,UK Independence Party,Woking,1,1,1,0,1,0,0,0,0,1,1,0,7,OTHER,1,1,0,8,0,0,2,0,0,0,0
+33476,Conservative Party,Hertsmere,1,1,1,0,1,1,1,0,0,1,0,0,7,NIMBY,4,4,3,2,0,1,1,1,0,0,1
+33479,Green Party,Hertsmere,1,0,0,0,1,1,1,1,0,1,0,0,5,YIMBY,2,3,1,1,1,0,0,0,0,0,1
+33485,Labour Party,Bath,1,0,0,0,0,0,0,1,0,1,0,0,5,OTHER,0,2,2,1,0,0,0,0,0,0,0
+33491,Liberal Democrats,Hertsmere,1,1,1,0,1,1,0,1,0,1,0,0,3,OTHER,1,4,0,3,0,0,2,2,0,0,0
+33494,Liberal Democrats,Bath,1,0,0,1,1,1,1,1,0,0,0,0,3,YIMBY,1,1,1,3,1,0,1,0,0,1,1
+33497,Labour Party,Mid Sussex,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,0,0,0,0,0,0,0,0
+33504,Liberal Democrats,Bath,0,1,0,1,0,0,1,0,0,1,0,0,4,OTHER,3,3,0,4,0,0,2,1,0,1,0
+33507,Conservative Party,Newbury,1,0,0,0,0,0,0,0,0,1,0,0,3,YIMBY,0,0,2,1,1,0,0,0,0,0,0
+33517,Conservative Party,Newbury,1,1,1,0,1,1,1,1,0,1,0,0,6,YIMBY,3,2,3,2,0,0,1,1,0,0,1
+33523,Liberal Democrats,Newbury,1,1,0,1,1,0,1,1,0,1,0,0,3,OTHER,0,2,0,0,0,0,0,1,1,0,0
+33526,Liberal Democrats,Torridge and West Devon,1,1,1,1,0,0,0,1,0,0,0,0,1,OTHER,2,3,1,2,0,0,1,1,0,1,0
+33529,Labour Party,Torridge and West Devon,1,0,0,0,0,0,1,1,0,0,0,0,3,YIMBY,1,3,1,2,1,0,0,1,1,0,1
+33538,Liberal Democrats,Woking,1,1,1,1,1,0,1,1,0,1,0,0,2,YIMBY,3,5,3,3,4,1,3,1,1,1,1
+33541,Liberal Democrats,Brecon and Radnorshire,0,1,0,1,0,0,0,0,0,0,0,0,3,OTHER,2,3,0,0,1,0,0,1,0,0,0
+33544,UK Independence Party,Holborn and St Pancras,1,1,0,0,1,0,0,0,0,1,1,0,7,OTHER,1,3,0,3,1,0,3,1,0,0,0
+33553,Liberal Democrats,Brecon and Radnorshire,1,1,0,1,1,0,1,1,0,1,0,0,3,OTHER,2,1,0,5,0,0,6,5,0,5,0
+33556,Liberal Democrats,Brecon and Radnorshire,1,1,0,1,1,0,0,0,0,0,0,0,3,NIMBY,2,3,0,4,0,0,1,0,0,0,0
+33565,Conservative Party,Torridge and West Devon,1,0,0,0,0,0,1,0,0,0,0,0,2,YIMBY,4,2,1,1,0,0,0,0,0,0,0
+33574,Conservative Party,Torridge and West Devon,1,1,0,0,1,1,1,0,0,1,0,0,3,YIMBY,7,3,5,2,1,0,0,1,0,0,1
+33577,Conservative Party,Ashton-under-Lyne,1,0,0,0,1,0,1,0,0,1,0,1,6,OTHER,3,3,2,4,0,0,1,0,0,0,0
+33580,Liberal Democrats,Torridge and West Devon,1,1,0,0,1,0,1,1,0,1,0,0,5,YIMBY,0,3,4,1,0,0,1,1,0,0,1
+33585,Labour Party,Torridge and West Devon,1,0,0,0,0,0,0,0,0,0,0,0,1,OTHER,0,1,1,0,1,0,0,0,0,0,1
+33589,Liberal Democrats,Southampton Itchen,0,1,1,0,0,1,0,0,0,1,0,0,2,YIMBY,1,3,1,2,1,0,5,3,0,3,0
+33595,Green Party,Southampton Itchen,1,0,1,0,1,0,1,1,0,0,0,0,3,YIMBY,0,5,1,3,1,1,1,0,0,0,0
+33598,UK Independence Party,Hertford and Stortford,1,0,0,0,1,0,0,0,0,1,1,0,7,OTHER,2,2,0,4,1,0,2,0,0,0,0
+33605,Conservative Party,Chingford and Woodford Green,1,1,0,1,0,0,1,0,0,1,0,0,6,NIMBY,4,4,4,3,0,2,2,1,0,1,0
+33627,Liberal Democrats,Newton Abbot,1,0,0,0,0,0,0,0,0,1,0,0,0,OTHER,1,2,0,1,1,0,1,0,0,0,0
+33633,Conservative Party,Newcastle-under-Lyme,1,0,1,1,1,0,1,0,0,1,0,0,2,YIMBY,5,5,6,7,0,0,1,1,1,0,0
+33639,Labour Party,Newcastle-under-Lyme,0,1,1,0,1,1,0,1,0,0,0,0,5,OTHER,0,1,1,5,0,0,1,1,0,0,0
+33644,Conservative Party,Newcastle-under-Lyme,1,1,0,1,1,0,0,0,0,1,0,0,5,YIMBY,2,2,4,3,1,0,1,0,0,0,1
+33646,Conservative Party,Newcastle-under-Lyme,1,1,0,1,0,1,0,0,0,0,0,0,3,OTHER,1,1,0,3,0,0,1,1,0,1,0
+33654,Conservative Party,Newcastle-under-Lyme,1,1,1,1,1,1,0,1,1,1,0,0,8,YIMBY,6,4,2,4,3,1,2,1,1,0,0
+33657,Conservative Party,Newcastle-under-Lyme,1,1,0,1,1,1,1,0,0,1,0,0,8,NIMBY,7,3,1,5,0,1,4,1,0,0,0
+33669,Brexit/Reform Party,Newcastle-under-Lyme,1,0,0,0,1,1,0,0,1,1,1,0,5,YIMBY,2,2,1,5,0,0,0,0,0,0,1
+33678,Conservative Party,Witney,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,0,0,0,0,0,1
+33682,Brexit/Reform Party,Newcastle-under-Lyme,0,1,0,0,0,0,0,0,0,0,0,0,1,OTHER,1,2,1,2,1,1,2,1,0,1,0
+33685,Labour Party,Newcastle-under-Lyme,1,0,0,0,0,0,0,0,0,0,0,0,3,YIMBY,0,2,1,2,0,0,0,0,0,0,0
+33689,Liberal Democrats,Newcastle-under-Lyme,1,1,1,0,1,1,1,1,0,1,0,0,4,OTHER,1,1,1,3,0,0,1,1,0,0,1
+33696,Brexit/Reform Party,Newcastle-under-Lyme,1,1,0,1,1,0,0,0,0,0,0,0,1,OTHER,1,3,1,1,0,0,2,1,0,1,0
+33704,Conservative Party,Newcastle-under-Lyme,1,1,1,1,1,1,1,0,0,1,1,0,5,OTHER,5,3,0,5,0,0,0,1,0,0,0
+33709,Conservative Party,Witney,1,1,1,0,1,1,0,0,0,0,0,0,1,OTHER,0,1,1,2,1,0,1,1,1,0,1
+33713,Labour Party,Witney,1,0,0,0,1,0,0,1,0,0,0,0,2,OTHER,0,4,1,2,0,0,0,0,0,0,1
+33716,Conservative Party,Hackney South and Shoreditch,1,0,1,0,1,1,1,1,0,1,0,0,6,OTHER,3,4,5,5,1,0,0,0,0,0,0
+33724,Green Party,Birkenhead,1,0,0,0,1,0,0,1,0,0,0,0,2,OTHER,0,1,0,2,0,0,0,0,0,0,0
+33740,Liberal Democrats,Worthing West,1,0,0,1,0,0,0,0,0,0,0,0,1,YIMBY,1,0,1,0,0,0,0,0,0,0,1
+33745,Labour Party,Airdrie and Shotts,0,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+33748,Labour Party,Oxford East,1,1,0,1,1,1,1,1,0,1,0,0,5,YIMBY,4,4,4,5,4,2,2,1,0,1,1
+33771,Labour Party,Reading West,1,0,0,1,1,0,0,0,0,1,0,0,3,YIMBY,1,4,1,3,0,0,1,0,0,0,1
+33774,Labour Party,Pontypridd,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,1,0,0,0,0,0,0,0,1
+33786,Scottish National Party,Dundee East,1,0,0,0,0,0,0,0,0,0,0,0,1,OTHER,1,2,1,1,0,0,0,0,0,0,1
+33798,Green Party,Epsom and Ewell,1,0,0,0,0,0,0,1,0,0,0,0,2,YIMBY,0,1,1,1,1,0,0,0,0,0,0
+33801,Liberal Democrats,Cambridge,0,0,1,0,1,0,0,0,0,0,0,0,1,OTHER,0,2,1,1,0,0,1,1,0,0,1
+33805,Labour Party,Mole Valley,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+33808,UK Independence Party,Mole Valley,0,0,0,0,1,0,0,1,1,1,1,0,7,OTHER,0,0,1,7,0,0,0,0,0,0,1
+33814,Brexit/Reform Party,Warwick and Leamington,1,0,0,0,1,1,1,0,1,1,1,0,5,OTHER,2,2,2,2,1,0,0,0,0,0,1
+33820,Conservative Party,West Bromwich West,1,1,0,1,1,1,0,0,0,1,1,0,2,OTHER,7,5,0,5,0,0,4,4,0,0,0
+33823,Labour Party,West Bromwich West,1,1,0,0,0,0,0,0,0,1,0,1,5,YIMBY,1,2,2,2,0,0,0,0,0,0,1
+33825,Labour Party,West Bromwich West,1,1,0,0,1,0,0,0,0,1,0,0,1,OTHER,3,4,0,1,1,0,1,1,0,0,0
+33835,Liberal Democrats,Sheffield Hallam,1,0,0,1,1,0,0,0,0,1,0,0,2,OTHER,1,2,1,1,3,2,1,0,0,0,1
+33850,Liberal Democrats,Scarborough and Whitby,1,1,0,0,1,0,1,1,0,1,0,0,7,OTHER,1,7,1,6,0,0,1,1,0,0,0
+33858,Conservative Party,Scarborough and Whitby,1,0,0,0,1,0,1,0,0,1,0,0,4,OTHER,3,9,2,2,0,0,0,0,0,0,1
+33862,Conservative Party,Vauxhall,1,0,0,0,0,0,0,1,0,0,0,0,3,YIMBY,2,1,2,1,0,0,0,0,0,0,0
+33867,Liberal Democrats,Newbury,0,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+33893,Labour Party,Sittingbourne and Sheppey,1,0,0,0,0,1,1,1,0,1,0,1,5,YIMBY,1,5,3,2,2,2,2,0,0,0,1
+33896,Conservative Party,Sittingbourne and Sheppey,1,0,0,0,1,0,0,0,0,0,0,1,1,OTHER,1,1,0,2,1,0,0,0,0,0,0
+33906,Conservative Party,Stoke-on-Trent Central,1,0,0,0,0,0,1,0,0,1,0,0,3,OTHER,3,0,0,3,1,0,0,0,0,0,0
+33913,Liberal Democrats,North Norfolk,1,1,0,0,1,0,0,0,0,1,0,0,1,YIMBY,3,1,1,2,1,1,0,1,0,0,0
+33917,Liberal Democrats,Suffolk Coastal,1,0,0,0,1,0,0,0,0,0,0,0,2,OTHER,0,1,0,1,1,0,0,0,0,0,0
+33927,Liberal Democrats,Mid Derbyshire,1,1,1,1,1,0,0,1,0,1,0,0,3,YIMBY,1,4,1,4,0,0,1,1,0,0,0
+33939,Conservative Party,Bethnal Green and Bow,1,0,0,0,0,0,0,1,0,0,0,0,3,OTHER,0,3,3,0,0,0,0,0,0,0,0
+33945,Brexit/Reform Party,Bethnal Green and Bow,1,1,0,1,1,0,0,0,0,0,0,0,1,OTHER,1,4,0,1,1,0,1,1,1,0,0
+33948,Liberal Democrats,North East Hampshire,1,1,0,1,1,0,1,1,1,1,0,0,6,NIMBY,2,4,3,4,2,1,2,1,0,2,1
+33965,Conservative Party,North East Hampshire,1,1,0,1,1,0,1,1,0,1,0,0,6,YIMBY,4,2,5,4,1,0,0,1,0,1,1
+33972,Labour Party,Lichfield,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,0,0,0,0,0,0,0,0
+33975,Labour Party,Poplar and Limehouse,1,0,0,0,0,0,0,0,0,1,0,0,1,OTHER,0,1,0,1,1,0,0,0,0,0,0
+33978,Conservative Party,Poplar and Limehouse,1,0,0,0,0,0,0,0,0,0,0,1,3,OTHER,0,3,3,0,0,0,0,0,0,0,0
+33988,Liberal Democrats,Walthamstow,1,1,1,0,1,0,0,1,0,0,0,0,2,OTHER,1,5,0,2,1,0,2,0,0,0,0
+33996,Conservative Party,Pontypridd,1,1,0,0,1,0,0,0,0,0,0,0,1,OTHER,1,3,1,1,0,0,1,1,0,0,0
+33999,Conservative Party,Bolton South East,1,0,1,0,1,0,1,1,0,1,0,0,4,YIMBY,0,3,1,1,0,1,0,0,0,0,1
+34002,Labour Party,West Bromwich West,1,0,0,0,0,1,1,0,0,1,0,1,3,OTHER,1,2,1,3,2,0,1,0,0,0,1
+34005,Liberal Democrats,Arundel and South Downs,1,0,1,0,1,1,1,1,0,1,0,0,4,OTHER,2,4,0,4,1,0,0,0,0,0,0
+34009,Labour Party,Arundel and South Downs,1,1,0,0,1,1,1,1,0,1,0,1,7,NIMBY,0,2,1,5,0,0,1,1,0,0,0
+34015,Brexit/Reform Party,Leyton and Wanstead,1,0,0,0,1,0,0,0,1,1,1,0,5,OTHER,1,1,0,5,0,0,0,0,0,0,1
+34020,Liberal Democrats,Leyton and Wanstead,1,1,1,0,1,1,0,0,0,0,0,0,1,OTHER,0,4,0,3,1,0,1,1,0,1,0
+34024,Conservative Party,Neath,0,0,1,0,1,1,0,1,0,0,1,0,5,YIMBY,3,2,1,5,0,0,0,1,0,0,0
+34026,Liberal Democrats,Henley,1,0,0,1,1,0,1,1,0,1,0,0,4,OTHER,0,1,1,4,0,0,0,0,0,0,0
+34029,Conservative Party,Croydon South,1,1,0,1,1,1,1,0,0,1,0,0,6,NIMBY,7,6,3,2,8,2,1,1,0,0,1
+34050,Liberal Democrats,Ealing Central and Acton,1,1,0,1,1,0,0,1,0,0,0,1,1,OTHER,1,2,0,3,0,0,2,1,0,1,1
+34053,Conservative Party,Ealing Central and Acton,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,0,0,0,0,0,0,0,0
+34058,Liberal Democrats,Tewkesbury,1,1,1,1,0,0,1,1,0,1,0,0,3,YIMBY,1,4,4,0,4,0,2,2,0,2,1
+34074,Conservative Party,Winchester,1,0,1,1,1,0,0,0,0,0,1,0,7,OTHER,0,3,1,2,0,0,1,0,0,0,0
+34077,Conservative Party,Cambridge,1,1,1,1,0,1,1,0,0,1,0,0,3,OTHER,2,3,1,1,0,0,2,3,0,0,0
+34080,Liberal Democrats,Rochester and Strood,1,0,0,0,1,0,0,1,0,0,0,0,1,OTHER,0,2,0,1,0,0,1,0,0,0,0
+34083,Liberal Democrats,Rochester and Strood,1,1,0,1,1,0,0,1,0,0,0,0,1,OTHER,2,2,0,1,1,0,1,0,0,0,0
+34089,Liberal Democrats,Rochester and Strood,1,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,1,0,1,1,0,0,0,0,0,1
+34095,UK Independence Party,Rochester and Strood,1,1,1,0,1,0,0,0,0,0,0,0,1,OTHER,1,1,0,1,0,0,1,1,0,1,0
+34098,Labour Party,Rochester and Strood,1,0,0,0,1,0,0,1,0,1,0,1,3,OTHER,2,3,3,1,1,2,1,0,0,0,1
+34106,Conservative Party,Midlothian,1,1,0,1,0,0,0,0,0,0,0,0,1,OTHER,2,2,1,1,0,1,0,1,0,0,0
+34125,Labour Party,Ealing Southall,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,0,0,0,0,0,1
+34136,Scottish National Party,Aberdeen North,0,1,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,0,0,0,0,1,0,1,0
+34139,Green Party,Ealing Southall,1,0,0,0,1,0,0,1,0,0,0,0,2,OTHER,0,1,0,2,1,0,0,0,0,0,0
+34154,UK Independence Party,Croydon South,1,0,0,1,1,0,0,0,0,1,1,0,7,OTHER,1,7,1,7,0,1,1,0,0,0,1
+34163,Conservative Party,Bury St Edmunds,1,0,0,0,1,0,1,1,0,1,0,0,5,YIMBY,4,5,5,1,0,0,1,0,0,0,1
+34168,Labour Party,Bury St Edmunds,1,0,0,0,0,1,1,1,0,1,0,1,8,YIMBY,2,2,1,6,1,0,0,0,0,0,1
+34182,Conservative Party,Mid Bedfordshire,1,0,1,0,1,1,1,0,0,1,1,0,7,YIMBY,2,2,0,6,0,0,1,0,0,0,1
+34188,Scottish National Party,Airdrie and Shotts,1,1,1,1,1,0,0,1,0,1,0,0,2,YIMBY,1,2,2,3,1,0,1,2,0,0,1
+34196,Conservative Party,Stoke-on-Trent Central,1,0,0,0,1,0,0,0,0,1,0,0,3,OTHER,3,1,0,3,0,0,0,0,0,0,0
+34208,Liberal Democrats,Hemel Hempstead,1,0,0,0,0,1,1,1,0,1,0,0,4,OTHER,0,2,3,3,0,1,0,0,0,0,1
+34214,Conservative Party,Nottingham South,0,0,1,0,0,1,1,0,0,1,0,0,5,YIMBY,6,2,1,5,0,0,0,0,0,0,0
+34217,Labour Party,Nottingham South,1,1,0,0,1,0,0,1,0,1,0,0,4,YIMBY,2,4,1,2,2,1,3,0,0,1,1
+34224,Conservative Party,Bishop Auckland,0,0,0,0,1,0,0,0,0,1,0,0,3,OTHER,2,1,0,3,1,0,0,0,0,0,0
+34232,Scottish National Party,Gordon,1,1,0,1,1,1,0,0,0,0,0,0,2,OTHER,0,4,1,3,0,0,1,1,1,2,1
+34237,Conservative Party,Southampton Test,1,1,1,0,1,0,1,1,0,1,0,0,5,NIMBY,2,4,4,3,0,0,2,1,0,0,1
+34243,Brexit/Reform Party,Southampton Test,0,1,0,1,1,0,0,0,0,0,0,0,1,OTHER,1,4,1,3,0,0,1,1,0,0,0
+34246,Labour Party,Southampton Test,1,1,0,1,0,0,1,1,0,1,0,0,4,OTHER,1,6,2,3,3,0,1,0,0,0,1
+34258,Conservative Party,Hertsmere,1,1,1,1,1,1,1,0,0,1,0,0,3,YIMBY,4,4,2,6,0,0,2,1,0,0,1
+34268,Conservative Party,Mitcham and Morden,0,0,1,0,0,0,0,0,0,1,0,0,3,OTHER,1,1,3,4,1,0,0,0,0,0,1
+34274,Liberal Democrats,Mitcham and Morden,1,1,1,1,1,1,1,1,1,1,0,0,6,NIMBY,4,3,2,4,0,0,1,1,0,0,1
+34277,Labour Party,Mitcham and Morden,1,1,0,1,1,1,1,0,0,1,0,0,5,YIMBY,0,1,4,5,1,0,5,2,0,1,1
+34280,Liberal Democrats,Southampton Itchen,1,1,1,0,1,1,0,0,0,0,0,0,1,OTHER,0,2,0,1,1,0,1,1,0,1,0
+34282,Conservative Party,Southampton Itchen,1,1,0,0,1,1,0,0,0,1,0,0,2,OTHER,2,1,0,3,0,0,1,1,0,1,0
+34287,Labour Party,Edinburgh East,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+34295,Labour Party,Gedling,1,1,0,1,1,0,1,0,0,1,0,0,3,YIMBY,2,4,5,3,0,2,1,1,0,0,1
+34298,Liberal Democrats,Walthamstow,1,1,1,0,1,1,1,1,0,1,0,0,4,OTHER,0,3,0,3,0,0,1,1,0,0,0
+34304,Green Party,Edinburgh East,1,0,0,0,0,0,0,1,0,0,0,0,3,OTHER,0,4,0,1,0,0,0,0,0,0,0
+34307,Brexit/Reform Party,Leeds Central,1,1,1,1,1,0,0,0,0,1,1,1,6,OTHER,1,5,0,4,1,0,2,2,0,0,0
+34310,Labour Party,Leeds Central,1,0,0,0,1,0,0,1,0,1,0,0,3,YIMBY,1,2,1,4,1,1,1,0,1,0,0
+34313,Liberal Democrats,Eastleigh,1,0,0,0,1,1,1,1,0,1,0,0,5,OTHER,1,4,0,5,4,0,0,0,0,0,0
+34317,Liberal Democrats,Eastleigh,1,1,0,0,1,0,0,0,0,0,0,0,2,OTHER,0,1,0,1,1,0,1,0,0,0,0
+34324,Liberal Democrats,Sheffield South East,1,0,1,0,0,0,0,1,0,1,0,0,3,OTHER,2,2,0,3,0,0,1,0,0,0,0
+34328,Labour Party,Sheffield South East,1,0,0,0,0,0,0,1,0,0,0,0,1,OTHER,1,2,0,1,0,0,0,0,0,0,0
+34335,Brexit/Reform Party,Sheffield South East,1,1,0,1,1,0,0,0,0,0,0,0,1,OTHER,1,3,1,1,1,0,0,1,0,0,0
+34339,Brexit/Reform Party,Vauxhall,1,1,1,1,1,0,0,0,0,0,0,0,1,OTHER,1,5,1,2,0,0,0,1,0,0,0
+34342,Labour Party,Vauxhall,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,0,0,0,0,0,1
+34345,Labour Party,Liverpool Riverside,1,1,0,1,1,1,0,0,0,1,0,1,3,OTHER,1,1,1,2,2,1,1,0,1,0,1
+34348,Liberal Democrats,Derbyshire Dales,1,0,1,1,1,0,1,1,0,1,0,1,4,OTHER,2,5,2,4,1,0,1,0,0,0,0
+34355,Conservative Party,Broxbourne,1,0,1,0,1,0,0,0,0,1,0,0,3,OTHER,2,1,0,3,1,0,0,0,0,0,0
+34359,Liberal Democrats,Broxbourne,1,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,3,1,1,1,0,0,0,0,0,0
+34367,Labour Party,Bishop Auckland,0,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,1,0,0,0,0,0,0,0
+34372,Conservative Party,Southend West,1,0,0,0,1,0,1,1,0,1,1,1,8,YIMBY,2,4,3,3,0,0,1,0,0,0,1
+34375,Green Party,Warwick and Leamington,1,0,0,0,1,0,0,1,0,0,0,0,3,OTHER,0,3,1,0,0,0,2,0,0,0,1
+34379,Liberal Democrats,Warwick and Leamington,0,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,0,0,1,0,0,0,0,0,0,0
+34385,Labour Party,Warwick and Leamington,1,1,0,1,1,0,1,1,0,1,0,0,5,OTHER,1,1,2,2,0,1,1,1,0,2,1
+34388,Conservative Party,West Bromwich West,1,1,0,1,1,1,1,0,0,1,1,1,4,OTHER,5,6,0,6,0,0,2,1,0,0,0
+34397,Brexit/Reform Party,West Bromwich West,0,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,1,0,1,1,0,0,0,0,0,0
+34400,Conservative Party,Warwick and Leamington,1,1,1,1,1,0,1,1,0,0,0,0,3,YIMBY,1,3,3,1,0,0,2,1,0,1,0
+34403,Conservative Party,West Bromwich West,1,1,1,1,1,1,1,0,0,1,0,0,7,YIMBY,7,6,1,6,0,0,0,1,0,0,0
+34406,Liberal Democrats,North East Fife,0,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,1,0,1,0,0,0,0,0,0,0
+34408,Labour Party,West Bromwich West,0,1,0,0,1,1,0,0,0,0,0,1,1,OTHER,2,1,1,2,1,1,2,0,0,0,0
+34419,Labour Party,Warwick and Leamington,0,1,0,1,1,0,1,1,0,1,0,1,6,YIMBY,1,5,1,5,1,0,0,0,0,1,0
+34426,Labour Party,Warwick and Leamington,1,0,0,0,0,0,1,1,0,1,0,0,3,OTHER,0,1,1,2,1,0,0,0,0,0,0
+34429,Conservative Party,North East Fife,1,1,1,1,0,1,0,0,1,1,0,0,4,OTHER,1,4,2,2,0,0,1,1,0,0,0
+34431,Labour Party,Warwick and Leamington,1,1,0,0,1,0,0,0,0,1,0,0,1,OTHER,2,5,0,4,0,1,1,1,0,1,0
+34437,Conservative Party,Central Ayrshire,1,1,0,1,0,0,0,0,0,0,0,0,1,OTHER,2,3,0,1,0,0,1,1,0,0,0
+34443,Labour Party,Carlisle,1,0,0,0,0,1,1,1,0,1,0,0,5,OTHER,1,3,4,4,0,1,0,0,0,0,1
+34446,Conservative Party,Carlisle,1,1,1,1,1,1,1,0,0,1,0,0,6,OTHER,6,4,2,2,1,0,4,1,0,1,0
+34449,Labour Party,Nottingham East,1,1,0,0,0,0,1,0,0,1,0,0,3,YIMBY,5,4,3,1,0,1,1,0,0,0,1
+34455,Conservative Party,Newport West,1,0,1,0,1,0,0,0,0,0,0,0,0,YIMBY,0,1,1,1,1,0,0,0,0,0,1
+34458,Conservative Party,Wirral South,1,1,0,0,0,0,1,0,0,1,0,0,3,NIMBY,1,2,3,1,0,1,1,0,1,0,0
+34465,Labour Party,Wirral South,1,1,0,1,1,0,0,1,0,0,0,1,4,YIMBY,0,9,5,2,2,0,2,1,0,0,1
+34468,Labour Party,North Norfolk,1,0,1,0,1,0,0,1,0,1,0,1,3,OTHER,1,9,2,3,2,0,1,0,0,0,1
+34475,Conservative Party,Central Ayrshire,0,1,0,1,0,0,0,0,0,0,0,0,1,OTHER,0,5,0,1,5,0,1,1,0,0,0
+34479,Scottish National Party,Central Ayrshire,1,1,0,1,1,0,0,0,1,1,0,0,3,YIMBY,1,5,1,2,0,0,1,1,0,0,0
+34482,Conservative Party,Central Ayrshire,0,1,1,1,0,0,0,0,0,0,0,0,0,OTHER,0,5,0,0,0,0,5,1,0,1,0
+34485,Labour Party,Newport West,0,1,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,0,0,0,0,1,0
+34489,Liberal Democrats,Gordon,1,0,0,0,1,0,0,0,0,0,0,0,2,OTHER,0,1,1,1,1,0,0,0,0,0,1
+34497,Conservative Party,Central Ayrshire,1,1,0,1,0,0,0,0,0,0,0,0,1,OTHER,1,2,0,1,0,0,0,1,0,0,0
+34504,Labour Party,North East Fife,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,0,0,0,0,0,0
+34507,Conservative Party,Hornchurch and Upminster,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+34510,Conservative Party,Hornchurch and Upminster,0,1,0,1,0,0,0,0,0,0,0,0,0,OTHER,2,3,0,4,0,0,2,2,0,2,0
+34519,Liberal Democrats,North East Fife,1,1,0,0,1,1,1,1,0,1,0,0,4,OTHER,2,2,0,1,0,0,1,2,0,2,0
+34542,Conservative Party,Hornchurch and Upminster,1,0,1,1,1,1,1,0,1,1,0,0,5,OTHER,2,3,0,7,0,0,1,0,0,0,0
+34546,Brexit/Reform Party,Liverpool Riverside,0,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,1,0,1,1,0,0,0,0,0,0
+34550,Conservative Party,Hornchurch and Upminster,0,0,0,0,1,0,0,0,0,1,0,0,3,OTHER,3,0,0,3,1,0,0,0,0,0,0
+34553,Conservative Party,North Norfolk,0,1,1,0,1,0,1,0,0,1,1,1,4,OTHER,4,7,1,7,1,0,1,1,0,0,0
+34556,Conservative Party,Clwyd West,1,0,1,0,1,0,0,0,0,0,0,0,0,OTHER,0,6,1,1,0,0,1,0,0,0,1
+34559,Green Party,Edinburgh South,1,0,0,0,1,0,0,1,0,0,1,0,3,YIMBY,0,1,0,1,0,0,0,0,0,0,0
+34565,Liberal Democrats,Brecon and Radnorshire,1,1,1,0,1,0,0,0,0,0,0,0,0,OTHER,0,1,0,4,6,0,3,1,0,1,1
+34567,Liberal Democrats,Brecon and Radnorshire,1,1,0,1,1,1,1,0,0,0,0,0,3,NIMBY,1,1,1,1,1,1,1,0,0,1,0
+34575,Labour Party,Gainsborough,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+34577,Brexit/Reform Party,Stockport,1,1,0,1,0,0,0,0,0,0,0,0,0,OTHER,1,2,1,2,0,0,0,1,0,0,0
+34594,Liberal Democrats,Cambridge,0,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,0,0,0,0,0,0,0,0
+34597,Labour Party,Cambridge,1,0,0,0,0,0,1,1,0,1,0,0,5,YIMBY,1,2,1,3,1,0,0,0,0,0,0
+34608,Brexit/Reform Party,Ealing Southall,0,1,1,1,1,1,0,0,0,1,1,0,6,OTHER,2,2,0,6,1,0,1,1,0,0,0
+34614,Labour Party,Normanton Pontefract and Castleford,0,0,0,0,0,0,1,0,0,0,0,1,2,OTHER,2,0,1,1,0,1,1,0,1,0,0
+34617,Labour Party,Normanton Pontefract and Castleford,1,1,0,0,0,0,0,0,0,1,0,0,1,OTHER,0,1,0,1,0,0,1,0,0,0,0
+34626,Conservative Party,Southampton Test,1,1,1,0,1,0,0,1,0,1,0,0,3,OTHER,2,5,3,1,0,0,1,0,0,1,1
+34629,Conservative Party,Southampton Test,1,0,1,0,1,0,1,0,0,1,0,0,5,OTHER,5,1,0,5,0,0,0,0,0,0,0
+34636,Green Party,Leyton and Wanstead,1,0,0,0,1,0,0,1,0,0,0,0,2,YIMBY,1,1,1,0,0,0,0,0,0,0,1
+34644,Brexit/Reform Party,Plymouth Sutton and Devonport,1,0,0,1,1,1,1,1,0,0,0,0,7,OTHER,1,1,1,1,0,0,0,0,0,0,1
+34647,Conservative Party,Hornchurch and Upminster,1,0,0,0,1,1,0,0,0,0,0,0,3,OTHER,3,0,0,3,1,0,0,0,0,0,0
+34653,Conservative Party,Cities of London and Westminster,1,1,0,1,0,1,0,0,0,0,0,0,1,YIMBY,2,1,1,2,0,0,1,1,0,0,1
+34668,Labour Party,Broxtowe,0,1,0,1,1,1,0,0,0,1,0,0,3,YIMBY,1,2,1,3,0,0,0,1,0,1,0
+34671,Conservative Party,Warwick and Leamington,0,1,1,1,0,0,0,0,0,0,0,0,1,OTHER,2,5,0,1,1,0,3,2,0,1,0
+34678,Labour Party,South West Norfolk,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,1,0,0,1,0,0,0,0
+34691,Green Party,Birkenhead,1,0,0,0,1,0,0,1,0,0,0,0,2,OTHER,0,2,0,2,0,0,0,0,0,0,0
+34696,Conservative Party,Louth and Horncastle,1,1,1,1,1,0,1,0,0,1,0,0,6,OTHER,6,3,0,7,0,0,2,1,0,1,0
+34699,Liberal Democrats,Louth and Horncastle,1,0,0,0,1,1,1,1,0,1,0,0,4,OTHER,3,2,1,3,1,0,0,0,0,0,0
+34709,Conservative Party,Beaconsfield,0,1,1,1,1,1,0,1,0,1,0,0,3,OTHER,3,3,2,4,0,0,2,1,0,0,0
+34716,Conservative Party,Beaconsfield,1,1,1,0,1,1,0,0,1,1,0,0,3,YIMBY,2,4,0,5,1,0,1,1,1,0,0
+34719,Conservative Party,Beaconsfield,1,1,0,0,1,0,1,1,0,0,0,0,6,NIMBY,1,5,3,2,1,1,1,1,0,0,1
+34724,Scottish National Party,Gordon,0,0,0,0,1,0,0,0,1,1,0,0,3,OTHER,0,3,0,3,0,0,1,0,0,0,0
+34727,Liberal Democrats,Lewisham Deptford,1,1,1,1,1,1,1,1,0,1,0,0,5,YIMBY,1,5,1,1,0,0,1,0,0,1,1
+34734,Labour Party,Gedling,1,1,0,1,0,0,0,0,0,0,0,0,1,OTHER,1,2,0,1,0,0,1,0,1,0,1
+34737,Brexit/Reform Party,Bethnal Green and Bow,1,0,0,0,1,0,0,0,1,1,1,0,9,OTHER,3,4,0,6,0,0,1,0,0,0,0
+34744,Liberal Democrats,Cambridge,0,0,0,0,1,0,0,0,0,0,0,0,3,OTHER,0,1,0,1,0,0,0,0,0,0,0
+34747,Labour Party,Stoke-on-Trent Central,1,1,0,0,1,0,0,0,0,1,0,1,5,YIMBY,0,5,2,3,0,0,1,1,0,0,1
+34754,Brexit/Reform Party,West Ham,0,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,1,0,1,1,0,0,0,0,0,0
+34757,Brexit/Reform Party,West Ham,1,0,0,0,1,1,1,0,1,1,1,0,5,OTHER,1,2,1,1,0,0,2,0,0,0,1
+34763,Liberal Democrats,West Ham,1,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,0,0,1,1,0,0,0,0,0,0
+34767,Labour Party,West Ham,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+34779,Brexit/Reform Party,Holborn and St Pancras,1,1,0,1,1,0,0,0,0,0,0,0,1,OTHER,1,4,0,1,0,0,0,1,0,0,0
+34788,Conservative Party,Devizes,1,0,0,0,1,0,0,0,0,1,0,0,3,OTHER,2,1,0,3,0,0,0,0,0,0,0
+34794,Liberal Democrats,Devizes,1,1,1,1,1,0,1,1,0,1,0,0,3,OTHER,4,6,3,3,3,0,1,1,0,0,1
+34797,Labour Party,Devizes,1,1,0,1,1,0,1,0,0,1,0,0,4,YIMBY,3,2,5,2,0,1,1,0,1,0,1
+34802,Liberal Democrats,Kingston upon Hull North,1,0,1,1,0,0,0,0,0,0,0,0,0,OTHER,1,2,1,1,0,0,0,0,0,0,1
+34805,Conservative Party,Kingston upon Hull North,1,1,1,0,1,0,1,0,0,1,0,0,3,OTHER,2,3,3,3,0,0,0,0,0,1,1
+34809,Brexit/Reform Party,Kingston upon Hull North,1,1,0,1,1,0,0,0,0,0,0,0,1,OTHER,1,2,1,2,0,0,2,1,0,0,0
+34815,Labour Party,Kingston upon Hull North,1,0,0,0,0,0,0,1,0,0,0,1,3,YIMBY,1,3,2,3,2,0,1,0,0,0,1
+34823,Labour Party,East Lothian,0,1,0,0,0,0,0,0,0,1,0,1,6,YIMBY,3,0,1,5,0,1,1,1,1,0,0
+34827,Conservative Party,East Lothian,1,1,0,1,0,1,1,0,0,1,0,0,4,OTHER,1,2,2,3,0,1,1,1,0,0,0
+34837,Liberal Democrats,Reading West,1,1,1,1,1,1,1,1,0,1,0,0,5,YIMBY,2,4,2,5,1,1,3,1,0,2,0
+34842,Labour Party,East Lothian,0,1,0,0,1,0,0,1,0,1,0,0,6,YIMBY,2,2,3,1,0,0,1,1,0,0,0
+34845,Labour Party,East Lothian,0,1,0,0,1,1,0,1,1,1,0,0,6,YIMBY,5,5,0,4,0,0,0,1,0,0,0
+34854,Scottish National Party,East Lothian,1,1,0,0,1,1,0,1,0,1,0,0,5,YIMBY,0,9,6,1,0,0,1,1,0,0,0
+34858,Labour Party,East Lothian,1,0,0,0,1,1,0,0,0,1,0,1,4,YIMBY,4,2,4,2,1,0,1,1,0,0,1
+34863,Scottish National Party,East Lothian,1,0,0,0,1,0,0,0,0,0,0,0,2,OTHER,1,2,0,1,1,0,1,0,0,0,0
+34866,Labour Party,East Lothian,1,1,0,1,1,0,1,0,0,0,0,0,5,OTHER,1,4,3,1,0,3,0,0,0,0,1
+34872,Liberal Democrats,Welwyn Hatfield,1,1,1,0,1,0,1,1,0,1,0,0,6,YIMBY,0,7,3,3,0,0,1,1,0,0,1
+34875,UK Independence Party,East Lothian,1,0,0,0,1,0,0,0,0,1,1,0,7,OTHER,1,3,0,1,0,0,1,0,0,0,0
+34877,Conservative Party,East Lothian,1,1,0,1,0,0,0,0,1,0,0,0,1,OTHER,1,4,2,2,0,0,1,1,0,1,1
+34883,Conservative Party,East Lothian,1,1,0,1,0,0,0,0,0,0,0,0,0,OTHER,1,1,0,1,0,0,2,1,0,0,0
+34894,Green Party,Maldon,1,0,1,0,1,0,0,1,0,1,0,1,5,YIMBY,0,1,1,3,0,0,0,0,0,0,1
+34897,Liberal Democrats,Maldon,1,1,0,0,1,0,0,0,0,0,0,0,1,YIMBY,0,3,1,1,0,0,1,1,0,0,1
+34903,Conservative Party,Maldon,1,0,1,0,0,1,1,1,0,1,0,0,6,YIMBY,4,2,2,4,0,0,0,0,0,0,0
+34905,Labour Party,Stoke-on-Trent Central,1,1,0,0,1,0,0,0,0,1,0,0,1,OTHER,3,4,0,1,1,0,1,2,0,0,0
+34908,Conservative Party,Central Ayrshire,0,1,0,1,0,0,0,0,0,0,0,0,1,OTHER,0,2,1,1,2,0,1,1,1,0,0
+34918,Labour Party,Calder Valley,1,0,0,1,0,1,0,1,0,1,0,0,4,OTHER,1,2,1,3,2,0,2,0,0,0,0
+34923,Labour Party,Calder Valley,1,1,1,1,1,1,1,1,0,1,0,1,5,YIMBY,4,3,2,2,1,1,1,0,0,0,1
+34926,Brexit/Reform Party,Bolton North East,1,0,0,0,0,0,1,0,0,1,0,1,11,OTHER,0,0,3,1,1,0,0,0,0,0,0
+34933,Conservative Party,Rushcliffe,1,0,0,1,0,1,1,1,0,1,0,0,5,OTHER,0,8,5,0,0,0,0,0,0,0,0
+34936,UK Independence Party,Rushcliffe,1,0,0,0,1,1,0,1,0,0,1,0,1,NIMBY,0,3,1,2,1,0,0,0,0,0,1
+34943,Labour Party,Erewash,1,0,0,0,0,0,1,0,0,0,0,0,3,OTHER,2,3,3,1,0,0,3,0,0,0,1
+34946,Liberal Democrats,Sheffield Hallam,1,0,0,1,0,0,1,1,0,1,0,0,0,YIMBY,2,5,3,1,1,1,1,0,0,0,0
+34950,Liberal Democrats,Sheffield Hallam,1,1,1,1,1,1,1,1,0,1,0,0,3,OTHER,0,2,1,4,0,1,3,0,1,0,1
+34953,Liberal Democrats,Rushcliffe,1,1,0,1,1,0,1,1,0,1,0,0,4,OTHER,1,8,1,4,0,0,2,1,0,1,1
+34955,Liberal Democrats,Rushcliffe,1,0,1,0,0,0,0,0,0,1,0,0,1,OTHER,1,1,0,1,1,0,1,0,0,0,0
+34958,Liberal Democrats,Rushcliffe,1,1,0,0,0,0,0,0,0,1,0,0,7,OTHER,2,4,0,2,2,0,2,1,0,1,0
+34963,Liberal Democrats,Rushcliffe,0,1,0,0,0,0,0,0,0,1,0,0,0,OTHER,1,2,0,1,1,0,1,2,0,0,0
+34969,Labour Party,Rushcliffe,1,0,0,1,1,1,1,1,0,1,0,1,5,YIMBY,1,1,1,3,2,0,0,0,0,0,0
+34976,Liberal Democrats,Rushcliffe,1,1,1,0,1,0,1,1,0,1,0,0,5,OTHER,2,3,0,3,1,0,3,2,0,0,0
+34979,Labour Party,Nottingham North,1,1,0,0,0,0,1,1,0,1,0,1,5,OTHER,1,2,2,5,1,1,0,0,1,0,1
+34983,Brexit/Reform Party,Nottingham North,1,1,1,1,1,1,0,0,1,0,1,0,7,OTHER,1,4,0,6,0,0,1,1,1,0,0
+34987,Liberal Democrats,Nottingham North,1,1,1,1,1,1,1,1,0,1,0,0,2,OTHER,1,1,3,3,1,0,1,1,0,1,0
+34999,Brexit/Reform Party,Newcastle upon Tyne Central,0,1,1,1,1,1,0,0,1,1,1,0,5,OTHER,5,5,2,2,1,0,3,1,1,1,0
+35006,Conservative Party,Newcastle upon Tyne Central,1,0,1,1,1,1,1,1,0,1,0,1,5,NIMBY,1,3,4,3,0,0,0,0,0,0,0
+35010,Labour Party,Newcastle upon Tyne Central,1,0,0,0,0,0,0,1,0,1,0,0,5,YIMBY,0,1,1,3,1,1,0,0,0,0,1
+35013,Green Party,Newcastle upon Tyne Central,1,0,0,0,0,0,0,1,0,0,0,0,3,NIMBY,2,2,3,1,0,1,0,0,0,0,1
+35016,Labour Party,Newcastle upon Tyne Central,1,0,0,0,1,1,1,1,0,1,0,1,3,YIMBY,3,2,2,1,0,0,0,0,0,0,1
+35531,Conservative Party,St Austell and Newquay,1,0,1,0,0,0,0,0,0,1,0,0,1,OTHER,3,1,1,1,0,0,0,0,0,0,1
+35533,Liberal Democrats,St Austell and Newquay,1,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,2,1,1,0,0,1,0,0,0,0
+35546,Labour Party,Glasgow North,1,1,0,0,1,0,0,0,0,0,0,1,3,OTHER,1,1,1,2,1,0,0,1,0,0,1
+35549,Labour Party,Glasgow North,1,1,1,1,0,1,0,1,0,1,0,0,4,YIMBY,5,3,2,5,3,0,0,0,0,0,1
+35555,Labour Party,Glasgow North,1,0,0,0,1,0,0,1,0,0,0,0,5,YIMBY,2,2,1,4,0,0,0,0,0,0,0
+35558,Conservative Party,Glasgow North,1,1,0,1,0,0,0,1,0,1,0,0,4,OTHER,1,1,3,1,0,0,3,1,0,0,0
+35561,Green Party,Glasgow North,1,0,0,0,0,1,0,1,0,0,0,0,3,OTHER,1,3,0,5,0,0,1,0,0,0,0
+35564,Liberal Democrats,Glasgow North,1,0,1,1,1,1,0,1,0,0,0,0,3,OTHER,0,5,1,3,0,0,3,0,0,0,1
+35567,Green Party,Glasgow North,1,0,0,0,0,0,0,1,0,0,0,1,1,OTHER,0,2,0,1,1,0,0,0,0,0,0
+35573,Liberal Democrats,York Outer,1,1,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,2,0,0,0,0
+35578,Liberal Democrats,York Outer,1,1,0,0,0,0,1,1,0,1,0,0,4,OTHER,0,0,0,0,1,0,0,0,0,0,0
+35582,Liberal Democrats,York Outer,1,1,1,0,1,1,1,0,0,1,0,0,2,OTHER,2,4,0,5,1,0,1,3,4,0,0
+35585,Liberal Democrats,York Outer,0,0,1,1,1,0,0,0,0,0,0,0,0,OTHER,1,2,0,1,1,0,2,1,0,0,0
+35595,Liberal Democrats,York Outer,1,0,0,0,1,1,0,1,0,1,0,0,4,OTHER,2,2,0,4,0,0,2,0,0,0,0
+35597,Liberal Democrats,York Outer,1,1,0,1,0,0,1,1,0,1,0,0,5,NIMBY,0,4,3,2,0,0,0,0,0,1,0
+35602,Liberal Democrats,York Outer,1,1,0,1,0,0,1,0,0,1,0,0,1,OTHER,2,5,3,1,0,0,1,1,3,1,0
+35607,Liberal Democrats,York Outer,0,0,0,1,1,0,1,0,0,0,0,0,2,OTHER,2,1,0,2,1,0,1,0,0,0,0
+35609,Liberal Democrats,York Outer,1,0,0,0,0,0,0,0,0,1,0,0,1,OTHER,1,4,0,1,0,0,2,0,0,0,0
+35612,Liberal Democrats,York Outer,0,1,1,1,1,1,0,1,0,1,0,0,5,OTHER,4,6,0,5,2,0,2,1,0,0,0
+35618,Liberal Democrats,York Outer,0,1,0,0,1,1,1,1,0,1,0,0,5,OTHER,0,1,0,1,0,0,1,0,0,0,0
+35623,Liberal Democrats,York Outer,1,1,1,1,1,1,1,1,0,0,0,0,4,OTHER,1,4,0,4,1,0,1,1,0,1,0
+35627,Liberal Democrats,York Outer,1,0,1,0,1,0,1,1,0,1,0,0,4,OTHER,2,3,1,1,2,0,2,0,0,2,0
+35639,Conservative Party,York Outer,1,0,1,0,1,1,1,1,0,1,0,0,6,OTHER,4,3,8,1,0,0,0,0,0,0,0
+35645,Labour Party,Oxford East,1,1,0,0,1,1,0,1,0,1,0,0,4,OTHER,2,3,4,3,0,0,1,0,0,0,1
+35648,Labour Party,Lancaster and Fleetwood,1,0,0,1,1,1,0,1,0,0,0,1,8,OTHER,1,1,2,4,0,1,2,0,0,0,1
+35654,Labour Party,Lancaster and Fleetwood,1,1,0,0,0,0,0,0,0,0,0,0,1,NIMBY,3,1,1,1,1,0,0,0,0,1,1
+35657,Liberal Democrats,Newbury,1,1,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,3,1,1,1,0,1,0,0,0,0
+35663,Conservative Party,Newbury,1,0,0,0,1,0,1,0,0,1,0,0,3,OTHER,3,1,0,3,0,0,0,0,0,0,0
+36537,Liberal Democrats,Houghton and Sunderland South,1,0,0,0,0,0,0,0,0,0,0,0,2,YIMBY,0,2,2,0,0,0,0,0,1,0,1
+36569,Green Party,Ealing Central and Acton,1,0,0,0,1,0,0,1,0,0,0,0,2,OTHER,0,1,0,2,1,0,0,0,0,0,0
+36616,Liberal Democrats,Delyn,1,0,1,0,1,0,0,1,0,0,0,0,3,NIMBY,1,2,1,1,0,0,2,0,0,0,0
+36668,Liberal Democrats,Sittingbourne and Sheppey,1,0,1,0,1,0,0,1,0,1,0,0,3,YIMBY,1,4,1,3,0,0,1,0,0,0,1
+36766,Labour Party,Amber Valley,1,0,0,1,0,0,0,0,0,1,0,0,2,OTHER,0,1,1,3,0,0,1,0,0,0,0
+36767,Labour Party,Amber Valley,1,1,0,0,1,1,1,1,0,1,0,1,6,OTHER,3,5,0,11,0,1,1,1,0,0,0
+36775,Conservative Party,Gosport,1,0,0,0,1,1,0,1,0,1,0,0,5,YIMBY,4,11,0,0,1,0,0,0,0,0,0
+36817,Liberal Democrats,Oxford East,1,0,0,0,0,0,0,0,0,0,0,0,1,OTHER,0,1,1,0,1,0,0,0,0,0,1
+36829,Liberal Democrats,Oxford East,1,0,1,0,1,0,0,1,0,0,0,0,2,OTHER,0,2,0,3,2,0,2,0,0,0,0
+36832,Liberal Democrats,Oxford East,1,1,0,0,1,0,0,1,0,1,0,0,3,OTHER,2,3,2,3,1,0,1,1,0,0,0
+36838,Liberal Democrats,Oxford East,1,1,1,1,1,1,1,1,0,1,0,0,5,OTHER,3,4,0,6,1,0,1,1,0,0,0
+36853,Liberal Democrats,Oxford East,1,1,0,0,1,1,1,1,1,1,0,0,5,OTHER,2,2,2,4,0,0,1,0,1,0,0
+36856,Liberal Democrats,Oxford East,0,0,0,1,1,0,0,1,1,0,0,0,3,OTHER,2,3,2,1,0,0,0,0,0,0,0
+36859,Liberal Democrats,Oxford East,1,0,0,0,1,0,0,0,0,0,0,0,0,OTHER,0,1,0,1,0,0,0,0,0,0,0
+36864,Liberal Democrats,Oxford East,1,1,1,1,1,0,0,1,0,0,0,0,3,NIMBY,2,4,1,2,0,0,0,0,0,0,1
+36961,Conservative Party,Feltham and Heston,1,0,0,0,0,0,1,0,0,1,0,0,6,NIMBY,2,3,3,3,0,1,0,0,0,0,1
+38456,Green Party,Macclesfield,1,0,0,0,1,0,0,1,0,0,0,0,2,OTHER,0,2,0,2,0,0,0,0,0,0,0
+38649,Conservative Party,Gedling,1,1,0,1,0,0,1,0,0,1,0,0,3,YIMBY,2,2,2,2,0,0,1,1,0,0,1
+38652,Labour Party,Gedling,1,1,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,3,0,2,1,0,1,2,1,0,1
+38655,Conservative Party,Gedling,1,1,1,0,1,1,1,1,0,1,0,0,6,NIMBY,2,2,2,2,0,0,0,1,1,0,1
+38658,Liberal Democrats,Newark,1,0,0,0,1,0,0,1,0,1,0,0,3,OTHER,0,0,0,1,0,0,0,0,0,0,0
+38664,Labour Party,Newark,0,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,2,0,0,0,0,0,1
+38669,Liberal Democrats,Newark,1,1,1,1,1,1,0,1,0,1,0,0,2,OTHER,1,4,1,1,1,0,1,1,0,0,0
+38678,Liberal Democrats,Bristol East,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,0,0,0,0,0,0
+38684,Labour Party,Bristol East,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,1,0,0,1,0,0,0,0
+38687,Brexit/Reform Party,Bristol East,0,0,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,1,0,1,1,0,0,0,0,0,0
+38696,Labour Party,Lancaster and Fleetwood,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,1,0,0,0,0,0,0,0
+38699,Conservative Party,Lancaster and Fleetwood,1,0,0,0,1,0,1,0,0,1,0,1,3,NIMBY,1,4,2,2,0,0,0,0,0,0,0
+38702,Conservative Party,Lancaster and Fleetwood,1,1,0,1,1,0,1,0,0,1,0,0,4,YIMBY,4,1,1,4,0,0,1,1,0,0,0
+38705,Liberal Democrats,Lancaster and Fleetwood,1,0,1,0,1,1,1,1,0,1,1,0,1,OTHER,2,2,0,1,1,0,0,0,0,0,1
+38708,Green Party,Lancaster and Fleetwood,1,0,0,0,0,0,0,1,0,0,0,0,1,OTHER,0,2,2,1,0,0,0,0,0,0,1
+38714,Brexit/Reform Party,Lancaster and Fleetwood,1,1,0,1,1,0,0,0,0,0,0,0,1,OTHER,1,3,0,1,1,0,1,1,0,0,0
+38717,Labour Party,Lancaster and Fleetwood,0,0,0,0,0,0,0,0,0,1,0,0,4,OTHER,1,3,0,4,1,0,0,0,0,0,0
+38722,Labour Party,Lancaster and Fleetwood,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,0,0,0,0,0,0,0,0
+38725,Labour Party,Lancaster and Fleetwood,1,0,0,0,0,0,0,0,0,0,0,0,1,OTHER,0,1,1,0,0,0,0,0,0,0,1
+38728,Conservative Party,Newbury,1,0,0,0,0,0,1,1,0,1,0,1,3,OTHER,0,4,3,1,0,0,0,0,0,0,0
+38734,Liberal Democrats,Newbury,1,1,0,0,1,0,1,1,0,1,0,0,5,OTHER,0,2,0,3,1,0,0,1,0,0,0
+38737,Labour Party,Newbury,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,0,0,0,0,0,0,0,0
+38743,Conservative Party,Broxtowe,1,0,0,0,1,0,1,1,0,1,0,0,6,YIMBY,2,4,2,3,0,0,0,0,1,0,0
+38752,Labour Party,Broxtowe,1,0,0,0,0,1,0,1,0,0,0,0,1,YIMBY,0,5,3,1,2,0,0,0,0,0,1
+38755,Labour Party,Rushcliffe,1,1,0,0,1,0,0,0,0,0,0,0,1,OTHER,0,1,0,1,1,0,1,0,0,0,0
+38758,Labour Party,Rushcliffe,1,1,0,0,1,0,1,1,0,1,0,1,6,OTHER,0,0,1,1,0,0,0,0,0,1,0
+38763,Liberal Democrats,Rushcliffe,1,1,1,0,1,1,0,1,0,1,0,0,5,YIMBY,1,19,1,4,0,0,1,1,0,0,0
+38766,Labour Party,Broxtowe,1,0,0,0,0,0,1,1,0,1,0,0,4,NIMBY,0,1,1,2,0,0,0,0,0,0,1
+38769,Labour Party,Erewash,1,0,0,0,0,0,0,0,0,1,0,0,1,OTHER,0,1,1,1,0,1,1,0,0,0,0
+38775,Labour Party,Erewash,0,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+38778,Conservative Party,Sherwood,1,0,0,0,0,0,1,0,0,0,0,0,6,YIMBY,2,4,3,2,0,0,0,0,0,0,0
+38781,Conservative Party,Erewash,1,0,0,0,1,1,0,0,0,0,0,0,3,OTHER,1,2,2,1,0,0,0,0,0,0,0
+38784,Conservative Party,Broxtowe,0,0,1,1,1,1,1,1,0,1,0,0,6,YIMBY,1,7,3,4,0,1,1,0,0,0,0
+38787,Conservative Party,Rushcliffe,1,0,0,0,1,0,1,0,0,1,0,0,4,OTHER,2,4,2,2,1,0,0,0,0,0,0
+38806,Conservative Party,Erewash,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,1
+38809,Conservative Party,Broxtowe,1,1,1,1,1,0,0,0,0,1,0,0,3,YIMBY,3,1,1,1,0,0,1,0,0,0,0
+38815,Labour Party,Broxtowe,0,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+38818,Liberal Democrats,Erewash,1,1,1,1,1,1,0,0,0,0,0,0,1,OTHER,1,2,1,2,1,0,2,0,0,1,0
+38824,Conservative Party,Erewash,1,1,1,1,1,1,1,0,0,1,0,0,4,OTHER,7,4,2,5,0,0,2,1,0,0,0
+38827,Labour Party,Broxtowe,1,1,0,0,1,0,1,1,0,1,0,1,7,OTHER,2,3,1,4,0,1,1,1,0,2,1
+38830,Green Party,Nottingham East,1,1,0,1,1,1,0,1,0,0,0,0,5,YIMBY,1,3,1,2,0,0,1,0,1,0,1
+38833,Liberal Democrats,Nottingham South,1,0,0,1,1,1,0,1,0,0,0,0,3,OTHER,0,3,1,2,1,0,1,0,0,0,0
+38836,Labour Party,Altrincham and Sale West,1,0,0,0,1,0,1,1,0,0,0,1,5,OTHER,1,1,2,1,0,2,1,0,0,0,1
+38839,Labour Party,Altrincham and Sale West,1,1,0,1,1,1,0,0,0,0,0,0,5,OTHER,1,6,1,3,0,0,0,0,0,2,0
+38845,Conservative Party,Sheffield Hallam,1,0,1,0,1,1,0,1,0,1,0,0,4,YIMBY,5,4,4,2,1,0,0,0,0,0,1
+38847,Liberal Democrats,Sheffield Hallam,1,1,0,0,0,0,0,0,0,1,0,0,1,OTHER,1,1,1,1,0,0,1,0,1,0,0
+38850,Liberal Democrats,Sheffield Hallam,0,1,1,0,0,0,0,0,0,1,0,0,1,OTHER,1,2,0,3,0,0,2,1,0,0,0
+38852,Liberal Democrats,Sheffield Hallam,1,1,0,0,0,0,0,0,0,1,0,0,1,OTHER,1,7,0,0,0,0,1,0,0,0,0
+38855,Liberal Democrats,Sheffield Hallam,0,1,1,1,1,1,0,1,0,1,0,0,2,OTHER,1,2,0,2,0,0,1,0,0,1,0
+38858,Conservative Party,Sheffield Hallam,1,0,0,0,1,0,1,0,0,1,0,0,6,OTHER,0,0,0,0,0,0,0,0,0,0,1
+38865,Brexit/Reform Party,Sheffield Hallam,1,1,0,1,1,0,0,0,0,0,0,0,1,OTHER,1,4,1,1,1,0,2,1,0,0,0
+38868,Labour Party,Sheffield Hallam,1,0,0,0,1,0,0,1,0,0,0,0,3,OTHER,1,1,0,3,1,0,1,0,0,0,0
+38874,Labour Party,Broxtowe,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,0,0,0,0,0,0,0,0,0
+38877,Conservative Party,North West Cambridgeshire,1,0,1,0,1,1,1,0,0,1,0,0,3,OTHER,7,3,2,2,1,0,0,0,0,0,0
+38883,Green Party,North West Cambridgeshire,1,0,0,0,1,0,0,1,0,0,0,0,2,OTHER,0,1,0,2,1,0,0,0,0,0,0
+38886,Labour Party,North West Cambridgeshire,1,1,0,0,0,0,0,0,0,0,0,0,0,YIMBY,0,2,1,1,0,0,0,0,0,1,0
+38888,Labour Party,Manchester Withington,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,0,0,0,0,0,0
+38893,Labour Party,Manchester Withington,1,1,0,0,1,0,0,0,0,1,0,0,2,OTHER,0,3,1,2,1,0,1,0,0,0,1
+38896,Labour Party,Manchester Withington,1,1,0,1,1,0,1,1,0,1,0,0,4,YIMBY,1,2,1,2,2,0,1,1,0,1,1
+38899,Brexit/Reform Party,Lewisham West and Penge,0,1,1,1,1,0,0,0,0,0,0,0,1,OTHER,1,3,0,1,0,0,1,1,0,0,0
+38906,Liberal Democrats,Sheffield Hallam,1,0,0,0,1,0,1,1,0,1,0,1,5,OTHER,2,3,1,2,0,0,0,0,0,0,0
+38909,Liberal Democrats,Sheffield Hallam,1,1,1,1,0,1,1,1,0,1,0,0,3,YIMBY,1,4,2,3,0,0,0,1,0,0,0
+38915,Labour Party,Sherwood,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+38918,Labour Party,Nottingham East,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,0,0,0,0,0,1
+38921,Labour Party,Sheffield Heeley,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,1,0,0,1,0,0,0,0
+38926,Labour Party,Sherwood,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,0,0,0,0,0,0
+38929,Labour Party,Nottingham East,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,1,0,0,0,0,0,0,1
+38935,Conservative Party,Nottingham East,1,0,1,0,1,0,1,0,0,1,0,0,3,OTHER,3,2,2,1,0,0,0,0,0,0,0
+38938,Liberal Democrats,Nottingham East,1,0,0,0,1,1,0,1,0,0,0,0,4,OTHER,0,4,0,4,1,0,1,0,0,0,0
+38945,Conservative Party,St Ives,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,1,1,0,0,0,0,0,0,0,1
+38948,Conservative Party,St Ives,1,0,0,0,0,0,0,0,0,1,0,0,1,OTHER,1,1,1,1,0,0,0,0,0,0,1
+38951,Liberal Democrats,St Ives,1,0,0,0,0,0,1,1,0,1,0,0,3,OTHER,0,0,0,3,1,0,0,0,0,0,0
+38955,Liberal Democrats,St Ives,1,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,2,1,0,0,0,0,0,0,0,0
+38959,Liberal Democrats,St Ives,0,0,0,0,0,0,0,0,0,0,0,0,0,OTHER,0,0,0,0,0,0,0,0,0,0,0
+38966,Liberal Democrats,St Ives,1,0,0,1,0,0,1,1,0,1,0,0,3,OTHER,1,1,0,3,1,0,0,0,0,0,0
+38969,Green Party,St Ives,1,0,0,0,0,0,0,1,0,0,0,0,1,YIMBY,1,2,1,1,0,0,0,0,0,0,0
+38977,Conservative Party,St Ives,1,1,1,1,1,1,1,0,0,1,0,0,4,YIMBY,2,2,3,1,0,0,1,1,0,1,0
+38980,Labour Party,St Ives,1,0,0,0,0,0,0,0,0,0,0,0,0,YIMBY,0,1,1,1,0,0,0,0,0,0,1
+38983,Liberal Democrats,St Ives,1,1,0,0,0,0,0,0,0,1,0,1,4,YIMBY,4,3,3,3,0,0,2,1,0,0,0
+38987,Liberal Democrats,St Ives,0,1,0,0,1,1,1,1,0,1,0,0,5,OTHER,3,6,0,5,1,0,3,3,0,0,0
+38989,Liberal Democrats,St Ives,1,1,1,1,1,0,0,1,0,1,0,0,3,OTHER,1,3,0,3,0,0,1,1,0,0,0
+38995,Conservative Party,York Outer,1,0,0,0,1,1,1,1,0,1,0,0,4,OTHER,3,4,2,2,0,0,0,0,0,0,0

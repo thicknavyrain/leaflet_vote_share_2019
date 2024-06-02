@@ -1,0 +1,158 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "You can change the country",
+                "content": "On 8th June you decide the future direction of Britain. Your choice could not be clearer or more important."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fight the hard Brexit",
+                "policyDescription": "The Liberal Democrats will fight the hard Brexit by giving the public the final say on any Brexit deal. They oppose hard Brexit to protect jobs and investment."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "In many communities across the UK the Conservatives cannot win... it's Liberal Democrat or Labour."
+        },
+        "issues": {
+            "brexitEurope": "The Liberal Democrats want to give the public the final say on any Brexit deal. They oppose hard Brexit to protect jobs and investment.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "They oppose hard Brexit to protect jobs and investment.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "In many communities across the UK the Conservatives cannot win... it's Liberal Democrat or Labour.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "\"Only the Liberal Democrats can stop a hard Brexit.\"",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": []
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "You can change the country",
+                        "On 8th June you decide the future direction of Britain. Your choice could not be clearer or more important.",
+                        "In many communities across the UK the Conservatives cannot win... it's Liberal Democrat or Labour.",
+                        "\"Only the Liberal Democrats can stop a hard Brexit.\"",
+                        "The Liberal Democrats want to give the public the final say on any Brexit deal."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "In many communities across the UK the Conservatives cannot win... it's Liberal Democrat or Labour."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The Liberal Democrats want to give the public the final say on any Brexit deal."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Labour who have backed a hard Brexit.",
+                        "Labour MP's sided with UKIP to vote the Government in favour of leaving the UK's membership of the single market."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn and Brexiters blindly voted for a hard Brexit. The opposition will be too weak."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

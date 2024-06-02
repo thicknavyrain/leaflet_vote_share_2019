@@ -1,0 +1,188 @@
+{
+    "leaflet": {
+        "candidateName": "Lilian Greenwood",
+        "candidateGender": "",
+        "constituency": "Nottingham South",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Why I'm backing Lilian Greenwood",
+                "content": "Speaks out strongly and is able to demonstrate that she is in touch with the concerns of ordinary people. She understands the things that worry us and cause us concern. Lilian demonstrates time and time again that she speaks out for ordinary people."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Vote for a better Brexit",
+                "policyDescription": "Labour will build a close new relationship with the EU, putting the economy first."
+            },
+            {
+                "policyTitle": "Vote to defend our NHS",
+                "policyDescription": "Labour created the NHS, will end hospital closures, and will boost funding for the NHS."
+            },
+            {
+                "policyTitle": "Vote against Tory cuts to our Schools",
+                "policyDescription": "Labour will stop Conservative cuts to school budgets and address the crisis in education."
+            },
+            {
+                "policyTitle": "My pledge to you",
+                "policyDescription": "Continue to speak up for public transport and against cuts to services, campaign for safer roads, ensure Nottingham gets its fair share of funding."
+            }
+        ],
+        "mentions": {
+            "candidate": "Lilian GREENWOOD",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Labour will build a close new relationship with the EU, putting the economy first.",
+            "defence": "",
+            "economy": "Labour will build a close new relationship with the EU, putting the economy first.",
+            "education": "Labour will stop Conservative cuts to school budgets, addressing the crisis in education.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Labour created the NHS, will end hospital closures, and will boost funding for the NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Labour will continue to speak up for public transport against cuts to services, and campaign for safer roads.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Ensure Nottingham gets its fair share of funding.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I am proud to be standing again as Labour candidate for Nottingham South.",
+        "politicalExperience": [
+            {
+                "role": "MP for Nottingham South",
+                "duration": "Since 2010",
+                "achievements": "Championed investment in transport infrastructure, helped to secure the tram extension, saved Nottingham's magistrates' court from closure."
+            }
+        ],
+        "contactInformation": {
+            "address": "UNISON Vivian Avenue, Nottingham, NG5 1AF",
+            "phone": "07570518202",
+            "email": "lilian.greenwood@labour.org.uk",
+            "website": "www.liliangreenwood.co.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/liliangreenwood4labour",
+                "twitter": "@LilianGreenwood",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "John Dexter, Vice Chair of Trinity School Governing Body",
+                "endorsement": "Speaks out strongly and is able to demonstrate that she is in touch with the concerns of ordinary people."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Lilian demonstrates time and time again that she speaks out for ordinary people.",
+                "source": "John Dexter, Vice Chair of Trinity School Governing Body",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Lilian Greenwood with a constituent"
+                },
+                {
+                    "caption": "Lilian Greenwood at a public event"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Labour created the NHS, will end hospital closures, and will boost funding for the NHS.",
+                        "Labour will build a close new relationship with the EU, putting the economy first."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Speaks out strongly and is able to demonstrate that she is in touch with the concerns of ordinary people.",
+                        "Lilian demonstrates time and time again that she speaks out for ordinary people.",
+                        "I am proud to be Labour's candidate for Nottingham South."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Ensure Nottingham gets its fair share of funding."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Labour will build a close new relationship with the EU, putting the economy first.",
+                        "Labour created the NHS, will end hospital closures, and will boost funding for the NHS.",
+                        "Labour will stop Conservative cuts to school budgets, addressing the crisis in education."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Speaks out strongly and is able to demonstrate that she is in touch with the concerns of ordinary people."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour will stop Conservative cuts to school budgets."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I am proud to be Labour's candidate for Nottingham South.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I am proud to be Labour's candidate for Nottingham South."
+                ]
+            }
+        }
+    }
+}

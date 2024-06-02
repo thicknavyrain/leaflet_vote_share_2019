@@ -1,0 +1,173 @@
+{
+    "leaflet": {
+        "candidateName": "Martin Hemingway",
+        "candidateGender": "",
+        "constituency": "Leeds North West",
+        "politicalParty": "Green Party",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Vote for Martin Hemingway on June 8th",
+                "content": "This election isn\u2019t about the next five years. It\u2019s about the next fifty years. Only the Green Party is offering real opposition to this Government\u2019s extreme Brexit. Only the Green Party has the vision to deliver an alternative future for our country, and our place in the world. And only the Green Party offers a different kind of politics. Every Green vote on 8th June will help make that vision a reality."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "To shape an economy for everyone while preserving a safe environment."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "To build affordable homes and provide properly funded public services."
+            },
+            {
+                "policyTitle": "Democracy",
+                "policyDescription": "To put power back in your hands through a citizen\u2019s democracy."
+            },
+            {
+                "policyTitle": "Public Services",
+                "policyDescription": "To stand with us for housing, schools, our NHS, our environment, and our future."
+            }
+        ],
+        "mentions": {
+            "candidate": "Martin Hemingway",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Green Party Co-Leaders Caroline Lucas and Jonathan Bartley",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Only the Green Party is offering real opposition to this Government\u2019s extreme Brexit.",
+            "defence": "",
+            "economy": "To shape an economy for everyone while preserving a safe environment.",
+            "education": "Stand with us for housing, schools, our NHS, our environment, and our future.",
+            "environment": "",
+            "governance": "To put power back in your hands through a citizen\u2019s democracy.",
+            "government": "",
+            "health": "Stand with us for housing, schools, our NHS, our environment, and our future.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "To build affordable homes and provide properly funded public services.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "martin.hemingway@greenparty.org.uk",
+            "website": "headingley.greenparty.org.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/thegreenparty",
+                "twitter": "@GreenLeedsNW",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "This election isn\u2019t about the next five years. It\u2019s about the next fifty years.",
+                        "Only the Green Party is offering real opposition to this Government\u2019s extreme Brexit.",
+                        "Only the Green Party has the vision to deliver an alternative future for our country, and our place in the world."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Only the Green Party is offering real opposition to this Government\u2019s extreme Brexit."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

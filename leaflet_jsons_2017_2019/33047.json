@@ -1,0 +1,162 @@
+{
+    "leaflet": {
+        "candidateName": "Amy Thomson",
+        "candidateGender": "",
+        "constituency": "Glenrothes",
+        "politicalParty": "Scottish Conservative and Unionist",
+        "electionDate": "Thursday 12th December",
+        "messages": [
+            {
+                "title": "Your Scottish Conservative and Unionist Candidate for Glenrothes",
+                "content": "Nicola Sturgeon wants to force another independence referendum as early as 2021. To stop her, vote Scottish Conservative and Unionist."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Strong Local Economy",
+                "policyDescription": "Strengthen our local economy in Glenrothes."
+            },
+            {
+                "policyTitle": "Public Services",
+                "policyDescription": "Stand up for our public services, our NHS in Fife and our schools."
+            },
+            {
+                "policyTitle": "Apprenticeships and Employment",
+                "policyDescription": "Focus on improving apprenticeships and job opportunities for young people to get high-quality employment."
+            }
+        ],
+        "mentions": {
+            "candidate": "Amy Thomson",
+            "otherPartyLeaderCandidate": "Nicola Sturgeon",
+            "partyLeader": "",
+            "tacticalSituation": "Labour and the Lib Dems are too weak to beat the SNP here."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Strengthen our local economy in Glenrothes.",
+            "education": "Stand up for ... our schools.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Stand up for ... our NHS in Fife ...",
+            "immigration": "",
+            "labourEmployment": "Focus on improving apprenticeships and job opportunities for young people to get high-quality employment.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Strengthen our local economy in Glenrothes. Stand up for our public services, our NHS in Fife and our schools. Focus on improving apprenticeships and job opportunities for young people to get high-quality employment.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Central Office, 46 Marylebone High Street, London, W1U 5HQ. Printed by Solopress, 9 Stock Road, Southend-on-Sea, Essex, SS2 5QF.",
+            "phone": "01592 760251",
+            "email": "amythomson4glenrothes@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Amy Thomson in local area."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Labour and the Lib Dems are too weak to beat the SNP here."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Nicola Sturgeon wants to force another independence referendum as early as 2021.",
+                        "Strengthen our local economy in Glenrothes.",
+                        "Stand up for our public services, our NHS in Fife and our schools.",
+                        "Focus on improving apprenticeships and job opportunities for young people to get high-quality employment."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Strengthen our local economy in Glenrothes.",
+                        "Stand up for our public services, our NHS in Fife and our schools.",
+                        "Focus on improving apprenticeships and job opportunities for young people to get high-quality employment."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Nicola Sturgeon wants to force another independence referendum as early as 2021."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Nicola Sturgeon wants to force another independence referendum as early as 2021."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Nicola Sturgeon"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

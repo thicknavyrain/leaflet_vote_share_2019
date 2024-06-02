@@ -1,0 +1,183 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "The Brexit Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Only the Brexit Party can beat Corbyn's Labour. The Conservatives won\u2019t win here."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "The Brexit Party is the only one with a clear withdrawal policy and determination to leave quickly and let the country flourish."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "The Conservatives won\u2019t win here."
+        },
+        "issues": {
+            "brexitEurope": "The Brexit Party is now the only one with a clear withdrawal policy, the only one that can appeal both in the Tory shires and the Labour heartlands, the only one with the determination to Leave quickly and let the country flourish.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Ann Widdecombe, Brexit Party MEP",
+                "endorsement": "Those who want Brexit should all get behind us because The Brexit Party is now the only one with a clear withdrawal policy, the only one that can appeal both in the Tory shires and the Labour heartlands, the only one with the determination to Leave quickly and let the country flourish."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Those who want Brexit should all get behind us because The Brexit Party is now the only one with a clear withdrawal policy, the only one that can appeal both in the Tory shires and the Labour heartlands, the only one with the determination to Leave quickly and let the country flourish.",
+                "source": "Ann Widdecombe, Brexit Party MEP",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Only the Brexit Party can beat Corbyn's Labour. The Conservatives won\u2019t win here.",
+                        "Those who want Brexit should all get behind us because The Brexit Party is now the only one with a clear withdrawal policy, the only one that can appeal both in the Tory shires and the Labour heartlands, the only one with the determination to Leave quickly and let the country flourish."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives won\u2019t win here."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Only the Brexit Party can beat Corbyn's Labour.",
+                        "The Brexit Party is now the only one with a clear withdrawal policy, the only one that can appeal both in the Tory shires and the Labour heartlands, the only one with the determination to Leave quickly and let the country flourish."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Ann Widdecombe, Brexit Party MEP"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Only the Brexit Party can beat Corbyn's Labour."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Only the Brexit Party can beat Corbyn's Labour."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

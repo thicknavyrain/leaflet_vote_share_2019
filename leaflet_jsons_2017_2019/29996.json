@@ -1,0 +1,166 @@
+{
+    "leaflet": {
+        "candidateName": "Peter Turner",
+        "candidateGender": "",
+        "constituency": "Braintree",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8th 2017",
+        "messages": [
+            {
+                "title": "Fighting against Hard Brexit",
+                "content": "Liberal Democrats are the only party that has always fought for Britain's membership of the European Union, and that's why we are fighting for you to have your say on the final Brexit deal."
+            },
+            {
+                "title": "Standing up for the NHS",
+                "content": "Only the Liberal Democrats would give the NHS the funds it needs by raising a penny on income tax to provide an additional \u00a36 billion for health and care services."
+            },
+            {
+                "title": "Opposing school cuts",
+                "content": "Local schools are under threat from a Conservative Party that has stopped listening to local people in Braintree. Schools in Essex are set to lose nearly \u00a378 million from their budgets."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fighting against Hard Brexit",
+                "policyDescription": "Liberal Democrats are the only party that has always fought for Britain's membership of the European Union, and that's why we are fighting for you to have your say on the final Brexit deal."
+            },
+            {
+                "policyTitle": "Standing up for the NHS",
+                "policyDescription": "Only the Liberal Democrats would give the NHS the funds it needs by raising a penny on income tax to provide an additional \u00a36 billion for health and care services."
+            },
+            {
+                "policyTitle": "Opposing school cuts",
+                "policyDescription": "Local schools are under threat from a Conservative Party that has stopped listening to local people in Braintree. Schools in Essex are set to lose nearly \u00a378 million from their budgets."
+            }
+        ],
+        "mentions": {
+            "candidate": "Peter Turner",
+            "otherPartyLeaderCandidate": "Conservative Party",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Liberal Democrats are the only party that has always fought for Britain's membership of the European Union, and that's why we are fighting for you to have your say on the final Brexit deal.",
+            "defence": "",
+            "economy": "",
+            "education": "Local schools are under threat from a Conservative Party that has stopped listening to local people in Braintree. Schools in Essex are set to lose nearly \u00a378 million from their budgets.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Only the Liberal Democrats would give the NHS the funds it needs by raising a penny on income tax to provide an additional \u00a36 billion for health and care services.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Liberal Democrats, both at 54 Gyms Dyke Way, Stanway, Colchester CO3 0QT. Printed by Printec Europe Ltd, 70 Upper Chase, Chelmsford, CM2 0BN.",
+            "phone": "",
+            "email": "",
+            "website": "braintreeandwithamlibdems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Fighting against Hard Brexit"
+                },
+                {
+                    "caption": "Standing up for the NHS"
+                },
+                {
+                    "caption": "Opposing school cuts"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Only the Liberal Democrats would give the NHS the funds it needs by raising a penny on income tax to provide an additional \u00a36 billion for health and care services."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Liberal Democrats are the only party that has always fought for Britain's membership of the European Union, and that's why we are fighting for you to have your say on the final Brexit deal.",
+                        "Local schools are under threat from a Conservative Party that has stopped listening to local people in Braintree. Schools in Essex are set to lose nearly \u00a378 million from their budgets."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Local schools are under threat from a Conservative Party that has stopped listening to local people in Braintree. Schools in Essex are set to lose nearly \u00a378 million from their budgets."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Liberal Democrats are the only party that has always fought for Britain's membership of the European Union, and that's why we are fighting for you to have your say on the final Brexit deal.",
+                        "Only the Liberal Democrats would give the NHS the funds it needs by raising a penny on income tax to provide an additional \u00a36 billion for health and care services."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Local schools are under threat from a Conservative Party that has stopped listening to local people in Braintree. Schools in Essex are set to lose nearly \u00a378 million from their budgets."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "leaflet": {
+        "candidateName": "Graham Brady",
+        "candidateGender": "",
+        "constituency": "Altrincham and Sale West",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "'Rt. Hon Theresa May",
+                "content": "Making Brexit a success is central to our national interest."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Plan for a stronger Britain with a strong negotiating hand to deliver for Britain. Set out a 12-point plan for Brexit."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Build a stronger economy that rewards people who work hard and creates secure and well-paid jobs for more people across the country."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Provide real opportunity and support for all by building more affordable housing and making sure children attend good schools with a strong NHS."
+            },
+            {
+                "policyTitle": "National Unity",
+                "policyDescription": "Build a more secure and united nation by taking action against extremists and ensuring those who want to break up the UK are kept at bay."
+            }
+        ],
+        "mentions": {
+            "candidate": "Graham Brady",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Rt. Hon Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Making Brexit a success is central to our national interest. Plan for a stronger Britain with a strong negotiating hand to deliver for Britain. Set out a 12-point plan for Brexit.",
+            "defence": "",
+            "economy": "Build a stronger economy that rewards people who work hard and creates secure and well-paid jobs for more people across the country.",
+            "education": "Provide real opportunity and support for all by ensuring children attend good schools.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Provide real opportunity and support for all by building more affordable housing and making sure children attend good schools with a strong NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Ensure children attend good schools and fight for fairer funding for Trafford schools.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Member of Parliament",
+                "duration": "unspecified",
+                "achievements": "Protected access to world-class hospital services at Wythenshawe and The Christie. Championed to stop the closure of Altrincham Hospital and to see a new hospital built."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "0161 904 8886",
+            "email": "re-elect@grahambrady.co.uk",
+            "website": "www.grahambrady.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Carolyn Quinn",
+                "endorsement": "A respected figure"
+            },
+            {
+                "endorser": "McEv.News",
+                "endorsement": "One of the most highly regarded backbench MPs"
+            },
+            {
+                "endorser": "Nicholas Watt, Channel 4 News",
+                "endorsement": "Has a reputation for acting in an independently-minded manner"
+            },
+            {
+                "endorser": "John Pienaar, BBC",
+                "endorsement": "One of the most rational beings"
+            }
+        ],
+        "quotes": [
+            {
+                "text": "One of the most highly regarded backbench MPs.",
+                "source": "McEv.News",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Set out a 12-point plan for Brexit."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Making Brexit a success is central to our national interest.",
+                        "A coalition of chaos with Jeremy Corbyn.",
+                        "Build a stronger economy that rewards people who work hard."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Graham champions local schools."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Making Brexit a success is central to our national interest.",
+                        "Build a stronger economy that rewards people who work hard.",
+                        "Provide real opportunity and support for all by ensuring children attend good schools and a strong NHS."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Graham Brady protected access to world-class hospital services.",
+                    "issueRelated": "health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 4,
+                "examples": [
+                    "A respected figure - Carolyn Quinn",
+                    "One of the most highly regarded backbench MPs - McEv.News",
+                    "Has a reputation for acting in an independently-minded manner - Nicholas Watt",
+                    "One of the most rational beings - John Pienaar"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

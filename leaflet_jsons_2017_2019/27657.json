@@ -1,0 +1,157 @@
+{
+    "leaflet": {
+        "candidateName": "George Smid",
+        "candidateGender": "",
+        "constituency": "Northampton North",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8th 2017",
+        "messages": [
+            {
+                "title": "THE STRONG VOICE FOR Northampton North",
+                "content": "George Smid - The Strong Voice for Northampton North"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Standing up for the NHS",
+                "policyDescription": "We know we need additional investment in health and care services as a matter of urgency. The Liberal Democrats would give it the funds that it needs."
+            },
+            {
+                "policyTitle": "Opposing School Cuts",
+                "policyDescription": "Local schools are under serious threat from a Conservative Government. Schools in Northamptonshire are set to lose more than \u00a340 million from their budgets."
+            },
+            {
+                "policyTitle": "People to decide on BREXIT",
+                "policyDescription": "Theresa May is planning a hard BREXIT which will threaten the economy and jobs. Every vote for the Liberal Democrats is a vote to give the final say to the British people not the politicians."
+            },
+            {
+                "policyTitle": "A greener, enterprise economy",
+                "policyDescription": "We would kickstart our economy by pushing for proper lifelong learning, more apprenticeships, more support for small businesses & a return of subsidies for going green, supporting green jobs."
+            }
+        ],
+        "mentions": {
+            "candidate": "George Smid",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Theresa May is planning a hard BREXIT which will threaten the economy and jobs. Every vote for the Liberal Democrats is a vote to give the final say to the British people not the politicians.",
+            "defence": "",
+            "economy": "We would kickstart our economy by pushing for proper lifelong learning, more apprenticeships, more support for small businesses & a return of subsidies for going green, supporting green jobs.",
+            "education": "Local schools are under serious threat from a Conservative Government. Schools in Northamptonshire are set to lose more than \u00a340 million from their budgets.",
+            "environment": "We would kickstart our economy by pushing for proper lifelong learning, more apprenticeships, more support for small businesses & a return of subsidies for going green, supporting green jobs.",
+            "governance": "",
+            "government": "",
+            "health": "We know we need additional investment in health and care services as a matter of urgency. The Liberal Democrats would give it the funds that it needs.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "01604 722242",
+            "email": "georgesmid@northamptlibdems.org.uk",
+            "website": "www.northamptlibdems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@northamptondlds",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": []
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Schools in Northamptonshire are set to lose more than \u00a340 million from their budgets."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "We know we need additional investment in health and care services as a matter of urgency.",
+                        "Theresa May is planning a hard BREXIT which will threaten the economy and jobs.",
+                        "Every vote for the Liberal Democrats is a vote to give the final say to the British people not the politicians.",
+                        "We would kickstart our economy by pushing for proper lifelong learning, more apprenticeships, more support for small businesses & a return of subsidies for going green, supporting green jobs."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Schools in Northamptonshire are set to lose more than \u00a340 million from their budgets."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "We know we need additional investment in health and care services as a matter of urgency.",
+                        "Theresa May is planning a hard BREXIT which will threaten the economy and jobs.",
+                        "We would kickstart our economy by pushing for proper lifelong learning, more apprenticeships, more support for small businesses & a return of subsidies for going green, supporting green jobs."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May is planning a hard BREXIT which will threaten the economy and jobs."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May is planning a hard BREXIT which will threaten the economy and jobs."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

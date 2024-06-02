@@ -1,0 +1,196 @@
+{
+    "leaflet": {
+        "candidateName": "Ranil Jayawardena",
+        "candidateGender": "",
+        "constituency": "North East Hampshire",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 12th December 2019",
+        "messages": [
+            {
+                "title": "Securing a better future for you and your family",
+                "content": "\"North East Hampshire is my home too. Your priorities are my priorities. Together, we can unite our country.\""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Increasing funding for every school in North East Hampshire."
+            },
+            {
+                "policyTitle": "Law and Order",
+                "policyDescription": "More funding for local police and breaking up county lines drugs gangs."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "40 new hospitals and a \u00a333.9 billion funding boost."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Growing economy to fund public services and tackling debt."
+            },
+            {
+                "policyTitle": "Transport",
+                "policyDescription": "Better roads and improved rail services."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ranil Jayawardena",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Delivering Brexit so we can focus on our NHS, schools, and police.",
+            "defence": "",
+            "economy": "A growing economy to fund our public services. Focus on the economy's benefits not on profitless national projects.",
+            "education": "English schools to get a \u00a314bn funding boost. Increasing funding for every school.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "40 new hospitals and more investment. \u00a333.9 billion extra for the NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "End of the soft prison sentence. Breaking up county lines drug gangs. 20,000 new police officers to protect communities.",
+            "transport": "Better roads. Improved rail and road infrastructure.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Constituency Conservation Charter. Local conservation and protection of valued local green spaces.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "North East Hampshire is my home. I have been fighting for your priorities and delivering on my promises.",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "2015 - Present",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "ranil.uk",
+            "socialMedia": {
+                "facebook": "ranil",
+                "twitter": "ranil",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "English schools to get a \u00a314bn funding boost",
+                        "40 new hospitals",
+                        "\u00a333.9 billion extra for the NHS"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "North East Hampshire is my home.",
+                        "Breaking up county lines drug gangs",
+                        "A hung parliament with Jeremy Corbyn in charge"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 6,
+                "candidateAlone": 0,
+                "candidateWithOthers": 6
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Increasing funding for every school in North East Hampshire",
+                        "Local conservation and protection of valued local green spaces.",
+                        "More funding for local police"
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "Delivering Brexit",
+                        "40 new hospitals and more investment",
+                        "\u00a333.9 billion extra for the NHS",
+                        "20,000 new police officers",
+                        "Growing economy to fund public services"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Ranil Jayawardena has been dedicated to the constituency and has worked relentlessly for the people.",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "A hung parliament with Jeremy Corbyn in charge"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "North East Hampshire is my home.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "North East Hampshire is my home."
+                ]
+            }
+        }
+    }
+}

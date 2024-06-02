@@ -1,0 +1,167 @@
+{
+    "leaflet": {
+        "candidateName": "Derek Thomas",
+        "candidateGender": "",
+        "constituency": "St Ives",
+        "politicalParty": "Conservative",
+        "electionDate": "November 2019",
+        "messages": [
+            {
+                "title": "BREXIT DEAL AGREED AND READY TO GO",
+                "content": "Protects jobs and trade. Ends uncertainty for our economy. Ready to go from day one of a new parliament."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Brexit deal agreed with EU. Protects jobs and trade. Ends uncertainty for our economy."
+            },
+            {
+                "policyTitle": "Transport",
+                "policyDescription": "Improved Transport. Investments in road network and flight. Support for Newlyn Fishing."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Improving school standards and ensuring good education for young people."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Improving access to healthcare services in rural areas. Central Government support for NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "Derek Thomas",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "The Conservatives were just nine seats short of a majority last time."
+        },
+        "issues": {
+            "brexitEurope": "New Brexit deal agreed with EU. Protects jobs and trade. Ends uncertainty for our economy.",
+            "defence": "",
+            "economy": "Ends uncertainty for our economy.",
+            "education": "Improving school standards and ensuring good education for young people.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Improving access to healthcare services in rural areas. Central Government support for NHS.",
+            "immigration": "",
+            "labourEmployment": "Protects jobs and trade.",
+            "lawCrime": "",
+            "transport": "Improved Transport. Investments in road network and flight. Support for Newlyn Fishing.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Supporting the fishing industry with investments in road network and flight.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "The Conservatives were just nine seats short of a majority last time.",
+                        "Ends uncertainty for our economy."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Protects jobs and trade.",
+                        "Improving school standards and ensuring good education for young people."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Improved Transport. Investments in road network and flight.",
+                        "Improving school standards and ensuring good education for young people.",
+                        "Improving access to healthcare services in rural areas."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "New Brexit deal agreed with EU."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "CORBYN = FIVE LONG YEARS OF GRIDLOCK"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn makes another hung parliament more likely."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Every vote for Jeremy Corbyn makes another hung parliament more likely."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

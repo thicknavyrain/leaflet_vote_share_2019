@@ -1,0 +1,149 @@
+{
+    "leaflet": {
+        "candidateName": "Lorna Slater",
+        "candidateGender": "",
+        "constituency": "Edinburgh North and Leith",
+        "politicalParty": "Scottish Green Party",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Make History on June 8th",
+                "content": "Vote Lorna Slater for Edinburgh North and Leith\nYou can make history by electing Scotland's first ever Green MP"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Green Energy Jobs",
+                "policyDescription": "Support the creation of over 200,000 new jobs in green energy in Scotland, allowing us to drop fossil fuels."
+            },
+            {
+                "policyTitle": "Welfare System Reform",
+                "policyDescription": "Reform our chaotic and cruel welfare system and replace it with a simple Universal Basic Income for all."
+            }
+        ],
+        "mentions": {
+            "candidate": "Lorna Slater",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Support the creation of over 200,000 new jobs in green energy in Scotland, allowing us to drop fossil fuels.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Reform our chaotic and cruel welfare system and replace it with a simple Universal Basic Income for all.",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {},
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Lorna Slater, Scottish Green Party"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "support the creation of over 200,000 new jobs in green energy in Scotland"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "You can make history by electing Scotland's first ever Green MP",
+                        "Reform our chaotic and cruel welfare system"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Support the creation of over 200,000 new jobs in green energy in Scotland",
+                        "Reform our chaotic and cruel welfare system and replace it with a simple Universal Basic Income for all."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Reform our chaotic and cruel welfare system"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

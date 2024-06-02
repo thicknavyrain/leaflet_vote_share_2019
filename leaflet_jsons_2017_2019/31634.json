@@ -1,0 +1,148 @@
+{
+    "leaflet": {
+        "candidateName": "Sandy Martin",
+        "candidateGender": "",
+        "constituency": "Ipswich",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Re-elect Suffolk's hardest working MP",
+                "content": "Labour's Sandy Martin is the hardest working MP in Suffolk. Sandy has spoken in 86 debates in Parliament over the past 2.5 years - more than any other MP in Suffolk. Sandy and his team have spoken to 7,277 Ipswich residents and pursued 2,325 cases, 2,056 of them resolved. Sandy has launched two public appeals, helped funding FIND Foodbank and other charities. Let's re-elect him to continue working hard for Ipswich."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Labour's Sandy Martin is the hardest working MP in Suffolk.",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "Sandy has spoken in 86 debates in Parliament. Sandy and his team have spoken to 7,277 Ipswich residents and pursued 2,325 cases, 2,056 of them resolved.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Sandy has launched two public appeals, helped funding FIND Foodbank and other charities.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "ipswich-labour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Sandy has spoken in 86 debates in Parliament over the past 2.5 years.",
+                        "Sandy and his team have spoken to 7,277 Ipswich residents and pursued 2,325 cases.",
+                        "2,056 of them resolved."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Labour's Sandy Martin is the hardest working MP in Suffolk.",
+                        "Let's re-elect him to continue working hard for Ipswich."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Sandy and his team have spoken to 7,277 Ipswich residents and pursued 2,325 cases.",
+                        "Sandy has launched two public appeals, helped funding FIND Foodbank and other charities."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Sandy has spoken in 86 debates in Parliament over the past 2.5 years.",
+                        "Labour's Sandy Martin is the hardest working MP in Suffolk."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Labour's Sandy Martin is the hardest working MP in Suffolk.",
+                    "Sandy and his team have spoken to 7,277 Ipswich residents and pursued 2,325 cases."
+                ]
+            }
+        }
+    }
+}

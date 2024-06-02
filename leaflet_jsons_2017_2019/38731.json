@@ -1,0 +1,181 @@
+{
+    "leaflet": {
+        "candidateName": "Laura Farris",
+        "candidateGender": "",
+        "constituency": "Newbury",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "",
+                "content": "It's a hung parliament - or a Conservative majority. Your local vote will decide it."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit done with a deal",
+                "policyDescription": "Delivering Brexit with a new deal."
+            },
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "\u00a333.9 billion extra for the NHS"
+            },
+            {
+                "policyTitle": "Police Funding",
+                "policyDescription": "20,000 extra police officers for safer streets."
+            },
+            {
+                "policyTitle": "Education Funding",
+                "policyDescription": "More funding for every pupil in every school."
+            },
+            {
+                "policyTitle": "Climate Change",
+                "policyDescription": "Ending our contribution to global warming by 2050."
+            }
+        ],
+        "mentions": {
+            "candidate": "Laura Farris",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "Your local vote will decide it. Jo Swinson says no to second Tory alliance. A Lib Dem-Conservative coalition is not an option. So your local vote will decide. Another hung parliament - or a Conservative majority."
+        },
+        "issues": {
+            "brexitEurope": "Brexit done with a deal.",
+            "defence": "",
+            "economy": "",
+            "education": "More funding for every pupil in every school.",
+            "environment": "Ending our contribution to global warming by 2050.",
+            "governance": "",
+            "government": "",
+            "health": "\u00a333.9 billion extra for the NHS. 40 new hospitals across the country.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "20,000 extra police officers for safer streets.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Gigabit broadband for the whole country. \u00a33.6 billion to help towns invest and attract new businesses.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "\u00a333.9 billion extra for the NHS.",
+                        "20,000 extra police officers.",
+                        "40 new hospitals across the country."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Brexit done with a deal.",
+                        "Ending our contribution to global warming by 2050."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 7,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Gigabit broadband for the whole country. \u00a33.6 billion to help towns invest and attract new businesses."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Brexit done with a deal.",
+                        "\u00a333.9 billion extra for the NHS.",
+                        "20,000 extra police officers for safer streets.",
+                        "40 new hospitals across the country."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Vote Lib Dem, get Jeremy Corbyn."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Vote Lib Dem, get Jeremy Corbyn."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

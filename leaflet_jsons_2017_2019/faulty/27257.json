@@ -1,0 +1,184 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Want to change the future for Britain?",
+                "content": "Vote Liberal Democrat on 8th June."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Final Brexit Deal",
+                "policyDescription": "Tim Farron's Lib Dems will give you a say on the final Brexit deal."
+            }
+        ],
+        "mentions": {
+            "candidate": "Tim Farron",
+            "otherPartyLeaderCandidate": [
+                "Jeremy Corbyn",
+                "Nigel Farage"
+            ],
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Tim Farron's Lib Dems will give you a say on the final Brexit deal.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Want to change the future for Britain?",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Every major party except the Lib Dems are supporting Brexit.",
+                "source": "Labour's own election leaflets",
+                "date": ""
+            },
+            {
+                "text": "Only the Lib Dems can stop a hard Brexit.",
+                "source": "The Times, 4 Apr 2017",
+                "date": "4 Apr 2017"
+            },
+            {
+                "text": "Jeremy Corbyn has betrayed us over Brexit. He is unfit to be elected leader of the opposition.",
+                "source": "The Guardian, 19 Feb 2017",
+                "date": "19 Feb 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Tim Farron campaigning"
+                },
+                {
+                    "caption": "Opposition leaders"
+                },
+                {
+                    "caption": "Poisoned apple"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Only the Lib Dems can stop a hard Brexit."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn has betrayed us over Brexit. He is unfit to be elected leader of the opposition."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Tim Farron's Lib Dems will give you a say on the final Brexit deal."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn has betrayed us over Brexit. He is unfit to be elected leader of the opposition."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn has betrayed us over Brexit. He is unfit to be elected leader of the opposition."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn has betrayed us over Brexit. He is unfit to be elected leader of the opposition."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

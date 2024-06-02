@@ -1,0 +1,163 @@
+{
+    "leaflet": {
+        "candidateName": "Kate Heneghan",
+        "candidateGender": "",
+        "constituency": "Brecon and Radnorshire",
+        "politicalParty": "Plaid Cymru",
+        "electionDate": "8 June 2017",
+        "messages": [
+            {
+                "title": "Vote Plaid Cymru",
+                "content": "Defending Wales. With Labour's demise, England is voting Conservative. This means the Conservatives will form the next Government. Scotland will look after their own interests. Who do you trust to defend Wales and to get the best deal for our nation?"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Defending Wales",
+                "policyDescription": "Focus on defending the interests of Wales against the dominance of Labour and Conservatives."
+            }
+        ],
+        "mentions": {
+            "candidate": "Kate Heneghan",
+            "otherPartyLeaderCandidate": "With Labour's demise, England is voting Conservative.",
+            "partyLeader": "",
+            "tacticalSituation": "With Labour's demise, England is voting Conservative. This means the Conservatives will form the next Government."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Prepared on behalf of Kate Heneghan",
+            "phone": "",
+            "email": "kathen6@aol.com",
+            "website": "www.plaid.cymru",
+            "socialMedia": {
+                "facebook": "facebook.com/PlaidKate",
+                "twitter": "@kathen6",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "With Labour's demise, England is voting Conservative. This means the Conservatives will form the next Government."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Who do you trust to defend Wales and to get the best deal for our nation?"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 2,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Defending the interests of Wales."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "With Labour's demise, England is voting Conservative. This means the Conservatives will form the next Government."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "With Labour's demise, England is voting Conservative. This means the Conservatives will form the next Government."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

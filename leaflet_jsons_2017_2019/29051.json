@@ -1,0 +1,193 @@
+{
+    "leaflet": {
+        "candidateName": "Jean Davis",
+        "candidateGender": "Female",
+        "constituency": "Highlands",
+        "politicalParty": "Scottish Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "The only way to stop the SNP in the Highlands"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Independence Referendum",
+                "policyDescription": "Jean will fight against another divisive independence referendum"
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Jean will oppose the Conservatives\u2019 damaging hard Brexit"
+            },
+            {
+                "policyTitle": "Local Champion",
+                "policyDescription": "Jean will continue to be a hard-working local champion for the Highlands"
+            }
+        ],
+        "mentions": {
+            "candidate": "Jean Davis",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "The only way to stop the SNP in the Highlands"
+        },
+        "issues": {
+            "brexitEurope": "Jean will oppose the Conservatives\u2019 damaging hard Brexit",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Jean will continue to be a hard-working local champion for the Highlands",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Jean will fight against another divisive independence referendum",
+                        "Jean will oppose the Conservatives\u2019 damaging hard Brexit",
+                        "Jean will continue to be a hard-working local champion for the Highlands"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Jean will continue to be a hard-working local champion for the Highlands"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Jean will fight against another divisive independence referendum",
+                        "Jean will oppose the Conservatives\u2019 damaging hard Brexit"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Jean will fight against another divisive independence referendum",
+                        "Jean will oppose the Conservatives\u2019 damaging hard Brexit"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Jean will continue to be a hard-working local champion for the Highlands"
+                ]
+            }
+        }
+    }
+}

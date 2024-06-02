@@ -1,0 +1,169 @@
+{
+    "leaflet": {
+        "candidateName": "Ivan Lewis",
+        "candidateGender": "",
+        "constituency": "Bury South",
+        "politicalParty": "Labour",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Ivan Lewis, The Strongest Voice For Bury South",
+                "content": "We can\u2019t afford a Tory landslide on 8th June. With no effective opposition, there will be nothing to stop a rampant Tory government: Starving the NHS of the money it needs, slashing funding for schools and colleges, scrapping the triple lock on pensions, imposing a dementia tax and removing the winter fuel allowance for 10 million of our elderly citizens. I am seeking your support again at this election because Bury South needs a strong Labour voice in Westminster to oppose the Tories every step of the way. Please give me the chance to continue that fight for you."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Support the regeneration of our local town centres",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Work with Radcliffe Primary Schools and the local community to open a new High School in the town",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Fight the closure of Prestwich Walk-In Centre and campaign for fair funding from the government for the NHS, schools and colleges",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "End the 21st Century scandal of people living and sleeping on our streets",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Continue to provide a full-time constituency information, advice and advocacy service",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Ivan Lewis",
+            "otherPartyLeaderCandidate": "Tory government",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Work with Radcliffe Primary Schools and the local community to open a new High School in the town",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Fight the closure of Prestwich Walk-In Centre and campaign for fair funding from the government for the NHS, schools and colleges",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Starving the NHS of the money it needs, slashing funding for schools and colleges, scrapping the triple lock on pensions, imposing a dementia tax and removing the winter fuel allowance for 10 million of our elderly citizens",
+            "community": [
+                {
+                    "content": "Support the regeneration of our local town centres. End the 21st Century scandal of people living and sleeping on our streets.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "Please give me the chance to continue that fight for you.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "0161 773 9422",
+            "email": "ivanlewisburysouth@outlook.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@IvanLewis_MP",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "removing the winter fuel allowance for 10 million of our elderly citizens"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "We can\u2019t afford a Tory landslide",
+                        "strongest voice for Bury South",
+                        "nothing to stop a rampant Tory government"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Support the regeneration of our local town centres",
+                        "Work with Radcliffe Primary Schools and the local community to open a new High School in the town",
+                        "Provide a full-time constituency information, advice, and advocacy service"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Fight the closure of Prestwich Walk-In Centre and campaign for fair funding from the government for the NHS, schools and colleges",
+                        "Starving the NHS of the money it needs",
+                        "Slashing funding for schools and colleges"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Starving the NHS of the money it needs, slashing funding for schools and colleges, scrapping the triple lock on pensions, imposing a dementia tax and removing the winter fuel allowance for 10 million of our elderly citizens"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

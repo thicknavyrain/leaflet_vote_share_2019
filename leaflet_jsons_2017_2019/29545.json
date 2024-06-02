@@ -1,0 +1,140 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "North Norfolk",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit Negotiations",
+                "policyDescription": "Back me to lead Britain's Brexit negotiations."
+            }
+        ],
+        "mentions": {
+            "candidate": "Back me to lead Britain's Brexit negotiations.",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "Just 11 days after you vote in this unique and crucial election, the European Union wants to start Brexit negotiations with Britain. Your local vote in North Norfolk will decide who will be the Prime Minister to lead these Brexit negotiations on behalf of our country."
+        },
+        "issues": {
+            "brexitEurope": "Just 11 days after you vote in this unique and crucial election, the European Union wants to start Brexit negotiations with Britain. Back me to lead Britain's Brexit negotiations.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Just 11 days after you vote in this unique and crucial election, the European Union wants to start Brexit negotiations with Britain."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Back me to lead Britain's Brexit negotiations.",
+                        "Your local vote in North Norfolk will decide who will be the Prime Minister to lead these Brexit negotiations on behalf of our country. Me or Jeremy Corbyn."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Your local vote in North Norfolk will decide who will be the Prime Minister to lead these Brexit negotiations on behalf of our country."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Just 11 days after you vote in this unique and crucial election, the European Union wants to start Brexit negotiations with Britain."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Me or Jeremy Corbyn."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

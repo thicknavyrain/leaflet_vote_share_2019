@@ -1,0 +1,201 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "No more dither and delay",
+                "content": "Vote for the majority government our country needs. Vote Conservative."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Nicola Sturgeon, Jo Swinson, Corbyn",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "Another hung parliament. Just NINE more seats to secure a majority government."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "Another hung parliament, majority government",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "The Independent, The Herald, The Times",
+                "endorsement": "Hung parliament would give SNP significant influence and power, says Sturgeon; Jo Swinson says voted Lib Dem means we'll get another hung parliament and get more arguing; John Curtice: Polls teeter between hung parliament and slim Tory majority."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Hung parliament would give SNP significant influence and power, says Sturgeon",
+                "source": "The Independent",
+                "date": ""
+            },
+            {
+                "text": "Jo Swinson says voted Lib Dem means we'll get another hung parliament and get more arguing.",
+                "source": "The Herald",
+                "date": ""
+            },
+            {
+                "text": "John Curtice: Polls teeter between hung parliament and slim Tory majority.",
+                "source": "The Times",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "317 CONS vs 262 LAB - 326 seats needed for a majority"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Just NINE more seats to secure a majority government.",
+                        "326 seats needed for a majority."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Hung parliament would give SNP significant influence and power, says Sturgeon",
+                        "Labour can't win a majority.",
+                        "Voting Lib Dem means we'll get another hung parliament.",
+                        "No more dither and delay.",
+                        "Vote for the majority government our country needs."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Another hung parliament. Just NINE more seats to secure a majority government."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 3,
+                "examples": [
+                    "The Independent",
+                    "The Herald",
+                    "The Times"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "Hung parliament would give SNP significant influence and power, says Sturgeon",
+                        "Labour can't win a majority.",
+                        "Voting Lib Dem means we'll get another hung parliament and get more arguing."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Hung parliament would give SNP significant influence and power, says Sturgeon",
+                        "Voting Lib Dem means we'll get another hung parliament and get more arguing."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Labour can't win a majority. So Corbyn would have to be propped up by the SNP."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

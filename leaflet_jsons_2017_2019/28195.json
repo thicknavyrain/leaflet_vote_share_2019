@@ -1,0 +1,196 @@
+{
+    "leaflet": {
+        "candidateName": "Henry Bellingham",
+        "candidateGender": "",
+        "constituency": "North West Norfolk",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Strong, Stable Leadership",
+                "content": "Theresa May strong, stable leadership in the national interest"
+            },
+            {
+                "title": "Your Choice at This Election",
+                "content": "A coalition of chaos with Jeremy Corbyn or a strong, stable leadership in the national interest"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Backing Enterprise",
+                "policyDescription": "Support for local businesses, investment in infrastructure, and business rates reform."
+            },
+            {
+                "policyTitle": "Sustainable Development",
+                "policyDescription": "Support for protecting the countryside, trees in new developments, support for the brownfield regeneration."
+            },
+            {
+                "policyTitle": "Our Local NHS",
+                "policyDescription": "Commitment to NHS investment, GP services, and making Norfolk a dementia-friendly county."
+            }
+        ],
+        "mentions": {
+            "candidate": "Henry Bellingham",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "The risk is just too big to take: higher debt, higher taxes, economic chaos."
+        },
+        "issues": {
+            "brexitEurope": "Making Brexit a success is central to our national interest.",
+            "defence": "",
+            "economy": "Backing Enterprise with support for local businesses and investment in infrastructure.",
+            "education": "",
+            "environment": "Support for protecting the countryside and sustainability in development.",
+            "governance": "",
+            "government": "",
+            "health": "Commitment to NHS investment and making Norfolk a dementia-friendly county.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Support for protecting the countryside and sustainability in development.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I am passionate about the QEII and will always do everything in my power to ensure it has a bright future. Our NHS needs the brightest, most talented doctors and nurses of any NHS Trust.",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "01553 692076",
+            "email": "henrybellingham@hotmail.com",
+            "website": "www.henrybellingham.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Port of King's Lynn"
+                },
+                {
+                    "caption": "Backing Enterprise"
+                },
+                {
+                    "caption": "Our Local NHS"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Support for local businesses, investment in infrastructure",
+                        "Making Norfolk a dementia-friendly county"
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Strong, stable leadership",
+                        "Making Brexit a success is central to our national interest",
+                        "I am passionate about the QEII",
+                        "Support for protecting the countryside",
+                        "Backing Enterprise with support for local businesses and investment in infrastructure"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Support for local businesses"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Making Brexit a success",
+                        "Protecting the countryside",
+                        "NHS investment"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Passionate about the QEII and NHS investment",
+                    "issueRelated": "health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Risk of higher debt, higher taxes, economic chaos",
+                        "Coalition of chaos with Jeremy Corbyn"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn as Prime Minister is never going to happen?"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

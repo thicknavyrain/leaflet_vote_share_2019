@@ -1,0 +1,196 @@
+{
+    "leaflet": {
+        "candidateName": "Hannah David",
+        "candidateGender": "",
+        "constituency": "Harrow West",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Securing Our Economy",
+                "policyDescription": "The Conservative Government has guided our economy from strength to strength. Over 1,000 new jobs have been created every day - adding up to 2.8 million new jobs to our workforce."
+            },
+            {
+                "policyTitle": "Backing Our Police",
+                "policyDescription": "Under the leadership of Theresa May, Hannah is backing the strategy of strong police forces."
+            },
+            {
+                "policyTitle": "Giving Our Children A Better Future",
+                "policyDescription": "The Conservative Government has been working hard to ensure that children can get the best start in life."
+            },
+            {
+                "policyTitle": "Making Brexit A Success",
+                "policyDescription": "Ensuring Brexit is handled in a way that prioritizes the UK's security and prosperity with a clear plan in place."
+            }
+        ],
+        "mentions": {
+            "candidate": "Hannah David",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Making Brexit A Success Is Central To Our National Interest",
+            "defence": "",
+            "economy": "Securing Our Economy",
+            "education": "Giving Our Children A Better Future",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "Over 1,000 new jobs have been created every day - adding up to 2.8 million new jobs to our workforce.",
+            "lawCrime": "Backing Our Police - strong police forces under the leadership of Theresa May.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Ensuring children can get the best start in life.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "020 8866 9807",
+            "email": "hannah.david@conservatives.com",
+            "website": "conservatives.com",
+            "socialMedia": {
+                "facebook": "fb.com/conservatives",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Over 1,000 new jobs have been created every day - adding up to 2.8 million new jobs to our workforce."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "The Conservative Government has guided our economy from strength to strength.",
+                        "Under the leadership of Theresa May, Hannah is backing the strategy of strong police forces."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 5,
+                "candidateAlone": 1,
+                "candidateWithOthers": 4
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Backing Our Police",
+                        "Giving Our Children A Better Future",
+                        "Securing Our Economy"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Making Brexit A Success"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Think Jeremy Corbyn as Prime Minister is never going to happen? DON'T BE SO SURE"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Think Jeremy Corbyn as Prime Minister is never going to happen? DON'T BE SO SURE"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

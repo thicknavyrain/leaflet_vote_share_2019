@@ -1,0 +1,175 @@
+{
+    "leaflet": {
+        "candidateName": "Helen Hayes",
+        "candidateGender": "",
+        "constituency": "Dulwich and West Norwood",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "If you re-elect me on 8 June I will fight hard to...",
+                "content": "Secure the future of our NHS and tackle the huge funding problems created by the Tories and Lib Dems at King's College Hospital\nOppose the Tories\u2019 hard Brexit on behalf of residents from across the constituency, who voted overwhelmingly for Remain\nStop the Tories\u2019 damaging plans for huge funding cuts to every school in our area - almost \u00a31,000 per pupil\nBuild the genuinely affordable homes to rent and buy that we need and ensure a fair deal for private renters\nTackle air pollution in London and across the UK and make Britain a world leader on climate change once again"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Secure the future of our NHS and tackle the huge funding problems created by the Tories and Lib Dems at King's College Hospital."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Oppose the Tories\u2019 hard Brexit on behalf of residents from across the constituency, who voted overwhelmingly for Remain."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Stop the Tories\u2019 damaging plans for huge funding cuts to every school in our area - almost \u00a31,000 per pupil."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Build the genuinely affordable homes to rent and buy that we need and ensure a fair deal for private renters."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Tackle air pollution in London and across the UK and make Britain a world leader on climate change once again."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Tories",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Oppose the Tories\u2019 hard Brexit on behalf of residents from across the constituency, who voted overwhelmingly for Remain.",
+            "defence": "",
+            "economy": "",
+            "education": "Stop the Tories\u2019 damaging plans for huge funding cuts to every school in our area - almost \u00a31,000 per pupil.",
+            "environment": "Tackle air pollution in London and across the UK and make Britain a world leader on climate change once again.",
+            "governance": "",
+            "government": "",
+            "health": "Secure the future of our NHS and tackle the huge funding problems created by the Tories and Lib Dems at King's College Hospital.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Build the genuinely affordable homes to rent and buy that we need and ensure a fair deal for private renters.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Helen Hayes"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Stop the Tories\u2019 damaging plans for huge funding cuts to every school in our area - almost \u00a31,000 per pupil."
+                    ]
+                },
+                "qualitative": {
+                    "count": 7,
+                    "examples": [
+                        "Secure the future of our NHS and tackle the huge funding problems created by the Tories and Lib Dems at King's College Hospital.",
+                        "Oppose the Tories\u2019 hard Brexit on behalf of residents from across the constituency, who voted overwhelmingly for Remain.",
+                        "Build the genuinely affordable homes to rent and buy that we need and ensure a fair deal for private renters.",
+                        "Tackle air pollution in London and across the UK and make Britain a world leader on climate change once again."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Stop the Tories\u2019 damaging plans for huge funding cuts to every school in our area - almost \u00a31,000 per pupil."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Secure the future of our NHS and tackle the huge funding problems created by the Tories and Lib Dems at King's College Hospital.",
+                        "Oppose the Tories\u2019 hard Brexit on behalf of residents from across the constituency, who voted overwhelmingly for Remain.",
+                        "Build the genuinely affordable homes to rent and buy that we need and ensure a fair deal for private renters.",
+                        "Tackle air pollution in London and across the UK and make Britain a world leader on climate change once again."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 5,
+                    "examples": [
+                        "Secure the future of our NHS and tackle the huge funding problems created by the Tories and Lib Dems at King's College Hospital.",
+                        "Oppose the Tories\u2019 hard Brexit on behalf of residents from across the constituency, who voted overwhelmingly for Remain.",
+                        "Stop the Tories\u2019 damaging plans for huge funding cuts to every school in our area - almost \u00a31,000 per pupil.",
+                        "Build the genuinely affordable homes to rent and buy that we need and ensure a fair deal for private renters.",
+                        "Tackle air pollution in London and across the UK and make Britain a world leader on climate change once again."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Working hard for Dulwich and West Norwood every day",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Working hard for Dulwich and West Norwood every day"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "leaflet": {
+        "candidateName": "Meg Powell-Chandler",
+        "candidateGender": "",
+        "constituency": "Birmingham Northfield",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Strong, Stable Leadership in the National Interest",
+                "content": ""
+            },
+            {
+                "title": "Making a Success of Brexit",
+                "content": "It\u2019s only by backing the Conservatives on 8th June that the best possible deal for Brexit can be secured. This includes regaining control over our laws, money, and borders."
+            },
+            {
+                "title": "We All Need to Feel Safe in Our Area",
+                "content": "Ensuring local police have the resources they need to tackle crime and anti-social behavior in our area. More police on our streets."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Securing the best possible deal for Brexit, regaining control over laws, money, and borders."
+            },
+            {
+                "policyTitle": "Safety",
+                "policyDescription": "More police on our streets to tackle crime and anti-social behavior."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Investing in public services, securing economic future, creating more jobs."
+            }
+        ],
+        "mentions": {
+            "candidate": "Meg Powell-Chandler",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Making a success of Brexit includes regaining control over our laws, money, and borders.",
+            "defence": "",
+            "economy": "Building a stronger economy that rewards people who work hard and creates secure and well-paid jobs. Provide economic security for all.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Provide real support for the NHS.",
+            "immigration": "Control immigration and take back control of our borders.",
+            "labourEmployment": "",
+            "lawCrime": "More police on our streets to tackle crime and anti-social behavior.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "More police on our streets to tackle crime and anti-social behavior in our area.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "0121 472 0740",
+            "email": "northfieldconservatives@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@meg4northfield",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                },
+                {
+                    "caption": ""
+                },
+                {
+                    "caption": ""
+                },
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Strong, Stable Leadership in the National Interest",
+                        "Making a Success of Brexit",
+                        "We All Need to Feel Safe in Our Area",
+                        "Securing economic future, creating more jobs",
+                        "Provide real support for the NHS."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 7,
+                "candidateAlone": 2,
+                "candidateWithOthers": 5
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "More police on our streets to tackle crime and anti-social behavior in our area."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Making a success of Brexit includes regaining control over our laws, money, and borders.",
+                        "Building a stronger economy that rewards people who work hard and creates secure and well-paid jobs.",
+                        "Provide economic security for all.",
+                        "Control immigration and take back control of our borders."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The risk is just too big to take: higher debt, higher taxes, economic chaos."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Think Jeremy Corbyn as Prime Minister is never going to happen? DON\u2019T BE SO SURE"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

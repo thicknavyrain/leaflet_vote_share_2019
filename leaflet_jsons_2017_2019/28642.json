@@ -1,0 +1,182 @@
+{
+    "leaflet": {
+        "candidateName": "Oliver Dowden",
+        "candidateGender": "",
+        "constituency": "Hertsmere",
+        "politicalParty": "Conservative",
+        "electionDate": "General Election: Thursday 8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": "Theresa May Strong, Stable Leadership in the National Interest"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Strong, Stable Leadership",
+                "policyDescription": "Leadership in the national interest"
+            }
+        ],
+        "mentions": {
+            "candidate": "Oliver Dowden Hertsmere",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "BREXIT: EUROPE STUNNED BY UK LEAVE VOTE",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "Think Jeremy Corbyn as Prime Minister is never going to happen? DON'T BE SO SURE",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "125, 0171BT 830437",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Discussions between the Conservative Party and Northern Ireland's Democratic Unionist Party are reported to have raised the possibility...",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Shock Wins"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Think Jeremy Corbyn as Prime Minister is never going to happen? DON'T BE SO SURE"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 4,
+                "candidateAlone": 0,
+                "candidateWithOthers": 4
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Oliver Dowden Hertsmere"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Theresa May",
+                        "Jeremy Corbyn",
+                        "Strong, Stable Leadership in the National Interest"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The risk is just too big to take: Higher Debt, Higher Taxes, Economic Chaos"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "A Coalition Of Chaos With Jeremy Corbyn"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn",
+                        "Corbyn was 200-1 outsider"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Standing with Theresa May",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

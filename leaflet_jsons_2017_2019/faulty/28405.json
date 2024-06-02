@@ -1,0 +1,157 @@
+{
+    "leaflet": {
+        "candidateName": "Gordon Henderson",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "8th June 2017",
+        "messages": [
+            {
+                "title": "",
+                "content": "Dear Resident, It is only two years since the last General Election and I was not expecting another one until May 2020 so the announcement by Theresa May calling for an election came as a surprise to many. However, MPs voted to dissolve Parliament by a large majority. Theresa called the election because having triggered Article 50 of the Lisbon Treaty, which will lead to the United Kingdom leaving the EU, she feared there were forces in Westminster determined to disrupt her plans to negotiate a good deal for our country post Brexit."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Gordon Henderson",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Theresa called the election because having triggered Article 50 of the Lisbon Treaty, which will lead to the United Kingdom leaving the EU, she feared there were forces in Westminster determined to disrupt her plans to negotiate a good deal for our country post Brexit.",
+            "defence": "",
+            "economy": "a sound economy that will enable us to fund public services, such as the NHS",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "a sound economy that will enable us to fund public services, such as the NHS",
+            "immigration": "",
+            "labourEmployment": "delivering well-paid jobs",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "more affordable housing",
+            "community": [
+                {
+                    "content": "more affordable housing",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {}
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "announcement by Theresa May calling for an election came as a surprise to many",
+                        "a sound economy that will enable us to fund public services, such as the NHS",
+                        "delivering well-paid jobs",
+                        "more affordable housing",
+                        "a sound economy that will enable us to fund public services, such as the NHS",
+                        "I hope you will vote for me and let me help Theresa May as she attempts to negotiate the best possible Brexit deal for the United Kingdom"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "more affordable housing"
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Theresa called the election because having triggered Article 50 of the Lisbon Treaty, which will lead to the United Kingdom leaving the EU.",
+                        "a sound economy that will enable us to fund public services, such as the NHS",
+                        "delivering well-paid jobs",
+                        "She attempts to negotiate the best possible Brexit deal for the United Kingdom"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "led by Jeremy Corbyn and propped up by the SNP"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

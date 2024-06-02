@@ -1,0 +1,183 @@
+{
+    "leaflet": {
+        "candidateName": "Robert O'Riordan",
+        "candidateGender": "",
+        "constituency": "East Lothian",
+        "politicalParty": "Scottish Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "A Fresh Start",
+                "content": "KEEP SCOTLAND IN THE UK AND THE UK IN EUROPE\nLIBERAL DEMOCRATS ARE WINNING ACROSS THE UK"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Rebuild Our Economy",
+                "policyDescription": "The Scottish Liberal Democrats will build an economy that works for everyone, not just the richest."
+            },
+            {
+                "policyTitle": "Invest in Our NHS & Schools",
+                "policyDescription": "The Scottish Liberal Democrats will invest in healthcare and education."
+            },
+            {
+                "policyTitle": "Tackle the Climate Emergency",
+                "policyDescription": "The Scottish Liberal Democrats commit to addressing climate change."
+            }
+        ],
+        "mentions": {
+            "candidate": "Robert O'Riordan",
+            "otherPartyLeaderCandidate": "Nobody knows where Labour stand on Brexit or on Scottish independence.\nThe SNP want even more division with another independence referendum.",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "KEEP SCOTLAND IN THE UK AND THE UK IN EUROPE",
+            "defence": "",
+            "economy": "Rebuild our economy.\nLabour stand on Brexit or on Scottish independence.\nThe Scottish Liberal Democrats will build an economy that works for everyone.",
+            "education": "Invest in our NHS & Schools.",
+            "environment": "Tackle the Climate Emergency.\nThe Scottish Liberal Democrats commit to addressing climate change.",
+            "governance": "",
+            "government": "",
+            "health": "Invest in our NHS.",
+            "immigration": "",
+            "labourEmployment": "The Scottish Liberal Democrats will build an economy that works for everyone.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Jo Swinson is committed to keeping Scotland in the UK and the UK in Europe.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Jo Swinson won the Liberal Democrat leadership in July. She became the first woman and the youngest person to hold the position. Jo was Britain\u2019s youngest MP when she won her seat in 2005 in East Dunbartonshire. As a Business Minister between 2012-2015, she successfully introduced shared parental leave and clamped down on unscrupulous payday loan lenders.",
+        "politicalExperience": [
+            {
+                "role": "Business Minister",
+                "duration": "2012-2015",
+                "achievements": "Introduced shared parental leave and clamped down on unscrupulous payday loan lenders."
+            }
+        ],
+        "contactInformation": {
+            "address": "RTKE-RLTA-AGSC, 4 Clifton Terrace, Edinburgh, EH12 5DR",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Winning the 2019 Shetland by-election"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "KEEP SCOTLAND IN THE UK AND THE UK IN EUROPE",
+                        "Nobody knows where Labour stand on Brexit or on Scottish independence.",
+                        "The SNP want even more division with another independence referendum."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "The Scottish Liberal Democrats will stop the division with another referendum."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The Scottish Liberal Democrats commit to addressing climate change."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "As a Business Minister between 2012-2015, she successfully introduced shared parental leave and clamped down on unscrupulous payday loan lenders.",
+                    "issueRelated": "economy"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "Nobody knows where Labour stand on Brexit or on Scottish independence.",
+                        "The SNP want even more division with another independence referendum.",
+                        "The Conservatives want to force through an old division on Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Nobody knows where Labour stand on Brexit or on Scottish independence. They won\u2019t stop keeping change away.",
+                        "The SNP want even more division with another independence referendum. They won\u2019t stop the division in our country."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Jo Swinson is committed to keeping Scotland in the UK and the UK in Europe.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Robert O'Riordan working hard for East Lothian"
+                ]
+            }
+        }
+    }
+}

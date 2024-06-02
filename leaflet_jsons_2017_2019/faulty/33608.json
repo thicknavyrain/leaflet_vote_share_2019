@@ -1,0 +1,197 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "IT'S A CONSERVATIVE MAJORITY OR A HUNG PARLIAMENT",
+                "content": "At the end of this election, we\u2019ll either get a Conservative majority \u2013 or a hung parliament."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "\u00a333.9 billion extra for the NHS -- and funding new hospitals, creating 50 million more appointments in GP practices and investing in cancer screening machines."
+            },
+            {
+                "policyTitle": "Police Officers",
+                "policyDescription": "20,000 extra police officers -- with 1,369 for London in the first year. And making sure they have the powers to keep our streets safe."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "More funding for every pupil in every school -- so every child gets a better education, no matter what."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "London voters in fewer than a dozen seats could decide if Boris Johnson or Jeremy Corbyn is the next Prime Minister"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Economic chaos -- with hikes in tax to pay for his eye-watering plans to put politicians in charge of rail, energy, water and postal services.",
+            "education": "By scrapping Ofsted and abolishing SATs tests. Keeping parents in the dark on their children\u2019s progress and school safety. More funding for every pupil in every school -- so every child gets a better education, no matter what.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "\u00a333.9 billion extra for the NHS -- and funding new hospitals, creating 50 million more appointments in GP practices and investing in cancer screening machines.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "20,000 extra police officers -- with 1,369 for London in the first year. And making sure they have the powers to keep our streets safe.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "4 Matthew Parker Street, London, SW1H 9HQ and Paragon CC, Park House, 16-18 Finsbury Circus, London, EC2M 7EB",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "The Lib Dems",
+                "endorsement": "The Lib Dems have ruled out a coalition with the Conservatives. So a hung parliament means Jeremy Corbyn as Prime Minister. With five long years of gridlock and uncertainty."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "London voters in fewer than a dozen seats could decide if Boris Johnson or Jeremy Corbyn is the next Prime Minister",
+                "source": "ITV News",
+                "date": "November 2019"
+            },
+            {
+                "text": "Gap between Tories and Labour shrinks",
+                "source": "Evening Standard",
+                "date": "November 2019"
+            },
+            {
+                "text": "SNP to back Labour government only with Scottish independence",
+                "source": "Reuters",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Comrade Corbyn in \u00a380bn Tax Raid"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "\u00a333.9 billion extra for the NHS."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Economic chaos -- with hikes in tax to pay for his eye-watering plans to put politicians in charge of rail, energy, water and postal services."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "\u00a333.9 billion extra for the NHS.",
+                        "20,000 extra police officers -- with 1,369 for London in the first year."
+                    ]
+                }
+            }
+        },
+        "personalStories": [],
+        "endorsementsUsed": {
+            "count": 1,
+            "examples": [
+                "The Lib Dems have ruled out a coalition with the Conservatives. So a hung parliament means Jeremy Corbyn as Prime Minister. With five long years of gridlock and uncertainty."
+            ]
+        },
+        "negativeMessaging": {
+            "localIssues": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "nationalIssues": {
+                "count": 2,
+                "examples": [
+                    "Economic chaos -- with hikes in tax to pay for his eye-watering plans to put politicians in charge of rail, energy, water and postal services.",
+                    "By scrapping Ofsted and abolishing SATs tests. Keeping parents in the dark on their children\u2019s progress and school safety."
+                ]
+            },
+            "leaderOfOpponentsParty": {
+                "count": 1,
+                "examples": [
+                    "Jeremy Corbyn as Prime Minister. With five long years of gridlock and uncertainty."
+                ]
+            },
+            "oppositeCandidateNoName": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "oppositeCandidateWithName": {
+                "count": 2,
+                "examples": [
+                    "Comrade Corbyn in \u00a380bn Tax Raid.",
+                    "Economic chaos -- with hikes in tax to pay for his eye-watering plans to put politicians in charge of rail, energy, water and postal services."
+                ]
+            }
+        },
+        "nonPolicyAttributes": {
+            "localness": "",
+            "employment": "",
+            "education": "",
+            "family": ""
+        },
+        "localCandidate": {
+            "isLocal": false,
+            "examples": [
+                ""
+            ]
+        }
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "leaflet": {
+        "candidateName": "Stephen Gethins",
+        "candidateGender": "",
+        "constituency": "North-East Fife",
+        "politicalParty": "SNP",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Investment in local rail connections",
+                "policyDescription": "Better broadband and affordable housing for local families, backing community projects like Bags of Kindness and the Toy Drive."
+            }
+        ],
+        "mentions": {
+            "candidate": "Stephen Gethins",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Nicola Sturgeon",
+            "tacticalSituation": "Only the SNP can realistically stop the Tories in this seat."
+        },
+        "issues": {
+            "brexitEurope": "Strong voice for those worried about our relationship with the EU.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Investment in local rail connections.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Better broadband and affordable housing for local families, backing community projects like Bags of Kindness and the Toy Drive.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP for North East Fife",
+                "duration": "since 2015",
+                "achievements": "Fighting to keep local banks and Post Offices open, supporting our local WASPI campaign to demand women's pension rights."
+            }
+        ],
+        "contactInformation": {
+            "address": "65 North Street, St Andrews KY16 9AG",
+            "phone": "",
+            "email": "Stephen@Gethins17.scot",
+            "website": "www.Gethins17.scot",
+            "socialMedia": {
+                "facebook": "fb.com/StephenGethinsSNP",
+                "twitter": "@StephenGethins",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Nicola Sturgeon",
+                "endorsement": "Stephen Gethins has proven himself to be a first-rate MP for the North-East Fife constituency, providing a strong voice for the area at the Westminster."
+            },
+            {
+                "endorser": "Jenny Gilruth MSP",
+                "endorsement": "Stephen Gethins has been a fantastic MP for North East Fife. It has been a privilege to work with him supporting our local communities."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Stephen Gethins has been a fantastic MP for North East Fife.",
+                "source": "Jenny Gilruth MSP",
+                "date": ""
+            },
+            {
+                "text": "Stephen Gethins has proven himself to be a first-rate MP for the North-East Fife constituency.",
+                "source": "Nicola Sturgeon",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Independent analysis by Electoral Calculus predicts that only the SNP can realistically stop the Tories in this seat."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Stephen Gethins has been a fantastic MP for North East Fife.",
+                        "Strong voice for those worried about our relationship with the EU.",
+                        "Providing a strong voice for the area at the Westminster."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Fighting to keep local banks and Post Offices open.",
+                        "Investment in local rail connections."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Strong voice for those worried about our relationship with the EU."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Has been fighting to keep local banks and Post Offices open, supporting women's pension rights.",
+                    "issueRelated": "Local services, social welfare"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "Stephen Gethins has been a fantastic MP for North East Fife.",
+                    "Stephen Gethins has proven himself to be a first-rate MP."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Fighting for local services and investment in the community.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Fighting to keep local banks and Post Offices open."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "candidateGender": "Female",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Stable leadership for Brexit and beyond",
+                "content": "Prime Minister Theresa May asks country for support to strengthen hand in Brexit negotiations and to lock in Britain's economic progress."
+            },
+            {
+                "title": "Getting on with the job",
+                "content": "Getting on with the job of securing the best possible deal from Brexit is the most important task the Government faces today."
+            },
+            {
+                "title": "3 Key Reasons Why a General Election is Needed Now",
+                "content": "1. One-off chance now while EU Leaders agree stance. 2. We need to show unity as negotiations start, but Westminster is divided. 3. To lock in our economic progress so it can benefit the British people for the future."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Strong and stable leadership",
+                "policyDescription": "Strong and stable leadership with Theresa May to secure future of the United Kingdom."
+            },
+            {
+                "policyTitle": "Best possible deal from Brexit",
+                "policyDescription": "Ensuring best possible deal from Brexit negotiations."
+            },
+            {
+                "policyTitle": "Growing economy",
+                "policyDescription": "A growing economy to secure our future."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Getting the best possible deal in Brexit negotiations, sign new trade deals around the world with new friends and old partners.",
+            "defence": "",
+            "economy": "Growing economy to secure our future. Strong economy paying for a strong NHS.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Strong economy paying for a strong NHS.",
+            "immigration": "",
+            "labourEmployment": "Well-paid jobs, more affordable housing.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Every vote that is cast for me and my Conservative candidate in this general election will strengthen my hand at those negotiations.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "With your help, together we can make it work. We will: Take back control of our borders, our laws and our money. Sign new trade deals around the world with new friends and old partners. Ensure we leave in a smooth and orderly way, and that Brexit works for the whole of the United Kingdom.",
+        "politicalExperience": [
+            {
+                "role": "Prime Minister",
+                "duration": "Since July 2016",
+                "achievements": "Initiated Brexit negotiations."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "conservatives.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Strong and stable leadership with Theresa May"
+                },
+                {
+                    "caption": "Stability for Brexit and beyond"
+                },
+                {
+                    "caption": "Prime Minister Theresa May"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Thursday 8th June",
+                        "Sign new trade deals around the world with new friends and old partners",
+                        "Strong economy paying for a strong NHS"
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Stable leadership for Brexit and beyond",
+                        "Getting on with the job",
+                        "to lock in our economic progress",
+                        "to secure our future."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 2,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "to secure our future."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Stable leadership for Brexit and beyond",
+                        "Best possible deal from Brexit",
+                        "Strong economy paying for a strong NHS",
+                        "Strong and stable leadership with Theresa May"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "A COALITION OF CHAOS WITH Jeremy Corbyn",
+                        "Labour plots Brexit deal with other parties if Tories don't win election majority"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "possibly to make Jeremy Corbyn PM in return for INDYREF 2",
+                        "Labour plots Brexit deal with other parties if Tories don't win election majority"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

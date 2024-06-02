@@ -1,0 +1,184 @@
+{
+    "leaflet": {
+        "candidateName": "Matthew",
+        "candidateGender": "",
+        "constituency": "Rushcliffe",
+        "politicalParty": "UKIP",
+        "electionDate": "Dec 12th",
+        "messages": [
+            {
+                "title": "",
+                "content": "Dear Voter, I'm going to assume you want to live free in a democratic country, that you'd like to be able to save money and pass it on to your children, that you'd rather British culture was celebrated not destroyed, and that you'd prefer a reasonable immigration system that doesn't discriminate by race and doesn't let economic migration run rampant. I'm going to guess that you'd rather the countryside was not concreted over and that we neither return to 1950s culture nor a 1970s economy. I'm going to go out on a limb and say you'd rather not be paying much higher taxes to have your country's law-making outsourced to continental bureaucrats who don't believe in democracy and don't know or care where Nottinghamshire is. If you think I understand you a little better than the current Westminster crowd, you know what to do. Vote for me on Dec 12th. Give yourself a voice that will be heard. Matthew"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Advocating for a Brexit that stops outsourcing law-making to continental bureaucrats and prevents destructive immigration policies."
+            }
+        ],
+        "mentions": {
+            "candidate": "Matthew",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "you'd rather not be paying much higher taxes to have your country's law-making outsourced to continental bureaucrats who don't believe in democracy",
+            "defence": "",
+            "economy": "you'd like to be able to save money and pass it on to your children",
+            "education": "",
+            "environment": "you'd rather the countryside was not concreted over",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "you'd prefer a reasonable immigration system that doesn't discriminate by race and doesn't let economic migration run rampant",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "you'd rather the countryside was not concreted over",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "you want to live free in a democratic country",
+                        "you'd like to be able to save money and pass it on to your children",
+                        "you'd rather not be paying much higher taxes"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "you'd rather the countryside was not concreted over"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "you'd prefer a reasonable immigration system that doesn't discriminate by race and doesn't let economic migration run rampant",
+                        "you'd rather not be paying much higher taxes to have your country's law-making outsourced to continental bureaucrats who don't believe in democracy"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "If you think I understand you a little better than the current Westminster crowd, you know what to do.",
+                    "issueRelated": "government"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "you'd neither return to 1950s culture nor a 1970s economy"
+                ]
+            }
+        }
+    }
+}

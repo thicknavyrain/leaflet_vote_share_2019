@@ -1,0 +1,170 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "The Future of Our Country is at Stake",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Real Change",
+                "policyDescription": "Deliver free and fast NHS public prescriptions, dental check-ups, and personal care."
+            },
+            {
+                "policyTitle": "Boost Standards",
+                "policyDescription": "Boost family living standards and guarantee no increase in income tax for less than 95,000."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Give you the final say on Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "The Lib Dems Can't Win Here",
+            "partyLeader": "",
+            "tacticalSituation": "Studying the figures for Buckingham show voting for Boris Johnson means backing a sell-out Brexit deal."
+        },
+        "issues": {
+            "brexitEurope": "Give you the final say on Brexit.",
+            "defence": "",
+            "economy": "Boost family living standards and guarantee no increase in income tax for less than 95,000.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Deliver free and fast NHS public prescriptions, dental check-ups, and personal care.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Labour is on your side. It's time for real change. Labour has a plan to build and transform Britain, so that it's held back and no community is neglected.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Labour Party, Southside, 105 Victoria St, London SW1E 6QT",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "no increase in income tax for less than 95,000"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Labour is on your side. It's time for real change.",
+                        "The Future of Our Country is at Stake"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Labour has a plan to build and transform Britain, so that it's held back and no community is neglected."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Deliver free and fast NHS public prescriptions, dental check-ups, and personal care.",
+                        "Boost family living standards and guarantee no increase in income tax for less than 95,000.",
+                        "Give you the final say on Brexit."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "The Lib Dems Can't Win Here"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Studying the figures for Buckingham show voting for Boris Johnson means backing a sell-out Brexit deal."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

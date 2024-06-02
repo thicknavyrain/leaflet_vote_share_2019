@@ -1,0 +1,146 @@
+{
+    "leaflet": {
+        "candidateName": "Rebecca Forrest",
+        "candidateGender": "Female",
+        "constituency": "Bolton West",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "",
+                "content": "for genuine change in BOLTON WEST"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS and Social Care",
+                "policyDescription": "\u00a331 million more for the NHS and Social Care in Bolton"
+            },
+            {
+                "policyTitle": "Pensions",
+                "policyDescription": "\u00a3770 more for pensioners by protecting the triple-lock"
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Reversing cuts of over \u00a319 million to schools throughout Bolton, Horwich, Westhoughton and Atherton"
+            }
+        ],
+        "mentions": {
+            "candidate": "Rebecca Forrest",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Reversing cuts of over \u00a319 million to schools throughout Bolton, Horwich, Westhoughton and Atherton",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "\u00a331 million more for the NHS and Social Care in Bolton",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "\u00a3770 more for pensioners by protecting the triple-lock",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Hill Side, Bolton, BL1 5DT.",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "\u00a331 million more for the NHS and Social Care in Bolton",
+                        "\u00a3770 more for pensioners by protecting the triple-lock",
+                        "Reversing cuts of over \u00a319 million to schools throughout Bolton, Horwich, Westhoughton and Atherton"
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Reversing cuts of over \u00a319 million to schools throughout Bolton, Horwich, Westhoughton and Atherton"
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

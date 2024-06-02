@@ -1,0 +1,206 @@
+{
+    "leaflet": {
+        "candidateName": "Jo Swinson",
+        "candidateGender": "female",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "Stop Brexit by revoking Article 50, ensuring better opportunities for our country, bringing certainty and stability."
+            },
+            {
+                "policyTitle": "Tackle the Climate Emergency",
+                "policyDescription": "Generate 80% of electricity from renewables by 2030, upgrading transport and other infrastructure."
+            },
+            {
+                "policyTitle": "Give Every Child the Best Start in Life",
+                "policyDescription": "Recruit 20,000 more teachers, invest an extra \u00a310 billion a year in schools."
+            },
+            {
+                "policyTitle": "Build a Fairer Economy",
+                "policyDescription": "Invest \u00a3130 billion in infrastructure, policies for a better economy, supporting a fairer society."
+            },
+            {
+                "policyTitle": "Transform our Mental Health Services",
+                "policyDescription": "Treat mental health with the same urgency as physical health, improving services significantly."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Boris Johnson, Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Stop Brexit by revoking Article 50, ensuring better opportunities for our country, bringing certainty and stability.",
+            "defence": "",
+            "economy": "Invest \u00a3130 billion in infrastructure, policies for a better economy, supporting a fairer society.",
+            "education": "Recruit 20,000 more teachers, invest an extra \u00a310 billion a year in schools.",
+            "environment": "Generate 80% of electricity from renewables by 2030, upgrading transport and other infrastructure.",
+            "governance": "",
+            "government": "",
+            "health": "Treat mental health with the same urgency as physical health, improving services significantly.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Upgrading transport and other infrastructure.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "8-10 Great George Street, London, SW1P 3AE",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Gavin Esler, Rachel Johnson, Gabriel Rozenberg",
+                "endorsement": "Supporting the Liberal Democrats' policies, which they believe are best for the country's future."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Jo Swinson with supporters holding Liberal Democrats placards."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Recruit 20,000 more teachers.",
+                        "Invest an extra \u00a310 billion a year in schools.",
+                        "Invest \u00a3130 billion in infrastructure."
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "Best Start in Life",
+                        "Stop Brexit by revoking Article 50.",
+                        "Treat mental health with the same urgency as physical health.",
+                        "Generate 80% of electricity from renewables by 2030.",
+                        "Liberal Democrats have a plan for the future.",
+                        "Ensuring better opportunities for our country."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "Stop Brexit by revoking Article 50.",
+                        "Generate 80% of electricity from renewables by 2030.",
+                        "Recruit 20,000 more teachers.",
+                        "Invest an extra \u00a310 billion a year in schools.",
+                        "Invest \u00a3130 billion in infrastructure."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Supporting the Liberal Democrats' policies, which they believe are best for the country's future."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "Cut school budgets to the bone.",
+                        "Have damaged our NHS and social care services with their cuts.",
+                        "Can't deliver on their funding promises."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 3,
+                    "examples": [
+                        "Boris Johnson's Conservatives",
+                        "Jeremy Corbyn's Labour Party",
+                        "Labour figures worry that their plans are unsustainable."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

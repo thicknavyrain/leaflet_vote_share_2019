@@ -1,0 +1,178 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "candidateGender": "",
+        "constituency": "Maidenhead",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Theresa May - A strong, stable leadership in the national interest",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Securing more jobs",
+                "policyDescription": "Investment across the constituency, including in a rejuvenated Maidenhead town centre"
+            },
+            {
+                "policyTitle": "Safeguarding local NHS services",
+                "policyDescription": "Including St Marks Hospital"
+            },
+            {
+                "policyTitle": "Supporting our schools",
+                "policyDescription": "Ensuring every child has a good local school place"
+            },
+            {
+                "policyTitle": "Protecting the character of our area",
+                "policyDescription": "Protecting the character of Berkshire"
+            },
+            {
+                "policyTitle": "Improving local train services",
+                "policyDescription": "Protecting our fast services to London"
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Local schools: Having access to a choice of good schools is very important for local parents across the Maidenhead constituency",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Supporting the NHS: Theresa will always back our local NHS services...She has supported the redevelopment of St Marks Hospital in Maidenhead, such as the minor injuries unit",
+            "immigration": "",
+            "labourEmployment": "Securing more jobs: Creating new jobs and apprenticeships",
+            "lawCrime": "",
+            "transport": "Improving local train services: She has successfully campaigned for the new Elizabeth Line (Crossrail) to be extended from Maidenhead to Twyford and Reading. The branch lines are also important for residents travelling to other places",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Planning and Development: Theresa will always fight to protect the character of this part of Berkshire.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Theresa has been our hard-working local MP since 1997. She lives in the constituency with her husband Philip, and is an active campaigner on the issues that matter to local people: jobs, schools, the NHS, train services, and much more.",
+        "politicalExperience": [
+            {
+                "role": "Prime Minister",
+                "duration": "One year",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "0118 934 5433",
+            "email": "maidenhead@conservatives.com",
+            "website": "tmay.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May meeting people and participating in community events"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Since last year she had the honour of being appointed as our Prime Minister",
+                        "She has supported the redevelopment of St Marks Hospital in Maidenhead",
+                        "Ensuring every child has a good local school place"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Theresa will always fight to protect the character of this part of Berkshire",
+                        "Theresa has been our hard-working local MP since 1997",
+                        "She lives in the constituency with her husband Philip, and is an active campaigner"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 6,
+                "candidateAlone": 1,
+                "candidateWithOthers": 5
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "Securing more jobs: Creating new jobs and apprenticeships",
+                        "Improving local train services",
+                        "Planning and Development",
+                        "Supporting our schools: Ensuring every child has a good local school place"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Supporting the NHS",
+                        "Creating new jobs and apprenticeships"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Theresa has been our hard-working local MP since 1997.",
+                "employment": "She is an active campaigner on the issues that matter to local people: jobs, schools, the NHS, train services, and much more.",
+                "education": "",
+                "family": "She lives in the constituency with her husband Philip."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Theresa has been our hard-working local MP since 1997.",
+                    "She lives in the constituency with her husband Philip."
+                ]
+            }
+        }
+    }
+}

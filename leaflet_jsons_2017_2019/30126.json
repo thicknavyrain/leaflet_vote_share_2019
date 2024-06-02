@@ -1,0 +1,191 @@
+{
+    "leaflet": {
+        "candidateName": "Anita Lower, Nick Cott, Wendy Taylor",
+        "candidateGender": "",
+        "constituency": "Newcastle upon Tyne",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "8th June 2017",
+        "messages": [
+            {
+                "title": "Lib Dems fight Hard Brexit",
+                "content": "Keep Britain in the Single Market to protect jobs"
+            },
+            {
+                "title": "Retail worries",
+                "content": "The recent fall in retail sales is a sign the 'post-Brexit honeymoon' for the UK economy is coming to an end - food prices and petrol costs to rise due to the massive fall in the value of the pound since the referendum."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Lib Dems fight Hard Brexit",
+                "policyDescription": "Opposing government plans to pull Britain out of the Single Market, vowing to make sure workers don't pay the price of Hard Brexit."
+            },
+            {
+                "policyTitle": "Retail worries",
+                "policyDescription": "Concerns about the fall in retail sales and rise in prices due to the devaluation of the pound post-Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "Anita Lower, Nick Cott, Wendy Taylor",
+            "otherPartyLeaderCandidate": "Conservative Government, Labour Party",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Conservative plans for Hard Brexit would be disastrous for local jobs and the economy. Liberal Democrats are opposing Government plans to pull Britain out of the Single Market.",
+            "defence": "",
+            "economy": "The recent fall in retail sales is a sign the 'post-Brexit honeymoon' for the UK economy is coming to an end - food prices and petrol costs to rise due to the massive fall in the value of the pound since the referendum.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "0800 086 8398",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "\"We should all fight for our economy, our place in the world, and remain part of the Single Market.\"",
+                "source": "Anita Lower",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "The recent fall in retail sales is a sign the 'post-Brexit honeymoon' for the UK economy is coming to an end.",
+                        "Food prices and petrol costs to rise due to the massive fall in the value of the pound since the referendum."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Conservative plans for Hard Brexit would be disastrous for local jobs and the economy.",
+                        "We campaigned to keep Britain in Europe and we passionately believe our future will be best served by staying in."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Conservative plans for Hard Brexit would be disastrous for local jobs and the economy."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The recent fall in retail sales is a sign the 'post-Brexit honeymoon' for the UK economy is coming to an end."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Conservative plans for Hard Brexit would be disastrous for local jobs and the economy."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

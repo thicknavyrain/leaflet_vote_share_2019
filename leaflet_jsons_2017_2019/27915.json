@@ -1,0 +1,176 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Theresa May Needs Your Local Vote",
+                "content": "In just 8 days after you vote, the EU waits for Theresa May to enter the negotiations that will determine Britain\u2019s future. But she can only get the best deal for you and your family with a large majority in Parliament."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Control and Reduce Immigration",
+                "policyDescription": "Because we\u2019re leaving the EU, we will be able to control immigration ourselves, and make things fairer for ordinary working people."
+            },
+            {
+                "policyTitle": "Taking Back Control of Our Laws and Our Borders",
+                "policyDescription": "Theresa May will end free movement of EU citizens; Jeremy Corbyn won\u2019t do that. He doesn\u2019t believe in controls."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Theresa May\u2019s plan for Brexit will end free movement of EU citizens; Jeremy Corbyn won\u2019t do that. He doesn\u2019t believe in controls.",
+            "defence": "",
+            "economy": "Theresa May has a plan to reduce the numbers of people who come to Britain, while bringing in the skilled workers our economy needs to stay strong.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "Theresa May and the Conservatives want to control and reduce immigration. But Jeremy Corbyn doesn\u2019t believe in controls and will increase immigration.",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Theresa May and the Conservatives want to control and reduce immigration.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Theresa May Needs Your Local Vote",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "But she needs your vote in Gower and votes in every part of the country to give her the best possible negotiating hand.",
+                        "But Jeremy Corbyn doesn\u2019t believe in controls and will increase immigration.",
+                        "But he doesn\u2019t believe in controls."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Because we\u2019re leaving the EU, we will be able to control immigration ourselves, and make things fairer for ordinary working people.",
+                        "But Jeremy Corbyn doesn\u2019t believe in controls and will increase immigration.",
+                        "Theresa May has a plan to reduce the numbers of people who come to Britain, while bringing in the skilled workers our economy needs to stay strong.",
+                        "Theresa May\u2019s plan for Brexit will end free movement of EU citizens; Jeremy Corbyn won\u2019t do that. He doesn\u2019t believe in controls."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "But Jeremy Corbyn doesn\u2019t believe in controls and will increase immigration.",
+                        "Jeremy Corbyn won\u2019t do that. He doesn\u2019t believe in controls.",
+                        "And we can only get Brexit right with the right person doing the job. That\u2019s Theresa May."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May\u2019s plan for Brexit will end free movement of EU citizens; Jeremy Corbyn won\u2019t do that. He doesn\u2019t believe in controls."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn doesn\u2019t believe in controls and will increase immigration."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

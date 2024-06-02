@@ -1,0 +1,198 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Sedgefield",
+        "politicalParty": "The Brexit Party",
+        "electionDate": "December 12th",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A Clean-Break Brexit",
+                "policyDescription": "We must control our laws, borders, money and defence."
+            },
+            {
+                "policyTitle": "Fundamental democratic reform",
+                "policyDescription": "Let's make Parliament serve the people."
+            },
+            {
+                "policyTitle": "Supporting the NHS",
+                "policyDescription": "Keep investing, better management, less waste."
+            },
+            {
+                "policyTitle": "A Brexit dividend",
+                "policyDescription": "Spend \u00a3200bn on transport and jobs in the regions."
+            },
+            {
+                "policyTitle": "Controlled immigration",
+                "policyDescription": "We need a fair, firm points-based system."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Nigel Farage",
+            "tacticalSituation": "More than 90% of Labour MPs are Remainers. Yet more than 60% of Labour constituencies voted to Leave."
+        },
+        "issues": {
+            "brexitEurope": "We don\u2019t like Boris Johnson\u2019s EU Treaty. The only way we can hold Boris to his word is by electing Brexit Party MPs.",
+            "defence": "We must control our laws, borders, money and defence.",
+            "economy": "Spend \u00a3200bn on transport and jobs in the regions.",
+            "education": "",
+            "environment": "",
+            "governance": "Fundamental democratic reform \u2013 let's make Parliament serve the people.",
+            "government": "Our priority is to stop a Corbyn-led Remainer alliance sneaking into power and using a rigged second referendum.",
+            "health": "Supporting the NHS - keep investing, better management, less waste.",
+            "immigration": "Controlled immigration \u2013 we need a fair, firm points-based system.",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Spend \u00a3200bn on transport and jobs in the regions.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Leader of The Brexit Party",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "83 Victoria Street, London, SW1H 0HW",
+            "phone": "0800 414 8525",
+            "email": "",
+            "website": "WWW.THEBREXITPARTY.ORG",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Nigel Farage",
+                "endorsement": "Leader of The Brexit Party"
+            }
+        ],
+        "quotes": [
+            {
+                "text": "The only way we can hold Boris to his word is by electing Brexit Party MPs.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "More than 90% of Labour MPs are Remainers."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Let\u2019s make Parliament serve the People."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Our priority is to stop a Corbyn-led Remainer alliance sneaking into power",
+                        "The only way we can hold Boris to his word is by electing Brexit Party MPs."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Nigel Farage, Leader of The Brexit Party"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Our priority is to stop a Corbyn-led Remainer alliance sneaking into power"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Corbyn has promised to respect the Brexit vote."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Corbyn"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

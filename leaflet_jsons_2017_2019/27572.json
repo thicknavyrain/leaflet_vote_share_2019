@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "Eleanor Price",
+        "candidateGender": "",
+        "constituency": "Dundee East",
+        "politicalParty": "Scottish Conservative and Unionist",
+        "electionDate": "Thursday 8th June 2017",
+        "messages": [
+            {
+                "title": "",
+                "content": "You have my guarantee that the Scottish Conservatives will oppose the SNP every step of the way."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Oppose SNP plans",
+                "policyDescription": "Oppose SNP plans for another divisive and unwanted independence referendum."
+            },
+            {
+                "policyTitle": "Support local business",
+                "policyDescription": "Support local business and industry across the constituency to ensure a strong and stable economy."
+            },
+            {
+                "policyTitle": "Improvement of education",
+                "policyDescription": "Campaign for the improvement of educational attainment."
+            },
+            {
+                "policyTitle": "Investment in local roads",
+                "policyDescription": "Secure more investment in local roads and transport links."
+            },
+            {
+                "policyTitle": "Stronger voice for Dundee",
+                "policyDescription": "Be a stronger voice for Dundee and South Angus in Westminster and beyond."
+            }
+        ],
+        "mentions": {
+            "candidate": "Eleanor Price",
+            "otherPartyLeaderCandidate": "SNP",
+            "partyLeader": "Scottish Conservatives",
+            "tacticalSituation": "Labour and the Lib Dems are now too weak to stand up to the SNP"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Support local business and industry across the constituency to ensure a strong and stable economy.",
+            "education": "Campaign for the improvement of educational attainment.",
+            "environment": "",
+            "governance": "",
+            "government": "TORY REVIVAL ON COURSE TO FOIL INDEPENDENCE",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Secure more investment in local roads and transport links.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "TORY REVIVAL ON COURSE TO FOIL INDEPENDENCE",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "E Price, of Flat F/L 248 Clepington Road, Dundee DD3 8BJ",
+            "phone": "",
+            "email": "EleanorPrice4DundeeEast@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "TORY REVIVAL ON COURSE TO FOIL INDEPENDENCE",
+                "source": "Sunday Times Scotland",
+                "date": "23 April 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Eleanor with Ferry Ward councillors Philip and Derek Scott."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "SNP 44%, Con 33%, Lab 13%, LibDem 5% (Panelbase poll, Sunday Times Scotland, 23 April 2017)"
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Labour and the Lib Dems are now too weak to stand up to the SNP"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Support local business and industry across the constituency to ensure a strong and stable economy.",
+                        "Campaign for the improvement of educational attainment."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Oppose SNP plans for another divisive and unwanted independence referendum."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Oppose SNP plans for another divisive and unwanted independence referendum."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Labour and the Lib Dems are now too weak to stand up to the SNP"
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,185 @@
+{
+    "leaflet": {
+        "candidateName": "Laura Coyle",
+        "candidateGender": "",
+        "constituency": "Henley",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8th 2017",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Investment in our local NHS and schools",
+                "policyDescription": "Fighting to protect local jobs by keeping Britain in the Single Market and investing in the NHS and schools."
+            },
+            {
+                "policyTitle": "Opposing the Dementia Tax",
+                "policyDescription": "Opposing the Conservatives' 'Dementia Tax' to ensure no one has to give up their home to pay for care."
+            },
+            {
+                "policyTitle": "Opposing school cuts",
+                "policyDescription": "Fighting against school cuts and reforms that would damage the educational system."
+            },
+            {
+                "policyTitle": "Fighting against Hard Brexit",
+                "policyDescription": "Campaigning against the Conservatives' hard Brexit plans to safeguard local jobs and businesses."
+            }
+        ],
+        "mentions": {
+            "candidate": "Laura Coyle",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "Corbyn",
+            "tacticalSituation": "Lib Dems are the challengers here - they came a strong second to the Conservatives in the County elections across Henley Constituency."
+        },
+        "issues": {
+            "brexitEurope": "Help Laura Coyle stop a hard Brexit. The Conservatives are dragging us out of the Single Market.",
+            "defence": "",
+            "economy": "",
+            "education": "Opposing school cuts and changes that would result in less funding for local schools.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Leading the fight for investment in our local NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Protecting local jobs by keeping Britain in the Single Market.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07850 747699",
+            "email": "Laura.coyle@oxonlibdems.uk",
+            "website": "henley.oxonlibdems.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/lauracoylehenley",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "The Liberal Democrats are winning across the UK."
+                },
+                {
+                    "caption": "Laura Coyle - The strong voice for us."
+                },
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "The Lib Dems came a strong second to the Conservatives in the County elections across Henley Constituency.",
+                        "Over 7,000 jobs are planned over the next 20 years by the Space Agency."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Leading the fight for investment in our local NHS and schools.",
+                        "Fighting against school cuts.",
+                        "Opposing the Dementia Tax.",
+                        "Fighting against hard Brexit.",
+                        "Change the direction of the country."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 1,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "Investment in NHS.",
+                        "Opposing school cuts.",
+                        "Local jobs.",
+                        "Dementia Tax."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Hard Brexit.",
+                        "Single Market."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "The Conservatives are dragging us out of the Single Market.",
+                        "Jeremy Corbyn's Labour are backing the Conservative plan.",
+                        "Theresa May plans for a hard Brexit will put jobs at risk."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May plans for a hard Brexit will put jobs at risk."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives are dragging us out of the Single Market."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Britain to leave Single Market, says Theresa May.",
+                        "Corbyn to order Labour MPs to vote for Article 50."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Laura lives in Streatley near Goring-on-Thames and is a housing solicitor in Oxford.",
+                "employment": "Housing solicitor in Oxford.",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Laura lives in Streatley near Goring-on-Thames and is a housing solicitor in Oxford."
+                ]
+            }
+        }
+    }
+}

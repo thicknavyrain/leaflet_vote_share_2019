@@ -1,0 +1,183 @@
+{
+    "leaflet": {
+        "candidateName": "Peter Jackson",
+        "candidateGender": "",
+        "constituency": "Lancaster & Fleetwood",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Vote Lib Dem for Genuine Change",
+                "content": "Imagine a Britain Without Brexit. A message from: Peter"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "On day one, a Liberal Democrat government will end Brexit and the only way to do this is to elect Peter Jackson!"
+            }
+        ],
+        "mentions": {
+            "candidate": "Peter Jackson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "On day one, a Liberal Democrat government will end Brexit and the only way to do this is to elect Peter Jackson!",
+            "defence": "",
+            "economy": "Cash in on our \u00a350 billion remain bonus for our public services. Protect our economy, any deal will damage it - the best deal is staying in.",
+            "education": "Maintain the high quality of education with the support of EU nationals.",
+            "environment": "The climate emergency tackled effectively on the wide EU basis.",
+            "governance": "",
+            "government": "",
+            "health": "Freely access Healthcare in the EU with the EHIC card. Maintain the high quality of health care system with the support of EU nationals.",
+            "immigration": "Guarantee Freedom of Movement, so we can work, study and retire in any EU country.",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "The only way to end Brexit is to elect Peter Jackson! Peace, Prosperity, Friendship with our nearest neighbours.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Born on the Fylde coast and living in Lancaster for 25 years, I know, understand and care passionately for our constituency. I am honoured to stand for my Liberal values of fairness, equality, tolerance and opportunity in this election.",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "There is no Magic Money tree, but there is a Remain bonus.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Brexit wrecks it."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "On day one, a Liberal Democrat government will end Brexit and the only way to do this is to elect Peter Jackson!",
+                        "Cash in on our \u00a350 billion remain bonus for our public services."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Imagine a Britain Without Brexit.",
+                        "The climate emergency tackled effectively on the wide EU basis."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Cash in on our \u00a350 billion remain bonus for our public services."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Born on the Fylde coast and living in Lancaster for 25 years, I know, understand and care passionately for our constituency.",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Born on the Fylde coast and living in Lancaster for 25 years.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Born on the Fylde coast and living in Lancaster for 25 years."
+                ]
+            }
+        }
+    }
+}

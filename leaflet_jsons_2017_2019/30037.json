@@ -1,0 +1,173 @@
+{
+    "leaflet": {
+        "candidateName": "Peter Gibson",
+        "candidateGender": "",
+        "constituency": "Redcar",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": "Give me and my candidate your vote on Thursday 8th June and I will: Provide strong and stable leadership for our country. Get the best Brexit deal possible to deliver economic security for our future. Always stand up for you and your family. Don\u2019t risk our future at this crucial moment in history with a vote for anyone else. Back me on Thursday 8th June to lead Britain."
+            },
+            {
+                "title": "",
+                "content": "I grew up in Redcar. I'm appalled how our town has been neglected. I believe we can do better and have a much brighter future. Labour take Redcar for granted. I am NOT a career politician. I will fight your corner. Together we can reinvigorate Redcar. Only a vote for me will give Redcar an MP working side by side with Theresa May to get a fair share of the benefits of Brexit."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Strong and stable leadership",
+                "policyDescription": "Provide strong and stable leadership for our country."
+            },
+            {
+                "policyTitle": "Best Brexit deal",
+                "policyDescription": "Get the best Brexit deal possible to deliver economic security for our future."
+            },
+            {
+                "policyTitle": "Stand up for families",
+                "policyDescription": "Always stand up for you and your family."
+            },
+            {
+                "policyTitle": "Reinvigorate Redcar",
+                "policyDescription": "Together we can reinvigorate Redcar."
+            }
+        ],
+        "mentions": {
+            "candidate": "Peter Gibson",
+            "otherPartyLeaderCandidate": "Labour",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Get the best Brexit deal possible to deliver economic security for our future.",
+            "defence": "",
+            "economy": "Get the best Brexit deal possible to deliver economic security for our future.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "Give me and my candidate your vote on Thursday 8th June. Back me on Thursday 8th June to lead Britain.",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I grew up in Redcar. I'm appalled how our town has been neglected. I believe we can do better and have a much brighter future. Labour take Redcar for granted. I am NOT a career politician. I will fight your corner. Together we can reinvigorate Redcar.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I grew up in Redcar. I'm appalled how our town has been neglected. I believe we can do better and have a much brighter future. Labour take Redcar for granted. I am NOT a career politician. I will fight your corner. Together we can reinvigorate Redcar.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Peter Gibson in Redcar"
+                },
+                {
+                    "caption": "Peter Gibson standing near South Drive"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": []
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "I grew up in Redcar. I'm appalled how our town has been neglected. I believe we can do better and have a much brighter future."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 2,
+                "candidateAlone": 2,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "I grew up in Redcar. I'm appalled how our town has been neglected. I believe we can do better and have a much brighter future."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Get the best Brexit deal possible to deliver economic security for our future."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I grew up in Redcar. I'm appalled how our town has been neglected. I believe we can do better and have a much brighter future.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "I'm appalled how our town has been neglected."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Labour take Redcar for granted."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I grew up in Redcar.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I grew up in Redcar."
+                ]
+            }
+        }
+    }
+}

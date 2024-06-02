@@ -1,0 +1,160 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Conservative Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Brexit negotiations start 11 days after you vote \u2013 either Theresa May or Jeremy Corbyn will be standing up for your economic security."
+            },
+            {
+                "title": "",
+                "content": "A loss of just 6 seats and Theresa May\u2019s government loses its majority \u2013 delivering the chaos of a hung parliament."
+            },
+            {
+                "title": "",
+                "content": "If you want to keep our economy strong and taxes low, not voting for Theresa May is the same as voting for Jeremy Corbyn. There's no safe way to vote Labour locally."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "A loss of just 6 seats and Theresa May\u2019s government loses its majority \u2013 delivering the chaos of a hung parliament."
+        },
+        "issues": {
+            "brexitEurope": "Brexit negotiations start 11 days after you vote",
+            "defence": "",
+            "economy": "If you want to keep our economy strong and taxes low, not voting for Theresa May is the same as voting for Jeremy Corbyn.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Promoted by Alan Mabbutt on behalf of the Conservative Party, both at Matthew Parker Street, London, SW1H 9HQ. Printed by St. Ives PLC, One Tudor Street, London, EC4Y 0AH.",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Brexit negotiations to start 11 days after you vote"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "A loss of just 6 seats and Theresa May\u2019s government loses its majority"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "either Theresa May or Jeremy Corbyn will be standing up for your economic security.",
+                        "If you want to keep our economy strong and taxes low, not voting for Theresa May is the same as voting for Jeremy Corbyn."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Brexit negotiations start 11 days after you vote",
+                        "A loss of just 6 seats and Theresa May\u2019s government loses its majority",
+                        "If you want to keep our economy strong and taxes low, not voting for Theresa May is the same as voting for Jeremy Corbyn. There's no safe way to vote Labour locally."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "A loss of just 6 seats and Theresa May\u2019s government loses its majority \u2013 delivering the chaos of a hung parliament."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Either Theresa May or Jeremy Corbyn will be standing up for your economic security."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "There's no safe way to vote Labour locally."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "not voting for Theresa May is the same as voting for Jeremy Corbyn."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

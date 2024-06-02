@@ -1,0 +1,188 @@
+{
+    "leaflet": {
+        "candidateName": "Steven Galton",
+        "candidateGender": "",
+        "constituency": "Southampton Test",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Hi, I'm Steven Galton and I'm writing to introduce myself as I'm seeking your support in the upcoming General Election. This is a crucial election as there is a real chance of waking up on Friday 13th December with Jeremy Corbyn as our new prime minister. This scares the life out of me!"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get Brexit done, so we can get on with tackling the challenges the country faces."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Investing in our schools and the NHS."
+            },
+            {
+                "policyTitle": "Policing",
+                "policyDescription": "Recruiting more police to get tough on crime."
+            },
+            {
+                "policyTitle": "Local Transport",
+                "policyDescription": "Lobbying for significant local transport network investment."
+            },
+            {
+                "policyTitle": "Local Air Quality",
+                "policyDescription": "Improving our local air quality is a top political priority."
+            }
+        ],
+        "mentions": {
+            "candidate": "Hi, I'm Steven Galton and I'm writing to introduce myself as I'm seeking your support in the upcoming General Election.",
+            "otherPartyLeaderCandidate": "There is a real chance of waking up on Friday 13th December with Jeremy Corbyn as our new prime minister. This scares the life out of me!",
+            "partyLeader": "Back Boris",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Get Brexit done, so we can get on with tackling the challenges the country faces.",
+            "defence": "",
+            "economy": "",
+            "education": "Investing in our schools and the NHS.",
+            "environment": "Improving our local air quality is a top political priority.",
+            "governance": "",
+            "government": "",
+            "health": "Investing in our schools and the NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Recruiting more police to get tough on crime.",
+            "transport": "Lobbying for significant local transport network investment.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "We successfully campaigned to stop the building of a huge power station in the Western Docks. More recently we saved the iconic tree in Shirley from developers.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Local Councillor",
+                "duration": "10 years",
+                "achievements": "It was the environment that drew me into politics. Together we successfully campaigned to stop the building of a huge power station in the Western Docks. More recently we saved the iconic tree in Shirley from developers."
+            }
+        ],
+        "contactInformation": {
+            "address": "Steven Galton, PO Box 1802, Southampton, SO15 9GR",
+            "phone": "07956 596389",
+            "email": "steven@stevengalton.co.uk",
+            "website": "www.stevengalton.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@StevenGalton",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "We've saved the tree"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "I'm proud the Conservatives are increasing minimum primary funding from \u00a33,500 to \u00a34,332 and secondary funding from \u00a34,800 to \u00a35,898 per pupil."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "This scares the life out of me!",
+                        "I will bring a fresh approach with new energy and enthusiasm as your MP!",
+                        "As your Conservative MP my focus would always be on getting results and improvements for Southampton. I am not a career politician; I'm an ordinary guy who got involved in politics through taking a stand on community campaigning.",
+                        "We need a local champion and a vocal MP."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 5,
+                "candidateAlone": 0,
+                "candidateWithOthers": 5
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "It was the environment that drew me into politics. Together we successfully campaigned to stop the building of a huge power station in the Western Docks. More recently we saved the iconic tree in Shirley from developers.",
+                        "I've been a local primary school Governor.",
+                        "As part of the local cross party scrutiny enquiry into air quality in Southampton; we showed that working beyond tribal party politics, to deliver important results for us all, can work."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Get Brexit done, so we can get on with tackling the challenges the country faces.",
+                        "Investing in our schools and the NHS plus recruiting more police to get tough on crime."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "As a local guy, who was born at Southampton General Hospital in 1978 and who has lived in Southampton just about my whole life, you don't need to tell me about our issues locally.",
+                    "issueRelated": "Local issues"
+                },
+                {
+                    "story": "Trust me, I'm living with Crohn's disease and my wife works for the NHS.",
+                    "issueRelated": "Health (NHS)"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "This is a crucial election as there is a real chance of waking up on Friday 13th December with Jeremy Corbyn as our new prime minister. This scares the life out of me!"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "This is a crucial election as there is a real chance of waking up on Friday 13th December with Jeremy Corbyn as our new prime minister. This scares the life out of me!"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I've lived in Southampton just about my whole life.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I've lived in Southampton just about my whole life."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "leaflet": {
+        "candidateName": "Isabel Thurston",
+        "candidateGender": "",
+        "constituency": "Arundel and South Downs",
+        "politicalParty": "Green Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "YES TO EUROPE, NO TO CLIMATE CHAOS",
+                "content": "Fighting for increased protection for wildlife. Supporting the rural economy. Putting people and the planet first."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Europe",
+                "policyDescription": "People's Vote: Greens would campaign to remain in the EU for the benefit of everyone."
+            },
+            {
+                "policyTitle": "Climate",
+                "policyDescription": "Greens will give power to communities to create jobs and reduce climate chaos."
+            },
+            {
+                "policyTitle": "Transport",
+                "policyDescription": "Cheaper energy, better transport, warmer homes."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Protecting the countryside, supporting the rural economy."
+            }
+        ],
+        "mentions": {
+            "candidate": "Isabel Thurston",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "People's Vote: Greens would campaign to remain in the EU for the benefit of everyone.",
+            "defence": "",
+            "economy": "Job creation, supporting the rural economy. Putting people and the planet first. Greens will give power to communities to create jobs.",
+            "education": "",
+            "environment": "NO TO CLIMATE CHAOS",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Cheaper energy, better transport, warmer homes.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Protecting the countryside, supporting the rural economy.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.greenparty.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Fighting for increased protection for wildlife.",
+                        "Supporting the rural economy.",
+                        "Putting people and the planet first."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Supporting the rural economy."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "People's Vote: Greens would campaign to remain in the EU for the benefit of everyone.",
+                        "Putting people and the planet first.",
+                        "Fighting for increased protection for wildlife."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Greens will give power to communities to create jobs and reduce climate chaos."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

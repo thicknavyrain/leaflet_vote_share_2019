@@ -1,0 +1,191 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "John Whittingdale",
+    "candidateGender": "",
+    "constituency": "Maldon",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12 December 2019",
+    "messages": [
+      {
+        "title": "ONLY A MAJORITY GOVERNMENT CAN GET ON WITH THE COUNTRY’S PRIORITIES",
+        "content": "Either at the end of this election we’ll either get a Conservative majority – or a hung parliament."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "DELIVER BREXIT BY BACKING BORIS' DEAL",
+        "policyDescription": "Campaigns for Britain to leave the EU and support Boris' deal leading to new trade agreements."
+      },
+      {
+        "policyTitle": "SUPPORT BUSINESS AND INVEST IN PUBLIC SERVICES",
+        "policyDescription": "Focuses on job creation and investment in the NHS, Police, and local services."
+      },
+      {
+        "policyTitle": "INFRASTRUCTURE TO SUPPORT NEW HOUSING",
+        "policyDescription": "Supports investment in new trains, new rail station, and improved road infrastructure."
+      }
+    ],
+    "mentions": {
+      "candidate": "John Whittingdale",
+      "otherPartyLeaderCandidate": "Corbyn",
+      "partyLeader": "Boris",
+      "tacticalSituation": "Polls teeter between hung parliament and slim Tory majority."
+    },
+    "issues": {
+      "brexitEurope": "DELIVER BREXIT BY BACKING BORIS' DEAL. I campaigned for Britain to leave the EU and believe that we must deliver on the Referendum result. I support Boris' deal which will end uncertainty and allow us to reach new trade agreements with the EU and around the world.",
+      "defence": "",
+      "economy": "",
+      "education": "English schools to get three-year £14bn funding boost",
+      "environment": "",
+      "governance": "",
+      "government": "",
+      "health": "Support numbers of GPs and new Maldon Health Hub centers.",
+      "immigration": "",
+      "labourEmployment": "Support business, creating jobs and investing in public services.",
+      "lawCrime": "Government plans billions for hospital projects. End of the soft prison sentence.",
+      "transport": "Infrastructure to support new housing with a new station at Beaulieu and upgrades to the A12.",
+      "socialWelfare": "",
+      "community": [
+        {
+          "content": "Infrastructure to support new housing with new station and upgrades to A12.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "Freepost, Paragon CC",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "John Curtice: Polls teeter between hung parliament and slim Tory majority.",
+        "source": "The Times",
+        "date": ""
+      },
+      {
+        "text": "SNP to back Labour government only with Scottish independence vote.",
+        "source": "Reuters",
+        "date": ""
+      },
+      {
+        "text": "Government plans billions for hospital projects",
+        "source": "BBC News",
+        "date": ""
+      },
+      {
+        "text": "End of the soft prison sentence",
+        "source": "Daily Mail",
+        "date": ""
+      },
+      {
+        "text": "English schools to get three-year £14bn funding boost",
+        "source": "The Guardian",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "John Whittingdale outside",
+        },
+        {
+          "caption": "John Whittingdale with Boris",
+        },
+        {
+          "caption": "John Whittingdale speaking in Parliament",
+        }
+      ]
+    },
+    "additionalNotes": "",
+    "analysis": {
+      "statementAnalysis": {
+        "quantitative": {
+          "count": 4,
+          "examples": [
+            "Polls teeter between hung parliament and slim Tory majority.",
+            "Government plans billions for hospital projects.",
+            "End of the soft prison sentence.",
+            "English schools to get three-year £14bn funding boost."
+          ]
+        },
+        "qualitative": {
+          "count": 2,
+          "examples": [
+            "Better hospitals. Safer streets. Improved schools.",
+            "Let's get on with our priorities."
+          ]
+        }
+      },
+      "photoAnalysis": {
+        "localPlaces": 0,
+        "people": 3,
+        "candidateAlone": 1,
+        "candidateWithOthers": 2
+      },
+      "issueFocus": {
+        "local": {
+          "count": 1,
+          "examples": ["Maldon Health Hub centers."]
+        },
+        "national": {
+          "count": 3,
+          "examples": [
+            "DELIVER BREXIT BY BACKING BORIS' DEAL.",
+            "Government plans billions for hospital projects.",
+            "End of the soft prison sentence."
+          ]
+        }
+      },
+      "personalStories": [],
+      "endorsementsUsed": {
+        "count": 0,
+        "examples": []
+      },
+      "negativeMessaging": {
+        "localIssues": {
+          "count": 0,
+          "examples": []
+        },
+        "nationalIssues": {
+          "count": 1,
+          "examples": ["A vote for Labour means another hung parliament."]
+        },
+        "leaderOfOpponentsParty": {
+          "count": 1,
+          "examples": ["With Corbyn propped up by parties like the Scottish Nationalists."]
+        },
+        "oppositeCandidateNoName": {
+          "count": 0,
+          "examples": []
+        },
+        "oppositeCandidateWithName": {
+          "count": 1,
+          "examples": ["With Corbyn propped up by parties like the Scottish Nationalists."]
+        }
+      },
+      "nonPolicyAttributes": {
+        "localness": "",
+        "employment": "",
+        "education": "",
+        "family": ""
+      },
+      "localCandidate": {
+        "isLocal": true,
+        "examples": ["My priorities for Maldon constituency."]
+      }
+    }
+  }
+}
+```

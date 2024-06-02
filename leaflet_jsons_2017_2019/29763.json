@@ -1,0 +1,163 @@
+{
+    "leaflet": {
+        "candidateName": "Andrew Lloyd",
+        "candidateGender": "",
+        "constituency": "Barnsley East",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": "Barnsley voted for Brexit. I will ensure we get a Brexit that will work for our local economy."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Barnsley voted for Brexit. I will ensure we get a Brexit that will work for our local economy."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "An NHS that continues to be free at the point of use and a social care system that serves the people of Barnsley."
+            },
+            {
+                "policyTitle": "School Funding",
+                "policyDescription": "Fairer School funding for our Barnsley schools."
+            }
+        ],
+        "mentions": {
+            "candidate": "Andrew Lloyd",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Barnsley voted for Brexit. I will ensure we get a Brexit that will work for our local economy.",
+            "defence": "",
+            "economy": "Barnsley voted for Brexit. I will ensure we get a Brexit that will work for our local economy.",
+            "education": "Fairer School funding for our Barnsley schools.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "An NHS that continues to be free at the point of use and a social care system that serves the people of Barnsley.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "A social care system that serves the people of Barnsley.",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Barnsley voted for Brexit. I will ensure we get a Brexit that will work for our local economy."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Fairer School funding for our Barnsley schools."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "An NHS that continues to be free at the point of use and a social care system that serves the people of Barnsley.",
+                        "Barnsley voted for Brexit. I will ensure we get a Brexit that will work for our local economy."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

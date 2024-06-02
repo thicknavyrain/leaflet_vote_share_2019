@@ -1,0 +1,208 @@
+{
+    "leaflet": {
+        "candidateName": "Terry Bridgeman",
+        "candidateGender": "",
+        "constituency": "Basingstoke",
+        "politicalParty": "Labour",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Labour Believes in Basingstoke",
+                "content": "Inward Investment & Jobs for Basingstoke; An Integrated Health & Care Service; Quality Education for All our Children; A Decent Home for All; Dignity and Security in Retirement."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Inward Investment & Jobs for Basingstoke",
+                "policyDescription": "Labour will ensure Basingstoke benefits from increased investment to create more local jobs and training opportunities."
+            },
+            {
+                "policyTitle": "An Integrated Health & Care Service",
+                "policyDescription": "Labour will integrate health and social care services to ensure better care for all."
+            },
+            {
+                "policyTitle": "Quality Education for All our Children",
+                "policyDescription": "Labour will invest in education to ensure all children receive a quality education."
+            },
+            {
+                "policyTitle": "A Decent Home for All",
+                "policyDescription": "Labour will tackle the housing crisis by building more affordable homes."
+            },
+            {
+                "policyTitle": "Dignity and Security in Retirement",
+                "policyDescription": "Labour will stand up for pensioners' rights and ensure dignity and security in retirement."
+            }
+        ],
+        "mentions": {
+            "candidate": "Terry Bridgeman",
+            "otherPartyLeaderCandidate": "The Tories",
+            "partyLeader": "",
+            "tacticalSituation": "Only Labour can take on the Tories here. Every vote counts!"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Inward Investment & Jobs for Basingstoke",
+            "education": "Quality Education for All our Children",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "An Integrated Health & Care Service",
+            "immigration": "",
+            "labourEmployment": "Inward Investment & Jobs for Basingstoke",
+            "lawCrime": "Labour Believes in Bobbies on the Beat",
+            "transport": "",
+            "socialWelfare": "Dignity and Security in Retirement",
+            "community": [
+                {
+                    "content": "It's Labour challenging the Tories in Basingstoke",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Introducing Terry Bridgeman",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "TerryBridgeman4Basingstoke",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Terry Bridgeman for Member of Parliament"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Only Labour can take on the Tories here. Every vote counts!",
+                        "2015 General Election result: Con 25,719; Lab 14,706"
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Labour will ensure Basingstoke benefits from increased investment.",
+                        "Labour will integrate health and social care services.",
+                        "Labour will invest in education to ensure all children receive a quality education.",
+                        "Labour will stand up for pensioners' rights."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 4,
+                "candidateAlone": 2,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 5,
+                    "examples": [
+                        "Inward Investment & Jobs for Basingstoke",
+                        "An Integrated Health & Care Service",
+                        "Quality Education for All our Children",
+                        "A Decent Home for All",
+                        "Labour Believes in Bobbies on the Beat"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Dignity and Security in Retirement",
+                        "Tories have plunged the NHS into crisis.",
+                        "Labour will tackle the housing crisis."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Introducing Terry Bridgeman",
+                    "issueRelated": "N/A"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "It's Labour challenging the Tories in Basingstoke"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Tories have plunged the NHS into crisis."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 2,
+                    "examples": [
+                        "The Tories are standing in the way of our housing crisis.",
+                        "The Tories have plunged the NHS into crisis."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

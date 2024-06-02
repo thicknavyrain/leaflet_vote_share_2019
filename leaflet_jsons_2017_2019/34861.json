@@ -1,0 +1,189 @@
+{
+    "leaflet": {
+        "candidateName": "Martin Whitfield",
+        "candidateGender": "",
+        "constituency": "East Lothian",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "I'm voting Labour",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fairness for Pensioners",
+                "policyDescription": "Introduce free TV licenses for over 75s, free bus passes, winter fuel payments, and free personal care for older people."
+            },
+            {
+                "policyTitle": "Homes for Local People",
+                "policyDescription": "Build more council and social houses, increase council housing stock, and introduce planning law changes to favor local needs."
+            },
+            {
+                "policyTitle": "More Support for Young People",
+                "policyDescription": "Improve facilities for children and young people in East Lothian and campaign to save local youth services."
+            },
+            {
+                "policyTitle": "Better Local Transport",
+                "policyDescription": "Improve local public transport services, including bus services and rail connections."
+            },
+            {
+                "policyTitle": "Fight Welfare Cuts",
+                "policyDescription": "Campaign against cuts to vital local services and ensure vulnerable families are supported."
+            }
+        ],
+        "mentions": {
+            "candidate": "Martin Whitfield",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Oppose an Independence Referendum and No-Deal Brexit",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Better Local Transport: improve local public transport services, including bus services and rail connections.",
+            "socialWelfare": "Fight Welfare Cuts: campaign against cuts to vital local services and ensure vulnerable families are supported.",
+            "community": [
+                {
+                    "content": "Homes for Local People: build more council and social houses, increase council housing stock, and introduce planning law changes to favor local needs.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "01875 610320",
+            "email": "martin@vote4whitfield.uk",
+            "website": "www.scottishlabour.org.uk",
+            "socialMedia": {
+                "facebook": "www.facebook.com/martinwhitfieldeastlothian",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Judith, Musselburgh",
+                "endorsement": "Martin has been an accessible, engaging and inclusive representative for East Lothian. His tireless work is to be commended."
+            },
+            {
+                "endorser": "Owen, Prestonpans",
+                "endorsement": "Martin has stood as a strong voice for his people. He campaigned on mental health, disabled people\u2019s rights and fairer social benefits."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Martin Whitfield, Labour candidate for East Lothian"
+                },
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Introduce free TV licenses for over 75s, free bus passes, winter fuel payments, and free personal care for older people.",
+                        "Build more council and social houses, increase council housing stock.",
+                        "Improve local public transport services, including bus services and rail connections."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Campaign against cuts to vital local services and ensure vulnerable families are supported.",
+                        "Oppose an Independence Referendum and No-Deal Brexit.",
+                        "Martin has been an accessible, engaging and inclusive representative.",
+                        "Martin has stood as a strong voice for his people.",
+                        "Martin campaigned on mental health, disabled people\u2019s rights and fairer social benefits."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 5,
+                "candidateAlone": 1,
+                "candidateWithOthers": 4
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "Better Local Transport",
+                        "Homes for Local People",
+                        "Fight Welfare Cuts",
+                        "Fairness for Pensioners"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Oppose an Independence Referendum and No-Deal Brexit"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "Judith, Musselburgh: Martin has been an accessible, engaging and inclusive representative for East Lothian.",
+                    "Owen, Prestonpans: Martin has stood as a strong voice for his people."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Oppose an Independence Referendum and No-Deal Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Martin has always put East Lothian first.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Martin has always put East Lothian first."
+                ]
+            }
+        }
+    }
+}

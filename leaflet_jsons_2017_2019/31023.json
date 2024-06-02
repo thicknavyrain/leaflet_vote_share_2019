@@ -1,0 +1,189 @@
+{
+    "leaflet": {
+        "candidateName": "Helen Hayes",
+        "candidateGender": "",
+        "constituency": "Dulwich and West Norwood",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "",
+                "content": "I am seeking the strongest possible mandate to represent the values that we share and the interests of everyone in our area. If I am re-elected on Thursday 8 June, I will keep fighting the Tories and working for Dulwich and West Norwood."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fighting Brexit",
+                "policyDescription": "I will fight against the damaging impact of a hard Brexit on our area and country."
+            },
+            {
+                "policyTitle": "Protecting our NHS",
+                "policyDescription": "Campaigning against the cuts and working to secure funding for King\u2019s College Hospital."
+            },
+            {
+                "policyTitle": "Improving Schools",
+                "policyDescription": "Working against the funding cuts that will damage our schools and the life chances of our children."
+            },
+            {
+                "policyTitle": "Tackling Inequality",
+                "policyDescription": "Making our area fairer for everyone."
+            },
+            {
+                "policyTitle": "Environmental Protection",
+                "policyDescription": "Working to protect our environment and tackle climate change again."
+            },
+            {
+                "policyTitle": "Police Support",
+                "policyDescription": "Ensuring that we have an effective police force."
+            }
+        ],
+        "mentions": {
+            "candidate": "Helen Hayes",
+            "otherPartyLeaderCandidate": "Tories",
+            "partyLeader": "",
+            "tacticalSituation": "Locally it\u2019s a straight choice between Labour and strengthening the Tories mandate for a hard Brexit."
+        },
+        "issues": {
+            "brexitEurope": "The Tories are seeking a hard Brexit, which would damage our economy, our environment and human rights.",
+            "defence": "",
+            "economy": "",
+            "education": "Opposing funding cuts that will damage our schools and life chances.",
+            "environment": "Working to protect our environment and tackle climate change again.",
+            "governance": "",
+            "government": "",
+            "health": "Fighting for our NHS, campaigning against the cuts and working to secure funding for King\u2019s College Hospital.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Ensuring that we have an effective police force.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "With best wishes, Helen Hayes.",
+        "politicalExperience": [
+            {
+                "role": "Labour Parliamentary Candidate for Dulwich and West Norwood",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Dulwich and West Norwood Labour Party, 3 Effra Road, Brixton, SW2 1BZ",
+            "phone": "020 8671 5936",
+            "email": "helen@helenhayes.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "If I am re-elected on Thursday 8 June"
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "I am seeking the strongest possible mandate to represent the values that we share and the interests of everyone in our area.",
+                        "I will keep fighting the Tories and working for Dulwich and West Norwood.",
+                        "Locally it\u2019s a straight choice between Labour and strengthening the Tories mandate for a hard Brexit.",
+                        "Remember this election is straight fight between Labour and the Tories nationally and locally \u2013 a vote for the Dems or the Greens locally will just let the Tories in.",
+                        "I will stand against the cuts and work to secure funding for King\u2019s College Hospital."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "I will keep fighting the Tories and working for Dulwich and West Norwood."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Remember this election is straight fight between Labour and the Tories nationally and locally \u2013 a vote for the Dems or the Greens locally will just let the Tories in."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "I will keep fighting the Tories and working for Dulwich and West Norwood."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Tories are seeking a hard Brexit, which would damage our economy, our environment and human rights."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I will keep fighting the Tories and working for Dulwich and West Norwood"
+                ]
+            }
+        }
+    }
+}

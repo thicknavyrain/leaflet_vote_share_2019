@@ -1,0 +1,113 @@
+{
+    "leaflet": {
+        "candidateName": "Kemi Badenoch",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Keeping Our Communities Safe",
+                "policyDescription": "Successfully lobbied for extra police with 365 more working across Essex, including officers tackling rural crime and patrolling town centers, keeping residents and businesses safe."
+            },
+            {
+                "policyTitle": "A Health Service We Can Be Proud Of",
+                "policyDescription": "\u00a3394 million more a week for the NHS delivered by the Conservatives. Local hospitals have 1502 more doctors and nurses than in 2010. Princess Alexandra will share in \u00a32.7 billion worth of funding as one of the first six hospitals to be rebuilt."
+            },
+            {
+                "policyTitle": "Increased School Funding",
+                "policyDescription": "Worked with local teachers as an MP and minister, delivering a funding increase for all primary and secondary school pupils. Increased funding for more investment in skills funding for 16-19 year olds."
+            }
+        ],
+        "mentions": {},
+        "issues": {
+            "health": "\u00a3394 million more a week for the NHS delivered by the Conservatives. Local hospitals have 1502 more doctors and nurses than in 2010. Princess Alexandra will share in \u00a32.7 billion worth of funding as one of the first six hospitals to be rebuilt.",
+            "education": "Worked with local teachers as an MP and minister, delivering a funding increase for all primary and secondary school pupils. Increased funding for more investment in skills funding for 16-19 year olds.",
+            "lawCrime": "Successfully lobbied for extra police with 365 more working across Essex, including officers tackling rural crime and patrolling town centers, keeping residents and businesses safe."
+        },
+        "community": [],
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {},
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Successfully lobbied for extra police with 365 more working across Essex.",
+                        "\u00a3394 million more a week for the NHS delivered by the Conservatives.",
+                        "Local hospitals have 1502 more doctors and nurses than in 2010."
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Successfully lobbied for extra police with 365 more working across Essex."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "\u00a3394 million more a week for the NHS delivered by the Conservatives.",
+                        "Worked with local teachers as an MP and minister, delivering a funding increase for all primary and secondary school pupils. Increased funding for more investment in skills funding for 16-19 year olds."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {},
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

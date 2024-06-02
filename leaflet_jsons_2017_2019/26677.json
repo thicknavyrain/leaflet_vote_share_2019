@@ -1,0 +1,175 @@
+{
+    "leaflet": {
+        "candidateName": "Flick Drummond",
+        "candidateGender": "",
+        "constituency": "Portsmouth South",
+        "politicalParty": "",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Campaign Introduction",
+                "content": "I have really enjoyed representing you in Parliament these last two years, I have met many people and helped many others and it has been a privilege to do so in our amazing city."
+            },
+            {
+                "title": "General Election",
+                "content": "The General Election means I am only halfway through my Plan for Portsmouth and there's still plenty to do so I would really like the opportunity to continue that work and hope that you will support me on June 8th."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Improving schools, support for art, music, and working with Portsmouth University."
+            },
+            {
+                "policyTitle": "Defence",
+                "policyDescription": "Supporting armed forces, campaigning for free WiFi, and managing visits to naval carriers."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "Knowledge of the armed forces and defence issues is a vital skill for a Portsmouth South MP. Flick has managed this by being part of the Armed Forces Parliamentary Scheme. She speaks out regularly in Parliament to support our armed forces personnel and has been campaigning to get free wifi into barracks where personnel have to pay commercial rates.",
+            "economy": "",
+            "education": "Our schools are improving fast thanks to the hard work of our teachers and non-teaching staff. Flick is still a school governor and understands the pressures on schools. She wants to improve sport, music and the arts in schools and will be working with all of them to put this into action. She has also been working closely with Portsmouth University which is becoming a centre of excellence in many departments.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "It has been a pleasure to host so many constituents and school children in Parliament and show them how it all works.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Most of all, I love being back in Portsmouth with many organisations, schools, businesses and agencies. It is a great place to work and I love making a difference - putting people together, supporting constituents with their problems in my surgery.",
+        "politicalExperience": [
+            {
+                "role": "Member of Parliament",
+                "duration": "2 years",
+                "achievements": ""
+            },
+            {
+                "role": "School Governor",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "02392 292690",
+            "email": "flick@flickdrummond.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "fb.com/flickdrummond",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Flick Drummond working for Portsmouth"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "The General Election means I am only halfway through my Plan for Portsmouth and there's still plenty to do."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "I have really enjoyed representing you in Parliament these last two years.",
+                        "It has been a pleasure to host so many constituents.",
+                        "Most of all, I love being back in Portsmouth.",
+                        "It is a great place to work and I love making a difference - putting people together."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Our schools are improving fast thanks to the hard work of our teachers and non-teaching staff.",
+                        "Most of all, I love being back in Portsmouth with many organisations, schools, businesses and agencies."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Supports armed forces and campaigning for free wifi in barracks."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I have met many people and helped many others and it has been a privilege to do so.",
+                    "issueRelated": "Community Engagement"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Most of all, I love being back in Portsmouth.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Most of all, I love being back in Portsmouth."
+                ]
+            }
+        }
+    }
+}

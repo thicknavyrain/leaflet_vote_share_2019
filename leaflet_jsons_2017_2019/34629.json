@@ -1,0 +1,194 @@
+{
+    "leaflet": {
+        "candidateName": "Steven Galton",
+        "candidateGender": "",
+        "constituency": "Southampton Test",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 12th December",
+        "messages": [
+            {
+                "title": "GET BREXIT DONE",
+                "content": "Unleash Britain's Potential"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "50,000 more Nurses",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "20,000 more Police",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "\u00a333.9bn for our NHS",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "\u00a314bn boost for Schools",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Tax Cuts for Workers",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Steven Galton",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "GET BREXIT DONE",
+            "defence": "",
+            "economy": "",
+            "education": "\u00a314bn boost for Schools",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "\u00a333.9bn for our NHS\n50,000 more Nurses",
+            "immigration": "",
+            "labourEmployment": "Tax Cuts for Workers",
+            "lawCrime": "20,000 more Police",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "As Prime Minister I'm delighted to endorse Steven in Southampton Test. His tireless work and determination will ensure that we get Brexit done and unleash Britain\u2019s potential. A vote for Steven is a vote for delivering Brexit so that we can get on with unleashing Britain's potential by boosting the NHS with \u00a333.9bn, hiring 20,000 more police officers, and properly funding our schools.",
+                "source": "Boris Johnson",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 5,
+                    "examples": [
+                        "50,000 more Nurses",
+                        "20,000 more Police",
+                        "\u00a333.9bn for our NHS",
+                        "\u00a314bn boost for Schools",
+                        "Tax Cuts for Workers"
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Unleash Britain's Potential"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 10,
+                "candidateAlone": 1,
+                "candidateWithOthers": 9
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "50,000 more Nurses",
+                        "20,000 more Police",
+                        "\u00a333.9bn for our NHS",
+                        "\u00a314bn boost for Schools",
+                        "Tax Cuts for Workers"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "As Prime Minister I'm delighted to endorse Steven in Southampton Test. His tireless work and determination will ensure that we get Brexit done and unleash Britain\u2019s potential. A vote for Steven is a vote for delivering Brexit so that we can get on with unleashing Britain's potential by boosting the NHS with \u00a333.9bn, hiring 20,000 more police officers, and properly funding our schools."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

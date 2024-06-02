@@ -1,0 +1,180 @@
+{
+    "leaflet": {
+        "candidateName": "James Wharton",
+        "candidateGender": "",
+        "constituency": "Teesside",
+        "politicalParty": "Conservative",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "A message from Steve Gibson",
+                "content": "Teesside is a great place. I am proud of our area and our community. I am also proud of Middlesbrough Football Club. Through ups and downs I know so many people share my passion for the Boro and want to see it succeed. And it will. I also want Teesside to succeed. I have invested here and stay here because it is my home. If our area is to do well we need the right people to represent us and to fight for us. I was once a Labour Councillor. Now I am not a member of any political party, but I do support people who care and who do the right thing."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "The Government elected on 8th June will negotiate Brexit. Teesside needs its voice on the inside, someone who can ensure our area is not forgotten. James was the only Teesside MP to vote leave in last year's referendum. Whatever you think of the result, we all now need Brexit to be a success."
+            }
+        ],
+        "mentions": {
+            "candidate": "James Wharton",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "Teesside has always been Labour in the past. It is good to have a spread of political representation and a voice in Theresa May\u2019s Conservative Government."
+        },
+        "issues": {
+            "brexitEurope": "The Government elected on 8th June will negotiate Brexit. Teesside needs its voice on the inside, someone who can ensure our area is not forgotten. James was the only Teesside MP to vote leave in last year's referendum. Whatever you think of the result, we all now need Brexit to be a success.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Teesside is a great place. I am proud of our area and our community. I also want Teesside to succeed. I have invested here and stay here because it is my home.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Labour Councillor",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Steve Gibson",
+                "endorsement": "I have got to know James well, and I know he cares about Teesside. I know he does what he thinks is right and puts our community first. I have seen how he can access government and make the case for Teesside, and I have seen the difference this makes."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Steve and James at Ingleby Manor School"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "James was the only Teesside MP to vote leave in last year's referendum."
+                    ]
+                },
+                "qualitative": {
+                    "count": 7,
+                    "examples": [
+                        "Teesside is a great place.",
+                        "I am proud of our area and our community.",
+                        "I am also proud of Middlesbrough Football Club.",
+                        "Through ups and downs I know so many people share my passion for the Boro and want to see it succeed.",
+                        "I also want Teesside to succeed.",
+                        "I have invested here and stay here because it is my home.",
+                        "James was the only Teesside MP to vote leave in last year's referendum."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Teesside is a great place.",
+                        "I also want Teesside to succeed.",
+                        "Teesside needs its voice on the inside, someone who can ensure our area is not forgotten."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "The Government elected on 8th June will negotiate Brexit.",
+                        "James was the only Teesside MP to vote leave in last year's referendum.",
+                        "we all now need Brexit to be a success."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "I have got to know James well, and I know he cares about Teesside. I know he does what he thinks is right and puts our community first."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Teesside is a great place. I am proud of our area and our community.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I also want Teesside to succeed. I have invested here and stay here because it is my home."
+                ]
+            }
+        }
+    }
+}

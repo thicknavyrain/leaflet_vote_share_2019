@@ -1,0 +1,177 @@
+{
+    "leaflet": {
+        "candidateName": "Dr John Timperley",
+        "candidateGender": "",
+        "constituency": "Royal Devon & Exeter Hospital",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "If you care about the NHS, please don't vote Conservative",
+                "content": "Dr John Timperley has worked in the NHS for 38 years; he has seen the damage this government has caused patients and that is why he is standing for the Liberal Democrats."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Dr John Timperley",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Dr John Timperley has worked in the NHS for 38 years; he has seen the damage this government has caused patients.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Consultant surgeon",
+                "duration": "38 years",
+                "achievements": "Has worked in the NHS for 38 years."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Dr John Timperley",
+                "endorsement": "If you care about the NHS, please don't vote Conservative."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "If you care about the NHS, please don't vote Conservative.",
+                "source": "Dr John Timperley",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Dr John Timperley in surgical attire."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Dr John Timperley has worked in the NHS for 38 years."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "If you care about the NHS, please don't vote Conservative.",
+                        "He has seen the damage this government has caused patients."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Dr John Timperley has worked in the NHS for 38 years; he has seen the damage this government has caused patients."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Dr John Timperley has worked in the NHS for 38 years.",
+                    "issueRelated": "Health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "If you care about the NHS, please don't vote Conservative."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "If you care about the NHS, please don't vote Conservative."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

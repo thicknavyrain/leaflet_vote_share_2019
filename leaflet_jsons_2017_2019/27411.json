@@ -1,0 +1,190 @@
+{
+    "leaflet": {
+        "candidateName": "Mims Davies",
+        "candidateGender": "",
+        "constituency": "Eastleigh",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Election Special",
+                "content": "Thursday 8th June, the best choice as your MP"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Strong & Stable Leadership",
+                "policyDescription": "Bring about Mims' plans to deliver better local infrastructure, holding the Local Lib Dems to account for failure to provide a Local Plan, manage Brexit for the local area, economic stability with job creation and low unemployment."
+            },
+            {
+                "policyTitle": "Mims Protecting Green Spaces and Ancient Woodland",
+                "policyDescription": "As MP, Mims will fight for enhanced environmental protections and plans to oppose unnecessary development on green spaces and ancient woodland."
+            }
+        ],
+        "mentions": {
+            "candidate": "Mims",
+            "otherPartyLeaderCandidate": "Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Managing Brexit for the local area",
+            "defence": "",
+            "economy": "Strong and stable economy with 2.9 million new jobs, 3.1% rise for 31 million people, record low unemployment",
+            "education": "",
+            "environment": "Protecting green spaces and ancient woodland",
+            "governance": "",
+            "government": "",
+            "health": "Lib Dems vote against health funding for elderly and vulnerable",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Bring the transport infrastructure needed to alleviate congestion",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Holding the Local Lib Dems to account for their failure to provide a Local Plan resulting in uncontrolled housing development on green spaces.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "2 years",
+                "achievements": "Bringing investment in local transport infrastructure and air quality improvement"
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.MimsDavies.org.uk",
+            "socialMedia": {
+                "facebook": "fb.com/Mims4Eastleigh",
+                "twitter": "@MimsDavies",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Eastleigh Borough Council criticised by Chris Grayling in House of Commons",
+                "source": "Daily Echo, 9 March 2016",
+                "date": "9 March 2016"
+            },
+            {
+                "text": "Lib Dem Scrooge: Families have to pay \u00a31.53 for a letter that arrives with no stamp... only to find it's their MP's Christmas Card",
+                "source": "Daily Mail, 29 December 2014",
+                "date": "29 December 2014"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Mims Davies and Theresa May"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "2.9 million new jobs"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Strong and stable leadership",
+                        "Mims protecting green spaces and ancient woodland"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Better local infrastructure",
+                        "Lib Dems to account for their failure to provide a Local Plan"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Managing Brexit",
+                        "Economic stability with job creation",
+                        "Health funding for elderly and vulnerable"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Mims has been working hard over the last two years as your MP to bring the Eastleigh Constituency the transport infrastructure that we need to alleviate congestion and improve air quality \u2013 issues that have been ignored for many years by successive Lib Dem MPs.",
+                    "issueRelated": "Transport and Environment"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Eastleigh Borough Council face backlash against budget cuts and borrowing",
+                        "Hundreds of homes planned without special parking... even if they don\u2019t drive - Daily Echo, 26 December 2016"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Coalition of chaos that would bankrupt the strong economy needed to fund local infrastructure projects and our NHS"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Corbyn in chaos with the Lib Dems"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Mims protecting green spaces and ancient woodland"
+                ]
+            }
+        }
+    }
+}

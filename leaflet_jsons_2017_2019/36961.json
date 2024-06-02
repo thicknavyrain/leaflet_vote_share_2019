@@ -1,0 +1,176 @@
+{
+    "leaflet": {
+        "candidateName": "Jane Keep",
+        "candidateGender": "",
+        "constituency": "Feltham and Heston",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "Let's Get Brexit Done",
+                "content": "And get on with our priorities. \u00a333.9 billion for the NHS 20,000 extra police More funding for every pupil in every school"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "No more housing developments that lack infrastructure support",
+                "policyDescription": "Combat housing developments that do not include necessary infrastructure support."
+            },
+            {
+                "policyTitle": "Support for local businesses, local high streets, and local jobs",
+                "policyDescription": "Provide support to local businesses, high streets, and job creation in the constituency."
+            },
+            {
+                "policyTitle": "Boosting our schools to put children and young people on the road to a brighter future",
+                "policyDescription": "Increase funding and resources for schools to ensure better education for children and young people."
+            },
+            {
+                "policyTitle": "Conservative Youth Investment Fund to invest in facilities for young people",
+                "policyDescription": "Utilize the Conservative Youth Investment Fund to improve facilities aimed at young people."
+            },
+            {
+                "policyTitle": "Resident Safety - our share of extra local police from Conservatives 20,000 more police",
+                "policyDescription": "Increase the number of local police to enhance resident safety."
+            },
+            {
+                "policyTitle": "Tackling traffic gridlocks to support local businesses and commuters",
+                "policyDescription": "Address traffic congestion to aid local business operations and commuter conditions."
+            }
+        ],
+        "mentions": {
+            "candidate": "Feltham & Heston - a healthy flourishing place to live - no more litter, fly tipping Work with local communities & police to tackle crime, anti-social behaviour Protect our local NHS, mental health, elderly care & young people services",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Boosting our schools to put children and young people on the road to a brighter future. More funding for every pupil in every school.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Protect our local NHS, mental health, elderly care & young people services. \u00a333.9 billion for the NHS.",
+            "immigration": "",
+            "labourEmployment": "Support for local businesses, local high streets, and local jobs.",
+            "lawCrime": "Resident Safety - our share of extra local police from Conservatives 20,000 more police. Work with local communities & police to tackle crime, anti-social behaviour.",
+            "transport": "Tackling traffic gridlocks to support local businesses and commuters.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "No more housing developments that lack infrastructure support. Feltham & Heston - a healthy flourishing place to live - no more litter, fly tipping.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07876140413",
+            "email": "janekeep@me.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@FelthamHestonC1",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "We called to see you today"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "\u00a333.9 billion for the NHS",
+                        "20,000 extra police"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Let's Get Brexit Done",
+                        "Feltham & Heston - a healthy flourishing place to live - no more litter, fly tipping",
+                        "Boosting our schools to put children and young people on the road to a brighter future"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "No more housing developments that lack infrastructure support",
+                        "Support for local businesses, local high streets, and local jobs",
+                        "Feltham & Heston - a healthy flourishing place to live - no more litter, fly tipping"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "\u00a333.9 billion for the NHS",
+                        "20,000 extra police",
+                        "Let's Get Brexit Done"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Feltham & Heston - a healthy flourishing place to live - no more litter, fly tipping"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "A strong local voice for Feltham and Heston",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "A strong local voice for Feltham and Heston"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,181 @@
+{
+    "leaflet": {
+        "candidateName": "Robert Courts",
+        "candidateGender": "",
+        "constituency": "Witney & West Oxfordshire",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "A strong, effective, genuinely local voice for Witney & West Oxfordshire."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A40 Upgrades",
+                "policyDescription": "$102m extra for A40 upgrades in the biggest step forward in a generation."
+            },
+            {
+                "policyTitle": "Police",
+                "policyDescription": "20,000 extra police nationally."
+            },
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "$33.9 billion for the NHS & more money for every pupil in every school."
+            }
+        ],
+        "mentions": {
+            "candidate": "Robert Courts",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "A40 Upgrades",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "38-40 High Street, Witney, OX28 6HJ.",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "$102m extra for A40 upgrades in the biggest step forward in a generation.",
+                        "20,000 extra police nationally.",
+                        "$33.9 billion for the NHS & more money for every pupil in every school."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "A strong, effective, genuinely local voice for Witney & West Oxfordshire."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "A40 Upgrades"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Police",
+                        "NHS Funding"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Genuinely local voice",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Genuinely local voice"
+                ]
+            }
+        }
+    }
+}

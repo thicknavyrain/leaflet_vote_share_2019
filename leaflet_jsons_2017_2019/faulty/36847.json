@@ -1,0 +1,173 @@
+{
+    "leaflet": {
+        "candidateName": "Alistair Fernie",
+        "candidateGender": "",
+        "constituency": "Oxford East",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "2019",
+        "messages": [
+            {
+                "title": "MODERATE CONSERVATIVES SPEAK OUT",
+                "content": "Can you trust Boris Johnson's Con-Brexit Party?"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "BUILDING A BRIGHTER FUTURE",
+                "policyDescription": "For Oxford East"
+            }
+        ],
+        "mentions": {
+            "candidate": "Alistair Fernie",
+            "otherPartyLeaderCandidate": "Boris Johnson, Jeremy Corbyn",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": "The Tories can't win here. It's 36 years since they did. They haven't even elected a councillor since 2000. The Lib Dems can win in Oxford! 2019 EU Election Results for Oxford City: LIB DEMS 40%, GREEN 23%, LAB 14%"
+        },
+        "issues": {
+            "brexitEurope": "JEREMY CORBYN BACKS BREXIT. Corbyn is letting down Labour Remainers by staying neutral on Brexit. Oxford Labour candidate Anneliese Dodds has always voted for Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {}
+        },
+        "endorsements": [
+            {
+                "endorser": "Former Conservative Minister David Gauke",
+                "endorsement": "\"I'm impressed by Jo Swinson. I think if I was living in a lot of constituencies I would vote for the Liberal Democrats\""
+            },
+            {
+                "endorser": "Ken Clarke",
+                "endorsement": "\"I'm not sure yet, but I may protest and vote Lib Dem\""
+            },
+            {
+                "endorser": "Former Conservative Deputy PM Michael Heseltine",
+                "endorsement": "\"Millions of Tories will now vote Lib Dem because of Brexit\""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "\"Say no to Johnson and Corbyn and all of their candidates. Start the process of building something new\"",
+                "source": "Former Conservative Minister David Gauke",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "The Tories can't win here. It's 36 years since they did. They haven't even elected a councillor since 2000.",
+                        "LIB DEMS 40%, GREEN 23%, LAB 14%",
+                        "The Lib Dems can win in Oxford!"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "\"Millions of Tories will now vote Lib Dem because of Brexit\"",
+                        "\"I'm impressed by Jo Swinson. I think if I was living in a lot of constituencies I would vote for the Liberal Democrats\""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Building a brighter future for Oxford East"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn backs Brexit. Corbyn is letting down Labour Remainers by staying neutral on Brexit. Oxford Labour candidate Anneliese Dodds has always voted for Brexit."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 3,
+                "examples": [
+                    "\"I'm impressed by Jo Swinson. I think if I was living in a lot of constituencies I would vote for the Liberal Democrats\" - Former Conservative Minister David Gauke",
+                    "\"I'm not sure yet, but I may protest and vote Lib Dem\" - Ken Clarke",
+                    "\"Millions of Tories will now vote Lib Dem because of Brexit\" - Former Conservative Deputy PM Michael Heseltine"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn backs Brexit. Corbyn is letting down Labour Remainers by staying neutral on Brexit. Oxford Labour candidate Anneliese Dodds has always voted for Brexit.",
+                        "Can you trust Boris Johnson's Con-Brexit Party?"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Can you trust Boris Johnson's Con-Brexit Party?"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn backs Brexit. Corbyn is letting down Labour Remainers by staying neutral on Brexit. Oxford Labour candidate Anneliese Dodds has always voted for Brexit."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

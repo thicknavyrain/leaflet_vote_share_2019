@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Aaron Bell",
+        "candidateGender": "",
+        "constituency": "Newcastle under Lyme",
+        "politicalParty": "Conservative",
+        "electionDate": "November 2019",
+        "messages": [
+            {
+                "title": "LET'S UNLEASH BRITAIN'S POTENTIAL",
+                "content": "More to invest in country's priorities."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit Deal",
+                "policyDescription": "Protects jobs and trade, ends uncertainty for our economy, ready to go from day one of a new parliament."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "\u00a333.9 billion extra NHS spending, 50 million extra GP appointments."
+            },
+            {
+                "policyTitle": "Schools",
+                "policyDescription": "\u00a314 billion extra for schools."
+            },
+            {
+                "policyTitle": "Police",
+                "policyDescription": "20,000 extra police."
+            },
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "An immigration system that works for Britain."
+            }
+        ],
+        "mentions": {
+            "candidate": "Aaron Bell",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "Last time, the Conservatives were just nine seats short of a majority."
+        },
+        "issues": {
+            "brexitEurope": "Brexit Deal Agreed and Ready to Go",
+            "defence": "",
+            "economy": "Ends uncertainty for our economy.",
+            "education": "\u00a314 billion extra for schools.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "\u00a333.9 billion extra NHS spending, 50 million extra GP appointments.",
+            "immigration": "An immigration system that works for Britain.",
+            "labourEmployment": "",
+            "lawCrime": "20,000 extra police.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "More to invest in country's priorities.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 5,
+                    "examples": [
+                        "\u00a333.9 billion extra NHS spending.",
+                        "50 million extra GP appointments.",
+                        "\u00a314 billion extra for schools.",
+                        "20,000 extra police.",
+                        "Just nine seats short of a majority."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Protects jobs and trade.",
+                        "Ends uncertainty for our economy.",
+                        "An immigration system that works for Britain."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 5,
+                "candidateAlone": 0,
+                "candidateWithOthers": 5
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": []
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "Brexit Deal Agreed and Ready to Go",
+                        "\u00a333.9 billion extra NHS spending.",
+                        "\u00a314 billion extra for schools.",
+                        "20,000 extra police.",
+                        "An immigration system that works for Britain."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Corbyn = five long years of gridlock."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "leaflet": {
+        "candidateName": "Matt Western",
+        "candidateGender": "",
+        "constituency": "Warwick and Leamington",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "",
+                "content": "Since being elected as your local representative in Parliament, I have worked hard to address the issues that matter to you - national and local. Trust me again and I will speak out louder than ever for Warwick and Leamington."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fighting for our NHS, schools and police.",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Standing up for residents and local business.",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Cleaning up our environment.",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Since being elected as your local representative in Parliament, I have worked hard to address the issues that matter to you - national and local. Trust me again and I will speak out louder than ever for Warwick and Leamington.",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Fighting for our NHS, schools and police.",
+            "environment": "Cleaning up our environment.",
+            "governance": "",
+            "government": "",
+            "health": "Fighting for our NHS, schools and police.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Standing up for residents and local business.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "18 Hyde Place, Leamington Spa CV32 5BT",
+            "phone": "01926 421421",
+            "email": "matt2representus@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "facebook.com/MattWesternMP",
+                "twitter": "twitter.com/MattWestern_",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Simon Mort, Local Monitor Worker",
+                "endorsement": "Why I'm backing Matt Western - He works hard for our community."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Why I'm backing Matt Western - He works hard for our community.",
+                "source": "Simon Mort, Local Monitor Worker",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "National Voice. Local Champion."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Since being elected as your local representative in Parliament, I have worked hard to address the issues that matter to you - national and local. Trust me again and I will speak out louder than ever for Warwick and Leamington."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Standing up for residents and local business."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Fighting for our NHS, schools and police.",
+                        "Cleaning up our environment."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Why I'm backing Matt Western - He works hard for our community.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Simon Mort, Local Monitor Worker - Why I'm backing Matt Western - He works hard for our community."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

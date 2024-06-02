@@ -1,0 +1,172 @@
+{
+    "leaflet": {
+        "candidateName": "Rebecca Smith",
+        "candidateGender": "",
+        "constituency": "Plymouth Sutton and Devonport",
+        "politicalParty": "",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "DELIVERING THE BEST NHS FOR PLYMOUTH",
+                "policyDescription": "I'm a huge champion of the NHS but more can be done to help the NHS in Plymouth. I'm working with local community pharmacies, dentists and GPs to secure more Government money to provide the services Plymouth needs."
+            },
+            {
+                "policyTitle": "MORE MONEY FOR EVERY SCHOOL CHILD IN THE CITY",
+                "policyDescription": "We have pledged to increase per pupil funding and I'll ensure Plymouth schools receive their fair share to provide children with the education and the education they deserve, enabling them to dream big dreams for the future."
+            },
+            {
+                "policyTitle": "BACKING LOCAL BUSINESS",
+                "policyDescription": "Growing up in a small business household, I understand the risks and challenges involved in providing jobs and investment back into the local economy that we desperately need. I will help investment in businesses investing in our city."
+            }
+        ],
+        "mentions": {
+            "candidate": "Rebecca Smith",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "We have pledged to increase per pupil funding and I'll ensure Plymouth schools receive their fair share to provide children with the education and the education they deserve, enabling them to dream big dreams for the future.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "I'm a huge champion of the NHS but more can be done to help the NHS in Plymouth. I'm working with local community pharmacies, dentists and GPs to secure more Government money to provide the services Plymouth needs.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Growing up in a small business household, I understand the risks and challenges involved in providing jobs and investment back into the local economy that we desperately need. I will help investment in businesses investing in our city.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I'm a huge champion of the NHS but more can be done to help the NHS in Plymouth.",
+                        "Growing up in a small business household, I understand the risks and challenges involved in providing jobs and investment back into the local economy that we desperately need.",
+                        "We have pledged to increase per pupil funding and I'll ensure Plymouth schools receive their fair share to provide children with the education and the education they deserve."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "DELIVERING THE BEST NHS FOR PLYMOUTH",
+                        "I'm working with local community pharmacies, dentists and GPs",
+                        "MORE MONEY FOR EVERY SCHOOL CHILD IN THE CITY",
+                        "BACKING LOCAL BUSINESS"
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Growing up in a small business household, I understand the risks and challenges involved in providing jobs and investment back into the local economy that we desperately need.",
+                    "issueRelated": "economy"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": "Growing up in a small business household"
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "leaflet": {
+        "candidateName": "James Frith",
+        "candidateGender": "",
+        "constituency": "Bury North",
+        "politicalParty": "Labour",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Vote Labour to Save Our Services",
+                "content": "Labour's James Frith vows to fight any further cuts to public services in Bury as damage becomes clear."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Save Public Services",
+                "policyDescription": "James Frith vows to fight any further cuts to public services in Bury."
+            },
+            {
+                "policyTitle": "Support NHS Bury",
+                "policyDescription": "James Frith says he would fight to keep Bury Walk-In Centre open."
+            },
+            {
+                "policyTitle": "More Police on Our Streets",
+                "policyDescription": "James Frith wants more police on the streets to ensure safety."
+            }
+        ],
+        "mentions": {
+            "candidate": "James Frith",
+            "otherPartyLeaderCandidate": "David Nuttall",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "James Frith vows to keep Bury Walk-In Centre open.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Mayor Andy Burnham",
+                "endorsement": "Mayor Andy Burnham backs James as Bury North's next MP."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "David Nuttall has turned his back on our public services...",
+                "source": "Mayor Andy Burnham",
+                "date": ""
+            },
+            {
+                "text": "I know myself how valuable the walk-in centre and other NHS services are here in Bury North.",
+                "source": "James Frith",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Labour's James Frith vows to fight any further cuts to public services in Bury as damage becomes clear.",
+                        "Mayor Andy Burnham backs James as Bury North's next MP.",
+                        "David Nuttall has turned his back on our public services...",
+                        "James Frith vows to keep Bury Walk-In Centre open."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 3,
+                "candidateAlone": 0,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "Labour's James Frith vows to fight any further cuts to public services in Bury as damage becomes clear.",
+                        "Mayor Andy Burnham backs James as Bury North's next MP.",
+                        "James Frith vows to keep Bury Walk-In Centre open.",
+                        "James Frith says he would fight to keep Bury Walk-In Centre open."
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "James Frith expresses personal knowledge of the value of the walk-in centre.",
+                    "issueRelated": "Health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Mayor Andy Burnham backs James as Bury North's next MP."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "James Frith vows to fight any further cuts to public services in Bury as damage becomes clear."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "David Nuttall has turned his back on our public services..."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Local resident and Labour candidate for Bury North at the General Election."
+                ]
+            }
+        }
+    }
+}

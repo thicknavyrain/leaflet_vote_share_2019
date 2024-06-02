@@ -1,0 +1,210 @@
+{
+    "leaflet": {
+        "candidateName": "Darren Henry",
+        "candidateGender": "",
+        "constituency": "Broxtowe",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12th December",
+        "messages": [
+            {
+                "title": "Get Brexit Done",
+                "content": "Broxtowe's vote to leave has been ignored by our current MP. Only the Conservatives can get Brexit done - so we can invest in our NHS, schools and police."
+            },
+            {
+                "title": "Protect our local environment",
+                "content": "Let's make the most of Broxtowe's green corridors for cycle routes. Encouraging cleaner and greener communities and options for commuters."
+            },
+            {
+                "title": "Support investment into the Queens Medical Centre",
+                "content": "Our NHS is vitally important to all of us. We need more front-line investment, so our local hospitals are fit for purpose for patients and staff alike."
+            },
+            {
+                "title": "Investing in our High Streets",
+                "content": "Securing our fair share from the Government's Towns Fund initiative - to regenerate Stapleford Town Centre and boost our local businesses in Broxtowe."
+            },
+            {
+                "title": "More funding for schools",
+                "content": "Our children and grandchildren deserve the best education possible \u2013 including better apprenticeships."
+            },
+            {
+                "title": "Tackling crime and anti-social behaviour",
+                "content": "Securing Broxtowe\u2019s fair share of the 20,000 extra police officers we\u2019ll recruit. We need more police on the beat to keep our streets safe."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Get Brexit Done",
+                "policyDescription": "Only the Conservatives can get Brexit done, so we can invest in our NHS, schools, and police."
+            },
+            {
+                "policyTitle": "Protect our local environment",
+                "policyDescription": "Encouraging cleaner and greener communities and options for commuters by optimizing Broxtowe's green corridors for cycle routes."
+            },
+            {
+                "policyTitle": "Support investment into the Queens Medical Centre",
+                "policyDescription": "Advocating for front-line investment in local hospitals to ensure they are fit for patients and staff."
+            },
+            {
+                "policyTitle": "Investing in our High Streets",
+                "policyDescription": "Securing funds to regenerate Stapleford Town Centre and boost local businesses."
+            },
+            {
+                "policyTitle": "More funding for schools",
+                "policyDescription": "Ensuring better education and apprenticeship opportunities for children and grandchildren."
+            },
+            {
+                "policyTitle": "Tackling crime and anti-social behaviour",
+                "policyDescription": "Recruiting 20,000 extra police officers to keep the streets safe."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Boris",
+            "tacticalSituation": "Broxtowe's vote to leave has been ignored by our current MP."
+        },
+        "issues": {
+            "brexitEurope": "Only the Conservatives can get Brexit done",
+            "defence": "",
+            "economy": "boost our local businesses",
+            "education": "better apprenticeships",
+            "environment": "cleaner and greener communities",
+            "governance": "",
+            "government": "",
+            "health": "Our NHS is vitally important to all of us.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "We need more police on the beat to keep our streets safe.",
+            "transport": "cycle routes",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Securing our fair share from the Government's Towns Fund initiative - to regenerate Stapleford Town Centre",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Broxtowe Conservative Association, 146 Station Rd, Beeston, Nottingham, NG9 2AY.",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Securing Broxtowe\u2019s fair share of the 20,000 extra police officers we\u2019ll recruit."
+                    ]
+                },
+                "qualitative": {
+                    "count": 7,
+                    "examples": [
+                        "Broxtowe's vote to leave has been ignored by our current MP.",
+                        "Only the Conservatives can get Brexit done - so we can invest in our NHS, schools and police.",
+                        "Let's make the most of Broxtowe's green corridors for cycle routes. Encouraging cleaner and greener communities and options for commuters.",
+                        "Our NHS is vitally important to all of us.",
+                        "Regenerate Stapleford Town Centre and boost our local businesses in Broxtowe.",
+                        "Our children and grandchildren deserve the best education possible \u2013 including better apprenticeships.",
+                        "We need more police on the beat to keep our streets safe."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Encouraging cleaner and greener communities and options for commuters.",
+                        "Regenerate Stapleford Town Centre and boost our local businesses in Broxtowe.",
+                        "We need more police on the beat to keep our streets safe."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Only the Conservatives can get Brexit done - so we can invest in our NHS, schools and police.",
+                        "Our NHS is vitally important to all of us.",
+                        "Our children and grandchildren deserve the best education possible \u2013 including better apprenticeships.",
+                        "Securing Broxtowe\u2019s fair share of the 20,000 extra police officers we\u2019ll recruit."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Broxtowe's vote to leave has been ignored by our current MP."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Broxtowe's vote to leave has been ignored by our current MP."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

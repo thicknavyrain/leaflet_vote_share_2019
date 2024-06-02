@@ -1,0 +1,173 @@
+{
+    "leaflet": {
+        "candidateName": "Joe Richards",
+        "candidateGender": "",
+        "constituency": "Southampton Test",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Joe Richards leads the fight for Southampton Test",
+                "content": "Joe Richards is the strong choice to be Southampton Test\u2019s next MP, and will fight for our schools, our NHS and our environment."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Oppose wasteful spending and support remaining in the EU. Emphasizes the financial benefits of remaining."
+            },
+            {
+                "policyTitle": "Air Pollution",
+                "policyDescription": "Address air pollution in Southampton by investing in public transport and promoting ultra-low emission zones."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Provide support for the NHS, reverse Conservative cuts, and ensure healthcare workers have the resources they need."
+            }
+        ],
+        "mentions": {
+            "candidate": "Joe Richards",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Brexit, oppose Conservative government's wasteful spending, support remaining in the EU, \u00a350 billion remain bonus",
+            "defence": "",
+            "economy": "\u00a3100 million wasted on Brexit campaign, \u00a32 billion wasted on no-deal preparations, \u00a370 billion cost under Boris Johnson\u2019s Brexit deal",
+            "education": "",
+            "environment": "Address air pollution, promote ultra-low emission zones",
+            "governance": "",
+            "government": "",
+            "health": "Support NHS, reverse cuts, ensure healthcare workers have needed resources",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Invest in public transport",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Promote ultra-low emission zones, invest in public transport",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "joe.richards@sotonld.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@joerichards",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Joe Richards is the best choice for our MP"
+                },
+                {
+                    "caption": "The Conservatives are putting our NHS at risk, whilst Labour have no plan to improve it"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "\u00a3100 million wasted on an ad campaign telling us to get ready for Brexit",
+                        "\u00a32 billion wasted on no-deal preparations",
+                        "\u00a370 billion a year worse off under Boris Johnson\u2019s Brexit deal"
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Joe Richards leads the fight for Southampton Test",
+                        "Southampton\u2019s air pollution crisis continues",
+                        "Lib Dems lead fight to save the NHS",
+                        "The Conservatives are putting our NHS at risk"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Southampton\u2019s air pollution crisis continues",
+                        "Joe Richards leads the fight for Southampton Test"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Lib Dems lead fight to save the NHS",
+                        "Brexit by numbers, \u00a350 billion remain bonus"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Southampton\u2019s air pollution crisis continues"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "The Conservatives are putting our NHS at risk",
+                        "\u00a3100 million wasted on an ad campaign telling us to get ready for Brexit"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "\u00a370 billion a year worse off under Boris Johnson\u2019s Brexit deal"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Joe Richards is the real champion for Southampton Test",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Joe Richards is the real champion for Southampton Test",
+                    "Joe Richards leads the fight for Southampton Test"
+                ]
+            }
+        }
+    }
+}

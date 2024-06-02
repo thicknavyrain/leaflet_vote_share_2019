@@ -1,0 +1,149 @@
+{
+    "leaflet": {
+        "candidateName": "David Walker",
+        "candidateGender": "",
+        "constituency": "Loughborough",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "AN ELECTION THAT IS NOT IN THE NATIONAL INTEREST",
+                "content": "This election has been called by Mrs May to get a big majority because Parliament might otherwise refuse to agree to a seriously damaging outcome to the Brexit negotiations. It will take advantage of the weak and disorganised Labour party. This is the kind of cynical game-playing which has got politicians a bad name. At any time it would be contemptible. When the country faces the enormous challenges of Brexit it is inexcusable."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "David Walker",
+            "otherPartyLeaderCandidate": "Mrs May",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Parliament might otherwise refuse to agree to a seriously damaging outcome to the Brexit negotiations. When the country faces the enormous challenges of Brexit it is inexcusable.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "20 St Andrews Close, Burton on the Wolds, LE12 5TJ",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "David Walker, Liberal Democrat Candidate"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "This election has been called by Mrs May to get a big majority because Parliament might otherwise refuse to agree to a seriously damaging outcome to the Brexit negotiations."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Parliament might otherwise refuse to agree to a seriously damaging outcome to the Brexit negotiations."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "This is the kind of cynical game-playing which has got politicians a bad name."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "This election has been called by Mrs May to get a big majority."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "This is the kind of cynical game-playing which has got politicians a bad name."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

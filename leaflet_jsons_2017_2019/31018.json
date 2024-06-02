@@ -1,0 +1,180 @@
+{
+    "leaflet": {
+        "candidateName": "Daniel Zeichner",
+        "candidateGender": "",
+        "constituency": "Cambridge",
+        "politicalParty": "Labour",
+        "electionDate": "8 June",
+        "messages": [
+            {
+                "title": "",
+                "content": "\"As your MP I will always put the values of Cambridge first, I'll fight for our schools, our NHS, and make sure everyone pays their fair share. I'll stick to my principles. I'll never sell out.\""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Defend Our NHS",
+                "policyDescription": "Daniel Zeichner fights to protect funding and services for a properly funded NHS."
+            },
+            {
+                "policyTitle": "Fund Our Schools",
+                "policyDescription": "Fight for funding and free school meals for primary children. Improving school performance."
+            },
+            {
+                "policyTitle": "Fight for Fair Jobs for All",
+                "policyDescription": "Work to create good jobs and conditions for all. Opposes the cuts."
+            },
+            {
+                "policyTitle": "Stand Up for Cambridge Values",
+                "policyDescription": "Daniel stands up for openness and diversity."
+            }
+        ],
+        "mentions": {
+            "candidate": "Daniel Zeichner",
+            "otherPartyLeaderCandidate": "Tim Farron",
+            "partyLeader": "",
+            "tacticalSituation": "Re-elect Daniel Zeichner"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Fight for funding and free school meals for primary children. Improving school performance.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Daniel Zeichner fights to protect funding and services for a properly funded NHS.",
+            "immigration": "",
+            "labourEmployment": "Work to create good jobs and conditions for all. Opposes the cuts.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Daniel stands up for openness and diversity.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "\"As your MP I will always put the values of Cambridge first, I'll fight for our schools, our NHS, and make sure everyone pays their fair share. I'll stick to my principles. I'll never sell out.\"",
+                "source": "Daniel Zeichner",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "\"I'll fight for our schools, our NHS, and make sure everyone pays their fair share.\"",
+                        "Daniel Zeichner fights to protect funding and services for a properly funded NHS."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Daniel stands up for openness and diversity."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Daniel Zeichner fights to protect funding and services for a properly funded NHS.",
+                        "Fight for funding and free school meals for primary children. Improving school performance.",
+                        "Work to create good jobs and conditions for all. Opposes the cuts."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "What Tim Farron's Lib Dem Candidate Won't Tell You"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Tim Farron"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "As your MP I will always put the values of Cambridge first"
+                ]
+            }
+        }
+    }
+}

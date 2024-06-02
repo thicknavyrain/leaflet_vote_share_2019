@@ -1,0 +1,180 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Daniel Zeichner",
+    "candidateGender": "",
+    "constituency": "Cambridge",
+    "politicalParty": "Labour",
+    "electionDate": "8 June",
+    "messages": [
+      {
+        "title": "",
+        "content": "Dear Sam, I know, it's another election mailing... But bear with me, I promise this one has some new elements in it."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Europe",
+        "policyDescription": "I voted Remain. I promise to keep us in the EU and will seize any chance to keep us in the European Union."
+      },
+      {
+        "policyTitle": "Climate Issues",
+        "policyDescription": "Joined Greenpeace and campaigned about climate issues."
+      },
+      {
+        "policyTitle": "Social Justice",
+        "policyDescription": "Zero hours contracts, sky high rents and short term lets are wrong. The market needs management."
+      }
+    ],
+    "mentions": {
+      "candidate": "Keir Starmer",
+      "otherPartyLeaderCandidate": "Trump",
+      "partyLeader": "",
+      "tacticalSituation": "I think it is important to be calm and measured. I think my decisions through, like when I voted against bombing Syria. I was troubled when the Lib Dem leader rushed to back Trump's latest bombing adventures without a clear plan for peace."
+    },
+    "issues": {
+      "brexitEurope": "Europe first. I voted Remain and kept us in the EU. I voted against nasty Tory policies.",
+      "defence": "",
+      "economy": "",
+      "education": "I have supported the march for funding for our schools meeting scientists meeting scientists funding bid scientists",
+      "environment": "",
+      "governance": "I'm an electoral reformer. Run Labour's campaign for a democratically elected second chamber, voted for a fairer voting system.",
+      "government": "",
+      "health": "My decisions through, like when I voted against bombing Syria. It's important to always stand up for Cambridge. Not headline grabbing issues like funding for our schools, meeting scientists.",
+      "immigration": "",
+      "labourEmployment": "",
+      "lawCrime": "",
+      "transport": "",
+      "socialWelfare": "NHS social services",
+      "community": [
+        {
+          "content": "Like when we gathered outside the Guildhall standing at a vigil in silence remembering the victims of terror in Paris, Brussels, Berlin. Vigil in silence. Standing at a vigil in silence.",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "I'm an electoral reformer. I have run Labour's campaign for a democratically elected second chamber, at the start alongside Robin Cook. I voted for a fairer voting system, even though the whip told me not to. I can be a rebel with a cause and that cause is always Cambridge.",
+    "politicalExperience": [
+      {
+        "role": "Labour's campaign for a democratically elected second chamber",
+        "duration": "",
+        "achievements": ""
+      },
+      {
+        "role": "Councillor",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Alex Wood Hall, Norfolk Street, Cambridge, CB1 2LD",
+      "phone": "01223 500515",
+      "email": "daniel@danielzeichner.org.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "DanielZeichner",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "",
+    "analysis": {
+      "statementAnalysis": {
+        "quantitative": {
+          "count": 1,
+          "examples": [
+            "One of my earliest memories is of my Grandfather, who had lost his leg in the First World War."
+          ]
+        },
+        "qualitative": {
+          "count": 2,
+          "examples": [
+            "The world seems peculiarly uncertain and dangerous at the moment.",
+            "People who know me say I am a consensus builder."
+          ]
+        }
+      },
+      "photoAnalysis": {
+        "localPlaces": 0,
+        "people": 1,
+        "candidateAlone": 1,
+        "candidateWithOthers": 0
+      },
+      "issueFocus": {
+        "local": {
+          "count": 3,
+          "examples": [
+            "I love Cambridge, strolling along the Cam or going to Chamber Concerts at Kettle's Yard.",
+            "For the first time ever, we have a Labour MP in Cambridge. That's something to be proud of",
+            "In the Commons, I always stand up for Cambridge."
+          ]
+        },
+        "national": {
+          "count": 1,
+          "examples": [
+            "There will be claims and counter-claims about who’s best-placed to get the best non-deal.",
+          ]
+        }
+      },
+      "personalStories": [
+        {
+          "story": "One of my earliest memories is of my Grandfather, who had lost his leg in the First World War.",
+          "issueRelated": "defence"
+        }
+      ],
+      "endorsementsUsed": {
+        "count": 0,
+        "examples": []
+      },
+      "negativeMessaging": {
+        "localIssues": {
+          "count": 0,
+          "examples": []
+        },
+        "nationalIssues": {
+          "count": 1,
+          "examples": [
+            "It's important to be calm and measured. I think my decisions through, like when I voted against bombing Syria. I was troubled when the Lib Dem leader rushed to back Trump's latest bombing adventures without a clear plan."
+          ]
+        },
+        "leaderOfOpponentsParty": {
+          "count": 1,
+          "examples": [
+            "I was troubled when the Lib Dem leader rushed to back Trump's latest bombing adventures without a clear plan for peace."
+          ]
+        },
+        "oppositeCandidateNoName": {
+          "count": 0,
+          "examples": []
+        },
+        "oppositeCandidateWithName": {
+          "count": 0,
+          "examples": []
+        }
+      },
+      "nonPolicyAttributes": {
+        "localness": "I love Cambridge, strolling along the Cam or going to Chamber Concerts at Kettle's Yard. I love meeting scientists and hearing their ideas. I love the buzz of our tolerant and diverse city. I want our city to succeed. I will always put Cambridge first.",
+        "employment": "I'm an electoral reformer. Run Labour's campaign for a democratically elected second chamber.",
+        "education": "I have supported the march for funding for our schools.",
+        "family": "Like so many in my generation, his plans for the future were knocked askew as calamity struck. Scared for my Mum, my Aunty, knee deep in mud."
+      },
+      "localCandidate": {
+        "isLocal": true,
+        "examples": [
+          "I love Cambridge, strolling along the Cam or going to Chamber Concerts at Kettle's Yard. I love meeting scientists and hearing their ideas."
+        ]
+      }
+    }
+  }
+}
+```

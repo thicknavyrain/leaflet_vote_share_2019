@@ -1,0 +1,187 @@
+{
+    "leaflet": {
+        "candidateName": "Daniel Jellyman",
+        "candidateGender": "",
+        "constituency": "Stoke-on-Trent Central",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": "Standing with Theresa May"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Support Local Companies",
+                "policyDescription": "Will back local companies, big and small."
+            },
+            {
+                "policyTitle": "More Investment",
+                "policyDescription": "Will fight for more investment, better jobs, and a brighter future for everyone in the city."
+            }
+        ],
+        "mentions": {
+            "candidate": "A local candidate, born and bred in Stoke-on-Trent, who lives in the city and voted for Brexit.",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Standing with Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "A local candidate, born and bred in Stoke-on-Trent, who lives in the city and voted for Brexit.",
+            "defence": "",
+            "economy": "Will fight for Stoke-on-Trent to get more investment, better jobs and a brighter future for everyone in the city.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "Will fight for Stoke-on-Trent to get better jobs and a brighter future for everyone in the city.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "A local candidate, born and bred in Stoke-on-Trent, who lives in the city and voted for Brexit.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Worked in the pottery industry",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Theresa May",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Standing with Theresa May",
+                "source": "Theresa May",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Daniel Jellyman with local landmarks in Stoke-on-Trent"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "A local candidate, born and bred in Stoke-on-Trent, who lives in the city and voted for Brexit.",
+                        "Someone who worked in the pottery industry and is not a career politician, who will back local companies, big and small.",
+                        "Will fight for Stoke-on-Trent to get more investment, better jobs and a brighter future for everyone in the city."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Will fight for Stoke-on-Trent to get more investment, better jobs and a brighter future for everyone in the city."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "A local candidate, born and bred in Stoke-on-Trent, who lives in the city and voted for Brexit."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Someone who worked in the pottery industry and is not a career politician.",
+                    "issueRelated": "labourEmployment"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Standing with Theresa May"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "A local candidate, born and bred in Stoke-on-Trent, who lives in the city and voted for Brexit.",
+                "employment": "Someone who worked in the pottery industry",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "A local candidate, born and bred in Stoke-on-Trent, who lives in the city and voted for Brexit."
+                ]
+            }
+        }
+    }
+}

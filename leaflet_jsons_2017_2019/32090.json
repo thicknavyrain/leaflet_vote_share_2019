@@ -1,0 +1,196 @@
+{
+    "leaflet": {
+        "candidateName": "John Glen",
+        "candidateGender": "",
+        "constituency": "Salisbury and South Wiltshire",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Let's get on with the country's priorities - by getting Brexit done.",
+                "content": "Better hospitals. Safer streets. Improved schools. It comes down to your vote. Let's get Brexit done - so we can finally get on with the priorities we all share."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Investing in the NHS",
+                "policyDescription": "Investing an extra \u00a333.9 billion into the NHS, helping cut waiting times, more doctors and nurses."
+            },
+            {
+                "policyTitle": "Hiring Police Officers",
+                "policyDescription": "Hiring 20,000 new police officers, breaking up drugs gangs and making streets safer."
+            },
+            {
+                "policyTitle": "Education Funding",
+                "policyDescription": "Getting more funding to every single pupil in the country."
+            },
+            {
+                "policyTitle": "Transport Solutions",
+                "policyDescription": "Investing in Salisbury's future traffic solutions and key routes connecting the city."
+            },
+            {
+                "policyTitle": "Science and Technology",
+                "policyDescription": "Making science and technology key local jobs providers, ensuring investment in cutting-edge projects."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Protecting our greatest treasure, the environment."
+            }
+        ],
+        "mentions": {
+            "candidate": "John Glen",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "We can't afford MORE confusion and MORE delay. But that's all the other parties can deliver. The Labour Party won't say whether they support Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "I am firmly committed to giving parents choice in their children's education, raising standards and ensuring the range of provision in South Wiltshire.",
+            "environment": "Protecting our greatest treasure, I will prioritise local protection of what we cherish most. The countryside, green spaces, and areas we often take for granted.",
+            "governance": "",
+            "government": "",
+            "health": "Investing an extra \u00a333.9 billion into the NHS, helping cut waiting times, more doctors and nurses.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Invest in our nation's roads, including improvements on the A36 and other major routes.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Connecting Communities: Improving community transport with local priority and creating hubs where needed most.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I am very proud of the government's record returning investment to Salisbury and South Wiltshire. We have stabilised after years of overspending by the Labour government, our Conservative-led policies have put us in a position to boost investment in hospitals, schools, and the police.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "01722 323050",
+            "email": "john@glen.org.uk",
+            "website": "john@glen.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "john_glen",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "The Financial Times",
+                "endorsement": "Jeremy Corbyn's Labour cannot be trusted to govern."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Working for Salisbury and South Wiltshire"
+                },
+                {
+                    "caption": "My Plan for Salisbury and South Wiltshire"
+                },
+                {
+                    "caption": "Join me in my campaign"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 4,
+                    "examples": [
+                        "Investing an extra \u00a333.9 billion into the NHS",
+                        "Hiring 20,000 new police officers",
+                        "We have stabilised after years of overspending by the Labour government",
+                        "Our Conservative-led policies have put us in a position to boost investment"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Better hospitals. Safer streets. Improved schools. It comes down to your vote.",
+                        "I am very proud of the government's record returning investment to Salisbury and South Wiltshire."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Transport Solutions: Investing in Salisbury's future traffic solutions",
+                        "Connecting Communities: Improving community transport"
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Investing an extra \u00a333.9 billion into the NHS",
+                        "Hiring 20,000 new police officers",
+                        "Getting more funding to every single pupil",
+                        "Invest in our nation's roads"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Jeremy Corbyn's Labour cannot be trusted to govern."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "We can't afford MORE confusion and MORE delay.",
+                        "But that's all the other parties can deliver."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "The Labour Party won't say whether they support Brexit."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn's Labour cannot be trusted to govern."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Maintaining local transport and community amenities.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Maintaining local transport and community amenities.",
+                    "Connecting Communities: Improving community transport"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,212 @@
+{
+    "leaflet": {
+        "candidateName": "Jo Swinson",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Mental Health",
+                "policyDescription": "Transform mental health services with more money for schools and the NHS."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Give every child the best start in life by recruiting 20,000 more teachers and increasing school funding."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Stop Brexit and invest the \u00a350 billion Remain Bonus in public services and tackling inequality."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Tackle the climate emergency by cutting greenhouse emissions to net-zero by 2045."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jo Swinson",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn's Labour Party",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Stop Brexit and invest the \u00a350 billion Remain Bonus in public services and tackling inequality.",
+            "defence": "",
+            "economy": "",
+            "education": "Give every child the best start in life by recruiting 20,000 more teachers and increasing school funding.",
+            "environment": "Tackle the climate emergency by cutting greenhouse emissions to net-zero by 2045.",
+            "governance": "",
+            "government": "",
+            "health": "Transform mental health services with more money for schools and the NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Freepost RTHK-XKSH-RGEE, Liberal Democrats, 8-10 Great George Street, London, SW1P 3AE",
+            "phone": "",
+            "email": "",
+            "website": "LibDems.org.uk/plan",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Graham Wills",
+                "endorsement": "I have struggled for 10 years to get my daughter the right support for Autism. Having Jo Swinson as our MP has put an end to that struggle."
+            },
+            {
+                "endorser": "Rachel Braithwaite",
+                "endorsement": "Thanks to Jo's help, my son is no longer getting into trouble at school."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Thanks to Jo's help, my son is no longer getting into trouble at school.",
+                "source": "Rachel Braithwaite",
+                "date": ""
+            },
+            {
+                "text": "I have struggled for 10 years to get my daughter the right support for Autism. Having Jo Swinson as our MP has put an end to that struggle.",
+                "source": "Graham Wills",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Jo Swinson with supporters"
+                },
+                {
+                    "caption": "Jo Swinson with campaign material"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Stop Brexit and invest the \u00a350 billion Remain Bonus in public services and tackling inequality."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Transform mental health services with more money for schools and the NHS.",
+                        "Give every child the best start in life by recruiting 20,000 more teachers and increasing school funding.",
+                        "Tackle the climate emergency by cutting greenhouse emissions to net-zero by 2045.",
+                        "Thanks to Jo's help, my son is no longer getting into trouble at school."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Transform mental health services with more money for schools and the NHS.",
+                        "Give every child the best start in life by recruiting 20,000 more teachers and increasing school funding.",
+                        "Tackle the climate emergency by cutting greenhouse emissions to net-zero by 2045.",
+                        "Stop Brexit and invest the \u00a350 billion Remain Bonus in public services and tackling inequality."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I have struggled for 10 years to get my daughter the right support for Autism. Having Jo as our MP has put an end to that struggle.",
+                    "issueRelated": "health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "Graham Wills: 'I have struggled for 10 years to get my daughter the right support for Autism. Having Jo Swinson as our MP has put an end to that struggle.'",
+                    "Rachel Braithwaite: 'Thanks to Jo's help, my son is no longer getting into trouble at school.'"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Even Labour leader Jeremy Corbyn\u2019s Labour Party has no plan for the future."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Even Labour leader Jeremy Corbyn\u2019s Labour Party has no plan for the future."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

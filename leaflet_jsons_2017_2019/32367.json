@@ -1,0 +1,205 @@
+{
+    "leaflet": {
+        "candidateName": "Will Sweet",
+        "candidateGender": "",
+        "constituency": "Putney",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "We can\u2019t afford MORE confusion and MORE delay. But that\u2019s all the other parties can deliver."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Better hospitals",
+                "policyDescription": "\u00a333.9 billion for the NHS"
+            },
+            {
+                "policyTitle": "Safer streets",
+                "policyDescription": "20,000 extra police"
+            },
+            {
+                "policyTitle": "Improved schools",
+                "policyDescription": "More funding for every pupil in every school and 4% extra for Putney education"
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Protecting the environment and stopping Heathrow expansion. Better cycle routes and a plan to make Putney carbon neutral by 2030."
+            },
+            {
+                "policyTitle": "Transport",
+                "policyDescription": "A second entrance and more trains at Putney Station. Lifts for East Putney Station and a faster District Line. New transport links for Roehampton with a solution to the Hammersmith Bridge problem."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "More affordable homes for Putney people. Helping renters and first-time buyers. Making Roehampton regeneration work for local people."
+            },
+            {
+                "policyTitle": "Crime",
+                "policyDescription": "Safer streets and more police to protect Putney residents from violent crime. Working with community organisations to tackle causes of knife crime."
+            },
+            {
+                "policyTitle": "Town Centres",
+                "policyDescription": "Making Putney high street better. Supporting small businesses and shops."
+            }
+        ],
+        "mentions": {
+            "candidate": "Will Sweet",
+            "otherPartyLeaderCandidate": "Corbyn, Jo Swinson",
+            "partyLeader": "",
+            "tacticalSituation": "Jo Swinson rules out second Tory alliance."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "More funding for every pupil in every school and 4% extra for Putney education",
+            "environment": "Protecting the environment and stopping Heathrow expansion. Better cycle routes and a plan to make Putney carbon neutral by 2030.",
+            "governance": "",
+            "government": "",
+            "health": "\u00a333.9 billion for the NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Safer streets and more police to protect Putney residents from violent crime. Working with community organisations to tackle causes of knife crime.",
+            "transport": "A second entrance and more trains at Putney Station. Lifts for East Putney Station and a faster District Line. New transport links for Roehampton with a solution to the Hammersmith Bridge problem.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "More affordable homes for Putney people. Helping renters and first-time buyers. Making Roehampton regeneration work for local people.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Wandsworth Councillor",
+                "duration": "",
+                "achievements": "Strong track record"
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "The Herald",
+                "endorsement": "Jo Swinson rules out second Tory alliance."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Vote Will Sweet - Putney carbon neutral by 2030; 4% extra for Putney education; 6,000 more police for London; \u00a333.9 billion for the NHS; The Wandsworth Councillor with a strong track record"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "\u00a333.9 billion for the NHS",
+                        "4% extra for Putney education"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "We can\u2019t afford MORE confusion and MORE delay.",
+                        "Jo Swinson rules out second Tory alliance."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 5,
+                "candidateAlone": 1,
+                "candidateWithOthers": 4
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "More funding for every pupil in every school and 4% extra for Putney education",
+                        "More affordable homes for Putney people",
+                        "Making Putney high street better",
+                        "New transport links for Roehampton with a solution to the Hammersmith Bridge problem."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "6,000 more police for London",
+                        "\u00a333.9 billion for the NHS",
+                        "Protecting the environment and stopping Heathrow expansion."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "The Herald"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "We can\u2019t afford MORE confusion and MORE delay. But that\u2019s all the other parties can deliver."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Corbyn"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jo Swinson rules out second Tory alliance."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "The Wandsworth Councillor"
+                ]
+            }
+        }
+    }
+}

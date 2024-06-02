@@ -1,0 +1,167 @@
+{
+    "leaflet": {
+        "candidateName": "Russell Perrin",
+        "candidateGender": "",
+        "constituency": "Cambridge",
+        "politicalParty": "Conservative",
+        "electionDate": "12th of December",
+        "messages": [
+            {
+                "title": "",
+                "content": "You can use your local vote to get on with the priorities we all share."
+            },
+            {
+                "title": "",
+                "content": "We can\u2019t afford to go back to square one. But that\u2019s exactly where another hung parliament would take us. So your local vote has never been more important."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Investing in our NHS",
+                "policyDescription": "Investing in a state of the art hospital at Addenbrookes."
+            },
+            {
+                "policyTitle": "Increasing funding for Cambridge Schools",
+                "policyDescription": "More per pupil funding including \u00a3780m in SEND provision."
+            },
+            {
+                "policyTitle": "Building a better Cambridge",
+                "policyDescription": "Investing in the A428 upgrade and the south Cambridge railway station and opposing the introduction of a City Congestion Charge."
+            }
+        ],
+        "mentions": {
+            "candidate": "Russell Perrin",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "At the last election, the Conservatives were only nine seats short of a majority. This election will be just as close \u2013 and Cambridge is one of the seats Boris Johnson needs to win."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Our economy is growing. 3.7 million more people are in work.",
+            "education": "Increasing funding for Cambridge Schools \u2013 More per pupil funding including \u00a3780m in SEND provision.",
+            "environment": "",
+            "governance": "",
+            "government": "A majority government can build on our progress and invest in the priorities we all share. Because a majority government can finally get Brexit out of the way.",
+            "health": "Investing in our NHS \u2013 Investing in a state of the art hospital at Addenbrookes.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Building a better Cambridge \u2013 Investing in the A428 upgrade and the south Cambridge railway station and opposing the introduction of a City Congestion Charge.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Locally, there\u2019s so much we can achieve. We\u2019ve got a plan \u2013 and we\u2019re working to deliver it.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "20 Station Road, Cambridge CB12 2JD",
+            "phone": "",
+            "email": "",
+            "website": "www.cambridgeconservatives.org.uk/",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "\u00a333.9 billion extra for the NHS.",
+                        "3.7 million more people are in work."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Our economy is growing.",
+                        "Locally, there\u2019s so much we can achieve.",
+                        "We took the tough decisions \u2013 and we turned the economy around."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Locally, there\u2019s so much we can achieve. We\u2019ve got a plan \u2013 and we\u2019re working to deliver it."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Our economy is growing. 3.7 million more people are in work. And our priorities are starting to get the attention they deserve."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Don\u2019t risk five long years of Jeremy Corbyn.",
+                        "Imagine how that would affect you and your family. Five years of tax rises. Five years of out-of-control spending. Five years of politicians arguing about Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 3,
+                    "examples": [
+                        "Don\u2019t risk five long years of Jeremy Corbyn.",
+                        "At the end of this election, we could end up with Prime Minister Jeremy Corbyn.",
+                        "A hung parliament means Jeremy Corbyn as Prime Minister."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

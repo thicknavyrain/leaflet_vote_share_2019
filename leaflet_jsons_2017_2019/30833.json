@@ -1,0 +1,191 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Just 11 days after you vote, the EU wants to start Brexit negotiations with Britain. So whoever is Prime Minister must be up to the job and ready to start."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Making Brexit a success is central to our national interest."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Build a stronger economy that rewards people who work hard and creates secure and well-paid jobs."
+            },
+            {
+                "policyTitle": "Social Welfare",
+                "policyDescription": "Provide real opportunity and support for all with affordable housing, a good school place for every child, and strong NHS funding."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "A loss of just 6 seats and Theresa May's government loses its majority \u2013 putting Brexit negotiations at risk."
+        },
+        "issues": {
+            "brexitEurope": "Theresa May and the Conservatives will continue to reduce immigration, European Economic Area (EEA) rules, future trade agreements.",
+            "defence": "",
+            "economy": "Build a stronger economy, Lower taxes, lower bills, and better-paid jobs.",
+            "education": "Good school place for every child.",
+            "environment": "",
+            "governance": "",
+            "government": "Establish Britain as the strongest country in Europe, with economic growth and national security.",
+            "health": "Strong NHS funding.",
+            "immigration": "Theresa May and the Conservatives will continue to reduce immigration, increase control.",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Provide real opportunity and support for all with affordable housing, a good school place for every child, and strong NHS funding.",
+            "community": [
+                {
+                    "content": "Everything depends on getting a good Brexit deal.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Prime Minister",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "A loss of just 6 seats and Theresa May's government loses its majority \u2013 putting Brexit negotiations at risk."
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 10,
+                "candidateAlone": 1,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Everything depends on getting a good Brexit deal."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Making Brexit a success is central to our national interest.",
+                        "Build a stronger economy, Lower taxes, lower bills, and better-paid jobs."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "A loss of just 6 seats and Theresa May's government loses its majority \u2013 putting Brexit negotiations at risk."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn doesn't believe in Britain.",
+                        "Jeremy Corbyn imposed as Prime Minister - propped up by the minor parties including Nicola Sturgeon's SNP."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Labour plots Brexit deal with other parties to hold the UK in the EU customs union."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,205 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Tories leave the North behind",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Travel Spending Inequality",
+                "policyDescription": "North to receive \u00a32,300 less per person in travel spending than London."
+            },
+            {
+                "policyTitle": "Child Poverty",
+                "policyDescription": "Child poverty up and pay lagging since northern powerhouse launch."
+            },
+            {
+                "policyTitle": "Spending Cuts and Austerity",
+                "policyDescription": "North hit by spending cuts since Tory austerity while South sees increase in government money."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "North hit by spending cuts since Tory austerity while South sees increase in government money.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "North to receive \u00a32,300 less per person in travel spending than London.",
+            "socialWelfare": "Child poverty up and pay lagging since northern powerhouse launch.",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "North to receive \u00a32,300 less per person in travel spending than London",
+                "source": "The Telegraph",
+                "date": "19 Aug 2019"
+            },
+            {
+                "text": "Child poverty up and pay lagging since northern powerhouse launch",
+                "source": "The Guardian",
+                "date": "21 June 2019"
+            },
+            {
+                "text": "North hit by spending cuts since Tory austerity while South sees increase in government money",
+                "source": "Independent",
+                "date": "5 December 2018"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "North to receive \u00a32,300 less per person in travel spending than London.",
+                        "Child poverty up and pay lagging since northern powerhouse launch.",
+                        "North hit by spending cuts since Tory austerity while South sees increase in government money."
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "North to receive \u00a32,300 less per person in travel spending than London.",
+                        "Child poverty up and pay lagging since northern powerhouse launch.",
+                        "North hit by spending cuts since Tory austerity while South sees increase in government money."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "Tories leave the North behind",
+                        "North hit by spending cuts since Tory austerity while South sees increase in government money.",
+                        "Child poverty up and pay lagging since northern powerhouse launch."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

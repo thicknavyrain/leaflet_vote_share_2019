@@ -1,0 +1,167 @@
+{
+    "leaflet": {
+        "candidateName": "Tim Farron",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Lib Dems",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Your postal vote can stop Theresa May's Brexit wrecking Britain",
+                "content": "The only way to stop the Conservatives\u2019 extreme Brexit is to use your postal vote to back the Lib Dems. Labour voted with UKIP on Brexit. The only way to stop the Conservatives\u2019 extreme Brexit is to use your postal vote to back the Lib Dems."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit Referendum",
+                "policyDescription": "Will let you decide final Brexit deal."
+            },
+            {
+                "policyTitle": "Education and Health",
+                "policyDescription": "More money for schools and our NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "Tim Farron",
+            "otherPartyLeaderCandidate": "Theresa May, Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Labour voted with UKIP on Brexit. The only way to stop the Conservatives\u2019 extreme Brexit is to use your postal vote to back the Lib Dems.",
+            "defence": "",
+            "economy": "",
+            "education": "More money for schools",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "More money for our NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Lib Dems, Google Street, London SW1P 2AE",
+            "phone": "",
+            "email": "",
+            "website": "LibDems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Tim Farron"
+                },
+                {
+                    "caption": "Theresa May"
+                },
+                {
+                    "caption": "Jeremy Corbyn"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "The only way to stop the Conservatives\u2019 extreme Brexit is to use your postal vote to back the Lib Dems.",
+                        "More money for schools and our NHS."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Will let you decide final Brexit deal.",
+                        "More money for schools and our NHS."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Their extreme Brexit will wreck Britain.",
+                        "...and Labour is supporting them!"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Their extreme Brexit will wreck Britain."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Their extreme Brexit will wreck Britain."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "leaflet": {
+        "candidateName": "Tom Scott",
+        "candidateGender": "",
+        "constituency": "Truro & Falmouth",
+        "politicalParty": "Green Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "WHY VOTE FOR TOM SCOTT?",
+                "content": "1. CLEAR ON BREXIT: Tom has been a committed and effective campaigner against Brexit and for a People\u2019s Vote. 2. STRONG ON CLIMATE: Tom has campaigned against climate chaos for over ten years \u2013 it\u2019s why he joined the Green Party. 3. A FAIRER FUTURE: Only the Green Party has the joined-up policies that can secure a fairer, more sustainable future for us all."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "CLEAR ON BREXIT",
+                "policyDescription": "Tom has been a committed and effective campaigner against Brexit and for a People\u2019s Vote."
+            },
+            {
+                "policyTitle": "STRONG ON CLIMATE",
+                "policyDescription": "Tom has campaigned against climate chaos for over ten years \u2013 it\u2019s why he joined the Green Party."
+            },
+            {
+                "policyTitle": "A FAIRER FUTURE",
+                "policyDescription": "Only the Green Party has the joined-up policies that can secure a fairer, more sustainable future for us all."
+            }
+        ],
+        "mentions": {
+            "candidate": "Tom Scott",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Tom has been a committed and effective campaigner against Brexit and for a People\u2019s Vote.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Tom has campaigned against climate chaos for over ten years.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Only the Green Party has the joined-up policies that can secure a fairer, more sustainable future for us all.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "tmscott@btconnect.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Tom has been a committed and effective campaigner against Brexit and for a People\u2019s Vote.",
+                        "Tom has campaigned against climate chaos for over ten years \u2013 it\u2019s why he joined the Green Party.",
+                        "Only the Green Party has the joined-up policies that can secure a fairer, more sustainable future for us all."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Tom has been a committed and effective campaigner against Brexit and for a People\u2019s Vote.",
+                        "Tom has campaigned against climate chaos for over ten years \u2013 it\u2019s why he joined the Green Party."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

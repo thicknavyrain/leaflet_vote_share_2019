@@ -1,0 +1,172 @@
+{
+    "leaflet": {
+        "candidateName": "Alan Johnson",
+        "candidateGender": "",
+        "constituency": "Bolton South East",
+        "politicalParty": "Green Party",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Alan Says...",
+                "content": "I am standing in Bolton South East because I believe it is time for the kind of politics that puts people, and the planet, before profit. We need more opportunities for our young citizens. We need to alleviate the shame of fuel poverty for our elderly and we need to remove the need for food banks. The fact that people are experiencing such hardships in one of the world\u2019s richest nations is a national disgrace. I will fight for a decent standard of living for all."
+            },
+            {
+                "title": "IT'S TIME TO STAND UP FOR WHAT MATTERS",
+                "content": "Alan is active in many local campaigns that aim to protect the interests of the community and promote Green values including: Bolton Against the Bedroom Tax and Bolton Against Fracking."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protect Community Interests",
+                "policyDescription": "Active in campaigns like Bolton Against the Bedroom Tax and Bolton Against Fracking."
+            }
+        ],
+        "mentions": {
+            "candidate": "Alan Johnson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Shame of fuel poverty for our elderly. Removing the need for food banks.",
+            "community": [
+                {
+                    "content": "Alan is active in many local campaigns that aim to protect the interests of the community and promote Green values including: Bolton Against the Bedroom Tax and Bolton Against Fracking.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "01204 62172",
+            "email": "Alan.Johnson@BoltonGreenParty.org.uk",
+            "website": "bolton.greenparty.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@BoltonGreens",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Over 300 residents signed a petition calling for Bolton Council to clear the abandoned former over works in Daubhill."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I believe it is time for the kind of politics that puts people, and the planet, before profit.",
+                        "The fact that people are experiencing such hardships in one of the world\u2019s richest nations is a national disgrace.",
+                        "To shape an economy for everyone where being part of a community provides security and safety. To properly fund public services and to create highly paid and secure jobs."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Bolton Against the Bedroom Tax",
+                        "Bolton Against Fracking"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Community campaigns to protect interests and promote Green values."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

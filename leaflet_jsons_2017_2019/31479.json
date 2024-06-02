@@ -1,0 +1,210 @@
+{
+    "leaflet": {
+        "candidateName": "Ryan Henson",
+        "candidateGender": "",
+        "constituency": "Bedford and Kempston",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Ryan Henson leads NHS Funding Campaign for Bedford and Kempston",
+                "content": "The Conservative MP Candidate for Bedford and Kempston is leading the campaign to make sure Bedford receives its share of the record new NHS funding announced by Prime Minister Boris Johnson."
+            },
+            {
+                "title": "Boris 'listens' as Ryan leads local education campaign",
+                "content": "After leading a campaign this summer to fight for more Government funding for schools in Bedford and Kempston, Conservative MP Candidate Ryan Henson has welcomed the Prime Minister's plan and promises to help schools better fund."
+            },
+            {
+                "title": "Supporting our town centre",
+                "content": "Ryan Henson, the local campaigner hoping to be the next Member of Parliament for Bedford and Kempston, has been working to make sure enough is done to support Bedford town centre."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "More police with extra resources to cut crime",
+                "policyDescription": "The Government is committed to recruiting 20,000 new officers, with over 400 new officers across Bedfordshire."
+            },
+            {
+                "policyTitle": "Better schools and training qualifications",
+                "policyDescription": "Increasing funding for local schools and boosting investment in further education."
+            },
+            {
+                "policyTitle": "More money for our NHS and local support services",
+                "policyDescription": "A \u00a313 billion investment accompanied by a funding increase to ensure Bedford gets its fair share."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ryan Henson",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Ryan Henson urges Cabinet Minister to support local businesses and listen to Bedford and Kempston residents about Brexit.",
+            "defence": "",
+            "economy": "Ryan wins up to \u00a325 million investment for Town Centre.",
+            "education": "Ryan wrote to the PM to urge that local schools be better funded.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The Conservative MP Candidate for Bedford and Kempston is leading the campaign to make sure Bedford receives its share of the record new NHS funding.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "The Government is committed to recruiting 20,000 new officers to cut crime.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Ryan Henson participates in litter picking in Kempston.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Local campaigner",
+                "duration": "",
+                "achievements": "Secured investment and led local initiatives."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.conservatives.com",
+            "socialMedia": {
+                "facebook": "facebook.com/ryanhenson87",
+                "twitter": "twitter.com/ryanhenson87",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Alison Crook",
+                "endorsement": "We need an MP who will be the voice for those most vulnerable in society who need it most. That's why I'm supporting Ryan."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "We need an MP who will be the voice for those most vulnerable in society who need it most. That's why I'm supporting Ryan.",
+                "source": "Alison Crook",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Ryan Henson leading the campaign for NHS funding."
+                },
+                {
+                    "caption": "Ryan meets with Veterans Minister to discuss support for Armed Forces."
+                },
+                {
+                    "caption": "Ryan Henson working with local community members on initiatives like litter picking."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "The Government is committed to recruiting 20,000 new officers.",
+                        "A \u00a313 billion investment for NHS funding.",
+                        "Ryan wins up to \u00a325 million investment for Town Centre."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Boris 'listens' as Ryan leads local education campaign.",
+                        "Supporting our town centre."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "Litter picking in Kempston.",
+                        "Supporting our town centre.",
+                        "Better schools and training qualifications.",
+                        "More police with extra resources to cut crime."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Getting Brexit done so that we can focus on our local priorities.",
+                        "More money for our NHS and local support services."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Ryan Henson leads a litter pick in Kempston.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "We need an MP who will be the voice for those most vulnerable in society who need it most. That's why I'm supporting Ryan."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Ryan Henson shows commitment to the local community through initiatives like litter picking.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Ryan Henson's involvement in local issues like litter picking demonstrates his local commitment."
+                ]
+            }
+        }
+    }
+}

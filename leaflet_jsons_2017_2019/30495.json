@@ -1,0 +1,182 @@
+{
+    "leaflet": {
+        "candidateName": "Ralph Hierons",
+        "candidateGender": "",
+        "constituency": "Erewash",
+        "politicalParty": "Green Party",
+        "electionDate": "June 8th 2017",
+        "messages": [
+            {
+                "title": "Supporting our communities",
+                "content": "I will voice the desperate need for affordable housing solutions across Erewash and for the required care and support for all residents in need."
+            },
+            {
+                "title": "The ONLY consistent opposition to HS2",
+                "content": "The \u00a350 billion plus pricetag should be spent improving our existing rail network and benefit everyone. I will push for cleaner, greener public transport for all."
+            },
+            {
+                "title": "Protecting our Green belt",
+                "content": "With fracking and D2N2 plans threatening to permanently destroy our wildlife and beloved green spaces, I will make a stand for all Erewash residents."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Affordable Housing",
+                "policyDescription": "Voice the desperate need for affordable housing solutions across Erewash."
+            },
+            {
+                "policyTitle": "Care and Support",
+                "policyDescription": "Provide the required care and support for all residents in need."
+            },
+            {
+                "policyTitle": "Opposition to HS2",
+                "policyDescription": "Oppose the \u00a350 billion HS2 project and push for improvements to the existing rail network."
+            },
+            {
+                "policyTitle": "Green Belt Protection",
+                "policyDescription": "Stand against fracking and D2N2 plans that threaten wildlife and green spaces."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ralph Hierons",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "With fracking and D2N2 plans threatening to permanently destroy our wildlife and beloved green spaces, I will make a stand for all Erewash residents.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "The \u00a350 billion plus pricetag should be spent improving our existing rail network and benefit everyone. I will push for cleaner, greener public transport for all.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I will voice the desperate need for affordable housing solutions across Erewash and for the required care and support for all residents in need.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Brookfields Park, Manvers Way, S63 5DR",
+            "phone": "",
+            "email": "erewashgreens@outlook.com",
+            "website": "www.erewashgreenparty.info",
+            "socialMedia": {
+                "facebook": "www.facebook.com/erewashgreenparty",
+                "twitter": "@ErewashGreen",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "The \u00a350 billion plus pricetag should be spent improving our existing rail network and benefit everyone."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I will voice the desperate need for affordable housing solutions across Erewash and for the required care and support for all residents in need.",
+                        "With fracking and D2N2 plans threatening to permanently destroy our wildlife and beloved green spaces, I will make a stand for all Erewash residents.",
+                        "I will push for cleaner, greener public transport for all."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Voice the desperate need for affordable housing solutions across Erewash and for the required care and support for all residents in need.",
+                        "With fracking and D2N2 plans threatening to permanently destroy our wildlife and beloved green spaces, I will make a stand for all Erewash residents."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The \u00a350 billion plus pricetag should be spent improving our existing rail network and benefit everyone. I will push for cleaner, greener public transport for all."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "With fracking and D2N2 plans threatening to permanently destroy our wildlife and beloved green spaces, I will make a stand for all Erewash residents."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The \u00a350 billion plus pricetag should be spent improving our existing rail network and benefit everyone."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

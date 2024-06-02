@@ -1,0 +1,192 @@
+{
+    "leaflet": {
+        "candidateName": "Julian Vaughan",
+        "candidateGender": "",
+        "constituency": "North East Bedfordshire",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "Our pledges to you",
+                "content": "We will rebuild the NHS.\nWe will tackle the crisis in social care.\nWe will increase the minimum wage to \u00a310 an hour by 2020.\nWe will take our education crisis seriously.\nWe will tackle the housing crisis."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "We will rebuild our NHS, increase funding and improve patient care."
+            },
+            {
+                "policyTitle": "Social Care",
+                "policyDescription": "We will tackle the social care crisis to ensure dignity for all."
+            },
+            {
+                "policyTitle": "Minimum Wage",
+                "policyDescription": "We will increase the minimum wage to \u00a310 an hour by 2020."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "We will take the education crisis seriously, ensuring proper funding and resources."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "We will tackle the housing crisis with affordable homes for all."
+            }
+        ],
+        "mentions": {
+            "candidate": "Julian Vaughan",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "We will increase the minimum wage to \u00a310 an hour by 2020.",
+            "education": "We will take our education crisis seriously.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "We will rebuild the NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "We will tackle the crisis in social care.",
+            "community": [
+                {
+                    "content": "We will tackle the housing crisis.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I want to create a society where all are treated fairly, a society you can be proud of. I share your frustrations with the failings of those behind us. If given the lovely to represent you I commit myself to fighting for all that tightens North East Bedfordshire.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "The Labour Hall, Walsworth Road, Hitchin, SG4 9SP",
+            "phone": "07982 801045",
+            "email": "office@julianvaughan4neb.org",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@julianvaughan4neb",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "I believe in a society that works for the many, not just the few. One where we have access to decent education, a safe home and secure living.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Julian out and about in North East Bedfordshire."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "We will increase the minimum wage to \u00a310 an hour by 2020."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "We will rebuild the NHS.",
+                        "We will tackle the crisis in social care.",
+                        "We will take our education crisis seriously.",
+                        "We will tackle the housing crisis."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "We will tackle the housing crisis."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "We will rebuild the NHS.",
+                        "We will tackle the crisis in social care.",
+                        "We will increase the minimum wage to \u00a310 an hour by 2020.",
+                        "We will take our education crisis seriously."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Julian Vaughan shares his vision for a fairer society.",
+                    "issueRelated": "socialWelfare"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "If given the lovely to represent you I commit myself to fighting for all that tightens North East Bedfordshire.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "If given the lovely to represent you I commit myself to fighting for all that tightens North East Bedfordshire."
+                ]
+            }
+        }
+    }
+}

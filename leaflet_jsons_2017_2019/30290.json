@@ -1,0 +1,176 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Cambridge",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Labour's Brexit let-down:",
+                "content": "Voted with UKIP to back Brexit. Want us out of the single market. Fighting against free movement. Jeremy Corbyn has betrayed us over Brexit. He is unfit to be called leader of the opposition. THE GUARDIAN, 19 February 2017."
+            },
+            {
+                "title": "",
+                "content": "MORE AND MORE PEOPLE IN CAMBRIDGE ARE SWITCHING TO THE LIB DEMS TO STOP BREXIT WRECKING BRITAIN."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "Switch to the Liberal Democrats to stop Brexit wrecking Britain."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn, leader of the opposition",
+            "partyLeader": "",
+            "tacticalSituation": "The Conservatives can't win here."
+        },
+        "issues": {
+            "brexitEurope": "Jeremy Corbyn has betrayed us over Brexit. He is unfit to be called leader of the opposition.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "MORE AND MORE PEOPLE IN CAMBRIDGE ARE SWITCHING TO THE LIB DEMS TO STOP BREXIT WRECKING BRITAIN.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "8-10 Great George Street, London, SW1P 3AE",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "LIB DEMS ARE THE ANTI-BREXIT PARTY.",
+                "source": "BBC, 19 April 2017",
+                "date": "19 April 2017"
+            },
+            {
+                "text": "ONLY THE LIB DEMS CAN STOP HARD BREXIT",
+                "source": "The Times, 4 April 2017",
+                "date": "4 April 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Labour's Brexit let-down: Voted with UKIP to back Brexit. Want us out of the single market. Fighting against free movement. Jeremy Corbyn has betrayed us over Brexit. He is unfit to be called leader of the opposition.",
+                        "MORE AND MORE PEOPLE IN CAMBRIDGE ARE SWITCHING TO THE LIB DEMS TO STOP BREXIT WRECKING BRITAIN."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "MORE AND MORE PEOPLE IN CAMBRIDGE ARE SWITCHING TO THE LIB DEMS TO STOP BREXIT WRECKING BRITAIN."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "LIB DEMS ARE THE ANTI-BREXIT PARTY.",
+                        "ONLY THE LIB DEMS CAN STOP HARD BREXIT"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour's Brexit let-down: Voted with UKIP to back Brexit. Want us out of the single market. Fighting against free movement. Jeremy Corbyn has betrayed us over Brexit. He is unfit to be called leader of the opposition."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn has betrayed us over Brexit. He is unfit to be called leader of the opposition."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn has betrayed us over Brexit. He is unfit to be called leader of the opposition."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

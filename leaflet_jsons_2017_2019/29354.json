@@ -1,0 +1,201 @@
+{
+    "leaflet": {
+        "candidateName": "Adam Marsden",
+        "candidateGender": "",
+        "constituency": "Garston and Halewood",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Support for Local Businesses",
+                "policyDescription": "Standing up for our local businesses and ensuring the government gives them the support they need."
+            },
+            {
+                "policyTitle": "Protect Green Spaces",
+                "policyDescription": "Fight to protect our green spaces from being lost forever by short-sighted development plans."
+            },
+            {
+                "policyTitle": "Local Campaign",
+                "policyDescription": "Be a local campaigner who will be your voice in Parliament."
+            }
+        ],
+        "mentions": {
+            "candidate": "Adam Marsden",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Standing up for our local businesses and ensuring the government gives them the support they need.",
+                    "yimbyNimby": "N/A"
+                },
+                {
+                    "content": "Fight to protect our green spaces from being lost forever by short-sighted development plans.",
+                    "yimbyNimby": "NIMBY"
+                },
+                {
+                    "content": "Be a local campaigner who will be your voice in Parliament.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Standing up for our local businesses and ensuring the government gives them the support they need.",
+                        "Fight to protect our green spaces from being lost forever by short-sighted development plans.",
+                        "Be a local campaigner who will be your voice in Parliament."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 2,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Standing up for our local businesses and ensuring the government gives them the support they need.",
+                        "Fight to protect our green spaces from being lost forever by short-sighted development plans.",
+                        "Be a local campaigner who will be your voice in Parliament."
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Be a local campaigner who will be your voice in Parliament."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "On June 8th I\u2019m voting for a strong local Labour MP.",
+                "content": "As a Forces Veteran I know what it means to fight for what you believe in.\nI trust Labour to fight for a Brexit deal that works for Yorkshire. A deal that secures jobs, wages and controls immigration.\nThe Tories have never been on our side.\nWe need a strong, independent-minded, Labour MP who will fight our corner.\nOnly a Labour MP will stand against the Tories\u2019 cuts to our schools, our hospitals and our police.\nIn this election, stand with me and vote for a strong local Labour MP. Together, we can get the best deal for Yorkshire."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Labour will fight for a Brexit deal that works for Yorkshire, secures jobs, wages, and controls immigration."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Labour will stand against Tory cuts to schools."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Labour will stand against Tory cuts to hospitals."
+            },
+            {
+                "policyTitle": "Law and Order",
+                "policyDescription": "Labour will stand against Tory cuts to police."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "The Tories have never been on our side.",
+            "partyLeader": "",
+            "tacticalSituation": "Together, we can get the best deal for Yorkshire."
+        },
+        "issues": {
+            "brexitEurope": "I trust Labour to fight for a Brexit deal that works for Yorkshire.",
+            "defence": "",
+            "economy": "A deal that secures jobs, wages and controls immigration.",
+            "education": "Only a Labour MP will stand against the Tories\u2019 cuts to our schools.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Only a Labour MP will stand against the Tories\u2019 cuts to our hospitals.",
+            "immigration": "A deal that secures jobs, wages and controls immigration.",
+            "labourEmployment": "",
+            "lawCrime": "Only a Labour MP will stand against the Tories\u2019 cuts to our police.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Together, we can get the best deal for Yorkshire.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "David Bloomfield",
+                "endorsement": "I trust Labour to fight for a Brexit deal that works for Yorkshire. A deal that secures jobs, wages and controls immigration."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "David Bloomfield, Royal Green Jacket veteran"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Labour will fight for a Brexit deal that secures jobs, wages, and controls immigration."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "As a Forces Veteran I know what it means to fight for what you believe in.",
+                        "The Tories have never been on our side.",
+                        "We need a strong, independent-minded, Labour MP who will fight our corner.",
+                        "Together, we can get the best deal for Yorkshire."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Together, we can get the best deal for Yorkshire."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Labour will stand against Tory cuts to schools, hospitals, and police."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "David Bloomfield, a Royal Green Jacket veteran, trusts Labour to fight for a Brexit deal that works for Yorkshire, secures jobs, wages, and controls immigration.",
+                    "issueRelated": "Brexit"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "David Bloomfield, Royal Green Jacket veteran endorsing Labour."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Tories have never been on our side."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "We need a strong, independent-minded, Labour MP who will fight our corner.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Together, we can get the best deal for Yorkshire."
+                ]
+            }
+        }
+    }
+}

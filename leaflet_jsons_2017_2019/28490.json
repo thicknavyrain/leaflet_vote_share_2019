@@ -1,0 +1,166 @@
+{
+    "leaflet": {
+        "candidateName": "Jeremy Quin",
+        "candidateGender": "",
+        "constituency": "Horsham",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Your Choice at This Election",
+                "content": "Strong, Stable Leadership in the National Interest or a Coalition of Chaos with Jeremy Corbyn"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Making Brexit a success by securing the best deal for Britain and negotiating strongly."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Building a stronger economy that rewards people who work hard and creating secure and well-paid jobs across the country."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Providing real opportunity and support for all with a special place for the NHS in the candidate's vision for the country."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jeremy Quin",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Making Brexit a success, the UK's Article 50 Letter to the President of the European Council, repealing the European Communities Act 1972.",
+            "defence": "",
+            "economy": "Building a stronger economy, creating secure and well-paid jobs.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Providing real opportunity and support for all with special emphasis on the NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Supporting public services, schools, businesses, community initiatives, and being a strong voice for local people.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "01403 240000",
+            "email": "jeremy@jeremyquin.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "JeremyQuinMP",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Shock Win: President Trump stunning Trump Win.",
+                        "Shock Win: Brexit: Europe stunned by UK leave vote.",
+                        "Shock Win: Corbyn 200-1 outsider."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Strong, stable leadership in the national interest.",
+                        "A coalition of chaos with Jeremy Corbyn.",
+                        "Theresa May provides the leadership the United Kingdom needs at this critical time.",
+                        "Working hard all year round through local engagement with various visits to schools, businesses, and charities."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 4,
+                "candidateAlone": 2,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Working hard all year round through local engagement with various visits to schools, businesses, and charities."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Making Brexit a success by securing the best deal for Britain and negotiating strongly.",
+                        "Building a stronger economy that rewards people who work hard and creating secure and well-paid jobs across the country.",
+                        "Providing real opportunity and support for all with a special place for the NHS in the candidate's vision for the country."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Think Jeremy Corbyn as Prime Minister is never going to happen? Don't be so sure."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Working hard all year round through local engagement with various visits to schools, businesses, and charities."
+                ]
+            }
+        }
+    }
+}

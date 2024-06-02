@@ -1,0 +1,189 @@
+{
+    "leaflet": {
+        "candidateName": "Shaun Bailey",
+        "candidateGender": "",
+        "constituency": "West Bromwich West",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Main Messages",
+                "content": "Delivering Brexit in West Bromwich West. Getting Brexit done. Investing in our NHS. Regenerating our communities."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Delivering Brexit with a deal."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "\u00a333.9 billion extra for the NHS."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "More funding for every pupil in every school."
+            },
+            {
+                "policyTitle": "Police",
+                "policyDescription": "20,000 extra police officers."
+            },
+            {
+                "policyTitle": "Healthcare Infrastructure",
+                "policyDescription": "40 new hospitals across the country."
+            },
+            {
+                "policyTitle": "Broadband",
+                "policyDescription": "Gigabit broadband for the whole country."
+            },
+            {
+                "policyTitle": "Economic Investment",
+                "policyDescription": "\u00a33.6 billion to help towns invest and attract new businesses."
+            }
+        ],
+        "mentions": {
+            "candidate": "Shaun Bailey",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn propped up by Nicola Sturgeon. John Curtice: Polls teeter between hung parliament and Tory majority.",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "Your local vote will decide it. This election will be close."
+        },
+        "issues": {
+            "brexitEurope": "Brexit done with a deal.",
+            "defence": "",
+            "economy": "\u00a33.6 billion to help towns invest and attract new businesses.",
+            "education": "More funding for every pupil in every school.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "\u00a333.9 billion extra for the NHS. 40 new hospitals across the country.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "20,000 extra police officers.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Regenerating our communities.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 7,
+                    "examples": [
+                        "\u00a333.9 billion extra for the NHS.",
+                        "20,000 extra police officers.",
+                        "More funding for every pupil in every school.",
+                        "40 new hospitals across the country.",
+                        "Gigabit broadband for the whole country.",
+                        "\u00a33.6 billion to help towns invest and attract new businesses.",
+                        "Polls teeter between hung parliament and Tory majority."
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "Your local vote will decide it.",
+                        "This election will be close.",
+                        "Delivering Brexit in West Bromwich West.",
+                        "Getting Brexit done.",
+                        "Investing in our NHS.",
+                        "Regenerating our communities."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 9,
+                "candidateAlone": 1,
+                "candidateWithOthers": 4
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Regenerating our communities."
+                    ]
+                },
+                "national": {
+                    "count": 6,
+                    "examples": [
+                        "Brexit done with a deal.",
+                        "\u00a333.9 billion extra for the NHS.",
+                        "More funding for every pupil in every school.",
+                        "20,000 extra police officers.",
+                        "40 new hospitals across the country.",
+                        "Gigabit broadband for the whole country."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn propped up by Nicola Sturgeon."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

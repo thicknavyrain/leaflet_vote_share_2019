@@ -1,0 +1,182 @@
+{
+    "leaflet": {
+        "candidateName": "Keith Angus",
+        "candidateGender": "",
+        "constituency": "Islington North",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Keith Angus",
+                "content": "A strong voice for Islington North"
+            },
+            {
+                "title": "BREXIT: Who will speak up for you?",
+                "content": "This election is a huge opportunity for the people of Islington North. The Liberal Democrats are the only party campaigning to stop Brexit."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fighting for an Education for All",
+                "policyDescription": "Keith Angus will ensure funding for local schools, reduce class sizes and balance the academic curriculum to prepare students for life."
+            },
+            {
+                "policyTitle": "Tackling Islington's Housing Crisis",
+                "policyDescription": "There is a housing crisis in Islington with more people renting or buying at inflated prices. Keith Angus plans to tackle this by reforming the rental market and introducing thousands of new homes."
+            },
+            {
+                "policyTitle": "Protect Our Health and Social Care",
+                "policyDescription": "Keith Angus aims to protect our NHS by reducing waste, supporting mental health services, and integrating health and social care."
+            }
+        ],
+        "mentions": {
+            "candidate": "Keith Angus",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "Only local Lib Dem Keith Angus can beat Jeremy Corbyn"
+        },
+        "issues": {
+            "brexitEurope": "BREXIT: Who will speak up for you?",
+            "defence": "",
+            "economy": "Islington Labour MPs voted for Brexit, impacting local jobs and businesses.",
+            "education": "Fighting for an Education for All",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Protect Our Health and Social Care",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Tackling Islington's Housing Crisis",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "My personal pledge to the people of Islington North.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "keith@liberalislington.com",
+            "website": "www.liberalislington.com",
+            "socialMedia": {
+                "facebook": "/IslingtonLibDems",
+                "twitter": "@LibDemKeith",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Corbyn's weak opposition allowed Theresa May an easy ride on Brexit",
+                "source": "The Independent",
+                "date": "24th Jan 2017"
+            },
+            {
+                "text": "Labour is not a functioning opposition, leaving Mrs. May free to act as she pleases",
+                "source": "The Observer",
+                "date": "25th Feb 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Keith Angus"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn led his party to vote for Brexit.",
+                        "Labour can't be trusted."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "My personal pledge to the people of Islington North.",
+                        "Only local Lib Dem Keith Angus can beat Jeremy Corbyn."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Tackling Islington's Housing Crisis",
+                        "Fighting for an Education for All"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Protect Our Health and Social Care",
+                        "Islington Labour MPs voted for Brexit",
+                        "BREXIT: Who will speak up for you?"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Islington Labour MPs voted for Brexit",
+                        "Corbyn's weak opposition allowed Theresa May an easy ride on Brexit"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn led his party to vote for Brexit."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Only local Lib Dem Keith Angus can beat Jeremy Corbyn",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Only local Lib Dem Keith Angus can beat Jeremy Corbyn"
+                ]
+            }
+        }
+    }
+}

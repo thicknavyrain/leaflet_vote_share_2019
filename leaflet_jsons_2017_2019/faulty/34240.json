@@ -1,0 +1,187 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Alan Whitehead",
+    "candidateGender": "",
+    "constituency": "Southampton Test",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "My pledges to you",
+        "content": "Stand Up for our Schools, Ensure that our city is safe, Fight for decent homes for everyone, Tackle the climate emergency, Guarantee a Public Vote on any Brexit Deal"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Stand Up for our Schools",
+        "policyDescription": "Ensure that our schools get the funding they need to reverse years of Tory cuts"
+      },
+      {
+        "policyTitle": "Ensure that our city is safe",
+        "policyDescription": "The Tories have made substantial cuts to Police. Labour would put police officers back on the streets"
+      },
+      {
+        "policyTitle": "Fight for decent homes for everyone",
+        "policyDescription": "I will work towards all homes being energy efficient including privately rented ones"
+      },
+      {
+        "policyTitle": "Tackle the climate emergency",
+        "policyDescription": "I will continue my work on finding more sustainable ways to power our country"
+      },
+      {
+        "policyTitle": "Guarantee a Public Vote on any Brexit Deal",
+        "policyDescription": "Labour would renegotiate a deal with the EU and let people have their say. I would campaign to Remain."
+      }
+    ],
+    "mentions": {
+      "candidate": "Alan Whitehead",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Brexit is at the forefront of everyone's minds and whether you voted Leave or Remain no-one wants to see the country worse off. All of the Tories at this election would see a Brexit where the NHS could be part of a trade deal with Donald Trump.",
+      "defence": "",
+      "economy": "",
+      "education": "The Tories have cut back parents to clean the toilets, the lack of funding for our schools. I have had to ask parents to clean the toilets, the lack of funding for our schools.",
+      "environment": "The climate emergency is one of the most important in a generation. It will affect what happens with Brexit but also whether we have the ability to tackle our environmental commitments and stop our country after years of Conservative neglect.",
+      "governance": "",
+      "government": "",
+      "health": "it's about the climate emergency, saving the NHS and improving the lives of the people who have been devastated by the Tories' bad choices.",
+      "immigration": "",
+      "labourEmployment": "",
+      "lawCrime": "",
+      "transport": "",
+      "socialWelfare": "",
+      "community": [
+        {
+          "content": "Supporting carbon footprint",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "\"If re-elected on December 12th I would continue as a strong voice for Southampton, standing up for our cities schools and hospitals in Parliament.\"",
+    "politicalExperience": [
+      {
+        "role": "MP",
+        "duration": "",
+        "achievements": "I've spent much of my career dedicated to working on policies to tackle it."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "023 80682086",
+      "email": "alan@alan-whitehead.org.uk",
+      "website": "www.alan-whitehead.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "@alanwhiteheadmp",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Eloise, Banister Park",
+        "endorsement": "There's nothing more important for Alan than fighting for Eastern deals in the environment."
+      },
+      {
+        "endorser": "AJay, Bevois",
+        "endorsement": "I've seen how hard he worked for children with Easter family for the past 30 years. Alan is the strong voice we need in Parliament."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "",
+    "analysis": {
+      "statementAnalysis": {
+        "quantitative": {
+          "count": 0,
+          "examples": [""]
+        },
+        "qualitative": {
+          "count": 2,
+          "examples": [
+            "I've spent much of my career dedicated to working on policies to tackle it.",
+            "I've seen how hard he worked for children with Easter family for the past 30 years."
+          ]
+        }
+      },
+      "photoAnalysis": {
+        "localPlaces": 0,
+        "people": 3,
+        "candidateAlone": 0,
+        "candidateWithOthers": 3
+      },
+      "issueFocus": {
+        "local": {
+          "count": 1,
+          "examples": ["Standing up for Southampton"]
+        },
+        "national": {
+          "count": 4,
+          "examples": ["Brexit", "Climate emergency", "NHS", "Tory cuts"]
+        }
+      },
+      "personalStories": [
+        {
+          "story": "I've spent much of my career dedicated to working on policies to tackle it.",
+          "issueRelated": "climate emergency, saving the NHS"
+        }
+      ],
+      "endorsementsUsed": {
+        "count": 2,
+        "examples": [
+          "There's nothing more important for Alan than fighting for Eastern deals in the environment.",
+          "I've seen how hard he worked for children with Easter family for the past 30 years. Alan is the strong voice we need in Parliament."
+        ]
+      },
+      "negativeMessaging": {
+        "localIssues": {
+          "count": 1,
+          "examples": [
+            "In the last few years I have helped thousands of constituents who have been devastated by Tory government cuts.]
+        ],
+        "nationalIssues": {
+          "count": 1,
+          "examples": [
+            "it's about the climate emergency, saving the NHS and improving the lives of the people who have been devastated by the Tories' bad choices."
+          ]
+        },
+        "leaderOfOpponentsParty": {
+          "count": 0,
+          "examples": [""]
+        },
+        "oppositeCandidateNoName": {
+          "count": 0,
+          "examples": [""]
+        },
+        "oppositeCandidateWithName": {
+          "count": 0,
+          "examples": [""]
+        }
+      },
+      "nonPolicyAttributes": {
+        "localness": "",
+        "employment": "",
+        "education": "",
+        "family": ""
+      },
+      "localCandidate": {
+        "isLocal": true,
+        "examples": [
+          "Standing up for Southampton",
+          "If re-elected on December 12th I would continue as a strong voice for Southampton"
+        ]
+      }
+    }
+  }
+}
+```

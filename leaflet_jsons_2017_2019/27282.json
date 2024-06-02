@@ -1,0 +1,151 @@
+{
+    "leaflet": {
+        "candidateName": "Chris Donnelly",
+        "candidateGender": "",
+        "constituency": "Midlothian",
+        "politicalParty": "Scottish Conservative and Unionist",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "A Message from Ruth Davidson",
+                "content": "So, if you voted Scottish Conservative earlier this month, I want to assure you that despite what the SNP has been saying, your vote for your Scottish Conservative candidate in the General Election on 8th June. Only a vote on Thursday 8th June can help turn Midlothian in the direction of our Conservative candidate, and secure an independence referendum, and vote for a candidate who actually prioritizes local issues that matter."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Oppose SNP Independence Plan",
+                "policyDescription": "Fight SNP and their plans for another independence referendum."
+            },
+            {
+                "policyTitle": "Support Local Community",
+                "policyDescription": "Represent the people of Midlothian, putting their needs and priorities first."
+            }
+        ],
+        "mentions": {
+            "candidate": "Chris Donnelly",
+            "otherPartyLeaderCandidate": "SNP",
+            "partyLeader": "Ruth Davidson",
+            "tacticalSituation": "Only a vote on Thursday 8th June can help turn Midlothian in the direction of our Conservative candidate."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Represent the people of Midlothian, putting their needs and priorities first.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "If there\u2019s anything we\u2019ve learned in the years ahead will be filled with endless uncertainty and division so that most people just want to put behind us.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "All the polls and statistics say that only the Scottish Conservatives can beat the SNP here."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "If you vote for my candidate, Chris Donnelly, of them I am asking you to vote for the people of Midlothian."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Represent the people of Midlothian, putting their needs and priorities first."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Fight SNP and their plans for another independence referendum."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "The SNP and their plans for another independence referendum."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

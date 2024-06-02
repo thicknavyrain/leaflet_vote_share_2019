@@ -1,0 +1,170 @@
+{
+    "leaflet": {
+        "candidateName": "Ian Walker",
+        "candidateGender": "",
+        "constituency": "Sheffield Hallam",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": "Vote Conservative in Hallam: for a strong economy and a stable future.\nVote Conservative in Hallam: for representation by a LOCAL person with a heart for our city of Sheffield.\nVote Conservative in Hallam: for the future of our young people and the NHS."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "for a strong economy and a stable future."
+            },
+            {
+                "policyTitle": "Local Representation",
+                "policyDescription": "for representation by a LOCAL person with a heart for our city of Sheffield."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "for the future of our young people and the NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ian Walker",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "for a strong economy and a stable future.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "for the future of our young people and the NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "for representation by a LOCAL person with a heart for our city of Sheffield.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Securing Britain's Future"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Vote Conservative in Hallam: for a strong economy and a stable future.",
+                        "Vote Conservative in Hallam: for representation by a LOCAL person with a heart for our city of Sheffield.",
+                        "Vote Conservative in Hallam: for the future of our young people and the NHS."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "for representation by a LOCAL person with a heart for our city of Sheffield."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "for a strong economy and a stable future.",
+                        "for the future of our young people and the NHS."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "for representation by a LOCAL person with a heart for our city of Sheffield.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "for representation by a LOCAL person with a heart for our city of Sheffield."
+                ]
+            }
+        }
+    }
+}

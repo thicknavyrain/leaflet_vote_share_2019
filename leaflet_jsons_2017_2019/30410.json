@@ -1,0 +1,165 @@
+{
+    "leaflet": {
+        "candidateName": "Paul Holmes",
+        "candidateGender": "",
+        "constituency": "Southampton Test",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Today is Polling Day. The Choice is Clear",
+                "content": "A vote for Paul Holmes and Theresa May: Strength and Experience or Weakness and Instability."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economic Policy",
+                "policyDescription": "A modern industrial strategy to spread opportunity across the whole United Kingdom. A Britain in which work pays, with a higher national living wage and proper rights and protections at work."
+            },
+            {
+                "policyTitle": "Public Services",
+                "policyDescription": "Strong support for world-class public services, with the most ambitious programme of investment in people, technology and buildings the NHS has ever seen."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Record funding for schools."
+            }
+        ],
+        "mentions": {
+            "candidate": "Paul Holmes",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "Jeremy Corbyn is only a few seats away from forming a government. Don't take the risk."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "A modern industrial strategy to spread opportunity across the whole United Kingdom. A Britain in which work pays, with a higher national living wage and proper rights and protections at work.",
+            "education": "Record funding for schools.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The most ambitious programme of investment in people, technology and buildings the NHS has ever seen.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "P.O. BOX 1802, SOUTHAMPTON, SO15 9GR",
+            "phone": "07483 811820",
+            "email": "",
+            "website": "voteholmes.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Paul Holmes standing with Theresa May"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Record funding for schools."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "The most ambitious programme of investment in people, technology and buildings the NHS has ever seen.",
+                        "A strong and stable government led by Theresa May."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "A modern industrial strategy to spread opportunity across the whole United Kingdom.",
+                        "Strong support for world-class public services.",
+                        "Record funding for schools."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn is only a few seats away from forming a government."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Vote for the Labour candidate and Jeremy Corbyn: Weakness and Instability."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

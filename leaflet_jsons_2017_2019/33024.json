@@ -1,0 +1,223 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "A MAJORITY CONSERVATIVE GOVERNMENT",
+                "content": "So we can get Brexit done. And bring the change our country needs."
+            },
+            {
+                "title": "ANOTHER HUNG PARLIAMENT",
+                "content": "With Jeremy Corbyn as Prime Minister And Nicola Sturgeon calling the shots."
+            },
+            {
+                "title": "LET\u2019S GET BREXIT DONE",
+                "content": "AND UNLEASH BRITAIN\u2019S POTENTIAL"
+            },
+            {
+                "title": "OUR PLAN TO SECURE A BRIGHTER FUTURE FOR YOU, YOUR FAMILY AND OUR COUNTRY.",
+                "content": ""
+            },
+            {
+                "title": "JUST NINE SEATS FROM A MAJORITY GOVERNMENT",
+                "content": "It\u2019s a hung Parliament or a Conservative majority in this election AND YOUR VOTE WILL DECIDE"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A MAJORITY CONSERVATIVE GOVERNMENT",
+                "policyDescription": "We can get Brexit done and bring the change our country needs."
+            },
+            {
+                "policyTitle": "A Strong Economy",
+                "policyDescription": "More jobs and lower taxes"
+            },
+            {
+                "policyTitle": "Extra Money for Schools and More Help for Families",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Securing the Future of Our NHS",
+                "policyDescription": "An extra \u00a333.9 billion."
+            },
+            {
+                "policyTitle": "Protecting Our Environment for Future Generations",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Cutting Crime to Ensure Safer Local Communities",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Reducing Immigration with a Fairer System",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn, Nicola Sturgeon",
+            "partyLeader": "",
+            "tacticalSituation": "Just nine seats from a majority."
+        },
+        "issues": {
+            "brexitEurope": "Let's get Brexit done.",
+            "defence": "",
+            "economy": "A strong economy; More jobs and lower taxes",
+            "education": "Extra money for schools and more help for families",
+            "environment": "Protecting our environment for future generations",
+            "governance": "Cutting crime to ensure safer local communities",
+            "government": "",
+            "health": "Securing the future of our NHS with an extra \u00a333.9 billion",
+            "immigration": "Reducing immigration with a fairer system",
+            "labourEmployment": "A strong economy; More jobs and lower taxes",
+            "lawCrime": "Cutting crime to ensure safer local communities",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "John Curtice",
+                "endorsement": "Polls teeter between hung parliament and slim Tory majority."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Securing the future of our NHS with an extra \u00a333.9 billion",
+                        "Polls teeter between hung parliament and slim Tory majority."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Let's get Brexit done.",
+                        "Protecting our environment for future generations."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Cutting crime to ensure safer local communities"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Let's get Brexit done."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "John Curtice: Polls teeter between hung parliament and slim Tory majority."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn as Prime Minister And Nicola Sturgeon calling the shots."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn as Prime Minister"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

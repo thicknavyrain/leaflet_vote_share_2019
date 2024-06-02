@@ -1,0 +1,181 @@
+{
+    "leaflet": {
+        "candidateName": "Jane Dodds",
+        "candidateGender": "",
+        "constituency": "Brecon & Radnorshire",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Jo Swinson\u2019s Liberal Democrats beat Labour and the Conservatives in the European Election and secured their best ever local election results. MPs from both those parties are joining the Liberal Democrats to build a brighter future."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Tackle the Climate Emergency",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Give Every Child The Best Start in Life",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Build a Fairer Economy",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Transform Our Mental Health Service",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Jane Dodds",
+            "otherPartyLeaderCandidate": "Conservatives",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": "Result here in August. 43% Lib Dem; 39% Conservative; 5% Labour."
+        },
+        "issues": {
+            "brexitEurope": "Stop Brexit",
+            "defence": "",
+            "economy": "Build a Fairer Economy",
+            "education": "Give Every Child The Best Start in Life",
+            "environment": "Tackle the Climate Emergency",
+            "governance": "",
+            "government": "",
+            "health": "Transform Our Mental Health Service; Fighting for better health care",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Strengthening rural communities; Standing up for our farmers",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Jo Swinson\u2019s Liberal Democrats beat Labour and the Conservatives in the European Election and secured their best ever local election results.",
+                        "Result here in August. 43% Lib Dem; 39% Conservative; 5% Labour."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "A strong local voice for Brecon & Radnorshire"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Strengthening rural communities",
+                        "Standing up for our farmers"
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "Stop Brexit",
+                        "Tackle the Climate Emergency",
+                        "Give Every Child The Best Start in Life",
+                        "Build a Fairer Economy",
+                        "Transform Our Mental Health Service"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "It's Jane Dodds or the Conservatives here"
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "A strong local voice for Brecon & Radnorshire",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "A strong local voice for Brecon & Radnorshire"
+                ]
+            }
+        }
+    }
+}

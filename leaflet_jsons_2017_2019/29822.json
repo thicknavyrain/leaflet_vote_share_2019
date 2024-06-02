@@ -1,0 +1,181 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa Villiers",
+        "candidateGender": "",
+        "constituency": "Chipping Barnet",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Economic Stability and Jobs",
+                "content": "My greatest goal in politics is a strong economy. For 4 years I served at the highest levels of Government and oversaw the lowest rates of borrowing for over 300 years, delivering 1000s of jobs locally and securing access to the single market for 3 million people."
+            },
+            {
+                "title": "Representing Our Community",
+                "content": "I want every constituent to know I am on their side. I have worked tirelessly for low tax, quality education and strong NHS services. My goal is to become a successful Brexit negotiator and defend Barnet from Jeremy Corbyn\u2019s reckless economic agenda."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economic Stability and Jobs",
+                "policyDescription": "Deliver jobs and stable economy with low borrowing rates, access to single market."
+            },
+            {
+                "policyTitle": "Representing Our Community",
+                "policyDescription": "Commitment to low tax, quality education and strong NHS services."
+            },
+            {
+                "policyTitle": "Making Brexit a Success",
+                "policyDescription": "Ensure smooth transition and access to EU markets."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa Villiers",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Making Brexit a success is central to our national interest.",
+            "defence": "",
+            "economy": "Build a strong economy that rewards people who work hard and creates secure and well-paid jobs.",
+            "education": "Strengthen local schools and provide good quality education for every child.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Provide proper funding and support for all, ensuring everyone will pay for a strong NHS.",
+            "immigration": "",
+            "labourEmployment": "Build a strong economy that rewards people who work hard and creates secure and well-paid jobs.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I want every constituent to know I am on their side. I have worked tirelessly for low tax, quality education and strong NHS services.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP for Barnet",
+                "duration": "12 years",
+                "achievements": "Campaigning on issues like economy, public transport, broadband, NHS."
+            }
+        ],
+        "contactInformation": {
+            "address": "372-376 Euston Road, London, NW1 3AX",
+            "phone": "020 8449 3335",
+            "email": "theresa@theresavilliers.co.uk",
+            "website": "www.theresavilliers.co.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/theresavillierscb",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "delivering 1000s of jobs locally and securing access to the single market for 3 million people."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Theresa Villiers has served at the highest levels of Government.",
+                        "worked tirelessly for low tax, quality education and strong NHS services.",
+                        "become a successful Brexit negotiator",
+                        "My goal is a strong economy."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "worked tirelessly for low tax, quality education and strong NHS services."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Making Brexit a success is central to our national interest.",
+                        "Build a strong economy that rewards people who work hard and creates secure and well-paid jobs."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I want every constituent to know I am on their side.",
+                    "issueRelated": "Community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The risks are just too big to take with higher debt, higher taxes, and economic chaos."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Think Jeremy Corbyn as Prime Minister? Never going to happen."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Labour Candidate, Jeremy Corbyn, intends to raise taxes."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I have been standing up for Barnet for 12 years.",
+                "employment": "worked tirelessly for low tax, quality education and strong NHS services.",
+                "education": "have the experience at the highest levels of Government.",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I have been standing up for Barnet for 12 years.",
+                    "I want every constituent to know I am on their side."
+                ]
+            }
+        }
+    }
+}

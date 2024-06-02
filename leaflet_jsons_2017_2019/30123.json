@@ -1,0 +1,177 @@
+{
+    "leaflet": {
+        "candidateName": "Darren Fower",
+        "candidateGender": "",
+        "constituency": "North East Cambridgeshire",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Fighting for local jobs and our NHS",
+                "content": "Fighting for local jobs and our NHS"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protect local health services",
+                "policyDescription": "Protect local health services"
+            },
+            {
+                "policyTitle": "Safeguard local jobs",
+                "policyDescription": "Safeguard local jobs"
+            },
+            {
+                "policyTitle": "Help more local people get on the housing ladder",
+                "policyDescription": "Help more local people get on the housing ladder"
+            }
+        ],
+        "mentions": {
+            "candidate": "Darren Fower",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Protect local health services",
+            "immigration": "",
+            "labourEmployment": "Safeguard local jobs",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Help more local people get on the housing ladder",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "local campaigner",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Darren Fower is a proven local campaigner"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Protect local health services",
+                        "Safeguard local jobs",
+                        "Help more local people get on the housing ladder"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Protect local health services",
+                        "Safeguard local jobs",
+                        "Help more local people get on the housing ladder"
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Darren Fower is a proven local campaigner"
+                ]
+            }
+        }
+    }
+}

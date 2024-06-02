@@ -1,0 +1,206 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "",
+                "content": "After nearly a decade of cuts, it\u2019s time for real change. Labour will rebuild and transform Britain, so that no one is held back and no community is left behind."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Invest in our schools",
+                "policyDescription": "Provide free lifelong learning for everyone."
+            },
+            {
+                "policyTitle": "Introduce a real living wage",
+                "policyDescription": "Ban zero hours contracts and strengthen workers' rights."
+            },
+            {
+                "policyTitle": "Give you the final say on Brexit",
+                "policyDescription": "Give the public the final say on Brexit."
+            },
+            {
+                "policyTitle": "Invest in our NHS",
+                "policyDescription": "Provide more doctors and nurses and cut waiting times."
+            },
+            {
+                "policyTitle": "Kick start a Green Industrial Revolution",
+                "policyDescription": "Tackle the Climate Emergency and create high skilled, high wage jobs."
+            },
+            {
+                "policyTitle": "Public ownership",
+                "policyDescription": "Bring rail, water and energy into public ownership to give you a better deal."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Give you the final say on Brexit",
+            "defence": "",
+            "economy": "Introduce a real living wage, ban zero hours contracts and strengthen workers' rights.",
+            "education": "Invest in our schools and provide free lifelong learning for everyone.",
+            "environment": "Kick start a Green Industrial Revolution to tackle the Climate Emergency.",
+            "governance": "",
+            "government": "",
+            "health": "Invest in our NHS to provide more doctors and nurses and cut waiting times.",
+            "immigration": "",
+            "labourEmployment": "Create high skilled, high wage jobs. Introduce a real living wage, ban zero hours contracts and strengthen workers' rights.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Labour Party, Southside, 105 Victoria Street, London, SW1E 6QT",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "After nearly a decade of cuts, it\u2019s time for real change. Labour will rebuild and transform Britain, so that no one is held back and no community is left behind."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 6,
+                    "examples": [
+                        "Give you the final say on Brexit",
+                        "Introduce a real living wage, ban zero hours contracts and strengthen workers' rights.",
+                        "Invest in our schools and provide free lifelong learning for everyone.",
+                        "Kick start a Green Industrial Revolution to tackle the Climate Emergency.",
+                        "Invest in our NHS to provide more doctors and nurses and cut waiting times.",
+                        "Bring rail, water and energy into public ownership to give you a better deal."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Your Choice at This Election",
+                "content": "Getting Brexit done so we can invest in the country's priorities OR A hung parliament with Jeremy Corbyn in charge"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Getting Brexit Done",
+                "policyDescription": "Get Brexit done with our new deal"
+            },
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "\u00a333.9 billion extra for the NHS"
+            },
+            {
+                "policyTitle": "Police Officers",
+                "policyDescription": "20,000 extra police officers"
+            },
+            {
+                "policyTitle": "Education Funding",
+                "policyDescription": "More funding for every pupil in every school"
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Get Brexit done with our new deal",
+            "defence": "",
+            "economy": "",
+            "education": "More funding for every pupil in every school",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "\u00a333.9 billion extra for the NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "20,000 extra police officers",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {}
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "\u00a333.9 billion extra for the NHS",
+                        "20,000 extra police officers"
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Get Brexit done with our new deal",
+                        "More funding for every pupil in every school",
+                        "A hung parliament with Corbyn in charge",
+                        "Scottish Nationalist Party and Lib Dems calling the shots"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 1,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "More funding for every pupil in every school"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Scottish Nationalist Party and Lib Dems calling the shots"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "No progress on the country's priorities"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 3,
+                    "examples": [
+                        "A hung parliament with Corbyn in charge",
+                        "Highest taxes in peacetime history",
+                        "Scottish Nationalist Party and Lib Dems calling the shots"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

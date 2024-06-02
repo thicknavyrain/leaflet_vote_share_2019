@@ -1,0 +1,188 @@
+{
+    "leaflet": {
+        "candidateName": "Fleur Anderson",
+        "candidateGender": "",
+        "constituency": "Putney, Roehampton and Southfields",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "A Fresh Start for Putney, Roehampton and Southfields",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Proudly Remain",
+                "policyDescription": "A pro-European and 100% remain. Brexit is a threat to our economy. We will provide the referendum needed to make sure we keep the benefits of EU membership, send no fewer than 6 MPs to parliament to support a People's Vote."
+            },
+            {
+                "policyTitle": "Standing up for our NHS",
+                "policyDescription": "Our NHS is under threat from Tory privatisation and our staff, the latest victim of Donald Trump. Labour will provide the additional staffing and resources needed to make sure our NHS stays true to its founding values."
+            },
+            {
+                "policyTitle": "Fixing the Housing Crisis",
+                "policyDescription": "Labour's ambitious programme includes leading the way in the new Green Regeneration Fund, more affordable housing, and a better deal for renters."
+            }
+        ],
+        "mentions": {
+            "candidate": "Fleur Anderson",
+            "otherPartyLeaderCandidate": "John Hosle on Brexit, Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": "Locally the contest is between Labour and the Conservatives."
+        },
+        "issues": {
+            "brexitEurope": "Proudly Remain. 100% Remain and supports a People's Vote. We can still stop Boris Johnson's harmful Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "She'll stand up for issues like Heathrow, clean air, and local schools",
+            "environment": "I will take urgent action to cut carbon emissions and clean our air.",
+            "governance": "",
+            "government": "",
+            "health": "Standing up for our NHS. Our NHS is under threat from Tory privatisation, more funding for NHS, additional staffing and resources.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Fixing the Housing Crisis, affordable housing, and a better deal for renters.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Labour candidate for Putney",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Freepost, Fleur for Putney, 35 Felsham Road SW15 1AY",
+            "phone": "020 8788 8961",
+            "email": "",
+            "website": "www.FleurAnderson.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@CllrFleur",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Rada Lewis",
+                "endorsement": "We need a fresh start. I'm supporting Fleur because she's 100% Remain and supports a People's Vote. She'll stand up for us on issues like Heathrow, clean air, and local schools."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Vote Fleur Anderson, Labour candidate for Putney"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "100% Remain",
+                        "send no fewer than 6 MPs to Parliament"
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Provide the additional staffing and resources needed",
+                        "fixing the housing crisis",
+                        "leading the way in the new Green Regeneration fund",
+                        "better deal for renters",
+                        "clean air"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 4,
+                "candidateAlone": 3,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Fixing the Housing Crisis",
+                        "clean air",
+                        "local schools"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Brexit is a threat to our economy",
+                        "Our NHS is under threat from Tory privatisation"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Rada Lewis: We need a fresh start. I'm supporting Fleur because she's 100% Remain and supports a People's Vote. She'll stand up for us on issues like Heathrow, clean air, and local schools.",
+                    "issueRelated": "Brexit"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Rada Lewis endorses Fleur Anderson because of her stance on Remain, Heathrow, clean air, and local schools."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Our NHS is under threat from Tory privatisation.",
+                        "Brexit is a threat to our economy."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "stop Boris Johnson's harmful Brexit"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Conservative candidate, John Hosle"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

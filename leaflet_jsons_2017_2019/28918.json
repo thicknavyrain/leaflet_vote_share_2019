@@ -1,0 +1,166 @@
+{
+    "leaflet": {
+        "candidateName": "Christine Jardine",
+        "candidateGender": "",
+        "constituency": "Edinburgh West",
+        "politicalParty": "Scottish Liberal Democrat",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "This General Election may have come as a surprise but it has brought us a huge opportunity."
+            },
+            {
+                "title": "",
+                "content": "In this election, we have a chance for a fresh start. We can return to a standard of service which local people deserve."
+            },
+            {
+                "title": "",
+                "content": "We know there is a lot of stake in this election. It's about who you can trust to be a strong voice for West Edinburgh in the UK Parliament."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Christine Jardine",
+            "otherPartyLeaderCandidate": "Michel Thomson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "It's about who you can trust to be a strong voice for West Edinburgh in the UK Parliament.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Christine Jardine"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Just months after being elected, the SNP's Michelle Thomson was sitting as an independent MP. She took part in barely half of the votes in parliament. She has only spoken around once a month - we've simply not had an effective voice in the House of Commons."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "This General Election may have come as a surprise but it has brought us a huge opportunity.",
+                        "In this election, we have a chance for a fresh start.",
+                        "We can return to a standard of service which local people deserve.",
+                        "We know there is a lot of stake in this election. It's about who you can trust to be a strong voice for West Edinburgh in the UK Parliament."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "I'll ensure that West Edinburgh can once again have an MP that you can be proud of.",
+                        "In this election, we have a chance for a fresh start. We can return to a standard of service which local people deserve."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "It's about who you can trust to be a strong voice for West Edinburgh in the UK Parliament."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "The SNP had their chance with Michelle Thomson - they failed."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Just months after being elected, the SNP's Michelle Thomson was sitting as an independent MP. She took part in barely half of the votes in parliament."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

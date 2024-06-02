@@ -1,0 +1,173 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Only Labour can bring our country together again",
+                "content": "Boris Johnson\u2019s Tories are the biggest threat to Scotland\u2019s place in the UK. Labour has a plan to rebuild and transform Scotland, so that no one is held back and no community is neglected. We will invest in rebuilding public services and tackling climate change, creating jobs and improving living standards."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Invest in our NHS",
+                "policyDescription": "Provide more doctors and nurses and cut waiting times."
+            },
+            {
+                "policyTitle": "Tackle Scotland\u2019s housing crisis",
+                "policyDescription": "End homelessness by building 120,000 new council and social houses, creating at least 50,000 jobs."
+            },
+            {
+                "policyTitle": "Kick start a Green Industrial Revolution",
+                "policyDescription": "Tackle the Climate Emergency and create high skilled, high wage jobs."
+            },
+            {
+                "policyTitle": "Introduce a real living wage",
+                "policyDescription": "Ban zero hours contracts and strengthen workers\u2019 rights."
+            },
+            {
+                "policyTitle": "Deliver \u00a3100 billion of additional funding",
+                "policyDescription": "Invest in Scotland\u2019s people, communities and public services."
+            },
+            {
+                "policyTitle": "Give you the final say on Brexit",
+                "policyDescription": "Scottish Labour campaigning to Remain."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Give you the final say on Brexit with Scottish Labour campaigning to Remain.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Kick start a Green Industrial Revolution to tackle the Climate Emergency and create high skilled, high wage jobs.",
+            "governance": "",
+            "government": "",
+            "health": "Invest in our NHS to provide more doctors and nurses and cut waiting times.",
+            "immigration": "",
+            "labourEmployment": "Introduce a real living wage, ban zero hours contracts and strengthen workers\u2019 rights.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Tackle Scotland\u2019s housing crisis and end homelessness by building 120,000 new council and social houses, creating at least 50,000 jobs.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Gives the final say on Brexit with Scottish Labour campaigning to Remain.",
+                        "Deliver \u00a3100 billion of additional funding to invest in Scotland\u2019s people, communities and public services."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Only Labour can bring our country together again.",
+                        "When Labour wins, Scotland wins."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Tackle Scotland\u2019s housing crisis and end homelessness by building 120,000 new council and social houses.",
+                        "Introduce a real living wage, ban zero hours contracts and strengthen workers\u2019 rights.",
+                        "Invest in our NHS to provide more doctors and nurses and cut waiting times."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Give you the final say on Brexit with Scottish Labour campaigning to Remain."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson\u2019s Tories are the biggest threat to Scotland\u2019s place in the UK."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson\u2019s Tories are the biggest threat to Scotland\u2019s place in the UK."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

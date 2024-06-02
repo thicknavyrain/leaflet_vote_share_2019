@@ -1,0 +1,178 @@
+{
+    "leaflet": {
+        "candidateName": "Stuart Andrew",
+        "candidateGender": "",
+        "constituency": "Pudsey",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "50 MILLION EXTRA GP APPOINTMENTS",
+                "policyDescription": "Prime Minister announces more doctors and appointments."
+            },
+            {
+                "policyTitle": "14 BILLION EXTRA FOR SCHOOLS",
+                "policyDescription": "The Conservative government will deliver the biggest cash boost to school funding in a decade."
+            },
+            {
+                "policyTitle": "BREXIT DEAL AGREED AND READY TO GO",
+                "policyDescription": "Prime Minister Boris Johnson has secured a new Brexit deal with the EU."
+            },
+            {
+                "policyTitle": "An immigration system that works for Britain",
+                "policyDescription": "Our readers will be pleased to learn that the Prime Minister\u2019s new immigration plan prioritises skilled immigration."
+            }
+        ],
+        "mentions": {
+            "candidate": "Stuart Andrew's plan for Pudsey",
+            "otherPartyLeaderCandidate": "CORBYN = FIVE LONG YEARS OF GRIDLOCK",
+            "partyLeader": "",
+            "tacticalSituation": "Last time, the Conservatives were just nine seats short of a majority."
+        },
+        "issues": {
+            "brexitEurope": "A new deal protects jobs and ends the partition of Northern Ireland.",
+            "defence": "",
+            "economy": "Ready to go from day one of a new parliament.",
+            "education": "\u00a314 billion extra for schools.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "\u00a333.9 billion for the NHS; 50 million extra GP appointments.",
+            "immigration": "An immigration system that works for Britain.",
+            "labourEmployment": "A higher national living wage.",
+            "lawCrime": "20,000 more police on our streets.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Sorting out problems with the junction of Harrogate Road and the Ring Road.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 4,
+                    "examples": [
+                        "50 million extra GP appointments",
+                        "\u00a314 billion extra for schools",
+                        "20,000 extra police officers",
+                        "\u00a333.9 billion for the NHS"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "CORBYN = FIVE LONG YEARS OF GRIDLOCK",
+                        "Ready to go from day one of a new parliament."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 5,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Sorting out problems with the junction of Harrogate Road and the Ring Road."
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "BREXIT DEAL AGREED AND READY TO GO",
+                        "50 million extra GP appointments",
+                        "\u00a314 billion extra for schools",
+                        "20,000 extra police officers",
+                        "An immigration system that works for Britain."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "CORBYN = FIVE LONG YEARS OF GRIDLOCK",
+                        "Just nine seats short of a majority."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "CORBYN = FIVE LONG YEARS OF GRIDLOCK"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Stuart Andrew's plan for Pudsey"
+                ]
+            }
+        }
+    }
+}

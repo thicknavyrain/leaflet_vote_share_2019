@@ -1,0 +1,162 @@
+{
+    "leaflet": {
+        "candidateName": "Sharron Sumner",
+        "candidateGender": "",
+        "constituency": "Kingston & Surbiton",
+        "politicalParty": "Green Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "This is the Climate Election",
+                "content": "Change can't wait"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Hogsmill Pollution",
+                "policyDescription": "Sharron Sumner is campaigning to stop Thames Water from polluting the river with raw sewage."
+            },
+            {
+                "policyTitle": "Tree Loss",
+                "policyDescription": "Sharron set up the 'Tree Assembly' to protect our trees. Ancient woodland in Chessington has been lost and 1,000 trees were felled in just the last year."
+            },
+            {
+                "policyTitle": "Habitat Destroyed",
+                "policyDescription": "Sharron is campaigning to get the council to reveal developers' plans for precious nature reserves like Seething Wells and Tolworth Court Farm."
+            }
+        ],
+        "mentions": {
+            "candidate": "Sharron Sumner",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "The Conservatives can't win in Kingston and Surbiton"
+        },
+        "issues": {
+            "brexitEurope": "Some things are even bigger than Brexit. This must be the climate emergency election.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Climate change and biodiversity loss doesn\u2019t just happen in far off places. Our local environment is under threat too. Sharron Sumner is leading the fight locally. It\u2019s time to put the planet and our borough first by voting Green.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Sharron is campaigning to get the council to reveal developers' plans for precious nature reserves like Seething Wells and Tolworth Court Farm.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "sharron.sumner@kingston.greenparty.org.uk",
+            "website": "www.sharronsumner.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@SharronSumner1",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Vote Sharron Sumner Kingston & Surbiton"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Ancient woodland in Chessington has been lost and 1,000 trees were felled in just the last year.",
+                        "The Conservative vote has slumped from 39% (2015) to 8% (2019)."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Climate change and biodiversity loss doesn\u2019t just happen in far off places. Our local environment is under threat too.",
+                        "This is the Climate Election",
+                        "Some things are even bigger than Brexit. This must be the climate emergency election."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 3,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Sharron Sumner is campaigning to stop Thames Water from polluting the river with raw sewage.",
+                        "Sharron set up the 'Tree Assembly' to protect our trees.",
+                        "Sharron is campaigning to get the council to reveal developers' plans for precious nature reserves like Seething Wells and Tolworth Court Farm."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Some things are even bigger than Brexit. This must be the climate emergency election."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives can't win in Kingston and Surbiton."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Sharron Sumner is leading the fight locally.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Sharron Sumner is leading the fight locally."
+                ]
+            }
+        }
+    }
+}

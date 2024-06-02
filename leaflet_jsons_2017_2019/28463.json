@@ -1,0 +1,197 @@
+{
+    "leaflet": {
+        "candidateName": "Jackie Porter",
+        "candidateGender": "",
+        "constituency": "Winchester",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "My 5 priorities for Winchester",
+                "content": "Jackie Porter has set out her five priorities if elected as your MP."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Represent your views on Brexit",
+                "policyDescription": "I will fight to protect local businesses and families from the impact of Brexit."
+            },
+            {
+                "policyTitle": "Protect local hospital services and increase funding for the NHS",
+                "policyDescription": "We need to keep health care local and properly fund our NHS and care systems."
+            },
+            {
+                "policyTitle": "Fight funding cuts for schools and the selection agenda",
+                "policyDescription": "I will fight for more money for our schools and against making any of our schools second rate."
+            },
+            {
+                "policyTitle": "Protect our environment",
+                "policyDescription": "I will fight to reduce air pollution and to keep current standards of environmental protection."
+            },
+            {
+                "policyTitle": "Build more homes and fight homelessness",
+                "policyDescription": "Housing costs are too high and we need more public housing."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jackie Porter",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Represent your views on Brexit. I will fight to protect local businesses and families from the impact of Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "Fight funding cuts for schools and the selection agenda. I will fight for more money for our schools and against making any of our schools second rate.",
+            "environment": "Protect our environment. I will fight to reduce air pollution and to keep current standards of environmental protection.",
+            "governance": "",
+            "government": "",
+            "health": "Protect local hospital services and increase funding for the NHS. We need to keep health care local and properly fund our NHS and care systems.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Build more homes and fight homelessness. Housing costs are too high and we need more public housing.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Housing costs are too high and we need more public housing."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,201 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "UKIP",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Don't trust Theresa",
+                "content": "OUT OF CONTROL IMMIGRATION: Theresa May completely failed to control immigration as Home Secretary and since then, net migration has risen by more than 1.8 million people. WASTING YOUR MONEY ON FOREIGN AID: She is fully committed to giving \u00a314 billion a year of your money on so-called foreign 'aid'. EUROPEAN COURT OF HUMAN RIGHTS: The Tories have U-turned on their pledge to scrap the hated ECHR. It currently stops us deporting criminals and terrorists and even makes us pay them compensation. BRITAIN'S FISHING WATERS: She won't commit to protecting our fishermen from future Brussels controls. NHS AND SOCIAL CARE CRISIS: Since 2010, May's Tories should have paid \u00a350 billion of EU membership fees. This money should have employed tens of thousands of nurses and carers in our NHS. OUR NATIONAL SECURITY UNDERMINED: Since 2010, police have been cut by 20,000 officers and armed forces by 30,000. While Labour self-destructs and the Lib Dems sell us out to the EU, only UKIP will fight to get the best deal for our nation's future. Please, don't be fooled again by Theresa's promises."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "Theresa May failed to control immigration, resulting in a rise of more than 1.8 million people."
+            },
+            {
+                "policyTitle": "Foreign Aid",
+                "policyDescription": "Criticism of \u00a314 billion a year spending on foreign aid."
+            },
+            {
+                "policyTitle": "Human Rights",
+                "policyDescription": "Opposition to the European Court of Human Rights (ECHR) and its impact on deporting criminals and terrorists."
+            },
+            {
+                "policyTitle": "Fishing",
+                "policyDescription": "Concern over protecting British fishermen from future Brussels controls."
+            },
+            {
+                "policyTitle": "NHS and Social Care",
+                "policyDescription": "Claim that \u00a350 billion EU membership fees could have employed tens of thousands of nurses and carers."
+            },
+            {
+                "policyTitle": "National Security",
+                "policyDescription": "Highlighting cuts to police by 20,000 officers and armed forces by 30,000 since 2010."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "The Tories have U-turned on their pledge to scrap the hated ECHR.",
+            "health": "Since 2010, May's Tories should have paid \u00a350 billion of EU membership fees. This money should have employed tens of thousands of nurses and carers in our NHS.",
+            "immigration": "Theresa May completely failed to control immigration as Home Secretary and since then, net migration has risen by more than 1.8 million people.",
+            "labourEmployment": "",
+            "lawCrime": "The Tories have U-turned on their pledge to scrap the hated ECHR. It currently stops us deporting criminals and terrorists and even makes us pay them compensation.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "She won't commit to protecting our fishermen from future Brussels controls.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Net migration to the UK"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Net migration has risen by more than 1.8 million people."
+                    ]
+                },
+                "qualitative": {
+                    "count": 9,
+                    "examples": [
+                        "Theresa May completely failed to control immigration.",
+                        "WASTING YOUR MONEY ON FOREIGN AID.",
+                        "The Tories have U-turned on their pledge to scrap the hated ECHR.",
+                        "She won't commit to protecting our fishermen from future Brussels controls.",
+                        "May's Tories should have paid \u00a350 billion of EU membership fees.",
+                        "This money should have employed tens of thousands of nurses and carers in our NHS.",
+                        "Police have been cut by 20,000 officers.",
+                        "Armed forces by 30,000 since 2010.",
+                        "Labour self-destructs and the Lib Dems sell us out to the EU."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 8,
+                    "examples": [
+                        "Theresa May completely failed to control immigration as Home Secretary.",
+                        "WASTING YOUR MONEY ON FOREIGN AID",
+                        "The Tories have U-turned on their pledge to scrap the hated ECHR.",
+                        "It currently stops us deporting criminals and terrorists.",
+                        "Theresa May is not protecting British fishermen from future Brussels controls.",
+                        "May's Tories should have paid \u00a350 billion of EU membership fees.",
+                        "This money should have employed tens of thousands of nurses and carers in our NHS.",
+                        "Police have been cut by 20,000 officers."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 8,
+                    "examples": [
+                        "Theresa May completely failed to control immigration as Home Secretary.",
+                        "WASTING YOUR MONEY ON FOREIGN AID",
+                        "The Tories have U-turned on their pledge to scrap the hated ECHR.",
+                        "It currently stops us deporting criminals and terrorists.",
+                        "Theresa May is not protecting British fishermen from future Brussels controls.",
+                        "May's Tories should have paid \u00a350 billion of EU membership fees.",
+                        "This money should have employed tens of thousands of nurses and carers in our NHS.",
+                        "Police have been cut by 20,000 officers."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "While Labour self-destructs and the Lib Dems sell us out to the EU, only UKIP will fight to get the best deal for our nation's future."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May completely failed to control immigration."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "leaflet": {
+        "candidateName": "Dylan Jones",
+        "candidateGender": "",
+        "constituency": "Tonbridge and Malling",
+        "politicalParty": "Labour Party",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Delivering Real Change for Tonbridge and Malling",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Dylan Jones",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Nine years of Conservative rule has left the NHS and public services at breaking point",
+            "immigration": "",
+            "labourEmployment": "with rising numbers of foodbanks and homelessness",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "with rising numbers of foodbanks and homelessness",
+            "community": [
+                {
+                    "content": "To challenge the Tories in Tonbridge and Malling, you need to vote Labour.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "39 Quarry Hill Road, Tonbridge, TN9 2RN",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "facebook.com/dylanjoneslabour",
+                "twitter": "twitter.com/dylanalexjones",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Nine years of Conservative rule has left the NHS and public services at breaking point, with rising numbers of foodbanks and homelessness. Labour will bring the progressive social change that Britain dearly needs",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Nine years of Conservative rule has left the NHS and public services at breaking point, with rising numbers of foodbanks and homelessness."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "To challenge the Tories in Tonbridge and Malling, you need to vote Labour."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Nine years of Conservative rule has left the NHS and public services at breaking point, with rising numbers of foodbanks and homelessness."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "To challenge the Tories in Tonbridge and Malling, you need to vote Labour."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Nine years of Conservative rule has left the NHS and public services at breaking point, with rising numbers of foodbanks and homelessness."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

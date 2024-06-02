@@ -1,0 +1,176 @@
+{
+    "leaflet": {
+        "candidateName": "Paul Holmes",
+        "candidateGender": "",
+        "constituency": "Southampton Test",
+        "politicalParty": "Conservative",
+        "electionDate": "June 8th",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "More Jobs",
+                "policyDescription": "Since 2010 over 1,000 jobs have been created every single day. In Southampton Test, unemployment is down by 67% over the same period."
+            },
+            {
+                "policyTitle": "Good School Places",
+                "policyDescription": "1.8 million more pupils are being taught in good or outstanding schools. In Southampton Test, schools have received over \u00a316m to support disadvantaged pupils through our pupil premium."
+            },
+            {
+                "policyTitle": "New Apprentices",
+                "policyDescription": "In Southampton Test, over 5,490 young people have started an apprenticeship."
+            },
+            {
+                "policyTitle": "New Businesses",
+                "policyDescription": "In Southampton Test, there are now 370 great, local businesses since 2010."
+            }
+        ],
+        "mentions": {
+            "candidate": "Paul Holmes",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Since 2010 over 1,000 jobs have been created every single day. In Southampton Test, there are now 370 great, local businesses since 2010.",
+            "education": "1.8 million more pupils are being taught in good or outstanding schools. In Southampton Test, schools have received over \u00a316m to support disadvantaged pupils through our pupil premium.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "Since 2010 over 1,000 jobs have been created every single day. In Southampton Test, over 5,490 young people have started an apprenticeship.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "voteholmes.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Alan Whitehead",
+                "endorsement": "When he resigned from Labour's cabinet he said of Corbyn: 'you are unfortunately not the right person to lead the Opposition. I hope for the sake of the Labour Party, and the millions of Labour supporters and voters across the country, that you will seriously consider your position.'"
+            }
+        ],
+        "quotes": [
+            {
+                "text": "When he resigned from Labour's cabinet he said of Corbyn: 'you are unfortunately not the right person to lead the Opposition. I hope for the sake of the Labour Party, and the millions of Labour supporters and voters across the country, that you will seriously consider your position.'",
+                "source": "Daily Echo",
+                "date": "28 June 2016"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Paul Holmes with Theresa May"
+                },
+                {
+                    "caption": "Opponent with Jeremy Corbyn"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 4,
+                    "examples": [
+                        "Since 2010 over 1,000 jobs have been created every single day.",
+                        "In Southampton Test, unemployment is down by 67% over the same period.",
+                        "1.8 million more pupils are being taught in good or outstanding schools.",
+                        "In Southampton Test, there are now 370 great, local businesses since 2010."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I hope for the sake of the Labour Party, and the millions of Labour supporters and voters across the country, that you will seriously consider your position.",
+                        "Strength and Experience",
+                        "Weakness and Instability"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "In Southampton Test, unemployment is down by 67% over the same period.",
+                        "In Southampton Test, schools have received over \u00a316m to support disadvantaged pupils through our pupil premium.",
+                        "In Southampton Test, over 5,490 young people have started an apprenticeship.",
+                        "In Southampton Test, there are now 370 great, local businesses since 2010."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Since 2010 over 1,000 jobs have been created every single day.",
+                        "1.8 million more pupils are being taught in good or outstanding schools."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "When he resigned from Labour's cabinet he said of Corbyn: 'you are unfortunately not the right person to lead the Opposition. I hope for the sake of the Labour Party, and the millions of Labour supporters and voters across the country, that you will seriously consider your position.'"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn is only six seats away from forming a government."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "In Southampton Test, unemployment is down by 67% over the same period."
+                ]
+            }
+        }
+    }
+}

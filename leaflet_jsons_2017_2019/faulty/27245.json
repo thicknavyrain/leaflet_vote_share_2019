@@ -1,0 +1,52 @@
+{
+    "leaflet": {
+        "messages": [
+            {
+                "title": "The Liberal Democrat plan",
+                "content": "Keep Scotland in the UK and stop another divisive independence referendum. Oppose the Conservatives' extreme hard Brexit. Invest in Scottish education and mental health."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Keep Scotland in the UK",
+                "policyDescription": "Stop another divisive independence referendum."
+            },
+            {
+                "policyTitle": "Oppose Brexit",
+                "policyDescription": "Oppose the Conservatives' extreme hard Brexit."
+            },
+            {
+                "policyTitle": "Invest in Scottish education and mental health",
+                "policyDescription": "Invest in Scottish education and mental health."
+            }
+        ],
+        "mentions": {
+            "partyLeader": "Nicola Sturgeon",
+            "otherPartyLeaderCandidate": [
+                "Nicola Sturgeon",
+                "Alex Salmond"
+            ]
+        },
+        "issues": {
+            "brexitEurope": "Oppose the Conservatives' extreme hard Brexit.",
+            "education": "Invest in Scottish education.",
+            "health": "Invest in mental health.",
+            "governance": "Keep Scotland in the UK and stop another divisive independence referendum.",
+            "government": "The SNP is too busy with independence referendums to actually govern."
+        },
+        "quotes": [
+            {
+                "text": "The SNP is too busy with independence referendums to actually govern.",
+                "source": "The Huffington Post",
+                "date": "8th May 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        }
+    }
+}

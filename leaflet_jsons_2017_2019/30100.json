@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Colchester",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "YOU AND THE LIBERAL DEMOCRATS CAN!",
+                "content": "The Liberal Democrats introduced free school meals for all 5 to 7 year olds. The Liberal Democrats want to put 1p for Extra on income tax to raise \u00a36 billion for the NHS and social care services. The Liberal Democrats are standing up to Theresa May\u2019s unfair 'Dementia Tax'. They are fighting Tory plans to take the houses of people who need social care."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Free School Meals",
+                "policyDescription": "The Liberal Democrats introduced free school meals for all 5 to 7 year olds."
+            },
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "The Liberal Democrats want to put 1p for Extra on income tax to raise \u00a36 billion for the NHS and social care services."
+            },
+            {
+                "policyTitle": "Dementia Tax",
+                "policyDescription": "The Liberal Democrats are standing up to Theresa May\u2019s unfair 'Dementia Tax'."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": "Voting for Labour here in Colchester will just let the Tories win and allow Theresa May to make more damaging cuts. Labour were 11,000 votes behind last time. They are out of the race this time and bookies have put their odds at 150/1."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "The Liberal Democrats introduced free school meals for all 5 to 7 year olds.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The Liberal Democrats want to put 1p for Extra on income tax to raise \u00a36 billion for the NHS and social care services. The Liberal Democrats are standing up to Theresa May\u2019s unfair 'Dementia Tax'.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "The Lib Dems want to protect and invest in the NHS and social care services which help us all.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Magtelen Hall, Wimpole Road, Colchester CO1 2DE",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "'The Tories\u2019 social care plan is a death tax by another name'",
+                "source": "The Economist",
+                "date": "18 May 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "The Lib Dems want to protect and invest in the NHS and social care services which help us all."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "raise \u00a36 billion",
+                        "Labour were 11,000 votes behind last time."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Voting for Labour here in Colchester will just let the Tories win and allow Theresa May to make more damaging cuts."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Voting for Labour here in Colchester will just let the Tories win and allow Theresa May to make more damaging cuts."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "The Liberal Democrats want to put 1p for Extra on income tax to raise \u00a36 billion for the NHS and social care services.",
+                        "The Liberal Democrats are standing up to Theresa May\u2019s unfair 'Dementia Tax'.",
+                        "'The Tories\u2019 social care plan is a death tax by another name'"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Voting for Labour here in Colchester will just let the Tories win and allow Theresa May to make more damaging cuts."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "'The Tories\u2019 social care plan is a death tax by another name'"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Theresa May\u2019s unfair 'Dementia Tax'",
+                        "'The Tories\u2019 social care plan is a death tax by another name'"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

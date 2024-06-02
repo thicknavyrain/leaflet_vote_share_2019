@@ -1,0 +1,156 @@
+{
+    "leaflet": {
+        "candidateName": "Lisa Goodier",
+        "candidateGender": "female",
+        "constituency": "Aberconwy",
+        "politicalParty": "Plaid Cymru",
+        "electionDate": "12th December 2019",
+        "messages": [
+            {
+                "title": "NI YW CYMRU WALES, IT'S US",
+                "content": "We all know that Wales has huge potential, but Westminster is holding us back. Johnson and Corbyn know little and care less for our nation. With them, it's the status quo, day in day out. But for a better future, it's us. With us, the status quo is not an option. There will be no more years of Westminster's chaos, but a new Wales has to be. Back Wales, back Plaid Cymru."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Lisa Goodier",
+            "otherPartyLeaderCandidate": "Johnson and Corbyn",
+            "partyLeader": "Adam Price",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Back Wales, Back Plaid Cymru.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "435 Wellfield, Caernarfon, Gwynedd, LL55 1DH",
+            "phone": "01286 672076",
+            "email": "",
+            "website": "www.plaid.cymru",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@lisagoodier",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Adam Price, Arweinydd / Leader Plaid Cymru"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "We all know that Wales has huge potential, but Westminster is holding us back."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Back Wales, back Plaid Cymru."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "There will be no more years of Westminster's chaos, but a new Wales has to be."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Johnson and Corbyn know little and care less for our nation.",
+                        "There will be no more years of Westminster's chaos, but a new Wales has to be."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Johnson",
+                        "Corbyn"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

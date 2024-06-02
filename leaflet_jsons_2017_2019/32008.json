@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "Fay Jones",
+        "candidateGender": "",
+        "constituency": "Brecon and Radnorshire",
+        "politicalParty": "Conservative Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Brexit done. Better hospitals. Safer streets. Improved schools. Let's unlock Britain\u2019s future.",
+                "content": "The last few years have been frustrating I get it. I've been just as frustrated as you. We've had three years of a hung parliament that agrees on nothing except more arguments. But we don't have to go on like this. Together, we can end the doom and gloom."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Passing our Brexit deal \u2013 which is agreed and ready to go from day one. It protects jobs and trade. It means we can leave the EU by the end of January. And it means we can get on with the country\u2019s priorities."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "\u00a31.2 billion extra to the Welsh Government for the NHS in Wales. So your hospital and local GPs can give you the healthcare you need."
+            },
+            {
+                "policyTitle": "Law and Order",
+                "policyDescription": "20,000 extra police officers. With the powers they need to keep us safe."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "More funding available for every school. So your child gets a better education."
+            },
+            {
+                "policyTitle": "Economic Growth",
+                "policyDescription": "A growing economy that creates jobs and pays for our public services."
+            }
+        ],
+        "mentions": {
+            "candidate": "Fay Jones",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "Last time we were just NINE seats short of a majority. This election will be just as close."
+        },
+        "issues": {
+            "brexitEurope": "Passing our Brexit deal \u2013 which is agreed and ready to go from day one. It protects jobs and trade. It means we can leave the EU by the end of January. And it means we can get on with the country\u2019s priorities.",
+            "defence": "",
+            "economy": "A growing economy that creates jobs and pays for our public services.",
+            "education": "More funding available for every school. So your child gets a better education.",
+            "environment": "",
+            "governance": "",
+            "government": "The great thing about a majority government is that it can get stuff done.",
+            "health": "\u00a31.2 billion extra to the Welsh Government for the NHS in Wales. So your hospital and local GPs can give you the healthcare you need.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "20,000 extra police officers. With the powers they need to keep us safe.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "The last few years have been frustrating I get it. I've been just as frustrated as you. We've had three years of a hung parliament that agrees on nothing except more arguments. But we don't have to go on like this. Together, we can end the doom and gloom.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "\u00a31.2 billion extra to the Welsh Government for the NHS in Wales.",
+                        "20,000 extra police officers."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "We've had three years of a hung parliament that agrees on nothing except more arguments.",
+                        "The great thing about a majority government is that it can get stuff done."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Passing our Brexit deal \u2013 which is agreed and ready to go from day one. It protects jobs and trade. It means we can leave the EU by the end of January. And it means we can get on with the country\u2019s priorities.",
+                        "\u00a31.2 billion extra to the Welsh Government for the NHS in Wales.",
+                        "20,000 extra police officers. With the powers they need to keep us safe."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "The last few years have been frustrating I get it. I've been just as frustrated as you.",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Let's end the delays. Let's get Brexit done with our deal. And let's unleash Britain's potential."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Britain has spent too long going nowhere, spinning round in a hamster wheel of doom."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "use your postal vote for Fay Jones in Brecon and Radnorshire.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "use your postal vote for Fay Jones in Brecon and Radnorshire."
+                ]
+            }
+        }
+    }
+}

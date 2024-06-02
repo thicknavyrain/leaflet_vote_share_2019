@@ -1,0 +1,209 @@
+{
+    "leaflet": {
+        "candidateName": "Helen Hayes",
+        "candidateGender": "Female",
+        "constituency": "Dulwich and West Norwood",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "STOP THE TORY CRISIS IN OUR NHS AND SOCIAL CARE",
+                "content": "Our NHS has just had its worst winter ever. Patients are experiencing a crisis every day..."
+            },
+            {
+                "title": "Campaigning against education cuts",
+                "content": "Under Labour our local schools improved dramatically but we are now threatened with major cuts..."
+            },
+            {
+                "title": "Tory ministers continue to fail rail passengers across Dulwich and West Norwood",
+                "content": "Over the past year, residents across Dulwich and West Norwood have been let down by a privatised rail system..."
+            },
+            {
+                "title": "Good mental health support is vital for everyone in our local community",
+                "content": "Good mental health support is vital for all of us when we need it, but for too many local people the support they need has simply not been there in recent years..."
+            },
+            {
+                "title": "Tackling air pollution",
+                "content": "The Tory government has been comprehensively failing to tackle air pollution, preferring to listen to car manufacturers rather than to the urgent health needs of the population..."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS and Social Care",
+                "policyDescription": "Helen Hayes criticizes Tory-induced crisis and calls for comprehensive support."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Campaign against education cuts threatening local schools."
+            },
+            {
+                "policyTitle": "Rail Services",
+                "policyDescription": "Criticism of the privatised rail system and calls for better services."
+            },
+            {
+                "policyTitle": "Mental Health",
+                "policyDescription": "Calls for improved mental health support and services."
+            },
+            {
+                "policyTitle": "Air Pollution",
+                "policyDescription": "Criticism of the Tory government's inaction on air pollution."
+            }
+        ],
+        "mentions": {
+            "candidate": "Helen Hayes",
+            "otherPartyLeaderCandidate": "Tory MPs",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Stop the Tories' Hard Brexit",
+            "defence": "",
+            "economy": "Fighting tax avoidance",
+            "education": "Campaigning against education cuts",
+            "environment": "Tackling climate change",
+            "governance": "",
+            "government": "",
+            "health": "STOP THE TORY CRISIS IN OUR NHS AND SOCIAL CARE",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Tory ministers continue to fail rail passengers",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Re-open Camberwell station, Action on homelessness, Royal Mail delivery office closures, Rates chaos for local businesses",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "current",
+                "achievements": "Campaigning on key issues such as NHS, education, and transportation."
+            }
+        ],
+        "contactInformation": {
+            "address": "Labour Party, 264 Rosendale Road, London SE24 9DL",
+            "phone": "020 8678 8399",
+            "email": "helen@helenhayes.org.uk",
+            "website": "helenhayes.org.uk",
+            "socialMedia": {
+                "facebook": "helenhayesSWN",
+                "twitter": "helenhayes_",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Helen Hayes with local NHS campaigners"
+                },
+                {
+                    "caption": "With Mayor of London Sadiq Khan and local GLA member"
+                },
+                {
+                    "caption": "Helen outside the Maudsley Hospital"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Thousands of mental health staff cut since 2010.",
+                        "Each year 40,000 people die prematurely due to air pollution."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Good mental health support is vital for everyone in our local community.",
+                        "Under the Tories, the proportion of NHS funding spent on mental health has continued to fall.",
+                        "The Tory government has been comprehensively failing to tackle air pollution."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 3,
+                "candidateAlone": 2,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "Campaigning against education cuts",
+                        "Re-open Camberwell station",
+                        "Royal Mail delivery office closures",
+                        "Rates chaos for local businesses"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "STOP THE TORY CRISIS IN OUR NHS AND SOCIAL CARE",
+                        "Stop the Tories' Hard Brexit"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Helen Hayes has relentlessly called on the Tory government to intervene and to hand the running of our rail services to Transport for London.",
+                    "issueRelated": "transport"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Tory ministers continue to fail rail passengers across Dulwich and West Norwood",
+                        "Rates chaos for local businesses"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "STOP THE TORY CRISIS IN OUR NHS AND SOCIAL CARE",
+                        "The Tory government has been comprehensively failing to tackle air pollution."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Helen Hayes is a member of the All Party Parliamentary Group on Social Integration and a founding Member of the All Party Parliamentary Group on London.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Working hard for Dulwich and West Norwood every day"
+                ]
+            }
+        }
+    }
+}

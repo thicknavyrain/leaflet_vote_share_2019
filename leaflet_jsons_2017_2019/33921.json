@@ -1,0 +1,204 @@
+{
+    "leaflet": {
+        "candidateName": "Emma Monkman",
+        "candidateGender": "",
+        "constituency": "Mid Derbyshire",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Election Communication",
+                "content": "\"Mid Derbyshire has been taken for granted for too long. I pledge to give YOU the voice that you deserve, and represent OUR interests as a community.\""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "An NHS for everyone - not for profit",
+                "policyDescription": "Our NHS nurses and doctors deserve the resources they need and we deserve to keep our NHS public."
+            },
+            {
+                "policyTitle": "Taking Climate Change seriously",
+                "policyDescription": "Saving lives and keeping people safe from extreme climate breakdown. Protecting our environment."
+            },
+            {
+                "policyTitle": "The right homes in the right places",
+                "policyDescription": "Ensure that we build good homes where needed. Ensuring land-banking and empty properties give way to homes for families."
+            },
+            {
+                "policyTitle": "My pledges to you",
+                "policyDescription": "National Education Service, Radical care NHS, Your voice in Parliament, Free TV licenses, Bus services - climate change"
+            }
+        ],
+        "mentions": {
+            "candidate": "Emma Monkman",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Taking Climate Change seriously",
+            "governance": "",
+            "government": "",
+            "health": "An NHS for everyone - not for profit",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Bus services",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "The right homes in the right places",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Unit 3, Marble Hall, Nightingale Road, Derby, DE24 8BF",
+            "phone": "07460579816",
+            "email": "emma4midderbyshire@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@emma4midderbyshire",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Jim",
+                "endorsement": "Emma's life long instincts when tackling injustice whether close to home or on the world stage gave me the great confidence to support her."
+            },
+            {
+                "endorser": "Karen McKeown",
+                "endorsement": "I'm backing Emma Monkman to be the Labour Candidate for Mid Derbyshire."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "\"Mid Derbyshire has been taken for granted for too long. I pledge to give YOU the voice that you deserve, and represent OUR interests as a community.\"",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "07460579816"
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "\"Mid Derbyshire has been taken for granted for too long. I pledge to give YOU the voice that you deserve, and represent OUR interests as a community.\"",
+                        "Our NHS nurses and doctors deserve the resources they need and we deserve to keep our NHS public.",
+                        "Saving lives and keeping people safe from extreme climate breakdown. Protecting our environment.",
+                        "Ensure that we build good homes where needed. Ensuring land-banking and empty properties give way to homes for families.",
+                        "My pledges to you."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 1,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Ensure that we build good homes where needed. Ensuring land-banking and empty properties give way to homes for families."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Our NHS nurses and doctors deserve the resources they need and we deserve to keep our NHS public.",
+                        "Saving lives and keeping people safe from extreme climate breakdown. Protecting our environment.",
+                        "My pledges to you."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Emma's life long instincts when tackling injustice whether close to home or on the world stage gave me the great confidence to support her.",
+                    "issueRelated": "injustice"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "Emma's life long instincts when tackling injustice...",
+                    "I'm backing Emma Monkman to be the Labour Candidate for Mid Derbyshire."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

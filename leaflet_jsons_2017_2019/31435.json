@@ -1,0 +1,188 @@
+{
+    "leaflet": {
+        "candidateName": "Sarah Lewis",
+        "candidateGender": "",
+        "constituency": "Vauxhall",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Building a Brighter Future for Vauxhall",
+                "content": ""
+            },
+            {
+                "title": "The Choice Here is Clear",
+                "content": "Sarah Lewis will stand up for our homes OR Jeremy Corbyn's Labour homes failure"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "Sarah Lewis is focused on stopping Brexit."
+            },
+            {
+                "policyTitle": "Council Homes",
+                "policyDescription": "Sarah Lewis aims to sell more and better council homes and protect young people."
+            },
+            {
+                "policyTitle": "Climate Change",
+                "policyDescription": "Sarah Lewis will take action on climate change."
+            },
+            {
+                "policyTitle": "Homes for Local People",
+                "policyDescription": "Sarah Lewis will start building council homes as part of mixed communities where local people can live and ensure affordable rents."
+            }
+        ],
+        "mentions": {
+            "candidate": "Sarah Lewis",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn's Labour homes failure",
+            "partyLeader": "",
+            "tacticalSituation": "Only the Liberal Democrats can beat Labour"
+        },
+        "issues": {
+            "brexitEurope": "Stop Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Take action on climate change.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Start building council homes as part of mixed communities where local people can live.",
+                    "yimbyNimby": "YIMBY"
+                },
+                {
+                    "content": "Stop selling off & knocking down our council homes.",
+                    "yimbyNimby": "NIMBY"
+                },
+                {
+                    "content": "Rents that local people can afford.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Labour Council is knocking down council homes",
+                        "Labour Council built only 9 council homes in 5 years",
+                        "Labour-run City Hall gave \u00a30 for council homes in 3 years"
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "Building a brighter future for Vauxhall",
+                        "Sarah Lewis will stand up for our homes",
+                        "Stop selling off & knocking down our council homes",
+                        "Start building council homes as part of mixed communities where local people can live",
+                        "Rents that local people can afford",
+                        "Only the Liberal Democrats can beat Labour"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Start building council homes as part of mixed communities where local people can live",
+                        "Stop selling off & knocking down our council homes",
+                        "Rents that local people can afford"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Stop Brexit"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour Council is knocking down council homes"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn's Labour homes failure"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

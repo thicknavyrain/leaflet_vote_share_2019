@@ -1,0 +1,194 @@
+{
+    "leaflet": {
+        "candidateName": "Jeremy Maddocks",
+        "candidateGender": "",
+        "constituency": "Mitcham and Morden",
+        "politicalParty": "Brexit Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "I AM READY",
+                "content": "Send a message to politicians that democracy matters, Deliver a Clean-Break Brexit, Stop knife crime and burglary in Mitcham & Morden, Protect St Helier Hospital and our NHS, Build local housing for local people"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Clean-Break Brexit",
+                "policyDescription": "Deliver a clean-break Brexit now."
+            },
+            {
+                "policyTitle": "Stop Knife Crime",
+                "policyDescription": "Fight to stop knife crime and burglary in the local area."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Fight for St Helier Hospital and our NHS."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Will fight for housing for local people."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jeremy Maddocks",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Deliver a clean-break Brexit now.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Fight for St Helier Hospital and our NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Fight to stop knife crime and burglary in the local area which is out of control.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Fight for housing for local people.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "My name is Jeremy Maddocks and I have fought for Brexit for 30 years. I live and work in South London in the technology industry. Politicians have taken us for granted for too long. We need to send a clear message that we want a clean-break Brexit now. I will fight to stop knife crime and burglary in the local area which is out of control I will fight for St Helier Hospital and our NHS. I will fight for housing for local people.",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "jeremy.maddocks@thebrexitparty.org",
+            "website": "mitchamandmordenbrexitparty.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "maddocksbrexit",
+                "instagram": "jeremy.maddocks.336",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "I have fought for Brexit for 30 years."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Politicians have taken us for granted for too long."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Fight to stop knife crime and burglary in Mitcham & Morden.",
+                        "Fight for housing for local people."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Deliver a Clean-Break Brexit"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "My name is Jeremy Maddocks and I have fought for Brexit for 30 years. I live and work in South London in the technology industry.",
+                    "issueRelated": "Brexit"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I live and work in South London.",
+                "employment": "Work in South London in the technology industry.",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I live and work in South London."
+                ]
+            }
+        }
+    }
+}

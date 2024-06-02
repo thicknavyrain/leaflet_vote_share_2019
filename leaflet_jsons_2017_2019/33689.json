@@ -1,0 +1,165 @@
+{
+    "leaflet": {
+        "candidateName": "William Nigel Jones",
+        "candidateGender": "",
+        "constituency": "Newcastle under Lyme",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "STOP BREXIT",
+                "content": "This election is your chance to STOP BREXIT. BUILD A BRIGHTER FUTURE."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "TACKLE THE CLIMATE EMERGENCY",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "REBUILD OUR ECONOMY",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "INVEST IN OUR NHS & SCHOOLS",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "PROTECTING OUR PUBLIC SERVICES",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "William Nigel Jones",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn, Boris Johnson",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "STOP BREXIT. Who knows where Jeremy Corbyn stands on Brexit? Will he succeed in getting another deal? Any Brexit deal made by him will take years and damage our economy.",
+            "defence": "",
+            "economy": "Prosperity for Newcastle. A Liberal Democrat government led by Jo Swinson will stop Brexit, invest in public services and begin to repair the economic and cultural damage done over the last four years.",
+            "education": "Invest in our NHS & Schools.",
+            "environment": "Tackle the climate emergency.",
+            "governance": "",
+            "government": "",
+            "health": "Invest in our NHS & Schools.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Demand better for Britain. The Liberal Democrats have continued to grow following their recent electoral success.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "William Nigel Jones, a local hard-working campaigner.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "10 Wedgwood Avenue, Newcastle under Lyme ST5 2JD",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Recent polls show support for the Liberal Democrats is at record levels and Jo Swinson is the most popular party leader."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "William Nigel Jones, a local hard-working campaigner."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 4,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Demand better for Newcastle."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "STOP BREXIT",
+                        "Protecting our public services",
+                        "Invest in our NHS & Schools"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Who knows where Jeremy Corbyn stands on Brexit?"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Will he succeed in getting another deal?"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "William Nigel Jones, a local hard-working campaigner.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "William Nigel Jones, a local hard-working campaigner."
+                ]
+            }
+        }
+    }
+}

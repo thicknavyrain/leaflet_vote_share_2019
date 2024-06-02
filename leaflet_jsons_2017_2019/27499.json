@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Paul Ray",
+        "candidateGender": "",
+        "constituency": "Lichfield",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "Thursday June 8th 2017",
+        "messages": [
+            {
+                "title": "OUR COUNTRY NEEDS A STRONG OPPOSITION",
+                "content": "Fighting against Hard Brexit, Standing up for the NHS, Opposing school cuts"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fighting against Hard Brexit",
+                "policyDescription": "We are fighting for you to have your say on the final Brexit deal based on facts and not wild promises."
+            },
+            {
+                "policyTitle": "Standing up for the NHS",
+                "policyDescription": "The Liberal Democrats would provide the funds needed to meet the challenge of increased demand and an aging population."
+            },
+            {
+                "policyTitle": "Opposing school cuts",
+                "policyDescription": "Schools in Staffordshire, including Lichfield and Burntwood, are set to lose an average of \u00a3368 per pupil from their budgets by 2019, threatening larger class sizes."
+            }
+        ],
+        "mentions": {
+            "candidate": "Paul Ray",
+            "otherPartyLeaderCandidate": "Conservative Party",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Fighting against Hard Brexit, Liberal Democrats are the only party that has always supported Britain's membership of the European Union as best for all of us.",
+            "defence": "",
+            "economy": "",
+            "education": "Opposing school cuts, Schools in Staffordshire, including Lichfield and Burntwood, are set to lose an average of \u00a3368 per pupil from their budgets by 2019, threatening larger class sizes.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Standing up for the NHS, We all know we need additional investment in health and care services to cope with increased demand and an aging population.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Local schools are under threat from a Conservative Party that has stopped listening to local people.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "25 Christchurch Lane, Lichfield, WS13 8AY",
+            "phone": "",
+            "email": "",
+            "website": "lichfieldlibdems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Paul Ray with local supporters"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Schools in Staffordshire, including Lichfield and Burntwood, are set to lose an average of \u00a3368 per pupil from their budgets by 2019."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "We are fighting for you to have your say on the final Brexit deal based on facts and not wild promises.",
+                        "We all know we need additional investment in health and care services to cope with increased demand and an aging population.",
+                        "Local schools are under threat from a Conservative Party that has stopped listening to local people.",
+                        "The Liberal Democrats would provide the funds needed to meet this challenge."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Opposing school cuts"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Fighting against Hard Brexit",
+                        "Standing up for the NHS"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Local schools are under threat from a Conservative Party that has stopped listening to local people."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

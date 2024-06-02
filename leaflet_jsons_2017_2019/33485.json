@@ -1,0 +1,177 @@
+{
+    "leaflet": {
+        "candidateName": "Mike Davies",
+        "candidateGender": "",
+        "constituency": "Bath",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A FINAL SAY ON BREXIT",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "AN NHS YOU CAN DEPEND ON",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "REAL ACTION ON CLIMATE CHANGE",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "DECENT, AFFORDABLE HOUSING",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "EFFICIENT, SUSTAINABLE TRANSPORT",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Mike Davies",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "REAL ACTION ON CLIMATE CHANGE",
+            "governance": "",
+            "government": "",
+            "health": "AN NHS YOU CAN DEPEND ON",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "EFFICIENT, SUSTAINABLE TRANSPORT",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "DECENT, AFFORDABLE HOUSING",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "This election is a once-in-a-generation chance to transform our country. In Bath I will fight issues that need urgent action: unaffordable housing, inadequate transport, the climate emergency. Labour will take decisive action: we will rebuild this country and protect nature with a bold new green deal and kickstart the green industrial revolution.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "01225 314131",
+            "email": "mikedavies@bathlabour.org.uk",
+            "website": "www.bathlabour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "twitter.com/mikedavieslab",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "This election is a once-in-a-generation chance to transform our country.",
+                        "Labour will take decisive action: we will rebuild this country and protect nature with a bold new green deal and kickstart the green industrial revolution."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 2,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "unaffordable housing",
+                        "inadequate transport"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "the climate emergency"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

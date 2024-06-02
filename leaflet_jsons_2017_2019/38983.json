@@ -1,0 +1,203 @@
+{
+    "leaflet": {
+        "candidateName": "Brian Paddick",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "The Liberal Democrat Plan",
+                "content": "More money for our police"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Invest \u00a31 billion to restore community policing",
+                "policyDescription": "Enough for two new police officers in every council ward."
+            },
+            {
+                "policyTitle": "Provide a \u00a3500 million fund to repair the damage done to youth services",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Fully fund an immediate two per cent pay-rise for police officers",
+                "policyDescription": "To support recruitment and retention."
+            },
+            {
+                "policyTitle": "End the disproportionate use of Stop and Search",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Brian Paddick",
+            "otherPartyLeaderCandidate": "Mr Johnson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "With the NHS yet again in crisis",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Knife crime has increased by over 75 per cent since 2015; homicides are at their highest rate for a decade; robberies and thefts are increasing and almost all go unsolved",
+            "transport": "",
+            "socialWelfare": "As in-work poverty and school exclusions",
+            "community": [
+                {
+                    "content": "Enough for two new police officers in every council ward.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Former Deputy Assistant Commissioner, Metropolitan Police Service",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Liberal Democrats, 8-10 Great George Street, London, SW1P 3AE",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Knife crime hits new record high",
+                "source": "Independent, October 2019",
+                "date": "October 2019"
+            },
+            {
+                "text": "Criminals going unpunished because of cuts, says police chief.",
+                "source": "Guardian, May 2019",
+                "date": "May 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "More money for our police"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 4,
+                    "examples": [
+                        "knife crime has increased by over 75 per cent since 2015",
+                        "homicides are at their highest rate for a decade",
+                        "Invest \u00a31 billion to restore community policing",
+                        "Provide a \u00a3500 million fund to repair the damage done to youth services"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "People should feel safe in their homes and on their streets.",
+                        "I know first-hand how Mr Johnson oversaw the devastation of community policing in London",
+                        "We must not only turn back the cuts to community policing but also address other factors"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "restore community policing",
+                        "new police officers in every council ward",
+                        "repair the damage done to youth services"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "knife crime has increased",
+                        "homicides are at their highest rate",
+                        "cuts being made to our schools"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "As a former Police Commander, I know first-hand how Mr Johnson oversaw the devastation of community policing in London.",
+                    "issueRelated": "lawCrime"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "This is all at a time when the Conservatives have recklessly cut police funding",
+                        "The NHS yet again in crisis"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "I know first-hand how Mr Johnson oversaw the devastation of community policing in London"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

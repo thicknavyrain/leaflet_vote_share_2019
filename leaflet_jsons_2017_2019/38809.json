@@ -1,0 +1,169 @@
+{
+    "leaflet": {
+        "candidateName": "Darren Henry",
+        "candidateGender": "",
+        "constituency": "Broxtowe",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12th December",
+        "messages": [
+            {
+                "title": "General Election",
+                "content": "Get Brexit done with our new deal. \u00a333.9 billion extra for the NHS. 20,000 extra police officers."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get Brexit done with our new deal."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "\u00a333.9 billion extra for the NHS."
+            },
+            {
+                "policyTitle": "Police",
+                "policyDescription": "20,000 extra police officers."
+            }
+        ],
+        "mentions": {
+            "candidate": "Your local vote will decide the next Prime Minister. Darren Henry. Backing Broxtowe. Backing Boris. Backing Brexit.",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn propped up by Nicola Sturgeon.",
+            "partyLeader": "Backing Boris.",
+            "tacticalSituation": "This election will be close. Your local vote will decide it. Your local vote will decide the next Prime Minister."
+        },
+        "issues": {
+            "brexitEurope": "Get Brexit done with our new deal. Brexit done with a deal.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "\u00a333.9 billion extra for the NHS. More funding for every pupil in every school. Another referendum to break up Britain.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "40 new hospitals across the country. Gigabit broadband for every home. \u00a33.6 billion to help towns invest and attract new businesses.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "\u00a333.9 billion extra for the NHS.",
+                        "20,000 extra police officers.",
+                        "40 new hospitals across the country."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Backing Broxtowe. Backing Boris. Backing Brexit."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 7,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Your local vote will decide it."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Get Brexit done with our new deal."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn propped up by Nicola Sturgeon."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

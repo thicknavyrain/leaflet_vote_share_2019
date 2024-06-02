@@ -1,0 +1,178 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Green Party",
+        "electionDate": "Thursday June 8th",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "STAND UP FOR OUR ENVIRONMENT",
+                "policyDescription": "Invest in clean green energy, industry and agriculture. An end to fossil fuels and fracking."
+            },
+            {
+                "policyTitle": "STAND UP FOR OUR NHS",
+                "policyDescription": "Use Britain\u2019s wealth to invest in health."
+            },
+            {
+                "policyTitle": "STAND UP FOR RENTERS",
+                "policyDescription": "When you rent a home, you should feel at home."
+            },
+            {
+                "policyTitle": "STAND UP FOR YOUNG PEOPLE",
+                "policyDescription": "Education free for all, and free from debt."
+            },
+            {
+                "policyTitle": "STAND UP FOR OUR RIGHTS",
+                "policyDescription": "For human rights, fair votes and a vote on the terms of Brexit."
+            }
+        ],
+        "mentions": {},
+        "issues": {
+            "brexitEurope": "STAND UP FOR OUR RIGHTS - For human rights, fair votes and a vote on the terms of Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "STAND UP FOR YOUNG PEOPLE - Education free for all, and free from debt.",
+            "environment": "STAND UP FOR OUR ENVIRONMENT - Invest in clean green energy, industry and agriculture. An end to fossil fuels and fracking.",
+            "governance": "",
+            "government": "",
+            "health": "STAND UP FOR OUR NHS - Use Britain\u2019s wealth to invest in health.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "STAND UP FOR RENTERS - When you rent a home, you should feel at home.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Ground Floor Flat, 3 Glebe Road, West Bridgford, Nottinghamshire, NG2 6DS.",
+            "phone": "",
+            "email": "",
+            "website": "nottingham.greenparty.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@nottsgreenparty",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Green Party candidates for Nottingham North, Rushcliffe, Nottingham East, Sherwood, Gedling, and Nottingham South."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 10,
+                    "examples": [
+                        "VOTE GREEN PARTY",
+                        "STAND UP FOR OUR ENVIRONMENT",
+                        "Invest in clean green energy, industry and agriculture. An end to fossil fuels and fracking.",
+                        "STAND UP FOR OUR NHS",
+                        "Use Britain\u2019s wealth to invest in health.",
+                        "STAND UP FOR RENTERS",
+                        "When you rent a home, you should feel at home.",
+                        "STAND UP FOR YOUNG PEOPLE",
+                        "Education free for all, and free from debt.",
+                        "STAND UP FOR OUR RIGHTS",
+                        "For human rights, fair votes and a vote on the terms of Brexit."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 6,
+                "candidateAlone": 0,
+                "candidateWithOthers": 6
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "STAND UP FOR RENTERS - When you rent a home, you should feel at home.",
+                        "STAND UP FOR YOUNG PEOPLE - Education free for all, and free from debt."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "STAND UP FOR OUR ENVIRONMENT - Invest in clean green energy, industry and agriculture. An end to fossil fuels and fracking.",
+                        "STAND UP FOR OUR NHS - Use Britain\u2019s wealth to invest in health.",
+                        "STAND UP FOR OUR RIGHTS - For human rights, fair votes and a vote on the terms of Brexit."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

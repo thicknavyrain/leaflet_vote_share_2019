@@ -1,0 +1,167 @@
+{
+    "leaflet": {
+        "candidateName": "Dr Suzanne Bartington",
+        "candidateGender": "",
+        "constituency": "Oxford East",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": "Better health: As a Doctor, health comes first. Our NHS and social care must work more closely to make people healthier.\nGood homes: To rent or buy, in the right place, at the right price. Home ownership rises under The Conservatives.\nTransport that works for everyone: Better transport ups our visitors' experience; they provide so many jobs for local people."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Better health",
+                "policyDescription": "As a Doctor, health comes first. Our NHS and social care must work more closely to make people healthier."
+            },
+            {
+                "policyTitle": "Good homes",
+                "policyDescription": "To rent or buy, in the right place, at the right price. Home ownership rises under The Conservatives."
+            },
+            {
+                "policyTitle": "Transport that works for everyone",
+                "policyDescription": "Better transport ups our visitors' experience; they provide so many jobs for local people."
+            }
+        ],
+        "mentions": {
+            "candidate": "Dr Suzanne Bartington",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Get the best Brexit deal possible to deliver economic security for our future",
+            "defence": "",
+            "economy": "Get the best Brexit deal possible to deliver economic security for our future",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Better health: As a Doctor, health comes first. Our NHS and social care must work more closely to make people healthier.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Transport that works for everyone: Better transport ups our visitors' experience; they provide so many jobs for local people.",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Better health: As a Doctor, health comes first. Our NHS and social care must work more closely to make people healthier."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Better health: As a Doctor, health comes first. Our NHS and social care must work more closely to make people healthier."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Get the best Brexit deal possible to deliver economic security for our future"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "As a Doctor, health comes first.",
+                    "issueRelated": "health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

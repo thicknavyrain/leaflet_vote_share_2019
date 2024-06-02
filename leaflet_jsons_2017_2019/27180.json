@@ -1,0 +1,200 @@
+{
+    "leaflet": {
+        "candidateName": "Christopher Townsend",
+        "candidateGender": "",
+        "constituency": "South West Hertfordshire",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "Thursday 8th June 2017",
+        "messages": [
+            {
+                "title": "Fighting against Hard Brexit",
+                "content": "Liberal Democrats are the only party that has always supported Britain\u2019s membership of the European Union. That\u2019s why we are fighting for you to have your say on the final Brexit deal."
+            },
+            {
+                "title": "Standing up for the NHS",
+                "content": "We know that public finances are tight, but we need additional investment in health and care services as a matter of urgency. The Liberal Democrats would provide the extra funds."
+            },
+            {
+                "title": "Opposing school cuts",
+                "content": "Local schools are under threat from a Conservative Party that has stopped listening to local people in South West Hertfordshire. Schools in Hertfordshire are set to lose over \u00a375 million from their budgets by 2019."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Fighting for you to have your say on the final Brexit deal."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Additional investment in health and care services as a matter of urgency."
+            },
+            {
+                "policyTitle": "School Funding",
+                "policyDescription": "Opposing school cuts and addressing budget shortfalls."
+            }
+        ],
+        "mentions": {
+            "candidate": "Christopher Townsend",
+            "otherPartyLeaderCandidate": "Conservative Party",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Liberal Democrats are the only party that has always supported Britain\u2019s membership of the European Union. That\u2019s why we are fighting for you to have your say on the final Brexit deal.",
+            "defence": "",
+            "economy": "",
+            "education": "Local schools are under threat from a Conservative Party that has stopped listening to local people in South West Hertfordshire. Schools in Hertfordshire are set to lose over \u00a375 million from their budgets by 2019.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "We know that public finances are tight, but we need additional investment in health and care services as a matter of urgency. The Liberal Democrats would provide the extra funds.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Schools in Hertfordshire are set to lose over \u00a375 million from their budgets by 2019.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Schools in Hertfordshire are set to lose over \u00a375 million from their budgets by 2019."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Liberal Democrats are the only party that has always supported Britain\u2019s membership of the European Union.",
+                        "We know that public finances are tight, but we need additional investment in health and care services as a matter of urgency.",
+                        "Local schools are under threat from a Conservative Party that has stopped listening to local people in South West Hertfordshire."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Local schools are under threat from a Conservative Party that has stopped listening to local people in South West Hertfordshire."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Liberal Democrats are the only party that has always supported Britain\u2019s membership of the European Union.",
+                        "We know that public finances are tight, but we need additional investment in health and care services as a matter of urgency."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Local schools are under threat from a Conservative Party that has stopped listening to local people in South West Hertfordshire."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

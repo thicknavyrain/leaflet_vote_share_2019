@@ -1,0 +1,168 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Bath",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "Thursday 12th December",
+        "messages": [
+            {
+                "title": "A Brighter Future for Our Country with the Liberal Democrats",
+                "content": "Lib Dems promise 35 hours of free childcare from nine months old. Liberal Democrats pledge to plough billions into mental health by putting a penny on income tax."
+            },
+            {
+                "title": "More Cuts to our NHS, Schools, and Police with the Conservatives",
+                "content": "83% of schools will be worse off next year than they were in 2015. Majority believe lying Boris Johnson will sell off NHS services to US."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Childcare",
+                "policyDescription": "Lib Dems promise 35 hours of free childcare from nine months old."
+            },
+            {
+                "policyTitle": "Mental Health",
+                "policyDescription": "Liberal Democrats pledge to plough billions into mental health by putting a penny on income tax."
+            },
+            {
+                "policyTitle": "Education Funding",
+                "policyDescription": "83% of schools will be worse off next year than they were in 2015."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Majority believe lying Boris Johnson will sell off NHS services to US."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": "Bath is 1 of 50 seats across the country that can stop the Conservatives. Labour can't win in seats like yours."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "83% of schools will be worse off next year than they were in 2015.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Liberal Democrats pledge to plough billions into mental health by putting a penny on income tax. Majority believe lying Boris Johnson will sell off NHS services to US.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Lib Dems promise 35 hours of free childcare from nine months old.",
+                        "83% of schools will be worse off next year than they were in 2015.",
+                        "Bath is 1 of 50 seats across the country that can stop the Conservatives."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "A Brighter Future for Our Country with the Liberal Democrats.",
+                        "Majority believe lying Boris Johnson will sell off NHS services to US.",
+                        "Labour can't win in seats like yours."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 4,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": []
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Lib Dems promise 35 hours of free childcare from nine months old.",
+                        "Liberal Democrats pledge to plough billions into mental health by putting a penny on income tax.",
+                        "83% of schools will be worse off next year than they were in 2015.",
+                        "Majority believe lying Boris Johnson will sell off NHS services to US."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "83% of schools will be worse off next year than they were in 2015.",
+                        "Majority believe lying Boris Johnson will sell off NHS services to US."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Majority believe lying Boris Johnson will sell off NHS services to US."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Majority believe lying Boris Johnson will sell off NHS services to US."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

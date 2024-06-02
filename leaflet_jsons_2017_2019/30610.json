@@ -1,0 +1,164 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "Only Labour will stand up for us",
+                "content": "On policing \u2013 Doug Waddell, retired police detective: \"Under the Tories, West Midlands has lost 1 in 5 police officers. The cuts are endangering us all. Labour's plan to put the frontline with 10,000 extra officers.\""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "\"The Tories have allowed waiting lists to rise, let the NHS fall into a disgrace.\""
+            },
+            {
+                "policyTitle": "Pensioners",
+                "policyDescription": "\"The Tories are slashing winter fuel allowance\""
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Labour",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "We need a strong, independent-minded local MP who will stand up for our area, fight Brexit for jobs, businesses, and communities.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The Tories have allowed waiting lists to rise, let the NHS fall into a disgrace.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "The Tories are slashing winter fuel allowance",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "\"As a World War II Army Veteran who fought for my country on the beaches of Normandy, I know what it means to fight for what you believe in.\"",
+                "source": "Gordon Horsewood",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Gordon Horsewood, 9th Battalion Royal Tank Regiment veteran"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Under the Tories, West Midlands has lost 1 in 5 police officers."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "The Tories have allowed waiting lists to rise, let the NHS fall into a disgrace.",
+                        "The cuts are endangering us all.",
+                        "The Tories are slashing winter fuel allowance"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": []
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Under the Tories, West Midlands has lost 1 in 5 police officers.",
+                        "The Tories have allowed waiting lists to rise, let the NHS fall into a disgrace.",
+                        "The Tories are slashing winter fuel allowance"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "\"As a World War II Army Veteran who fought for my country on the beaches of Normandy, I know what it means to fight for what you believe in.\"",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Gordon Horsewood, 9th Battalion Royal Tank Regiment veteran"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 4,
+                    "examples": [
+                        "Under the Tories, West Midlands has lost 1 in 5 police officers.",
+                        "The Tories have allowed waiting lists to rise, let the NHS fall into a disgrace.",
+                        "The Tories are slashing winter fuel allowance",
+                        "The cuts are endangering us all."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

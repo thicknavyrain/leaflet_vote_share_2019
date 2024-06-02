@@ -1,0 +1,194 @@
+{
+    "leaflet": {
+        "candidateName": "Barrie Fairbairn",
+        "candidateGender": "",
+        "constituency": "Grantham and Stamford",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Labour promises to stop NHS hospital closures at once.",
+                "policyDescription": "Only Labour will save the NHS. The Tories only care about cost cutting, while we\u2019ll invest \u00a337bn to properly fund the NHS."
+            },
+            {
+                "policyTitle": "Labour promises to fund education.",
+                "policyDescription": "Labour will take 5% from the wealthiest top 5% of earners to fund public schools and provide free school meals for all."
+            },
+            {
+                "policyTitle": "Security and policing.",
+                "policyDescription": "Labour will properly fund public services and put extra police on the street. Barrie supports Jeremy Corbyn\u2019s vision of less nuclear deterrent spending on the Trident weapons program."
+            }
+        ],
+        "mentions": {
+            "candidate": "Barrie Fairbairn",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Jeremy Corbyn",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "Barrie supports Jeremy Corbyn\u2019s vision of less nuclear deterrent spending on the Trident weapons program. Labour will properly fund public services and put extra police on the street.",
+            "economy": "",
+            "education": "Labour will take 5% from the wealthiest top 5% of earners to fund public schools and provide free school meals for all.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Only Labour will save the NHS. The Tories only care about cost cutting, while we\u2019ll invest \u00a337bn to properly fund the NHS.",
+            "immigration": "",
+            "labourEmployment": "Labour will take 5% from the wealthiest top 5% of earners to fund public schools and provide free school meals for all.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Labour will take 5% from the wealthiest top 5% of earners to fund public schools and provide free school meals for all.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Labour Central Owen Street Lincoln LN6 7TS",
+            "phone": "07712345678",
+            "email": "barrie.fairbairn@labour.org.uk",
+            "website": "labour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@barriefairbairn",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "This General Election is a stark choice for the country. Vote Labour for the many not the few, to stop the Conservatives\u2019 attack on public services and protect the NHS from closer.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Vote Labour for the many not the few."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "The Tories only care about cost cutting, while we\u2019ll invest \u00a337bn to properly fund the NHS.",
+                        "Labour will take 5% from the wealthiest top 5% of earners to fund public schools and provide free school meals for all.",
+                        "Labour will properly fund public services and put extra police on the street."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Only Labour will save the NHS.",
+                        "Jeremy Corbyn\u2019s vision of less nuclear deterrent spending on the Trident weapons program."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 4,
+                "candidateAlone": 1,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Vote Labour for the many not the few."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Labour will take 5% from the wealthiest top 5% of earners to fund public schools and provide free school meals for all.",
+                        "Only Labour will save the NHS. The Tories only care about cost cutting, while we\u2019ll invest \u00a337bn to properly fund the NHS.",
+                        "Labour will properly fund public services and put extra police on the street."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Photo of Barrie Fairbairn campaigning with the Labour party.",
+                    "issueRelated": "General campaign support."
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Tories only care about cost cutting, while we\u2019ll invest \u00a337bn to properly fund the NHS."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

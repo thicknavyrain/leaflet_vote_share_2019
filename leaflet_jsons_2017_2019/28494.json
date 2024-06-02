@@ -1,0 +1,205 @@
+{
+    "leaflet": {
+        "candidateName": "Alex Norris",
+        "candidateGender": "",
+        "constituency": "Nottingham North",
+        "politicalParty": "Labour",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "My pledges to you",
+                "content": "Fight the Government\u2019s unfair school cuts. Prioritise tackling unemployment. Focus on Early Intervention. Work to secure the best deal from Brexit. Work for proper NHS funding."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "\u00a310 an hour minimum wage",
+                "policyDescription": "Implement a \u00a310 minimum wage."
+            },
+            {
+                "policyTitle": "A national investment bank",
+                "policyDescription": "Establish a national investment bank."
+            },
+            {
+                "policyTitle": "Guaranteed Triple Lock for pensioners",
+                "policyDescription": "Guarantee the Triple Lock for pensioners."
+            },
+            {
+                "policyTitle": "Investment into the NHS and social care",
+                "policyDescription": "Invest in NHS and social care services."
+            },
+            {
+                "policyTitle": "A million new homes over 5 years",
+                "policyDescription": "Build a million new homes over five years."
+            },
+            {
+                "policyTitle": "10,000 new police officers",
+                "policyDescription": "Recruit 10,000 new police officers."
+            }
+        ],
+        "mentions": {
+            "candidate": "Alex Norris",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Work to secure the best deal from Brexit",
+            "defence": "",
+            "economy": "",
+            "education": "Fight the Government\u2019s unfair school cuts. Focus on Early Intervention.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Work for proper NHS funding",
+            "immigration": "",
+            "labourEmployment": "Prioritise tackling unemployment",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Lives in the constituency. Backed by Graham Allen. Local Councillor. Record of servicing our community.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I have a strong track record in our community. I organised the successful Save Basford Hall College campaign. Today, the College has had \u00a320m of investment and is a centre of excellence. For the last seven years I\u2019ve also served as a governor of an Aspley school.",
+        "politicalExperience": [
+            {
+                "role": "Labour Councillor",
+                "duration": "last five years",
+                "achievements": "Senior member of a Labour Council which has invested in the city, protected our city\u2019s best loved buildings from closure and decay, and got the best public transport system outside London"
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "07392 591697",
+            "email": "alexandernorris34@googlemail.com",
+            "website": "www.nottinghamlabour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Graham Allen",
+                "endorsement": "Backed by Graham Allen"
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Alex Norris with community members"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 6,
+                    "examples": [
+                        "\u00a310 an hour minimum wage",
+                        "A national investment bank",
+                        "A million new homes over 5 years",
+                        "10,000 new police officers",
+                        "\u00a320m of investment in Basford Hall College",
+                        "Record of servicing our community"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "We need a strong, local voice in Parliament.",
+                        "It's important that we build on Graham Allen's achievements of the past 30 years.",
+                        "Nottingham North is better off with a Labour Government."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "I have a strong track record in our community.",
+                        "I organised the successful Save Basford Hall College campaign.",
+                        "Lives in the constituency.",
+                        "Local Councillor"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "A \u00a310 an hour minimum wage",
+                        "A fully-costed manifesto of policies that will make Britain a better place.",
+                        "A million new homes over 5 years"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I organised the successful Save Basford Hall College campaign.",
+                    "issueRelated": "education"
+                },
+                {
+                    "story": "For the last seven years I\u2019ve also served as a governor of an Aspley school.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Backed by Graham Allen."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "It's a scandal that Tory cuts mean a loss of over \u00a3500 per pupil in our community"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Lives in the constituency. Local Councillor.",
+                "employment": "Labour Councillor",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I have a strong track record in our community.",
+                    "Lives in the constituency.",
+                    "Local Councillor"
+                ]
+            }
+        }
+    }
+}

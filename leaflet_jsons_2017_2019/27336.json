@@ -1,0 +1,170 @@
+{
+    "leaflet": {
+        "candidateName": "Gideon Amos",
+        "candidateGender": "",
+        "constituency": "Taunton Deane",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8th 2017",
+        "messages": [
+            {
+                "title": "Standing up for our NHS and Carers",
+                "content": "We know they need additional investment urgently - Gideon wants to halt NHS privatisation in Somerset and is campaigning for a penny on income tax to provide the funding. Only the Liberal Democrats have a costed plan of this kind."
+            },
+            {
+                "title": "Fighting for all Residents",
+                "content": "Whether you work in a business or in the public sector our local Liberal tradition means you should be able to lead your life your way. Every day our public, emergency and armed services make that possible and deserve respect - not just more cuts."
+            },
+            {
+                "title": "Opposing school cuts",
+                "content": "Taunton Deane schools face big cuts this year from a Conservative Government that has stopped listening to local people and caused stress to children and parents. We need a passionate and authoritative voice to stand up to the Conservatives."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Standing up for our NHS and Carers",
+                "policyDescription": "Gideon wants to halt NHS privatisation in Somerset and is campaigning for a penny on income tax to provide the funding."
+            },
+            {
+                "policyTitle": "Fighting for all Residents",
+                "policyDescription": "Ensuring respect and support for people working in business and public sectors through our Liberal tradition."
+            },
+            {
+                "policyTitle": "Opposing school cuts",
+                "policyDescription": "Addressing the significant cuts faced by Taunton Deane schools and standing up to the Conservatives."
+            }
+        ],
+        "mentions": {
+            "candidate": "Gideon Amos",
+            "otherPartyLeaderCandidate": "Conservatives",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Opposing school cuts",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Standing up for our NHS and Carers",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Fighting for all Residents",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "83 Staplegrove Road, Taunton, TA1 1DN",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "campaigning for a penny on income tax to provide the funding."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "We know they need additional investment urgently",
+                        "Only the Liberal Democrats have a costed plan of this kind.",
+                        "Whether you work in a business or in the public sector our local Liberal tradition means you should be able to lead your life your way.",
+                        "Every day our public, emergency and armed services make that possible and deserve respect - not just more cuts.",
+                        "Taunton Deane schools face big cuts this year from a Conservative Government that has stopped listening to local people and caused stress to children and parents."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Fighting for all Residents"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Standing up for our NHS and Carers",
+                        "Opposing school cuts"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Taunton Deane schools face big cuts this year from a Conservative Government that has stopped listening to local people and caused stress to children and parents."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

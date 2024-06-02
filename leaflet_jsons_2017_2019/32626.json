@@ -1,0 +1,186 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Ipswich",
+        "politicalParty": "Brexit Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "No to a Second Referendum",
+                "content": "NO TO A SECOND REFERENDUM YES TO A REAL BREXIT"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Stop a Corbyn-led Remainer alliance and fight for a real Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "Fighting to win Labour and Remainer-held seats."
+        },
+        "issues": {
+            "brexitEurope": "We don't like Boris Johnson's EU Treaty and we don't trust the Conservatives to deliver Brexit. No Leaver should vote Labour. Jeremy Corbyn promised to respect the Brexit vote.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "Parliament's betrayal of our vote proves that the political system is broken. We need big democratic reforms.",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MEP",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Nigel Farage",
+                "endorsement": "Leader of The Brexit Party"
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Together we can Change Politics for Good.",
+                "source": "Nigel Farage",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Corbyn has betrayed five million Labour leave voters."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "We don't like Boris Johnson's EU Treaty and we don't trust the Conservatives to deliver Brexit.",
+                        "We are giving him a half chance and taking the fight to Corbyn's Labour in the Brexit heartlands.",
+                        "No Leaver should vote Labour.",
+                        "Parliament's betrayal of our vote proves that the political system is broken."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "We don't like Boris Johnson's EU Treaty and we don't trust the Conservatives to deliver Brexit.",
+                        "No Leaver should vote Labour. Jeremy Corbyn promised to respect the Brexit vote."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Nigel Farage, Leader of The Brexit Party"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "We don't like Boris Johnson's EU Treaty and we don't trust the Conservatives to deliver Brexit.",
+                        "Corbyn has betrayed five million Labour leave voters."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Corbyn has betrayed five million Labour leave voters."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "No Leaver should vote Labour. Jeremy Corbyn promised to respect the Brexit vote."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

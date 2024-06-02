@@ -1,0 +1,163 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "candidateGender": "Female",
+        "constituency": "",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "STABILITY FOR BREXIT AND BEYOND",
+                "content": "Prime Minister Theresa May asks country for support to strengthen hand in Brexit negotiations and to lock in Britain\u2019s economic progress."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Strong and Stable Leadership with Theresa May",
+                "policyDescription": "Ensuring five years of strong and stable leadership to see the country through Brexit and beyond."
+            },
+            {
+                "policyTitle": "The Best Possible Deal from Brexit",
+                "policyDescription": "Negotiating the best possible deal for Britain during Brexit."
+            },
+            {
+                "policyTitle": "A Growing Economy to Secure Our Future",
+                "policyDescription": "Focus on economic growth to secure Britain's future."
+            }
+        ],
+        "mentions": {
+            "candidate": "Prime Minister Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn, Liberal Democrats, SNP",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "Clear choice facing people in the June 8th General Election."
+        },
+        "issues": {
+            "brexitEurope": "Strong and stable leadership needed to secure five years and to see the country through Brexit and beyond.",
+            "defence": "",
+            "economy": "A growing economy to secure our future. Lock in Britain\u2019s economic progress.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Prime Minister Theresa May asks country for support to strengthen hand in Brexit negotiations and to lock in Britain\u2019s economic progress.",
+                        "Strong and stable leadership needed to secure five years and to see the country through Brexit and beyond."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Prime Minister Theresa May asks country for support to strengthen hand in Brexit negotiations and to lock in Britain\u2019s economic progress."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Unstable coalition government, with Jeremy Corbyn propped up by the Liberal Democrats and the SNP, who want to reopen divisions of the referendum when we should be coming together to get the best deal for Britain."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Unstable coalition government, with Jeremy Corbyn propped up by the Liberal Democrats and the SNP, who want to reopen divisions of the referendum when we should be coming together to get the best deal for Britain."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Unstable coalition government, with Jeremy Corbyn propped up by the Liberal Democrats and the SNP, who want to reopen divisions of the referendum when we should be coming together to get the best deal for Britain."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

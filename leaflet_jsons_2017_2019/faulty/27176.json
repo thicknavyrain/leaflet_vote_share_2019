@@ -1,0 +1,188 @@
+{
+    "leaflet": {
+        "candidateName": "Ann Le Blond",
+        "candidateGender": "",
+        "constituency": "Rutherglen & Hamilton West",
+        "politicalParty": "Scottish Conservative and Unionist",
+        "electionDate": "8th June 2017",
+        "messages": [
+            {
+                "title": "My Priorities for Rutherglen & Hamilton West",
+                "content": [
+                    "Oppose the SNP's plans for another independence referendum.",
+                    "Secure Rutherglen and Hamilton West's share of the \u00a31.13 billion investment in the Glasgow City Region deal.",
+                    "Ensure Health Services are kept local with good access for all.",
+                    "Support our local town centres and small businesses. High Streets need more investment for the people that use them.",
+                    "Secure more investment in local roads and transport links, especially in areas with growth in residential development."
+                ]
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Independence Referendum",
+                "policyDescription": "Oppose the SNP's plans for another independence referendum."
+            },
+            {
+                "policyTitle": "Investment",
+                "policyDescription": "Secure Rutherglen and Hamilton West's share of the \u00a31.13 billion investment in the Glasgow City Region deal."
+            },
+            {
+                "policyTitle": "Health Services",
+                "policyDescription": "Ensure Health Services are kept local with good access for all."
+            },
+            {
+                "policyTitle": "Town Centres and Small Businesses",
+                "policyDescription": "Support our local town centres and small businesses. High Streets need more investment for the people that use them."
+            },
+            {
+                "policyTitle": "Local Roads and Transport Links",
+                "policyDescription": "Secure more investment in local roads and transport links, especially in areas with growth in residential development."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "You have my guarantee that the Scottish Conservatives will oppose the SNP every step of the way.",
+            "tacticalSituation": "Tory Revival on Course to Foil Independence"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Ensure Health Services are kept local with good access for all.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Secure more investment in local roads and transport links, especially in areas with growth in residential development.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Support our local town centres and small businesses. High Streets need more investment for the people that use them.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "24 Springfield Park Road, Rutherglen G73 3RQ",
+            "phone": "",
+            "email": "ann_leblond@hotmail.com",
+            "website": "www.scottishconservatives.com",
+            "socialMedia": {
+                "facebook": "fb.com/scottishconservatives",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "You have my guarantee that the Scottish Conservatives will oppose the SNP every step of the way.",
+                "source": "",
+                "date": ""
+            },
+            {
+                "text": "Labour and the Lib Dems are now too weak to stand up to the SNP",
+                "source": "Sunday Times Scotland, 23 April 2017",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Ann Le Blond"
+                },
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Secure Rutherglen and Hamilton West's share of the \u00a31.13 billion investment in the Glasgow City Region deal."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Ensure Health Services are kept local with good access for all.",
+                        "High Streets need more investment for the people that use them."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Ensure Health Services are kept local with good access for all.",
+                        "Support our local town centres and small businesses. High Streets need more investment for the people that use them.",
+                        "Secure more investment in local roads and transport links, especially in areas with growth in residential development."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Oppose the SNP's plans for another independence referendum."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Oppose the SNP's plans for another independence referendum."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Labour and the Lib Dems are now too weak to stand up to the SNP"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "leaflet": {
+        "candidateName": "Rebecca Fraser",
+        "candidateGender": "",
+        "constituency": "Midlothian",
+        "politicalParty": "Conservative & Unionist",
+        "electionDate": "12th December 2019",
+        "messages": [
+            {
+                "title": "It's Going To Be Very Close Here",
+                "content": "Rebecca Fraser"
+            },
+            {
+                "title": "Only Rebecca Fraser Can Stop The SNP Here",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Against Indyref2",
+                "policyDescription": "Rebecca Fraser will stand firm against Indyref2."
+            }
+        ],
+        "mentions": {
+            "candidate": "Rebecca Fraser",
+            "otherPartyLeaderCandidate": "Nicola Sturgeon",
+            "partyLeader": "",
+            "tacticalSituation": "A vote for Labour or the Lib Dems will let the SNP win here."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "7 Milton Bridge, Penicuik, EH26 0RD",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Con +13.5%",
+                        "SNP -16.2%"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "It's Going To Be Very Close Here",
+                        "Only Rebecca Fraser Can Stop The SNP Here"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "A vote for Labour or the Lib Dems will let the SNP win here."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Rebecca Fraser who will stand firm against Indyref2"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "A vote for Labour or the Lib Dems will let the SNP win here."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Nicola Sturgeon"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Rob McAllister-Bell",
+        "candidateGender": "",
+        "constituency": "Liverpool Riverside",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "Thursday 12th December",
+        "messages": [
+            {
+                "title": "",
+                "content": "Imagine if you could just make Brexit stop? Never have to hear about it again... Or have it drag on for years more while a deal is finished off. Which would you choose? I want to put a stop to Brexit, so we can get back to dealing with the things that really matter: Protect our NHS, tackle climate change, end homelessness and improve our schools. We can\u2019t carry on like this. That\u2019s why a Liberal Democrat government will cancel Brexit on Day One. We will invest the \u00a350 BILLION \u2018Remain Bonus\u2019 to improve our public services & tackle inequality."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "A Liberal Democrat government will cancel Brexit on Day One."
+            },
+            {
+                "policyTitle": "Invest in Public Services",
+                "policyDescription": "Invest the \u00a350 BILLION \u2018Remain Bonus\u2019 to improve public services & tackle inequality."
+            },
+            {
+                "policyTitle": "Protect the NHS",
+                "policyDescription": "Protect our NHS."
+            },
+            {
+                "policyTitle": "Tackle Climate Change",
+                "policyDescription": "Tackle climate change."
+            },
+            {
+                "policyTitle": "End Homelessness",
+                "policyDescription": "End homelessness."
+            },
+            {
+                "policyTitle": "Improve Schools",
+                "policyDescription": "Improve our schools."
+            }
+        ],
+        "mentions": {
+            "candidate": "local Labour Party have brought shame on Liverpool",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": "73% of voters in this constituency want to remain in Europe."
+        },
+        "issues": {
+            "brexitEurope": "cancel Brexit on Day One.",
+            "defence": "",
+            "economy": "invest the \u00a350 BILLION \u2018Remain Bonus\u2019 to improve public services & tackle inequality.",
+            "education": "improve our schools.",
+            "environment": "tackle climate change.",
+            "governance": "",
+            "government": "",
+            "health": "protect our NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "end homelessness.",
+            "community": [
+                {
+                    "content": "local Labour Party have brought shame on Liverpool.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "509 Smithdown Road, Liverpool L15 5AE",
+            "phone": "",
+            "email": "rob.mcallister-bell@liverlibdems.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "Liverpool Lib Dems",
+                "twitter": "@robmcuk",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "We will invest the \u00a350 BILLION \u2018Remain Bonus\u2019 to improve our public services & tackle inequality."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "local Labour Party have brought shame on Liverpool"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "local Labour Party have brought shame on Liverpool."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "protect our NHS.",
+                        "tackle climate change.",
+                        "end homelessness."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "local Labour Party have brought shame on Liverpool."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

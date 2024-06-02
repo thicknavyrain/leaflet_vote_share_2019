@@ -1,0 +1,235 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Brexit Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Invest in our NHS",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Invest in our NHS",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "health": "Invest in our NHS",
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Dr. David Bull",
+                "endorsement": "As a doctor, I would never be part of any political party that would put the NHS at risk."
+            },
+            {
+                "endorser": "Dr. Kushikaw Mankai",
+                "endorsement": "As a frontline NHS GP, I've worked amongst some of the poorest and most vulnerable communities."
+            },
+            {
+                "endorser": "Andrea Livesey",
+                "endorsement": "I've worked in the NHS for years as a qualified nurse."
+            },
+            {
+                "endorser": "Dr. Chidi Ngwaba",
+                "endorsement": "I've worked in the NHS for over twelve years getting people from pill to lifestyle."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "As a doctor, I would never be part of any political party that would put the NHS at risk.",
+                "source": "Dr. David Bull",
+                "date": ""
+            },
+            {
+                "text": "As a frontline NHS GP, I've worked amongst some of the poorest and most vulnerable communities.",
+                "source": "Dr. Kushikaw Mankai",
+                "date": ""
+            },
+            {
+                "text": "I've worked in the NHS for years as a qualified nurse.",
+                "source": "Andrea Livesey",
+                "date": ""
+            },
+            {
+                "text": "I've worked in the NHS for over twelve years getting people from pill to lifestyle.",
+                "source": "Dr. Chidi Ngwaba",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Dr. David Bull"
+                },
+                {
+                    "caption": "Dr. Kushikaw Mankai"
+                },
+                {
+                    "caption": "Andrea Livesey"
+                },
+                {
+                    "caption": "Dr. Chidi Ngwaba"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "As a doctor, I would never be part of any political party that would put the NHS at risk.",
+                        "As a frontline NHS GP, I've worked amongst some of the poorest and most vulnerable communities.",
+                        "I've worked in the NHS for years as a qualified nurse.",
+                        "I've worked in the NHS for over twelve years getting people from pill to lifestyle."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Invest in our NHS"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "As a doctor, I would never be part of any political party that would put the NHS at risk.",
+                    "issueRelated": "health"
+                },
+                {
+                    "story": "As a frontline NHS GP, I've worked amongst some of the poorest and most vulnerable communities.",
+                    "issueRelated": "health"
+                },
+                {
+                    "story": "I've worked in the NHS for years as a qualified nurse.",
+                    "issueRelated": "health"
+                },
+                {
+                    "story": "I've worked in the NHS for over twelve years getting people from pill to lifestyle.",
+                    "issueRelated": "health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 4,
+                "examples": [
+                    "Dr. David Bull: As a doctor, I would never be part of any political party that would put the NHS at risk.",
+                    "Dr. Kushikaw Mankai: As a frontline NHS GP, I've worked amongst some of the poorest and most vulnerable communities.",
+                    "Andrea Livesey: I've worked in the NHS for years as a qualified nurse.",
+                    "Dr. Chidi Ngwaba: I've worked in the NHS for over twelve years getting people from pill to lifestyle."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "leaflet": {
+        "candidateName": "Boris Johnson",
+        "candidateGender": "",
+        "constituency": "Uxbridge & South Ruislip",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "My priorities for Uxbridge & South Ruislip",
+                "content": "1. I will put residents first and make their voices heard.\n2. I will protect our area from over-development.\n3. I will fight Labour's proposal to close RAF Northolt."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Residents First",
+                "policyDescription": "I will put residents first and make their voices heard."
+            },
+            {
+                "policyTitle": "Over-development",
+                "policyDescription": "I will protect our area from over-development."
+            },
+            {
+                "policyTitle": "RAF Northolt",
+                "policyDescription": "I will fight Labour's proposal to close RAF Northolt."
+            }
+        ],
+        "mentions": {
+            "candidate": "Boris Johnson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I will protect our area from over-development.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": []
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I will put residents first and make their voices heard.",
+                        "I will protect our area from over-development.",
+                        "I will fight Labour's proposal to close RAF Northolt."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "I will protect our area from over-development."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "I will fight Labour's proposal to close RAF Northolt."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "I will fight Labour's proposal to close RAF Northolt."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

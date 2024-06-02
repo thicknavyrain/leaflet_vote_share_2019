@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "Ruth Edwards",
+        "candidateGender": "female",
+        "constituency": "Rushcliffe",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Election Communication",
+                "content": "It's a hung parliament - or a Conservative majority. Your local vote will decide it."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get Brexit done with our new deal."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "\u00a333.9 billion extra for the NHS."
+            },
+            {
+                "policyTitle": "Police",
+                "policyDescription": "20,000 extra police officers."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ruth Edwards",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn, Jo Swinson, Nicola Sturgeon",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "A Lib Dem-Conservative coalition is not an option."
+        },
+        "issues": {
+            "brexitEurope": "Brexit done with a deal.",
+            "defence": "",
+            "economy": "",
+            "education": "More funding for every pupil in every school.",
+            "environment": "Ending our contribution to global warming by 2050.",
+            "governance": "",
+            "government": "",
+            "health": "\u00a333.9 billion extra for the NHS, 40 new hospitals across the country.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "20,000 extra police officers.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "\u00a33.6 billion to help towns invest and attract new businesses.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Edwards Campaign HQ, Westminster, London, SW1A 2AA.",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 5,
+                    "examples": [
+                        "\u00a333.9 billion extra for the NHS.",
+                        "20,000 extra police officers.",
+                        "\u00a33.6 billion to help towns invest and attract new businesses.",
+                        "40 new hospitals across the country.",
+                        "Ending our contribution to global warming by 2050."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "It's a hung parliament - or a Conservative majority. Your local vote will decide it.",
+                        "A Lib Dem-Conservative coalition is not an option."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 6,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "20,000 extra police officers.",
+                        "\u00a33.6 billion to help towns invest and attract new businesses."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "\u00a333.9 billion extra for the NHS.",
+                        "Ending our contribution to global warming by 2050."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Jo Swinson says no to second Tory alliance."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Vote Lib Dem, get Jeremy Corbyn."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

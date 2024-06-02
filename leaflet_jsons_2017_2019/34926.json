@@ -1,0 +1,223 @@
+{
+    "leaflet": {
+        "candidateName": "Trevor Jones",
+        "candidateGender": "",
+        "constituency": "Bolton North East",
+        "politicalParty": "The Brexit Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Crime",
+                "policyDescription": "A reduction in crime by increasing police resources."
+            },
+            {
+                "policyTitle": "Youth Services",
+                "policyDescription": "Improvements in Local Youth Services."
+            },
+            {
+                "policyTitle": "Veteran Support",
+                "policyDescription": "More help for our ex-service Men & Women."
+            },
+            {
+                "policyTitle": "Public Transport",
+                "policyDescription": "An extension to the Metrolink that would connect Bolton to Bury."
+            },
+            {
+                "policyTitle": "Support for Pensioners",
+                "policyDescription": "More help for our pensioners."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "A Clean Break Brexit."
+            },
+            {
+                "policyTitle": "Road Congestion",
+                "policyDescription": "A Solution to the congestion on our main roads (Blackburn Rd, Bury Rd, Tonge Moor Rd)."
+            },
+            {
+                "policyTitle": "Apprenticeships",
+                "policyDescription": "Opening of Apprenticeship schools in Bolton."
+            },
+            {
+                "policyTitle": "Hospital Services",
+                "policyDescription": "An expansion of Local Hospital Services."
+            },
+            {
+                "policyTitle": "High Street Investment",
+                "policyDescription": "Investment in our high street to encourage new business."
+            },
+            {
+                "policyTitle": "Infrastructure",
+                "policyDescription": "More investment in our roads and infrastructure."
+            }
+        ],
+        "mentions": {
+            "candidate": "Trevor Jones",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Opening of Apprenticeship schools in Bolton.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "An expansion of Local Hospital Services.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "A reduction in crime by increasing police resources.",
+            "transport": "An extension to the Metrolink that would connect Bolton to Bury.",
+            "socialWelfare": "More help for our pensioners.",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "The Brexit Party, 83 Victoria Street, London, SW1H 0HW",
+            "phone": "",
+            "email": "trevor.jones@thebrexitparty.org",
+            "website": "www.thebrexitparty.org",
+            "socialMedia": {
+                "facebook": "TPBBOLTONNORTHEAST",
+                "twitter": "TPBBoltonNE",
+                "instagram": "thebrexitpartyboltonne",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "A Solution to the congestion on our main roads (Blackburn Rd, Bury Rd, Tonge Moor Rd).",
+                        "Opening of Apprenticeship schools in Bolton.",
+                        "An extension to the Metrolink that would connect Bolton to Bury."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "A Clean Break Brexit."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

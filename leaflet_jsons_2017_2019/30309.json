@@ -1,0 +1,175 @@
+{
+    "leaflet": {
+        "candidateName": "Ryan Stephenson",
+        "candidateGender": "",
+        "constituency": "Leeds North East",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Making Brexit a Success is Central to Our National Interest",
+                "content": "As a nation, we face the most important period in our lifetime. Making Brexit a success is central to our national interest - and it is central to your own security and prosperity."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Making Brexit a Success",
+                "policyDescription": "Ensuring a successful Brexit that benefits national interests, security, and prosperity."
+            },
+            {
+                "policyTitle": "Strong and Stable Leadership",
+                "policyDescription": "Ensuring strong and stable leadership with Theresa May and Ryan Stephenson for a better future."
+            },
+            {
+                "policyTitle": "Economic Security",
+                "policyDescription": "Ensuring economic security through strong negotiation and dedication."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ryan Stephenson",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "Your seat counts and every single vote will count. Some people say Jeremy Corbyn can't possibly become Prime Minister and it doesn't matter who you vote for in Leeds North East constituency."
+        },
+        "issues": {
+            "brexitEurope": "Making Brexit a success is central to our national interest and it is central to your own security and prosperity.",
+            "defence": "",
+            "economy": "We can make a success of Brexit and bring back economic security.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "Build a country where everyone can get a good school place and well-paid jobs.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Strong and stable leadership, a hung parliament and coalition of chaos.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Labour plots Brexit deal with other parties if Tories don't win election majority",
+                "source": "Mirror",
+                "date": "20th April 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May and Ryan Stephenson"
+                },
+                {
+                    "caption": "A Coalition of Chaos with Jeremy Corbyn"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn has said himself, he was a 200/1 outside chance for the Labour leadership and promises like that are not at stake."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Making Brexit a success is central to our national interest - and it is central to your own security and prosperity.",
+                        "This is a unique and crucial election for our country."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May and Ryan Stephenson - a strong and stable leadership for Leeds North East and for Britain."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "As a nation, we face the most important period in our lifetime. Making Brexit a success is central to our national interest - and it is central to your own security and prosperity."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Labour plots Brexit deal with other parties if Tories don't win election majority"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Labour under Jeremy Corbyn are a shambles and he would embarrass Britain in Brussels and his open-ended economic security.",
+                        "Or a hung parliament and coalition of chaos with Jeremy Corbyn negotiating Brexit - which we could all pay for in higher taxes, fewer jobs, more waste and more debt."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn",
+                        "Jeremy Corbyn is wrong on Brexit"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Some people say Jeremy Corbyn can't possibly become Prime Minister."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "a strong and stable leadership for Leeds North East",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "a strong and stable leadership for Leeds North East"
+                ]
+            }
+        }
+    }
+}

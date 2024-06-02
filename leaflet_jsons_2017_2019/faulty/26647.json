@@ -1,0 +1,142 @@
+{
+    "leaflet": {
+        "candidateName": "Pat McCarthy",
+        "candidateGender": "",
+        "constituency": "The Wrekin",
+        "politicalParty": "Green Party",
+        "electionDate": "June 8th",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protect Our Green Spaces",
+                "policyDescription": "Commitment to safeguarding natural areas and preserving green spaces."
+            },
+            {
+                "policyTitle": "Keep Our NHS Public",
+                "policyDescription": "Advocacy for a fully publicly funded and managed National Health Service."
+            },
+            {
+                "policyTitle": "Affordable Energy Efficient Homes",
+                "policyDescription": "Support for housing policies that ensure affordability and energy efficiency."
+            },
+            {
+                "policyTitle": "For a Fair Economy",
+                "policyDescription": "Proposals aimed at achieving economic fairness and equity."
+            },
+            {
+                "policyTitle": "Real Living Wage",
+                "policyDescription": "Promotion of a living wage that meets the actual cost of living."
+            },
+            {
+                "policyTitle": "Safe Climate",
+                "policyDescription": "Initiatives to address climate change and promote environmental protection."
+            }
+        ],
+        "mentions": {},
+        "issues": {
+            "environment": "Protect Our Green Spaces",
+            "health": "Keep Our NHS Public",
+            "community": [
+                {
+                    "content": "Homes for All",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {},
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Pat McCarthy standing in front of a tree in a green space."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Protect Our Green Spaces"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Keep Our NHS Public"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {},
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "leaflet": {
+        "candidateName": "Andrew Griffith",
+        "candidateGender": "",
+        "constituency": "Arundel & South Downs",
+        "politicalParty": "",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "My Plan",
+                "content": "1) Provide more police for our towns and villages reducing crime and anti-social behaviour, backed up by tougher sentences and more prison places. 2) Protect our countryside against unsustainable large-scale development and deliver a cleaner, greener environment for our children and grandchildren. 3) Champion local businesses, our High Streets, village stores and Sussex farmers. 4) Invest in our GPs, hospital, schools and social services enabled by a strong economy that only the Conservatives will deliver. 5) Build better bus and train services \u2013 faster, more reliable, and more frequent. Improve roads including the much needed Arundel Bypass. 6) Living locally in the constituency, I want to bring common sense to Westminster and be a strong voice for local residents."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Provide more police",
+                "policyDescription": "Increase police presence to reduce crime and anti-social behaviour, supported by tougher sentences and more prison places."
+            },
+            {
+                "policyTitle": "Protect our countryside",
+                "policyDescription": "Oppose unsustainable large-scale development and promote a cleaner, greener environment."
+            },
+            {
+                "policyTitle": "Champion local businesses",
+                "policyDescription": "Support High Streets, village stores, and local farmers."
+            },
+            {
+                "policyTitle": "Invest in healthcare and education",
+                "policyDescription": "Improve GP services, hospitals, schools, and social services with a strong economy."
+            },
+            {
+                "policyTitle": "Improve transport services",
+                "policyDescription": "Enhance bus and train services, and develop roads such as the Arundel Bypass."
+            },
+            {
+                "policyTitle": "Living locally",
+                "policyDescription": "Advocate for common sense in Westminster and act as a strong voice for local residents."
+            }
+        ],
+        "mentions": {
+            "candidate": "Andrew Griffith",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "enabled by a strong economy that only the Conservatives will deliver.",
+            "education": "Invest in our GPs, hospital, schools and social services",
+            "environment": "Protect our countryside against unsustainable large-scale development and deliver a cleaner, greener environment",
+            "governance": "",
+            "government": "",
+            "health": "Invest in our GPs, hospital, schools and social services",
+            "immigration": "",
+            "labourEmployment": "Champion local businesses, our High Streets, village stores and Sussex farmers.",
+            "lawCrime": "Provide more police for our towns and villages reducing crime and anti-social behaviour, backed up by tougher sentences and more prison places.",
+            "transport": "Build better bus and train services \u2013 faster, more reliable, and more frequent. Improve roads including the much needed Arundel Bypass.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Protect our countryside against unsustainable large-scale development and deliver a cleaner, greener environment for our children and grandchildren.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "...a strong economy that only the Conservatives will deliver."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "...bring common sense to Westminster and be a strong voice for local residents."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Champion local businesses",
+                        "Living locally in the constituency, I want to bring common sense to Westminster and be a strong voice for local residents."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Provide more police",
+                        "Protect our countryside",
+                        "Invest in our GPs, hospital, schools and social services",
+                        "Build better bus and train services."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Protect our countryside against unsustainable large-scale development."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "a strong economy that only the Conservatives will deliver."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Living locally in the constituency, I want to bring common sense to Westminster and be a strong voice for local residents.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Living locally in the constituency, I want to bring common sense to Westminster and be a strong voice for local residents."
+                ]
+            }
+        }
+    }
+}

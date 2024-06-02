@@ -1,0 +1,188 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Theresa May Needs Your Local Vote",
+                "content": "Just 11 days after you vote, the EU wants to start Brexit negotiations, with Britain. So whoever is Prime Minister must be up to the job and ready to start. Getting these negotiations right is central to everything. Our country's future and Bury North's future too. Get Brexit wrong, and we get everything wrong. From looking after our elderly, funding our schools and addressing immigration, everything depends on getting Brexit right."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "BREXIT",
+                "policyDescription": "Theresa May has a plan to make a success of Brexit and respect the will of the people. Only she can deliver the best Brexit deal."
+            },
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "Control and reduce immigration. Reduce and control immigration from Europe once we leave the EU."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Theresa May and Conservatives will cap off energy tariffs, take \u00a31,250 out of your tax bill. Create better-paid jobs."
+            },
+            {
+                "policyTitle": "Schools",
+                "policyDescription": "Under the Conservatives, there are more good and outstanding schools than ever before. Theresa May will give every child the best start in life."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "It's vital that every family has the care they need. Theresa May will keep the economy strong to support NHS with more money."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "A loss of just 6 seats and Theresa May\u2019s government loses its majority \u2013 Putting Brexit negotiations at risk."
+        },
+        "issues": {
+            "brexitEurope": "Getting these negotiations right is central to everything. Our country's future and Bury North's future too. Theresa May has a plan to make a success of Brexit and respect the will of the people.",
+            "defence": "",
+            "economy": "Theresa May and Conservatives will cap off energy tariffs, take \u00a31,250 out of your tax bill. Create better-paid jobs.",
+            "education": "Under the Conservatives, there are more good and outstanding schools than ever before. Theresa May will give every child the best start in life.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "It's vital that every family has the care they need. Theresa May will keep the economy strong to support NHS with more money.",
+            "immigration": "Control and reduce immigration. Reduce and control immigration from Europe once we leave the EU. Jeremy Corbyn doesn\u2019t believe in getting control of immigration.",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Theresa May has a plan to strengthen the Social Care system and make sure elderly people and others get support they need.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Prime Minister",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Sky-high immigration would continue for years under Jeremy Corbyn \u2013 the Labour leader signalled today.",
+                "source": "The Sun, 2nd May 2017",
+                "date": "2nd May 2017"
+            },
+            {
+                "text": "Labour plots Brexit deal with other parties if Tories don\u2019t win election majority.",
+                "source": "Mirror, 20th April 2017",
+                "date": "20th April 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Photo of Theresa May addressing voters."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Just 11 days after you vote, the EU wants to start Brexit negotiations, with Britain.",
+                        "Sky-high immigration would continue for years under Jeremy Corbyn \u2013 the Labour leader signalled today."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Everything depends on getting these negotiations right."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Seats like yours will decide."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Theresa May has a plan to make a success of Brexit.",
+                        "Control and reduce immigration."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "A loss of just 6 seats and Theresa May\u2019s government loses its majority \u2013 Putting Brexit negotiations at risk."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Sky-high immigration would continue for years under Jeremy Corbyn \u2013 the Labour leader signalled today."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn doesn\u2019t believe in getting control of immigration."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

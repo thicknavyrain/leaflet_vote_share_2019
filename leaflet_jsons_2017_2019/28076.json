@@ -1,0 +1,153 @@
+{
+    "leaflet": {
+        "candidateName": "Mark Argent",
+        "candidateGender": "",
+        "constituency": "Hertford and Stortford",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "8 June",
+        "messages": [
+            {
+                "title": "",
+                "content": "The Liberal Democrats are the voice of opposition to a brutal hard Brexit. We will hold a referendum on the final terms of the Brexit deal. Vote Liberal Democrat for a country that is open, tolerant, united, and fully engaged with our neighbours."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Hold a referendum on the final terms of the Brexit deal and oppose a brutal hard Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "Mark Argent",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "Nick Clegg",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The Liberal Democrats are the voice of opposition to a brutal hard Brexit. We will hold a referendum on the final terms of the Brexit deal.",
+            "defence": "",
+            "economy": "\u201cWho will hold Theresa May accountable for the economic harm she will inflict on Britain?\u201d",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "\u201cWho will hold Theresa May accountable for the economic harm she will inflict on Britain?\u201d",
+                "source": "Nick Clegg, Liberal Democrat spokesperson on Europe",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Tim Farron and a young European at the March for Europe, spring 2017."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "We will hold a referendum on the final terms of the Brexit deal."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "The Liberal Democrats are the voice of opposition to a brutal hard Brexit.",
+                        "Vote Liberal Democrat for a country that is open, tolerant, united, and fully engaged with our neighbours.",
+                        "\u201cWho will hold Theresa May accountable for the economic harm she will inflict on Britain?\u201d"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": []
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "The Liberal Democrats are the voice of opposition to a brutal hard Brexit.",
+                        "\u201cWho will hold Theresa May accountable for the economic harm she will inflict on Britain?\u201d"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "\u201cWho will hold Theresa May accountable for the economic harm she will inflict on Britain?\u201d"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May alone is responsible for pursuing this course."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

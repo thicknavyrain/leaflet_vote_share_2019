@@ -1,0 +1,153 @@
+{
+    "leaflet": {
+        "candidateName": "Carl Greatbatch",
+        "candidateGender": "",
+        "constituency": "Newcastle-under-Lyme",
+        "politicalParty": "Labour",
+        "electionDate": "12 December",
+        "messages": [
+            {
+                "title": "As your MP, I pledge to be",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Strong voice for working people",
+                "policyDescription": "Will work for policies that benefit everyone, dealing with top public services and government investment in the area."
+            },
+            {
+                "policyTitle": "Strong voice for Newcastle-under-Lyme",
+                "policyDescription": "Will stand up for the people of Newcastle-under-Lyme."
+            },
+            {
+                "policyTitle": "Strong voice for affordable housing",
+                "policyDescription": "Committed to affordable housing policies for families."
+            }
+        ],
+        "mentions": {
+            "candidate": "Carl Greatbatch",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "Will work for policies that benefit everyone.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "A strong voice for the many, fighting for policies that will transform the lives of everyone in Newcastle.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I visited today because I'd appreciate your support and to hear from you about the issues you care about in your area and our country.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07958 883314",
+            "email": "carlgreatbatch@labour-email.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@carlgreatbatch",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Carl Greatbatch"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": []
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "A strong voice for the many",
+                        "Will stand up for the people of Newcastle-under-Lyme."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "A strong voice for the many, fighting for policies that will transform the lives of everyone in Newcastle."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Will work for policies that benefit everyone.",
+                        "Committed to affordable housing policies for families."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

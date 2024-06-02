@@ -1,0 +1,194 @@
+{
+    "leaflet": {
+        "candidateName": "Fran Loi",
+        "candidateGender": "",
+        "constituency": "Broxtowe",
+        "politicalParty": "UK Independence Party",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Dear Voters",
+                "content": "Last year Broxtowe voted to leave the EU. If elected I will be working with all the Nottinghamshire UKIP team to ensure that this decision is honoured. Theresa May\u2019s Conservatives want a Brexit that looks like \u2018Brexit in Name Only\u2019 while Labour\u2019s Jeremy Corbyn also wants the UK to remain in the EU. Only UKIP will deliver your independence from the EU. I promise that if elected, I will work to make sure that you get what you voted for. Please vote for your independence from the EU and deliver on the change that you voted for. Yours sincerely, Fran Loi."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit and EU Independence",
+                "policyDescription": "Only UKIP will deliver your independence from the EU. Ensuring the decision of leaving the EU is honored."
+            },
+            {
+                "policyTitle": "Immigration Control",
+                "policyDescription": "Controlling immigration to ensure security, welfare, and job opportunities for the local people."
+            },
+            {
+                "policyTitle": "Economic Focus",
+                "policyDescription": "Against wasting money on foreign aid and EU membership fees, focusing on national welfare and economic stability."
+            }
+        ],
+        "mentions": {
+            "candidate": "Fran Loi",
+            "otherPartyLeaderCandidate": "Theresa May, Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "Last year Broxtowe voted to leave the EU."
+        },
+        "issues": {
+            "brexitEurope": "Ensuring the decision [Brexit] is honored; Only UKIP will deliver your independence from the EU",
+            "defence": "",
+            "economy": "Against wasting money on foreign aid and EU membership fees, ensuring job opportunities for locals",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "Controlling immigration for security and job opportunities",
+            "labourEmployment": "Ensuring job opportunities for locals",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Ensuring pensioners and NHS have adequate support",
+            "community": [
+                {
+                    "content": "Ensuring job opportunities for locals and supporting NHS",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "0739 383 1661",
+            "email": "claude-francois.loi@ukiplocal.org",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Last year Broxtowe voted to leave the EU. If elected I will be working with all the Nottinghamshire UKIP team to ensure that this decision is honoured.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Last year Broxtowe voted to leave the EU."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Only UKIP will deliver your independence from the EU.",
+                        "Ensuring the decision is honored.",
+                        "Please vote for your independence from the EU and deliver on the change that you voted for."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Ensuring job opportunities for locals",
+                        "Supporting NHS"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Only UKIP will deliver your independence from the EU.",
+                        "Controlling immigration."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Last year Broxtowe voted to leave the EU.",
+                    "issueRelated": "Brexit"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Theresa May",
+                        "Jeremy Corbyn"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Fran Loi in Broxtowe"
+                ]
+            }
+        }
+    }
+}

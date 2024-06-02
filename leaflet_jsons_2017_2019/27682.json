@@ -1,0 +1,165 @@
+{
+    "leaflet": {
+        "candidateName": "Mark Bateman",
+        "candidateGender": "",
+        "constituency": "Aylesbury",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "A local voice",
+                "content": "fighting for a better future"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Transforming Britain",
+                "policyDescription": "our pledges to you"
+            },
+            {
+                "policyTitle": "Making Aylesbury a better place",
+                "policyDescription": "my view"
+            },
+            {
+                "policyTitle": "Our place in Europe",
+                "policyDescription": "negotiating Brexit"
+            }
+        ],
+        "mentions": {
+            "candidate": "Mark Bateman",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Our place in Europe - negotiating Brexit",
+            "defence": "",
+            "economy": "Vote to properly fund the NHS, Social Care and Education and for investment in our economy, transport and energy.",
+            "education": "Vote to share funds allocated to grammar and free schools to education for all children as a first step to fair funding.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Vote to properly fund the NHS, Social Care and Education.",
+            "immigration": "",
+            "labourEmployment": "Vote to introduce rent controls, to increase the minimum wage to \u00a310, to abolish zero-hour contracts and to introduce universal free school meals.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Vote to guarantee the triple lock on the state pension. Vote to abolish the bedroom tax and tuition fees and against income tax increases for those earning below \u00a380,000 a year.",
+            "community": [
+                {
+                    "content": "significant local issues \u2013 such as: a lack of affordable and social housing; a badly clogged up and painful to use road system; an overloaded Hospital and local Health Centres; a railway line that is crying out for new investment, while the HS2 line will pass through and have no benefit to any of us locally; and a town centre that is in desperate need of pedestrianisation.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I'm a retired Primary School Headteacher, whose family all live within the town. I have as much of a vested interest in how it develops and the opportunities it provides to all of us, young and old, as anyone else living here. I am not a career politician and I firmly believe in the benefits of having a Constituency MP fully focused on our most significant local issues.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Having been born in and lived in Aylesbury for the whole of my life, I know the town and the Constituency of Aylesbury very well indeed.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "to increase the minimum wage to \u00a310"
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "a lack of affordable and social housing; a badly clogged up and painful to use road system; an overloaded Hospital and local Health Centres; a railway line that is crying out for new investment, while the HS2 line will pass through and have no benefit to any of us locally; and a town centre that is in desperate need of pedestrianisation."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Our place in Europe - negotiating Brexit"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I'm a retired Primary School Headteacher, whose family all live within the town.",
+                    "issueRelated": "education"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Having been born in and lived in Aylesbury for the whole of my life,",
+                "employment": "retired Primary School Headteacher",
+                "education": "",
+                "family": "whose family all live within the town"
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Having been born in and lived in Aylesbury for the whole of my life",
+                    "I know the town and the Constituency of Aylesbury very well indeed."
+                ]
+            }
+        }
+    }
+}

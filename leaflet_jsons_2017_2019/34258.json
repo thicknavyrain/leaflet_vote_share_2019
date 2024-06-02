@@ -1,0 +1,183 @@
+{
+    "leaflet": {
+        "candidateName": "Oliver Dowden",
+        "candidateGender": "",
+        "constituency": "Hertsmere",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Dear constituent",
+                "content": "Hertsmere is my home patch. I grew up around Radlett. My Dad worked in a wire factory in Watford, and my Mum still works at Boots in London Colney. I went to Parmiter's School and won a place to study law at Cambridge University. I live locally with my wife and two children. My experiences have taught me the value of hard work. I believe in providing for yourself, your family and serving your community and country. We are fortunate to have the best of both worlds here in Hertsmere - beautiful countryside, distinct towns and villages, a strong sense of community, but relatively easy access to London. As Hertsmere's MP for the past four years, I have sought to preserve and enhance this. I have used my skills and experiences to give you a strong voice nationally and stand up for your interests. It would be an honour to be re-elected and have the opportunity to serve you again as your MP."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Local voice for our community",
+                "policyDescription": "Delivering for you in Hertsmere"
+            },
+            {
+                "policyTitle": "Get Brexit done",
+                "policyDescription": "And move on"
+            },
+            {
+                "policyTitle": "Supporting our schools, NHS and police",
+                "policyDescription": "Providing more funding and resources"
+            }
+        ],
+        "mentions": {
+            "candidate": "Oliver",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "This election will be close. Your local vote will decide it."
+        },
+        "issues": {
+            "brexitEurope": "Brexit done with a deal",
+            "defence": "",
+            "economy": "$3.6 billion to help towns invest and attract new businesses",
+            "education": "More funding for every pupil in every school",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "$33.9 billion extra for the NHS, 40 new hospitals across the country",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "20,000 extra police officers",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Local voice for our community, delivering for you in Hertsmere",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Hertsmere is my home patch. I grew up around Radlett. My Dad worked in a wire factory in Watford, and my Mum still works at Boots in London Colney. I went to Parmiter's School and won a place to study law at Cambridge University. I live locally with my wife and two children. My experiences have taught me the value of hard work. I believe in providing for yourself, your family and serving your community and country. We are fortunate to have the best of both worlds here in Hertsmere - beautiful countryside, distinct towns and villages, a strong sense of community, but relatively easy access to London. As Hertsmere's MP for the past four years, I have sought to preserve and enhance this. I have used my skills and experiences to give you a strong voice nationally and stand up for your interests. It would be an honour to be re-elected and have the opportunity to serve you again as your MP.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Billie Bowbrick, 27 Park Road, RADLETT WD7 8EG",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Polls teeter between hung parliament and slim Tory majority",
+                "source": "John Curtice",
+                "date": "The Times"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 4,
+                    "examples": [
+                        "$33.9 billion extra for the NHS",
+                        "20,000 extra police officers",
+                        "More funding for every pupil in every school",
+                        "40 new hospitals across the country"
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Delivering for you in Hertsmere",
+                        "Supporting our schools, NHS and police",
+                        "Providing for yourself, your family and serving your community and country",
+                        "Strong voice nationally"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Local voice for our community",
+                        "Delivering for you in Hertsmere"
+                    ]
+                },
+                "national": {
+                    "count": 6,
+                    "examples": [
+                        "$33.9 billion extra for the NHS",
+                        "40 new hospitals across the country",
+                        "20,000 extra police officers",
+                        "More funding for every pupil in every school",
+                        "Gigabit broadband for the whole country",
+                        "$3.6 billion to help towns invest and attract new businesses"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "My Dad worked in a wire factory in Watford, and my Mum still works at Boots in London Colney. I went to Parmiter's School and won a place to study law at Cambridge University. I live locally with my wife and two children.",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn propped up by Nicola Sturgeon",
+                        "Five years of arguing about Brexit"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I grew up around Radlett",
+                "employment": "",
+                "education": "I went to Parmiter's School and won a place to study law at Cambridge University",
+                "family": "I live locally with my wife and two children"
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Hertsmere is my home patch. I grew up around Radlett."
+                ]
+            }
+        }
+    }
+}

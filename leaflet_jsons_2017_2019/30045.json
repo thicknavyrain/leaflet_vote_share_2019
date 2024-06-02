@@ -1,0 +1,177 @@
+{
+    "leaflet": {
+        "candidateName": "Josh Mason",
+        "candidateGender": "male",
+        "constituency": "Teesside",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "8 June",
+        "messages": [
+            {
+                "title": "",
+                "content": "Dear neighbour, It has been a real pleasure to meet so many of you in the past few weeks, and I\u2019d like to thank you for being so welcoming. My roots on Teesside go back generations. I have lived here all my life and I share the passion of thousands of local people for our proud history and our bright future. Don\u2019t believe the politicians when they tell you this election is just about Brexit. Of course, we need to make sure we get the best possible deal when we leave the EU, putting our area first and protecting local jobs. This election is also about saving our NHS, creating opportunities for our area, investing in our children\u2019s futures and providing the best services for our elderly. 18 months ago, we were hit badly by the loss of our steelworks but this election is an opportunity to build a positive future for Teesside, bringing jobs and investment to an area which has been neglected for far too long. I have already been speaking up for local people for nearly six years on the council. Let\u2019s take the fight to Westminster on 8 June. With thanks and best wishes, Josh Mason"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Ensure the best possible deal when leaving the EU, putting the area first and protecting local jobs."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Focus on saving the NHS."
+            },
+            {
+                "policyTitle": "Local Investment",
+                "policyDescription": "Create opportunities for the area and invest in children\u2019s futures and services for the elderly."
+            },
+            {
+                "policyTitle": "Economic Development",
+                "policyDescription": "Build a positive future for Teesside with jobs and investment."
+            }
+        ],
+        "mentions": {
+            "candidate": "Josh Mason",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Of course, we need to make sure we get the best possible deal when we leave the EU, putting our area first and protecting local jobs.",
+            "defence": "",
+            "economy": "Build a positive future for Teesside with jobs and investment.",
+            "education": "Investing in our children\u2019s futures",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "This election is also about saving our NHS.",
+            "immigration": "",
+            "labourEmployment": "Bringing jobs and investment",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Providing the best services for our elderly.",
+            "community": [
+                {
+                    "content": "Local investment and services for the elderly.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Council Member",
+                "duration": "Six years",
+                "achievements": "Speaking up for local people."
+            }
+        ],
+        "contactInformation": {
+            "address": "72 Goblinill Gardens, Redcar, Yorkshire TS10 4FJ",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "I have already been speaking up for local people for nearly six years on the council."
+                    ]
+                },
+                "qualitative": {
+                    "count": 7,
+                    "examples": [
+                        "My roots on Teesside go back generations.",
+                        "I have lived here all my life and I share the passion of thousands of local people for our proud history and our bright future.",
+                        "Don\u2019t believe the politicians when they tell you this election is just about Brexit.",
+                        "Of course, we need to make sure we get the best possible deal when we leave the EU, putting our area first and protecting local jobs.",
+                        "This election is also about saving our NHS, creating opportunities for our area, investing in our children\u2019s futures and providing the best services for our elderly.",
+                        "18 months ago, we were hit badly by the loss of our steelworks but this election is an opportunity to build a positive future for Teesside.",
+                        "Let's take the fight to Westminster on 8 June."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "Providing the best services for our elderly.",
+                        "Bringing jobs and investment",
+                        "Build a positive future for Teesside with jobs and investment.",
+                        "Investing in our children\u2019s futures"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "This election is also about saving our NHS.",
+                        "We get the best possible deal when we leave the EU, putting our area first and protecting local jobs."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Don\u2019t believe the politicians when they tell you this election is just about Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "My roots on Teesside go back generations. I have lived here all my life",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "My roots on Teesside go back generations. I have lived here all my life and I share the passion of thousands of local people for our proud history and our bright future."
+                ]
+            }
+        }
+    }
+}

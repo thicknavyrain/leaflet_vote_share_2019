@@ -1,0 +1,144 @@
+{
+    "leaflet": {
+        "candidateName": "Laura Gordon",
+        "candidateGender": "",
+        "constituency": "Sheffield Hallam",
+        "politicalParty": "Lib Dem",
+        "electionDate": "2019",
+        "messages": [
+            {
+                "title": "Race is On to Find Our New MP",
+                "content": "Jared O'Mara to quit Parliament next month. Residents want to avoid another Corbyn backed MP. Lib Dem Laura Gordon leads race to beat Labour in Sheffield."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Lib Dem Laura Gordon leads race to beat Labour in Sheffield.",
+            "otherPartyLeaderCandidate": "Residents want to avoid another Corbyn backed MP.",
+            "partyLeader": "As Corbyn's MP says he'll quit in the autumn...",
+            "tacticalSituation": "Lib Dems were a close second to Labour in 2017 and are in pole position to beat Corbyn's Labour candidate in any upcoming by-election. Conservatives can't win in Sheffield."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Sheffield resident and Lib Dem campaigner Laura Gordon is best placed to beat Labour and become our next MP."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Jared O'Mara to quit Parliament next month.",
+                        "Lib Dems were a close second to Labour in 2017."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Residents want to avoid another Corbyn backed MP.",
+                        "Laura Gordon is best placed to beat Labour."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Residents want to avoid another Corbyn backed MP.",
+                        "Laura Gordon is best placed to beat Labour and become our next MP."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "As Corbyn's MP says he'll quit in the autumn..."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Residents want to avoid another Corbyn backed MP."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Residents want to avoid another Corbyn backed MP."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Sheffield resident and Lib Dem campaigner Laura Gordon."
+                ]
+            }
+        }
+    }
+}

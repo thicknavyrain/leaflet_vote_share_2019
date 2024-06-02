@@ -1,0 +1,181 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Pat Cleary",
+    "candidateGender": "male",
+    "constituency": "Birkenhead",
+    "politicalParty": "Green Party",
+    "electionDate": "December 12th",
+    "messages": [
+      {
+        "title": "PAT CLEARY: GREEN CANDIDATE FOR BIRKENHEAD MP",
+        "content": "Wirral Green Party has selected Pat Cleary to be the Green candidate for Birkenhead at the next General Election. Pat has been a hard-working councillor and campaigner for many years in the neighbouring ward of Birkenhead and Tranmere. This says, “Pat Cleary has proven himself to be an outstanding champion of Birkenhead. His work as a local councillor, such as challenging the bullying tactics of Kingdom litter enforcement, has been exceptional. He’s worked hard in a ward that for too long had been taken for granted and/or ignored by the bigger parties.”\n “He would be an exceptional MP for Birkenhead.”"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A GREEN VISION FOR BIRKENHEAD",
+        "policyDescription": "Pat lays out his priorities for the town with a vision for a greener Birkenhead. He focuses on tackling derelict properties, regenerating the town centre, increasing affordable housing, insulating homes, planting more trees, enhancing public transport, and delivering good quality jobs with sustainable energy solutions."
+      },
+      {
+        "policyTitle": "MORE PROGRESS NEEDED ON TREES",
+        "policyDescription": "Greens call for an increase in tree planting in the wake of climate emergency."
+      },
+      {
+        "policyTitle": "BREAKTHROUGH ON SAFER STREETS",
+        "policyDescription": "Council committed to '20's plenty' pilot zone in response to local advocacy for safer roads."
+      }
+    ],
+    "mentions": {
+      "candidate": "Pat Cleary",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "defence": "",
+      "economy": "",
+      "education": "",
+      "environment": "Greens call for an increase in tree planting in the wake of climate emergency.",
+      "governance": "",
+      "government": "",
+      "health": "",
+      "immigration": "",
+      "labourEmployment": "",
+      "lawCrime": "",
+      "transport": "",
+      "socialWelfare": "",
+      "community": [
+        {
+          "content": "Pat remains deeply committed to improving local communities through initiatives on safer streets, managing traffic, and enhancing green spaces.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Councillor for Birkenhead and Tranmere",
+        "duration": "Several years",
+        "achievements": "Challenged Kingdom litter enforcement tactics, engaged in local development and safety initiatives, and fought for local environmental improvements."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07754 591724",
+      "email": "pat4birkenhead@gmx.co.uk",
+      "website": "",
+      "socialMedia": {
+        "facebook": "HarryGormanGreenParty",
+        "twitter": "HarryRosGorman",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Harry and Chris backing Pat Cleary",
+        },
+        {
+          "caption": "Litter-picks prove a great success",
+        },
+        {
+          "caption": "Harry inspects cleared graffiti on Temple Road (left) and St George's Gardens (right)"
+        }
+      ]
+    },
+    "additionalNotes": "",
+    "analysis": {
+      "statementAnalysis": {
+        "quantitative": {
+          "count": 2,
+          "examples": [
+            "Wirral View has cost over £400,000.",
+            "Raise tree cover across Wirral by at least 10% by 2030."
+          ]
+        },
+        "qualitative": {
+          "count": 3,
+          "examples": [
+            "Pat has been a hard-working councillor and campaigner for many years.",
+            "Graffiti is a scourge on our streets and creates a poor impression of an area."
+          ]
+        }
+      },
+      "photoAnalysis": {
+        "localPlaces": 1,
+        "people": 4,
+        "candidateAlone": 1,
+        "candidateWithOthers": 3
+      },
+      "issueFocus": {
+        "local": {
+          "count": 4,
+          "examples": [
+            "Local issues tackled by Harry and Chris",
+            "Graffiti removal",
+            "Safer streets initiative",
+            "Pat's priorities for a greener Birkenhead"
+          ]
+        },
+        "national": {
+          "count": 1,
+          "examples": [
+            "Increase tree planting in wake of climate emergency"
+          ]
+        }
+      },
+      "personalStories": [
+        {
+          "story": "Harry clears graffiti from local areas responds to local residents' complaints.",
+          "issueRelated": "community"
+        }
+      ],
+      "endorsementsUsed": {
+        "count": 0,
+        "examples": []
+      },
+      "negativeMessaging": {
+        "localIssues": {
+          "count": 1,
+          "examples": [
+            "Wirral View has been a total waste of council funds."
+          ]
+        },
+        "nationalIssues": {
+          "count": 0,
+          "examples": []
+        },
+        "leaderOfOpponentsParty": {
+          "count": 0,
+          "examples": []
+        },
+        "oppositeCandidateNoName": {
+          "count": 0,
+          "examples": []
+        },
+        "oppositeCandidateWithName": {
+          "count": 0,
+          "examples": []
+        }
+      },
+      "nonPolicyAttributes": {
+        "localness": "Pat has been a hard-working councillor in the neighbouring ward of Birkenhead and Tranmere.",
+        "employment": "",
+        "education": "",
+        "family": ""
+      },
+      "localCandidate": {
+        "isLocal": true,
+        "examples": [
+          "Pat has been a hard-working councillor and campaigner for many years in the neighbouring ward of Birkenhead and Tranmere."
+        ]
+      }
+    }
+  }
+}
+```

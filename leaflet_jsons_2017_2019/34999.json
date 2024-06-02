@@ -1,0 +1,192 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Newcastle upon Tyne Central",
+        "politicalParty": "Brexit Party",
+        "electionDate": "December 12",
+        "messages": [
+            {
+                "title": "Leavers \u2013 Don't Waste Your Votes!",
+                "content": "More than 90% of Labour MPs are Remainers. Yet more than 60% of Labour constituencies voted to leave. In an area like the North East, 85% of Labour seats voted Leave. Some of Britain's staunchest Leave seats are represented by arch Labour Remainers."
+            },
+            {
+                "title": "NO TO A SECOND REFERENDUM\nYES TO A REAL BREXIT",
+                "content": "This is a Brexit General Election. Our priority is to stop a Corbyn-led Remainer alliance sneaking into power and using a rigged second referendum to overturn the votes of 17.4m Leavers. That\u2019s why we are fighting to win Labour and Remainer-held seats, such as yours."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A Clean-Break Brexit",
+                "policyDescription": "We must control our laws, borders, money and defence."
+            },
+            {
+                "policyTitle": "Fundamental democratic reform",
+                "policyDescription": "Let\u2019s make Parliament serve the People."
+            },
+            {
+                "policyTitle": "Supporting the NHS",
+                "policyDescription": "Keep investing, better management, less waste."
+            },
+            {
+                "policyTitle": "A Brexit dividend",
+                "policyDescription": "Spend \u00a3200bn on transport and jobs in the Regions."
+            },
+            {
+                "policyTitle": "Controlled immigration",
+                "policyDescription": "We need a fair, firm points-based system."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "No Leaver should vote Labour. Jeremy Corbyn promised to respect the Brexit vote.",
+            "partyLeader": "Nigel Farage",
+            "tacticalSituation": "At the May European Election, the Brexit Party won more votes than Labour and the Tories put together."
+        },
+        "issues": {
+            "brexitEurope": "We don\u2019t like Boris Johnson\u2019s EU Treaty and we don\u2019t trust the Conservatives to deliver Brexit.",
+            "defence": "",
+            "economy": "Let\u2019s make Parliament serve the People.",
+            "education": "",
+            "environment": "",
+            "governance": "Parliament is betraying you again.",
+            "government": "We need big democratic reforms to make Parliament serve the People.",
+            "health": "Supporting the NHS \u2013 keep investing, better management, less waste.",
+            "immigration": "Controlled immigration \u2013 we need a fair, firm points-based system.",
+            "labourEmployment": "Spend \u00a3200bn on transport and jobs in the Regions.",
+            "lawCrime": "",
+            "transport": "Spend \u00a3200bn on transport.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "The only way we can hold Boris to his word is by electing Brexit Party MPs.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "83 Victoria Street, London, SW1H 0HW",
+            "phone": "0800 414 8525",
+            "email": "",
+            "website": "www.thebrexitparty.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Nigel Farage MEP",
+                "endorsement": "Leader of The Brexit Party"
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 5,
+                    "examples": [
+                        "More than 90% of Labour MPs are Remainers.",
+                        "More than 60% of Labour constituencies voted to leave.",
+                        "85% of Labour seats voted Leave.",
+                        "Spend \u00a3200bn on transport and jobs in the Regions.",
+                        "At the May European Election, the Brexit Party won more votes than Labour and the Tories put together."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Parliament is betraying you again.",
+                        "We need big democratic reforms to make Parliament serve the People.",
+                        "Our priority is to stop a Corbyn-led Remainer alliance.",
+                        "Let's make Parliament serve the People.",
+                        "The only way we can hold Boris to his word is by electing Brexit Party MPs."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "At the May European Election, the Brexit Party won more votes than Labour and the Tories put together.",
+                        "Controlled immigration \u2013 we need a fair, firm points-based system."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "More than 90% of Labour MPs are Remainers.",
+                        "More than 60% of Labour constituencies voted to leave."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Nigel Farage MEP, Leader of The Brexit Party"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "No Leaver should vote Labour. Jeremy Corbyn promised to respect the Brexit vote.",
+                        "We don\u2019t like Boris Johnson\u2019s EU Treaty and we don\u2019t trust the Conservatives to deliver Brexit.",
+                        "Our priority is to stop a Corbyn-led Remainer alliance."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn promised to respect the Brexit vote."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "We don\u2019t like Boris Johnson\u2019s EU Treaty and we don\u2019t trust the Conservatives to deliver Brexit."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn promised to respect the Brexit vote."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "leaflet": {
+        "candidateName": "Nicky Shepard",
+        "candidateGender": "",
+        "constituency": "North East Hertfordshire",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "Thursday",
+        "messages": [
+            {
+                "title": "",
+                "content": "Nicky works full time and has a young family. She understands the issues and challenges real people face. She is willing to stand up for the people of North East Hertfordshire, fighting a bad Brexit deal and underfunded schools and NHS. Nicky and the Liberal Democrats have a vision for a brighter future for our country."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Fighting a bad Brexit deal."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Fighting underfunded schools."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Fighting underfunded NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "Nicky works full time and has a young family. She understands the issues and challenges real people face. She is willing to stand up for the people of North East Hertfordshire, fighting a bad Brexit deal and underfunded schools and NHS.",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Fighting a bad Brexit deal.",
+            "defence": "",
+            "economy": "",
+            "education": "Fighting underfunded schools.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Fighting underfunded NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.nickyshepard.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Fighting underfunded schools and NHS."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Fighting a bad Brexit deal."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Nicky works full time and has a young family. She understands the issues and challenges real people face.",
+                    "issueRelated": "General Personal"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Fighting underfunded schools and NHS."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Fighting a bad Brexit deal."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "Nicky works full time.",
+                "education": "",
+                "family": "Nicky has a young family."
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

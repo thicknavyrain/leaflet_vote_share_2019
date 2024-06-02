@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Elizabeth Perry",
+        "candidateGender": "",
+        "constituency": "Stoke-on-Trent Central",
+        "politicalParty": "Conservative Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "I'LL STAND UP FOR BRITAIN",
+                "content": "As your Prime Minister, leading these negotiations at this crucial time in our country\u2019s history, I\u2019ll stand up for Britain and fight to guarantee our nation\u2019s economic security, our national security and our place in the world. I\u2019ll stand up for, I\u2019ll respect, and I\u2019ll fight to deliver what the British people voted for in last year\u2019s referendum."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economic Security",
+                "policyDescription": "Guarantee our economic security to deliver better-paying jobs for people in Stoke-on-Trent Central and other parts of the country."
+            },
+            {
+                "policyTitle": "Immigration Control",
+                "policyDescription": "Control and reduce the number of people who come to Britain when we leave the EU."
+            },
+            {
+                "policyTitle": "Tax Funding",
+                "policyDescription": "Keep the economy strong to pay for a strong NHS, good school places for every child, and real technical education for more young people."
+            },
+            {
+                "policyTitle": "Energy Prices",
+                "policyDescription": "Act to cap unfair energy price rises."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Protect workers rights and build more affordable homes."
+            }
+        ],
+        "mentions": {
+            "candidate": "Elizabeth Perry",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "And, in this unique and crucial election, which I called to secure the strong and stable leadership our country needs, you can vote for me or Jeremy Corbyn."
+        },
+        "issues": {
+            "brexitEurope": "The Prime Minister of the United Kingdom will start negotiations with the European Union to secure the best possible deal from Brexit.",
+            "defence": "",
+            "economy": "Keep our economy strong, so we can pay for a strong NHS, a good school place for every child and real technical education for more young people.",
+            "education": "A good school place for every child and real technical education for more young people.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Keep our economy strong, so we can pay for a strong NHS.",
+            "immigration": "Control and reduce the number of people who come to Britain when we leave the EU.",
+            "labourEmployment": "Do more to help local families with action to cap unfair energy price rises, introduce new rights and protections for workers and help more people have a home of their own by building more affordable homes.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Helped more people have a home of their own by building more affordable homes.",
+            "community": [
+                {
+                    "content": "More affordable homes",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Dear Elizabeth and Steven Perry, Just 11 days after you vote, the Prime Minister of the United Kingdom will start negotiations with the European Union to secure the best possible deal from Brexit. And, Elizabeth and Steven, your votes on Thursday will decide who that Prime Minister is.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Just 11 days after you vote, the Prime Minister of the United Kingdom will start negotiations with the European Union to secure the best possible deal from Brexit."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "I called to secure the strong and stable leadership our country needs.",
+                        "I\u2019ll stand up for Britain and fight to guarantee our nation\u2019s economic security, our national security and our place in the world.",
+                        "And I\u2019ll make things fairer for them, by controlling and reducing the number of people who come to Britain when we leave the EU.",
+                        "So we can pay for a strong NHS, a good school place for every child and real technical education for more young people.",
+                        "There is so much opportunity for Britain as we leave the European Union."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Build more affordable homes.",
+                        "Deliver better-paying jobs for people in Stoke-on-Trent Central."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Control and reduce the number of people who come to Britain when we leave the EU.",
+                        "Keep our economy strong."
+                    ]
+                }
+            }
+        },
+        "personalStories": [],
+        "endorsementsUsed": {
+            "count": 0,
+            "examples": []
+        },
+        "negativeMessaging": {
+            "localIssues": {
+                "count": 0,
+                "examples": []
+            },
+            "nationalIssues": {
+                "count": 0,
+                "examples": []
+            },
+            "leaderOfOpponentsParty": {
+                "count": 1,
+                "examples": [
+                    "Jeremy Corbyn"
+                ]
+            },
+            "oppositeCandidateNoName": {
+                "count": 0,
+                "examples": []
+            },
+            "oppositeCandidateWithName": {
+                "count": 0,
+                "examples": []
+            }
+        },
+        "nonPolicyAttributes": {
+            "localness": "Control and reducing the number of people who come to Britain",
+            "employment": "Better-paying jobs for people in Stoke-on-Trent Central.",
+            "education": "Good school place for every child and real technical education for young people.",
+            "family": ""
+        },
+        "localCandidate": {
+            "isLocal": true,
+            "examples": [
+                "Deliver better-paying jobs for people in Stoke-on-Trent Central."
+            ]
+        }
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "leaflet": {
+        "candidateName": "Nigel Farage",
+        "candidateGender": "",
+        "constituency": "Ealing Central and Acton",
+        "politicalParty": "Brexit Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "No to a Second Referendum",
+                "content": "Yes to a real Brexit"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Stop a Corbyn-led Remainer alliance and oppose a second referendum. Fight to win Labour and Remainer-held seats. Reject Boris Johnson\u2019s EU treaty and demand a complete break from the EU."
+            },
+            {
+                "policyTitle": "Democratic Reform",
+                "policyDescription": "Propose new democratic reforms to fix the broken system in Westminster."
+            }
+        ],
+        "mentions": {
+            "candidate": "Nigel Farage",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "Fight to win Labour and Remainer-held seats."
+        },
+        "issues": {
+            "brexitEurope": "Stop a Corbyn-led Remainer alliance; Oppose a second referendum; Criticize Boris Johnson\u2019s EU treaty; The only way to end the Corbyn\u2019s Labour Brexit is to have Brexit Party MPs.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "Demand a free trade deal that does not involve any political entanglement with the EU.",
+            "government": "Propose new democratic reforms to fix the broken system in Westminster.",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "We have proven to win in Labour heartlands.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "17.4m leavers"
+                    ]
+                },
+                "qualitative": {
+                    "count": 7,
+                    "examples": [
+                        "Stop a Corbyn-led Remainer alliance",
+                        "Sneaking into power",
+                        "We don't like Boris Johnson\u2019s EU Treaty",
+                        "The only way we can hold Boris to his word is by electing Brexit Party MPs",
+                        "Jeremy Corbyn promised to respect the Brexit vote",
+                        "Corbyn has betrayed five million Labour Leave voters",
+                        "Brexit is just the beginning"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "We have proven to win in Labour heartlands."
+                    ]
+                },
+                "national": {
+                    "count": 7,
+                    "examples": [
+                        "Stop a Corbyn-led Remainer alliance",
+                        "Oppose a second referendum",
+                        "17.4m leavers",
+                        "We don't like Boris Johnson\u2019s EU Treaty",
+                        "Demand a free trade deal that does not involve any political entanglement with the EU.",
+                        "Propose new democratic reforms to fix the broken system in Westminster.",
+                        "Brexit Party MPs"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 4,
+                    "examples": [
+                        "Stop a Corbyn-led Remainer alliance",
+                        "We don't like Boris Johnson\u2019s EU Treaty",
+                        "Corbyn has betrayed five million Labour Leave voters",
+                        "Jeremy Corbyn promised to respect the Brexit vote"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Stop a Corbyn-led Remainer alliance",
+                        "Jeremy Corbyn promised to respect the Brexit vote"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn promised to respect the Brexit vote",
+                        "Corbyn has betrayed five million Labour Leave voters"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

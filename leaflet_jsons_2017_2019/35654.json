@@ -1,0 +1,172 @@
+{
+    "leaflet": {
+        "candidateName": "Cat Smith",
+        "candidateGender": "",
+        "constituency": "Lancaster",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12th December",
+        "messages": [
+            {
+                "title": "A fairer future for Lancaster",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Local Representation",
+                "policyDescription": "Active MP in Lancaster, involved in local issues and surgeries."
+            }
+        ],
+        "mentions": {
+            "candidate": "Cat Smith",
+            "otherPartyLeaderCandidate": "Tory who doesn\u2019t even live here",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Cat Smith fighting for local issues with tenacity and determination.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "since 2015",
+                "achievements": "Spoken in more debates and active in speaking up for MP."
+            }
+        ],
+        "contactInformation": {
+            "address": "47 Scotforth Road, LA1 4SA",
+            "phone": "01524 566 570",
+            "email": "cat@catsmith.co.uk",
+            "website": "www.catsmith.co.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/catsmithmp",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Lisa Corkerry, Director of a local social enterprise",
+                "endorsement": "Cat Smith has been fighting for local issues since 2015. Approachable, empathetic, true to her values and roots."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Re-elect Cat Smith - Your local voice in Parliament"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "In the last four years Cat has personally responded to 28,500 people.",
+                        "More than 1,000 constituents at her weekly advice surgeries.",
+                        "In the last year alone she has spoken in 53 debates and asked 86 written questions."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Lisa Corkerry's endorsement that Cat Smith is approachable, empathetic, and remains true to her values."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Fighting for local issues with tenacity and determination."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Cat has spoken in more debates than any other MP in our area."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Lisa Corkerry endorsing Cat Smith."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Tory who doesn't even live here."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Cat Smith is an active MP here in Lancaster",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Cat Smith is an active MP here in Lancaster."
+                ]
+            }
+        }
+    }
+}

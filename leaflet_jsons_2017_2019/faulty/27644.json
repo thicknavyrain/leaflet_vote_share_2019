@@ -1,0 +1,185 @@
+{
+    "leaflet": {
+        "candidateName": "Jim",
+        "candidateGender": "",
+        "constituency": "Wapping",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "Jim works for Wapping",
+                "content": "I'm proud to have represented the area for 20 years, focusing on the issues and people who need help the most. I hope I can count on your support on Thursday 8 June to continue this hard work. This is a great place, but I don't want to see it damaged by cuts to our services or a Tory-driven 'Hard Brexit' that will wreck our economy. I am committed to our area and understand the concerns and aspirations of those who live here. Whether I am fighting for affordable homes or to keep our GP and hospital services open, the local area and its residents are at the heart of everything I do."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stand up against a Hard Brexit and for a stronger economy",
+                "policyDescription": "I will fight for the best EU-deal to protect jobs and growth across the whole country and in our area."
+            },
+            {
+                "policyTitle": "Stand up for everyone in Poplar & Limehouse",
+                "policyDescription": "I'll support fighting for local people and help to create the new jobs we need."
+            },
+            {
+                "policyTitle": "Stand up for our NHS",
+                "policyDescription": "I'll fight to keep our health services free and effective."
+            },
+            {
+                "policyTitle": "Stand up for affordable housing and sustainable development",
+                "policyDescription": "I will support renters and leaseholders, support the building of affordable homes and take measures to improve local housing conditions."
+            },
+            {
+                "policyTitle": "Stand up for our quality of life",
+                "policyDescription": "I will work for our schools, safer streets and cleaner air."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jim",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Stand up against a Hard Brexit",
+            "defence": "",
+            "economy": "Stand up against a Hard Brexit and for a stronger economy",
+            "education": "Stand up for our quality of life",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Stand up for our NHS",
+            "immigration": "",
+            "labourEmployment": "Stand up for everyone in Poplar & Limehouse",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I'm proud to have represented the area for 20 years, focusing on the issues and people who need help the most. I hope I can count on your support on Thursday 8 June to continue this hard work.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I'm proud to have represented the area for 20 years, focusing on the issues and people who need help the most. I hope I can count on your support on Thursday 8 June to continue this hard work. This is a great place, but I don't want to see it damaged by cuts to our services or a Tory-driven 'Hard Brexit' that will wreck our economy. I am committed to our area and understand the concerns and aspirations of those who live here. Whether I am fighting for affordable homes or to keep our GP and hospital services open, the local area and its residents are at the heart of everything I do.",
+        "politicalExperience": [],
+        "contactInformation": {},
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Jim works for Wapping"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "I'm proud to have represented the area for 20 years."
+                    ]
+                },
+                "qualitative": {
+                    "count": 7,
+                    "examples": [
+                        "I'm proud to have represented the area for 20 years, focusing on the issues and people who need help the most.",
+                        "I hope I can count on your support on Thursday 8 June to continue this hard work.",
+                        "This is a great place, but I don't want to see it damaged by cuts to our services or a Tory-driven 'Hard Brexit' that will wreck our economy.",
+                        "I am committed to our area and understand the concerns and aspirations of those who live here.",
+                        "Whether I am fighting for affordable homes or to keep our GP and hospital services open, the local area and its residents are at the heart of everything I do.",
+                        "I will fight for the best EU-deal to protect jobs and growth across the whole country and in our area.",
+                        "I'll fight to keep our health services free and effective."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 6,
+                    "examples": [
+                        "I'm proud to have represented the area for 20 years, focusing on the issues and people who need help the most.",
+                        "I hope I can count on your support on Thursday 8 June to continue this hard work.",
+                        "I am committed to our area and understand the concerns and aspirations of those who live here.",
+                        "Whether I am fighting for affordable homes or to keep our GP and hospital services open, the local area and its residents are at the heart of everything I do.",
+                        "I'll support fighting for local people and help to create the new jobs we need.",
+                        "I will work for our schools, safer streets and cleaner air."
+                    ]
+                },
+                "national": {
+                    "count": 6,
+                    "examples": [
+                        "I will fight for the best EU-deal to protect jobs and growth across the whole country and in our area.",
+                        "Stand up against a Hard Brexit and for a stronger economy",
+                        "Stand up for our NHS",
+                        "Stand up for affordable housing and sustainable development",
+                        "I will support renters and leaseholders, support the building of affordable homes and take measures to improve local housing conditions.",
+                        "I will work for our schools, safer streets and cleaner air."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I'm proud to have represented the area for 20 years, focusing on the issues and people who need help the most. I hope I can count on your support on Thursday 8 June to continue this hard work.",
+                    "issueRelated": "Commitment to area and healthcare services"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "This is a great place, but I don't want to see it damaged by cuts to our services or a Tory-driven 'Hard Brexit' that will wreck our economy."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "This is a great place, but I don't want to see it damaged by cuts to our services or a Tory-driven 'Hard Brexit' that will wreck our economy."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I'm proud to have represented the area for 20 years.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I'm proud to have represented the area for 20 years."
+                ]
+            }
+        }
+    }
+}

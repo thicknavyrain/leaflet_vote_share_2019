@@ -1,0 +1,193 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "8 June",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS Investment",
+                "policyDescription": "Labour will ensure that the NHS is fully funded so that patients can be delivered proper services."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Labour will invest in schools to cap class sizes and ensure all teachers are qualified."
+            },
+            {
+                "policyTitle": "Police",
+                "policyDescription": "Labour plans to increase police numbers with an additional 10,000 officers."
+            },
+            {
+                "policyTitle": "State Pensions",
+                "policyDescription": "Labour guarantees the triple lock on state pensions."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Tories",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Labour will invest in schools to cap class sizes and ensure all teachers are qualified.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Labour will ensure that the NHS is fully funded so that patients can be delivered proper services.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Labour plans to increase police numbers with an additional 10,000 officers.",
+            "transport": "",
+            "socialWelfare": "Labour guarantees the triple lock on state pensions.",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Peggy Lyons",
+                "endorsement": "The Tories' Dementia Tax is wrong. Making people who have paid in their whole lives sell their homes to pay for their care is unfair. Labour are the only party to guarantee the triple lock on state pensions. They've got my vote on 8 June."
+            },
+            {
+                "endorser": "Roy Bailey",
+                "endorsement": "Under the Tories, the number of police on our streets has fallen dramatically. This is not safe. It has to stop. I'm backing Labour's plan for the frontline with 10,000 extra officers."
+            },
+            {
+                "endorser": "Niamh Sweeney",
+                "endorsement": "Only Labour will invest properly in our schools, to cap class sizes and ensure that all teachers are qualified. Tory cuts are jeopardising our children\u2019s futures. That's why I'm voting Labour on 8 June."
+            },
+            {
+                "endorser": "Naomi Wright",
+                "endorsement": "The Tories cannot be trusted to properly invest in our NHS. That's why we need strong, independent-minded Labour MPs who will fight our corner. I trust Labour to make sure that our NHS is fully funded so that we can get back to delivering for patients."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Labour candidate and endorsements."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Labour plans to increase police numbers with an additional 10,000 officers."
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "The Tories' Dementia Tax is wrong.",
+                        "Making people who have paid in their whole lives sell their homes to pay for their care is unfair.",
+                        "Labour are the only party to guarantee the triple lock on state pensions.",
+                        "Under the Tories, the number of police on our streets has fallen dramatically.",
+                        "Tory cuts are jeopardising our children\u2019s futures.",
+                        "The Tories cannot be trusted to properly invest in our NHS."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "NHS Investment",
+                        "Education",
+                        "Police",
+                        "State Pensions"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 4,
+                "examples": [
+                    "Peggy Lyons - Pensioner",
+                    "Roy Bailey - Former Police Superintendent",
+                    "Niamh Sweeney - Teacher",
+                    "Naomi Wright - Nurse"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 6,
+                    "examples": [
+                        "The Tories' Dementia Tax is wrong.",
+                        "Making people who have paid in their whole lives sell their homes to pay for their care is unfair.",
+                        "Under the Tories, the number of police on our streets has fallen dramatically.",
+                        "Tory cuts are jeopardising our children\u2019s futures.",
+                        "The Tories cannot be trusted to properly invest in our NHS."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "The Tories cannot be trusted to properly invest in our NHS."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "leaflet": {
+        "candidateName": "Geraint Davies",
+        "candidateGender": "",
+        "constituency": "Swansea West",
+        "politicalParty": "Labour",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "I've Kept My Election Promises As Your MP",
+                "content": "Having delivered on my promises, I'm asking for your support to continue my work for Swansea West with a united Labour team under Ruiari Costello, Carwyn Jones and Jeremy Corbyn."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "BETTER HEALTH, EDUCATION & POLICE",
+                "policyDescription": "Support Jeremy Corbyn\u2019s plans for National Renewal by fighting for a fair share of funds for Wales, with more nurses, doctors, police and teachers for Swansea."
+            },
+            {
+                "policyTitle": "HONEST BREXIT",
+                "policyDescription": "Protect our jobs with fairer trade with Europe, higher wages, sustainable jobs and a clean bill of health for our NHS."
+            },
+            {
+                "policyTitle": "RAILWAY ELECTRIFICATION",
+                "policyDescription": "Keep fighting for our fair share of funds to start electrical wiring to Swansea"
+            },
+            {
+                "policyTitle": "MORE HOME PROTECTION",
+                "policyDescription": "Support Jeremy Corbyn to build 1 million homes across Britain."
+            }
+        ],
+        "mentions": {
+            "candidate": "Geraint Davies",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Jeremy Corbyn",
+            "tacticalSituation": "Vote for a Labour victory."
+        },
+        "issues": {
+            "brexitEurope": "Protect our jobs with fairer trade with Europe.",
+            "defence": "",
+            "economy": "",
+            "education": "Support Jeremy Corbyn\u2019s plans for National Renewal by fighting for a fair share of funds for Wales, with more nurses, doctors, police and teachers for Swansea.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "A clean bill of health for our NHS.",
+            "immigration": "",
+            "labourEmployment": "Fight for fair wages and sustainable jobs.",
+            "lawCrime": "",
+            "transport": "Keep fighting for our fair share of funds to start electrical wiring to Swansea.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Support for community projects and youth development.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "This election in Swansea West is about standing up for locals with real Labour values.",
+        "politicalExperience": [
+            {
+                "role": "MP for Swansea West",
+                "duration": "Since 2015",
+                "achievements": "Delivered on promises for better healthcare and fighting for electrification of the railway."
+            }
+        ],
+        "contactInformation": {
+            "address": "Swansea West, SA2 0ES",
+            "phone": "07708 191 625",
+            "email": "info@geraintdavies.org.uk",
+            "website": "www.geraintdavies.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Geraint Davies"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Investing in healthcare, building 1 million homes."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Fair wages, standing up for locals."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Fighting for funds to start electrical wiring to Swansea."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Supporting Jeremy Corbyn\u2019s plans for National Renewal."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Bringing better healthcare and fighting for more funds for local development.",
+                    "issueRelated": "Healthcare, Education, Transport"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Standing up for locals with real Labour values.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Standing up for locals, focusing on Swansea West."
+                ]
+            }
+        }
+    }
+}

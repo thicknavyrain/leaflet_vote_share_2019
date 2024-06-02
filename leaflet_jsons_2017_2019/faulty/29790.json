@@ -1,0 +1,136 @@
+{
+    "leaflet": {
+        "candidateName": "Paul Sample",
+        "candidateGender": "",
+        "constituency": "Salisbury",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Support is growing for Paul Sample",
+                "content": "Paul Sample is a local candidate who has served South Wiltshire all his life. He doesn't want to be a Minister -- so Paul can speak out without fear of being sacked. Took more votes than any Liberal Candidate in history last time he stood in Salisbury. Votes in May local elections how Paul Sample is a STRONG 2nd and can beat the Tory."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Paul Sample",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "Votes in May local elections how Paul Sample is a STRONG 2nd and can beat the Tory."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Paul Sample is a local candidate who has served South Wiltshire all his life.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {},
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Took more votes than any Liberal Candidate in history last time he stood in Salisbury."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Paul Sample is a local candidate who has served South Wiltshire all his life.",
+                        "He doesn't want to be a Minister -- so Paul can speak out without fear of being sacked.",
+                        "Votes in May local elections how Paul Sample is a STRONG 2nd and can beat the Tory.",
+                        "Vote Lib Dem on 8th June to change Britain's future."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Paul Sample is a local candidate who has served South Wiltshire all his life."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Vote Lib Dem on 8th June to change Britain's future."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Votes in May local elections how Paul Sample is a STRONG 2nd and can beat the Tory."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Paul Sample is a local candidate who has served South Wiltshire all his life.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Paul Sample is a local candidate who has served South Wiltshire all his life."
+                ]
+            }
+        }
+    }
+}

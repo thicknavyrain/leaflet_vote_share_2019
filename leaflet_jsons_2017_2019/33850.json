@@ -1,0 +1,176 @@
+{
+  "leaflet": {
+    "candidateName": "Robert Graham Lockwood",
+    "candidateGender": "",
+    "constituency": "Scarborough and Whitby",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "",
+        "content": "Vote for Robert Graham Lockwood to:\n- Insist the government upgrades the A64 and local railways\n- Defend Britain’s farming and fishing against cheap imports\n- Oppose fracking at all costs\n- Stay in the Single Market and Customs Union\n- Ensure education is funded properly\n- Adopt the 1% increase in income tax for health and social care\n- Re-instate the LibDem’s commitment to renewable energy"
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Infrastructure",
+        "policyDescription": "Insist the government upgrades the A64 and local railways"
+      },
+      {
+        "policyTitle": "Agriculture and Fishing",
+        "policyDescription": "Defend Britain’s farming and fishing against cheap imports"
+      },
+      {
+        "policyTitle": "Energy",
+        "policyDescription": "Oppose fracking at all costs"
+      },
+      {
+        "policyTitle": "Trade",
+        "policyDescription": "Stay in the Single Market and Customs Union"
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Ensure education is funded properly"
+      },
+      {
+        "policyTitle": "Healthcare",
+        "policyDescription": "Adopt the 1% increase in income tax for health and social care"
+      },
+      {
+        "policyTitle": "Renewable Energy",
+        "policyDescription": "Re-instate the LibDem’s commitment to renewable energy"
+      }
+    ],
+    "mentions": {
+      "candidate": "Robert Graham Lockwood",
+      "otherPartyLeaderCandidate": "Boris",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "Stay in the Single Market and Customs Union",
+      "defence": "",
+      "economy": "",
+      "education": "Ensure education is funded properly",
+      "environment": "Oppose fracking at all costs, Re-instate the LibDem’s commitment to renewable energy",
+      "governance": "",
+      "government": "",
+      "health": "Adopt the 1% increase in income tax for health and social care",
+      "immigration": "",
+      "labourEmployment": "",
+      "lawCrime": "",
+      "transport": "Insist the government upgrades the A64 and local railways",
+      "socialWelfare": "",
+      "community": [
+        {
+          "content": "Insist the government upgrades the A64 and local railways",
+          "yimbyNimby": "N/A"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "3 Garth Cottages, West Ayton, YO13 9JB",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "",
+    "analysis": {
+      "statementAnalysis": {
+        "quantitative": {
+          "count": 1,
+          "examples": ["Adopt the 1% increase in income tax for health and social care"]
+        },
+        "qualitative": {
+          "count": 7,
+          "examples": [
+            "Insist the government upgrades the A64 and local railways",
+            "Defend Britain’s farming and fishing against cheap imports",
+            "Oppose fracking at all costs",
+            "Stay in the Single Market and Customs Union",
+            "Ensure education is funded properly",
+            "Re-instate the LibDem’s commitment to renewable energy",
+            "Boris’s Tory government won’t!"
+          ]
+        }
+      },
+      "photoAnalysis": {
+        "localPlaces": 1,
+        "people": 1,
+        "candidateAlone": 0,
+        "candidateWithOthers": 1
+      },
+      "issueFocus": {
+        "local": {
+          "count": 1,
+          "examples": ["Insist the government upgrades the A64 and local railways"]
+        },
+        "national": {
+          "count": 6,
+          "examples": [
+            "Defend Britain’s farming and fishing against cheap imports",
+            "Oppose fracking at all costs",
+            "Stay in the Single Market and Customs Union",
+            "Ensure education is funded properly",
+            "Adopt the 1% increase in income tax for health and social care",
+            "Re-instate the LibDem’s commitment to renewable energy"
+          ]
+        }
+      },
+      "personalStories": [],
+      "endorsementsUsed": {
+        "count": 0,
+        "examples": [""]
+      },
+      "negativeMessaging": {
+        "localIssues": {
+          "count": 0,
+          "examples": [""]
+        },
+        "nationalIssues": {
+          "count": 1,
+          "examples": ["Boris’s Tory government won’t!"]
+        },
+        "leaderOfOpponentsParty": {
+          "count": 1,
+          "examples": ["Boris"]
+        },
+        "oppositeCandidateNoName": {
+          "count": 0,
+          "examples": [""]
+        },
+        "oppositeCandidateWithName": {
+          "count": 0,
+          "examples": [""]
+        }
+      },
+      "nonPolicyAttributes": {
+        "localness": "",
+        "employment": "",
+        "education": "",
+        "family": ""
+      },
+      "localCandidate": {
+        "isLocal": false,
+        "examples": [""]
+      }
+    }
+  }
+}

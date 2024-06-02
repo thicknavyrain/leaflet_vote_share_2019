@@ -1,0 +1,157 @@
+{
+    "leaflet": {
+        "candidateName": "Nick Clegg",
+        "candidateGender": "",
+        "constituency": "Sheffield Hallam",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "At the last General Election, I was honoured to be re-elected as your MP. The last 12 years have been a huge privilege. A lot has happened since I was first elected here in 2005. But looking forward, I see a city and a country that is in dire need of a bit of ambition."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Putting a penny on income tax to fund our NHS",
+                "policyDescription": "Our health service is the envy of the world. But lately, it has been under more and more pressure. The Liberal Democrats are proposing putting income tax by 1p to invest in our NHS."
+            },
+            {
+                "policyTitle": "Letting the people decide what happens with Brexit",
+                "policyDescription": "Brexit is the biggest decision that has faced the nation for decades. The Liberal Democrats believe that if the Conservatives bring back a bad Brexit deal, then you should be able to reject it and have the option to remain in Europe."
+            },
+            {
+                "policyTitle": "Increasing investment in our schools",
+                "policyDescription": "The Liberal Democrats want to invest \u00a37bn more in our schools. This would mean an extra \u00a336m for Sheffield to ensure that no school and no child loses out."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Nigel Farage, Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Letting the people decide what happens with Brexit \u2013 Brexit is the biggest decision that has faced the nation for decades. The Liberal Democrats believe that if the Conservatives bring back a bad Brexit deal, then you should be able to reject it and have the option to remain in Europe.",
+            "defence": "",
+            "economy": "",
+            "education": "The Liberal Democrats want to invest \u00a37bn more in our schools. This would mean an extra \u00a336m for Sheffield to ensure that no school and no child loses out.",
+            "environment": "",
+            "governance": "",
+            "government": "We are the opposition to this hard-line Government.",
+            "health": "Putting a penny on income tax to fund our NHS \u2013 Our health service is the envy of the world. But lately, it has been under more and more pressure. The Liberal Democrats are proposing putting income tax by 1p to invest in our NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "nickclegg.org.uk",
+            "socialMedia": {
+                "facebook": "fb.com/nickclegg",
+                "twitter": "@nick_clegg",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "The Liberal Democrats want to invest \u00a37bn more in our schools. This would mean an extra \u00a336m for Sheffield to ensure that no school and no child loses out.",
+                        "The Liberal Democrats are proposing putting income tax by 1p to invest in our NHS."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Our health service is the envy of the world.",
+                        "Brexit is the biggest decision that has faced the nation for decades.",
+                        "We are the opposition to this hard-line Government."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "This would mean an extra \u00a336m for Sheffield to ensure that no school and no child loses out."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Putting a penny on income tax to fund our NHS \u2013 Our health service is the envy of the world. But lately, it has been under more and more pressure. The Liberal Democrats are proposing putting income tax by 1p to invest in our NHS.",
+                        "Letting the people decide what happens with Brexit \u2013 Brexit is the biggest decision that has faced the nation for decades. The Liberal Democrats believe that if the Conservatives bring back a bad Brexit deal, then you should be able to reject it and have the option to remain in Europe.",
+                        "We are the opposition to this hard-line Government."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Nigel Farage says that Theresa May is now doing what he always wanted to do."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

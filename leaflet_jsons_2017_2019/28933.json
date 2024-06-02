@@ -1,0 +1,158 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "WHO WILL REALLY FIGHT THERESA MAY\u2019S EXTREME BREXIT?",
+                "content": "More money for our local schools, hospitals and care services. Voted against UKIP and Theresa May\u2019s extreme Brexit. Will give YOU the final say on Brexit deal - including option to remain."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Will give you the final say on Brexit deal - including option to remain."
+            },
+            {
+                "policyTitle": "Local Services",
+                "policyDescription": "More money for our local schools, hospitals and care services."
+            }
+        ],
+        "mentions": {
+            "candidate": "Liberal Democrats",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn\u2019s Labour",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "WHO WILL REALLY FIGHT THERESA MAY\u2019S EXTREME BREXIT?",
+            "defence": "",
+            "economy": "",
+            "education": "More money for our local schools.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "More money for our local hospitals and care services.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "8th June: Your chance to give your Brexit verdict"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "More money for our local schools, hospitals and care services."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Will give YOU the final say on Brexit deal - including option to remain."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "WHO WILL REALLY FIGHT THERESA MAY\u2019S EXTREME BREXIT?"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn\u2019s Labour"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "leaflet": {
+        "candidateName": "John Cryer",
+        "candidateGender": "",
+        "constituency": "Leyton & Wanstead",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "",
+                "content": "I am writing to seek your vote to continue as your Member of Parliament. It has been a privilege to serve the people of Leyton and Wanstead. It has been an honour to campaign with residents and community groups to make a real difference."
+            },
+            {
+                "title": "",
+                "content": "I hope you will consider using your vote on the Thursday 12 December 2019 to allow me to continue being your strong voice in Westminster and to be a lifeline to local people in need."
+            },
+            {
+                "title": "",
+                "content": "We need a government which will make the key decisions in the next two years on tackling climate change and will strengthen rights at work which have been eroded by the Conservatives and their previous coalition partners, the Liberal Democrats. We cannot afford another five years of uncertainty, division and despair. The only real answer is a vote for me."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Back a second EU referendum",
+                "policyDescription": "After three years of Brexit, this is the only way to move forward."
+            },
+            {
+                "policyTitle": "Fight violent crime",
+                "policyDescription": "Police and local services immediately need our backing."
+            },
+            {
+                "policyTitle": "Defend our health service",
+                "policyDescription": "Protect bed numbers and services at the new Whipps Cross."
+            },
+            {
+                "policyTitle": "Protect our environment",
+                "policyDescription": "Labour's Green Transformation will cut carbon emissions and create green jobs."
+            },
+            {
+                "policyTitle": "Campaign on local issues",
+                "policyDescription": "Continue to oppose London City Airport expansion & defend local services."
+            }
+        ],
+        "mentions": {
+            "candidate": "John Cryer",
+            "otherPartyLeaderCandidate": "Conservatives and their previous coalition partners, the Liberal Democrats.",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Back a second EU referendum",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Protect our environment",
+            "governance": "",
+            "government": "",
+            "health": "Defend our health service",
+            "immigration": "",
+            "labourEmployment": "strengthen rights at work",
+            "lawCrime": "Fight violent crime",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Continue to oppose London City Airport expansion & defend local services.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I am writing to seek your vote to continue as your Member of Parliament. It has been a privilege to serve the people of Leyton and Wanstead. It has been an honour to campaign with residents and community groups to make a real difference.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "I am writing to seek your vote to continue as your Member of Parliament. It has been a privilege to serve the people of Leyton and Wanstead. It has been an honour to campaign with residents and community groups to make a real difference.",
+                        "I hope you will consider using your vote on the Thursday 12 December 2019 to allow me to continue being your strong voice in Westminster and to be a lifeline to local people in need.",
+                        "We need a government which will make the key decisions in the next two years on tackling climate change and will strengthen rights at work which have been eroded by the Conservatives and their previous coalition partners, the Liberal Democrats.",
+                        "We cannot afford another five years of uncertainty, division and despair. The only real answer is a vote for me."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Defend our health service",
+                        "Fight violent crime",
+                        "Campaign on local issues"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Back a second EU referendum",
+                        "Protect our environment"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

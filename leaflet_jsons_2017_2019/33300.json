@@ -1,0 +1,162 @@
+{
+    "leaflet": {
+        "candidateName": "Liz Truss",
+        "candidateGender": "Female",
+        "constituency": "South West Norfolk",
+        "politicalParty": "",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "My Priorities for South West Norfolk",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Levelling up Norfolk's Infrastructure",
+                "policyDescription": "Fibre broadband to all by 2025. Improved road and rail routes, reduction in delays and overcrowding on trains, investment in A47 and ensuring safe and well maintained local roads."
+            },
+            {
+                "policyTitle": "Supporting Our Young People",
+                "policyDescription": "Minimum funding of \u00a35000/\u00a34000 per secondary and primary pupil, quality apprenticeships, including RAF Marham. Focus on childcare enabling parents to work flexibly."
+            },
+            {
+                "policyTitle": "Thriving Businesses, Rural Towns and Villages",
+                "policyDescription": "Bearing down on business rates, helping farmers and food producers, cut red tape and a robust approach to rural crime. Protect the Brecks, Thetford Forest, and Shouldham Warren. Thriving local services, post offices, GPs, and shops. Proud we have two community led pubs."
+            }
+        ],
+        "mentions": {
+            "candidate": "Liz Truss",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "quality apprenticeships, including RAF Marham",
+            "economy": "",
+            "education": "Minimum funding of \u00a35000/\u00a34000 per secondary and primary pupil, quality apprenticeships",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "Focus on childcare enabling parents to work flexibly",
+            "lawCrime": "cut red tape and a robust approach to rural crime",
+            "transport": "Improved road and rail routes, reduction in delays and overcrowding on trains, investment in A47 and ensuring safe and well maintained local roads.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Proud we have two community led pubs.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Fibre broadband to all by 2025."
+                    ]
+                },
+                "qualitative": {
+                    "count": 8,
+                    "examples": [
+                        "Improved road and rail routes",
+                        "reduction in delays and overcrowding on trains",
+                        "investment in A47 and ensuring safe and well maintained local roads",
+                        "Minimum funding of \u00a35000/\u00a34000 per secondary and primary pupil",
+                        "quality apprenticeships, including RAF Marham",
+                        "Focus on childcare enabling parents to work flexibly",
+                        "Bearing down on business rates",
+                        "Proud we have two community led pubs."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 3,
+                "candidateAlone": 0,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Thriving local services, post offices, GP's, and shops."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Minimum funding of \u00a35000/\u00a34000 per secondary and primary pupil",
+                        "Improved road and rail routes, reduction in delays and overcrowding on trains",
+                        "Fibre broadband to all by 2025."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "leaflet": {
+        "candidateName": "Eric Broadbent",
+        "candidateGender": "",
+        "constituency": "Scarborough & Whitby",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "LET'S BUILD A SOCIETY THAT WORKS FOR ALL",
+                "content": "On 8 June, families in Scarborough & Whitby have a choice between a Labour government that stands up for the many and the Tories who only look after a privileged few. Surely it can't be right that in 2017 in Scarborough & Whitby, many families have to rely on food banks to feed themselves; or that you might need to sell your home to pay for care for the NHS. This Tory Government has got its priorities wrong, let's send a loud and clear message - vote Labour on 8 June for a country that works for the many, not just a privileged few."
+            },
+            {
+                "title": "OUR NHS IS UNDERFUNDED & UNDERSTAFFED",
+                "content": "The Tories have broken their promise to protect the NHS. A&E's are in crisis and the NHS is facing the biggest financial squeeze with the worst deficits on record totalling \u00a32.45 billion with no signs of any extra investment for social care or the NHS."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Our NHS",
+                "policyDescription": "Labour will always give the NHS the funding it needs. A Labour government will join up the services of the NHS, social care and mental health to provide the support families need."
+            },
+            {
+                "policyTitle": "National Education Plan",
+                "policyDescription": "All young people will be given the chance to succeed because of the additional investment Labour is going to make. Bringing back Sure Start centres, delivering smaller class sizes by getting rid of the Free Schools scheme and other money wasting programs."
+            },
+            {
+                "policyTitle": "Labour's 10 Pledges",
+                "policyDescription": "Labour's pledges to secure change in the country: Full employment, Secure Homes Guarantee, Security at Work, Secure NHS and Social Care, National Education Service, Action to secure our environment, Put the public back into our economy, Cut inequality in income and wealth, Action to secure an equal society, Peace and justice at the heart of foreign policy."
+            }
+        ],
+        "mentions": {
+            "candidate": "Eric Broadbent",
+            "otherPartyLeaderCandidate": "Tories",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Bringing back Sure Start centres, getting rid of the Free Schools scheme and other money wasting programs. Creating a new role of Director of School Standards to support local schools.",
+            "environment": "Action to secure our environment",
+            "governance": "",
+            "government": "",
+            "health": "On the NHS, Labour will join up the services of the NHS, social care and mental health to provide the support families need. It is clear Tory health policies are failing.",
+            "immigration": "",
+            "labourEmployment": "Full employment, Secure Homes Guarantee, Security at Work",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Cut inequality in income and wealth",
+            "community": [
+                {
+                    "content": "Families in Scarborough & Whitby have to rely on food banks to feed themselves.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "T: 01947 810134 Labour North, Suite 12, Vicar Lane, Bradford, West Yorkshire BD1 5AH Promoted by Tracy Wilkinson on behalf of Eric Broadbent 139A Victoria Road, Scarborough, YO11 1SP Printed by Whitby Area Soial Broad of 42 Broadview, Woodside, Hey Road, Cloughton",
+            "phone": "01947 810134",
+            "email": "scarboroughandwhitbylabour@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "facebook.com/scarboroughwhitby.labour",
+                "twitter": "@LabourCllr",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Scarborough & Whitby"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "deficits on record totalling \u00a32.45 billion",
+                        "working families are on average \u00a31,400 a year worse off"
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "This Tory Government has got its priorities wrong"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 4,
+                "candidateAlone": 3,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Families in Scarborough & Whitby have to rely on food banks to feed themselves."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "A&E's are in crisis and the NHS is facing the biggest financial squeeze",
+                        "Action to secure our environment"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Families in Scarborough & Whitby have to rely on food banks to feed themselves."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "A&E's are in crisis and the NHS is facing the biggest financial squeeze",
+                        "This Tory Government has got its priorities wrong"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Tories - only look after a privileged few."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "leaflet": {
+        "candidateName": "Thangam Debbonaire",
+        "candidateGender": "",
+        "constituency": "Bristol West",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Re-Elect Thangam Debbonaire",
+                "content": "Vote for Thangam Debbonaire on 8 June. The progressive choice for Bristol West."
+            },
+            {
+                "title": "Vote Labour to Challenge the Tories",
+                "content": "A vote for Labour is a vote to challenge the Tories and their damaging policies. Labour stands for fairness, equality, and justice. Let's build a better future together."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protecting Bristol's Relationship with the EU",
+                "policyDescription": "Thangam Debbonaire is committed to protecting Bristol's relationship with the EU, ensuring that the city's interests are represented post-Brexit."
+            },
+            {
+                "policyTitle": "Investing in Local Services",
+                "policyDescription": "Labour will invest in local services, including healthcare, education, and public transportation, to improve the quality of life in Bristol West."
+            }
+        ],
+        "mentions": {
+            "candidate": "Thangam Debbonaire",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Protecting Bristol's relationship with the EU.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Investing in public transportation.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Investing in local services to improve the quality of life in Bristol West.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "labour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Vote Labour to Challenge the Tories.",
+                        "The progressive choice for Bristol West."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Investing in local services to improve the quality of life in Bristol West.",
+                        "Investing in public transportation."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Vote Labour to Challenge the Tories."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

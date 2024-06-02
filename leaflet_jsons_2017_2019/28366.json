@@ -1,0 +1,169 @@
+{
+    "leaflet": {
+        "candidateName": "Aidan Powlesland",
+        "candidateGender": "",
+        "constituency": "South Suffolk",
+        "politicalParty": "UKIP",
+        "electionDate": "08 June 2017",
+        "messages": [
+            {
+                "title": "Why am I standing?",
+                "content": "I am standing as a candidate because I believe in the potential of South Suffolk. The current trajectory will not support our area's development. We need new ideas and bold actions to ensure prosperity."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Reduce Local Tax",
+                "policyDescription": "Implement system of 'double taxation' to encourage reducing NHS and Care costs. Increase business rates on vacant properties."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Simplify tax to lower costs. Increase prepaid education insurance for children's education."
+            },
+            {
+                "policyTitle": "Tax Reform",
+                "policyDescription": "Abolish Income Tax and National Insurance Tax, replacing them with simplification to lower tax costs."
+            },
+            {
+                "policyTitle": "Defence and Foreign Affairs",
+                "policyDescription": "Scale down Trident, focus foreign policy on peace but maintain strong defense."
+            },
+            {
+                "policyTitle": "Employment Reform",
+                "policyDescription": "Reform employment rules, reduce bureaucracy and streamline processes to improve employment rates."
+            }
+        ],
+        "mentions": {
+            "candidate": "Aidan Powlesland",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "Scale down Trident, focus foreign policy on peace but maintain strong defense.",
+            "economy": "",
+            "education": "Simplify tax to lower costs. Increase prepaid education insurance for children's education.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "Reform employment rules, reduce bureaucracy and streamline processes to improve employment rates.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "South Suffolk, a constituency with history and potential.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I am standing as a candidate because I believe in the potential of South Suffolk.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Jones Financial Times to develop a prosperous community.",
+            "phone": "+44 7875 770077",
+            "email": "aidan.powlesland@yahoo.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Election Communication"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Abolish Income Tax and National Insurance Tax, replacing them with simplification.",
+                        "Increase business rates on vacant properties.",
+                        "Prepaid education insurance for children to support their education."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "I believe in the potential of South Suffolk.",
+                        "Focus foreign policy on peace but maintain strong defense."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Implement system of 'double taxation' to encourage reducing NHS and Care costs.",
+                        "South Suffolk, a constituency with history and potential."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Scale down Trident.",
+                        "Reform employment rules, reduce bureaucracy and streamline processes to improve employment rates."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "A constituency with history and potential.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I believe in the potential of South Suffolk.",
+                    "South Suffolk, a constituency with history and potential."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "leaflet": {
+        "candidateName": "Flick Drummond",
+        "candidateGender": "",
+        "constituency": "Portsmouth South",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "YOUR CHOICE AT THIS ELECTION:",
+                "content": "Strong, stable leadership in the National Interest or A coalition of chaos with Jeremy Corbyn"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Leadership",
+                "policyDescription": "Theresa May provides strong and stable leadership in the national interest."
+            }
+        ],
+        "mentions": {
+            "candidate": "Flick Drummond",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Brexit: Europe stunned by UK vote.",
+            "defence": "",
+            "economy": "Higher debt, higher taxes, economic chaos. Economic chaos with Jeremy Corbyn.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "Voting system.",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May and Flick Drummond standing together."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Theresa May provides strong and stable leadership.",
+                        "A coalition of chaos with Jeremy Corbyn.",
+                        "Think Jeremy Corbyn as Prime Minister is never going to happen? Don't be so sure.",
+                        "The risk is just too big to take: higher debt, higher taxes, economic chaos.",
+                        "Standing with Theresa May."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Theresa May provides strong and stable leadership in the national interest.",
+                        "A coalition of chaos with Jeremy Corbyn.",
+                        "The risk is just too big to take: higher debt, higher taxes, economic chaos."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Higher debt, higher taxes, economic chaos.",
+                        "A coalition of chaos with Jeremy Corbyn."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

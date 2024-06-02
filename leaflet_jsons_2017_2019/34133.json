@@ -1,0 +1,198 @@
+{
+    "leaflet": {
+        "candidateName": "Dr Tariq Mahmood",
+        "candidateGender": "",
+        "constituency": "Ealing Southall",
+        "politicalParty": "Liberal Democrat Party",
+        "electionDate": "12th December 2019",
+        "messages": [
+            {
+                "title": "",
+                "content": "Dr Tariq Mahmood, a NHS consultant, will be your Liberal Democrat candidate for the next General Election. Tariq has a long association with Ealing Southall and together with Siobhan Benita, our candidate for London Mayor next year, he will fight for the area which has been shockingly neglected by successive Conservative and Labour governments and councils. He is totally opposed to Brexit which will damage the futures of everyone for generations to come. As you'd expect, he will fight for Ealing Hospital. In addition to his knowledge of, and passion for, the National Health Service he is particularly concerned about the housing crisis, knife crime and the shocking air quality problem. The Lib Dems are the biggest and most effective anti-Brexit party in the country. Over 30,000 new members have joined since the election. Why not join us? Use the link below."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Fight for Ealing Hospital and concern for the National Health Service."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Totally opposed to Brexit, and alignment with the anti-Brexit stance of the Liberal Democrats."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Particularly concerned about the housing crisis."
+            },
+            {
+                "policyTitle": "Crime",
+                "policyDescription": "Concerned about knife crime."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Concerned about the shocking air quality problem."
+            }
+        ],
+        "mentions": {
+            "candidate": "Dr Tariq Mahmood",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Totally opposed to Brexit which will damage the futures of everyone for generations to come.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Concerned about the shocking air quality problem.",
+            "governance": "",
+            "government": "",
+            "health": "As you'd expect, he will fight for Ealing Hospital. In addition to his knowledge of, and passion for, the National Health Service.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Particularly concerned about knife crime.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Particularly concerned about the housing crisis.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Over 30,000 new members have joined since the election."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "He is totally opposed to Brexit which will damage the futures of everyone for generations to come.",
+                        "The area which has been shockingly neglected by successive Conservative and Labour governments and councils."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "He will fight for Ealing Hospital."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "He is totally opposed to Brexit which will damage the futures of everyone for generations to come."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The area which has been shockingly neglected by successive Conservative and Labour governments and councils."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Tariq has a long association with Ealing Southall.",
+                "employment": "Dr Tariq Mahmood, a NHS consultant.",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Tariq has a long association with Ealing Southall."
+                ]
+            }
+        }
+    }
+}

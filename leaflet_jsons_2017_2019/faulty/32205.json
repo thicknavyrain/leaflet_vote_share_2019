@@ -1,0 +1,181 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Victoria Charleston",
+    "candidateGender": "",
+    "constituency": "Salisbury",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Stop Brexit, build a brighter future",
+        "content": "This election is your chance to stop Brexit and build a brighter future."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "A Fairer Britain",
+        "policyDescription": "Britain needs fresh vision and leadership to restore fairness in our country. The Liberal Democrats will build an economy that works for everyone."
+      },
+      {
+        "policyTitle": "Tackle the Climate Emergency",
+        "policyDescription": "The Liberal Democrats will take the urgent action needed to protect our environment, making us a world leader in renewable energy and clean technology."
+      },
+      {
+        "policyTitle": "Invest in Schools and our NHS",
+        "policyDescription": "We will invest part of the £50 billion 'Revoke Bonus' for our schools and put 1p on income tax for our NHS and social care."
+      },
+      {
+        "policyTitle": "Stop Brexit",
+        "policyDescription": "End the Brexit mess and keep the best we already have and stay in Europe."
+      },
+      {
+        "policyTitle": "Solve our climate crisis",
+        "policyDescription": "Proud to deliver our radical, credible, and detailed plan to tackle the climate emergency by reaching zero-carbon emissions by 2045 at the latest."
+      },
+      {
+        "policyTitle": "Protect our public services",
+        "policyDescription": "Committed to ensuring that Salisbury has a properly funded NHS and social care wraparound support for every member of our community.”
+      }
+    ],
+    "mentions": {
+      "candidate": "Victoria Charleston",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Jo Swinson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "End the Brexit mess and keep the best we already have and stay in Europe. Only the Liberal Democrats will stop Brexit.",
+      "defence": "",
+      "economy": "",
+      "education": "Invest in Schools and our NHS. We will invest part of the £50 billion 'Revoke Bonus' for our schools.",
+      "environment": "Tackle the Climate Emergency. The Liberal Democrats will take the urgent action needed to protect our environment, making us a world leader in renewable energy and clean technology.",
+      "governance": "",
+      "government": "",
+      "health": "Invest in Schools and our NHS. We will put 1p on income tax for our NHS and social care.",
+      "immigration": "",
+      "labourEmployment": "",
+      "lawCrime": "",
+      "transport": "",
+      "socialWelfare": "",
+      "community": [
+        {
+          "content": "Committed to ensuring that Salisbury has a properly funded NHS and social care wraparound support for every member of our community.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "110 Wilton Rd, Salisbury SP2 7JU",
+      "phone": "",
+      "email": "",
+      "website": "www.salisburylibdems.org.uk",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Jo Swinson",
+        "endorsement": "Jo Swinson says Stop Brexit, for a brighter future."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Jo Swinson says Stop Brexit, for a brighter future.",
+        "source": "Campaign leaflet",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "",
+    "analysis": {
+      "statementAnalysis": {
+        "quantitative": {
+          "count": 1,
+          "examples": ["We will invest part of the £50 billion 'Revoke Bonus' for our schools and put 1p on income tax for our NHS and social care."]
+        },
+        "qualitative": {
+          "count": 4,
+          "examples": ["Britain needs fresh vision and leadership to restore fairness in our country.", "The Liberal Democrats will take the urgent action needed to protect our environment, making us a world leader in renewable energy and clean technology.", "End the Brexit mess and keep the best we already have and stay in Europe.", "Committed to ensuring that Salisbury has a properly funded NHS and social care wraparound support for every member of our community."]
+        }
+      },
+      "photoAnalysis": {
+        "localPlaces": 0,
+        "people": 4,
+        "candidateAlone": 0,
+        "candidateWithOthers": 1
+      },
+      "issueFocus": {
+        "local": {
+          "count": 1,
+          "examples": ["Committed to ensuring that Salisbury has a properly funded NHS and social care wraparound support for every member of our community."]
+        },
+        "national": {
+          "count": 4,
+          "examples": ["Britain needs fresh vision and leadership to restore fairness in our country.", "The Liberal Democrats will take the urgent action needed to protect our environment, making us a world leader in renewable energy and clean technology.", "End the Brexit mess and keep the best we already have and stay in Europe.", "Invest in Schools and our NHS. We will put 1p on income tax for our NHS and social care."]
+        }
+      },
+      "personalStories": [
+        {
+          "story": "",
+          "issueRelated": ""
+        }
+      ],
+      "endorsementsUsed": {
+        "count": 1,
+        "examples": ["Jo Swinson says Stop Brexit, for a brighter future."]
+      },
+      "negativeMessaging": {
+        "localIssues": {
+          "count": 0,
+          "examples": [""]
+        },
+        "nationalIssues": {
+          "count": 2,
+          "examples": ["Labour leader wants to renegotiate his own deal and won't back the fight to stop Brexit.", "Jeremy Corbyn has against the demands of nearly 90 Labour MPs, refused to rule out backing Brexit."]
+        },
+        "leaderOfOpponentsParty": {
+          "count": 1,
+          "examples": ["Jeremy Corbyn has against the demands of nearly 90 Labour MPs, refused to rule out backing Brexit."]
+        },
+        "oppositeCandidateNoName": {
+          "count": 1,
+          "examples": ["Labour leader wants to renegotiate his own deal and won't back the fight to stop Brexit."]
+        },
+        "oppositeCandidateWithName": {
+          "count": 2,
+          "examples": ["Jeremy Corbyn has against the demands of nearly 90 Labour MPs, refused to rule out backing Brexit.", "Labour leader Jeremy Corbyn wants to renegotiate his own deal and won't back the fight to stop Brexit."]
+        }
+      },
+      "nonPolicyAttributes": {
+        "localness": "",
+        "employment": "",
+        "education": "",
+        "family": ""
+      },
+      "localCandidate": {
+        "isLocal": false,
+        "examples": [""]
+      }
+    }
+  }
+}
+```

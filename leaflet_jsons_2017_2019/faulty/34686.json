@@ -1,0 +1,194 @@
+{
+    "leaflet": {
+        "candidateName": "Natalie Neale",
+        "candidateGender": "female",
+        "constituency": "Leicester South",
+        "politicalParty": "Conservatives",
+        "electionDate": "DEC 12",
+        "messages": [
+            {
+                "title": "Don't waste your vote...",
+                "content": "VOTE NATALIE\nVote Smart\nVote Conservative\nVote Democracy\nRemove the deadlock"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "50,000 more nurses for the NHS",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "50 million more GP surgery appointments",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "20,000 more Police",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Australian style point based system to control immigration",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Increasing per pupil funding for every child",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Carbon Zero by 2050",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Keeping your taxes low",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Getting Brexit Done",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Natalie will: be more visible, listen to your concerns and take action, work with the leader",
+            "partyLeader": "work with the leader"
+        },
+        "issues": {
+            "health": "50,000 more nurses for the NHS\n50 million more GP surgery appointments",
+            "lawCrime": "20,000 more Police",
+            "immigration": "Australian style point based system to control immigration",
+            "education": "Increasing per pupil funding for every child",
+            "economy": "Carbon Zero by 2050\nKeeping your taxes low",
+            "brexitEurope": "Getting Brexit Done",
+            "community": [
+                {
+                    "content": "Natalie will: be more visible, listen to your concerns and take action, work with the leader",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Natalie works in the NHS as a nurse practitioner in the Accident and Emergency department. She is a Governor at a local hospital and was previously elected member of the Council holding the position as shadow health cabinet lead. Natalie is a strong community campaigner and fundraiser. She is an enthusiastic, hardworking and motivated Conservative, who believes life experiences are the best way to learn how to make a difference.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Edis Way, Leicester LE3 2RD",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 5,
+                    "examples": [
+                        "50,000 more nurses for the NHS",
+                        "50 million more GP surgery appointments",
+                        "20,000 more Police",
+                        "Increasing per pupil funding for every child",
+                        "Carbon Zero by 2050"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Don't waste your vote...",
+                        "Vote Smart"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Natalie will: be more visible, listen to your concerns and take action, work with the leader"
+                    ]
+                },
+                "national": {
+                    "count": 7,
+                    "examples": [
+                        "50,000 more nurses for the NHS",
+                        "50 million more GP surgery appointments",
+                        "20,000 more Police",
+                        "Australian style point based system to control immigration",
+                        "Carbon Zero by 2050",
+                        "Keeping your taxes low",
+                        "Getting Brexit Done"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Natalie works in the NHS as a nurse practitioner in the Accident and Emergency department. She is a Governor at a local hospital and was previously elected member of the Council holding the position as shadow health cabinet lead. Natalie is a strong community campaigner and fundraiser. She is an enthusiastic, hardworking and motivated Conservative, who believes life experiences are the best way to learn how to make a difference.",
+                    "issueRelated": "health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "Natalie works in the NHS as a nurse practitioner in the Accident and Emergency department.",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Natalie is a strong community campaigner and fundraiser."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "leaflet": {
+        "candidateName": "Nick Clegg",
+        "candidateGender": "",
+        "constituency": "Sheffield Hallam",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "12 year record",
+                "content": "Nick has over a decade long record here in Sheffield Hallam."
+            },
+            {
+                "title": "Opposed hard Brexit",
+                "content": "Keeping Britain in the Single Market is vital for protecting local jobs."
+            },
+            {
+                "title": "Strong voice in Parliament",
+                "content": "Nick is on the frontline of British politics and knows how to get things done."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Opposed hard Brexit",
+                "policyDescription": "Keeping Britain in the Single Market is vital for protecting local jobs."
+            }
+        ],
+        "mentions": {
+            "candidate": "Nick",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Opposed hard Brexit. Keeping Britain in the Single Market is vital for protecting local jobs.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Nick has over a decade long record here in Sheffield Hallam."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Keeping Britain in the Single Market is vital for protecting local jobs.",
+                        "Nick is on the frontline of British politics and knows how to get things done."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Nick has over a decade long record here in Sheffield Hallam."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Keeping Britain in the Single Market is vital for protecting local jobs.",
+                        "Nick is on the frontline of British politics and knows how to get things done."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Nick has over a decade long record here in Sheffield Hallam.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Nick has over a decade long record here in Sheffield Hallam."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "leaflet": {
+        "candidateName": "Rob Pocock",
+        "candidateGender": "",
+        "constituency": "Sutton Coldfield",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "",
+                "content": "Sutton's top community leader!"
+            },
+            {
+                "title": "",
+                "content": "My pledge is to be honest, trustworthy, hardworking and independent-minded. Happy to be out and about, campaigning on the streets all year round. Not afraid to get my hands dirty, fighting for you and for the whole of Sutton Coldfield!"
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Rob Pocock",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Sutton's top community leader!",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Rob's Campaign Centre, FREEPOST RTLL-RHYK-LTLK Hawthorn Road, Wylde Green, Sutton Coldfield, B72 1EJ",
+            "phone": "07767 326704",
+            "email": "rob@sutton-labour.org.uk",
+            "website": "www.labour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@RobPocock1",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "My pledge is to be honest, trustworthy, hardworking and independent-minded. Happy to be out and about, campaigning on the streets all year round. Not afraid to get my hands dirty, fighting for you and for the whole of Sutton Coldfield!"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Sutton's top community leader!"
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "campaigning on the streets all year round.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "campaigning on the streets all year round."
+                ]
+            }
+        }
+    }
+}

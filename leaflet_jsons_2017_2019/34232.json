@@ -1,0 +1,164 @@
+{
+    "leaflet": {
+        "candidateName": "Richard Thomson",
+        "candidateGender": "",
+        "constituency": "Gordon",
+        "politicalParty": "SNP",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "A message from Richard Thomson",
+                "content": "Dear friend, At every election, the Conservatives go on and on about another independence referendum. They seem to have absolutely nothing else to say to people about anything. It's almost like they can't find anything positive to say about themselves. Or as if they are trying to distract us all from something really huge - like Brexit. Boris Johnson's Brexit 'deal' will be a disaster for the North East. It solves nothing and we could still be facing a hard Brexit at the end of it, which would be a catastrophe for our economy and public services. We voted to remain. Scotland's voice doesn't matter to the Tories but it matters to me. That's why I say Scotland's voice must be heard, and our choices respected. I'm an MP who puts the interests of Gordon ahead of the interests of Boris. If you agree, will you give me your vote at this election to help me ensure our voice is heard? Sincerely, Richard Thomson"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Opposing Boris Johnson's Brexit deal, emphasizing it will be a disaster for the North East."
+            },
+            {
+                "policyTitle": "Scottish voice",
+                "policyDescription": "Ensuring Scotland's voice is heard and respected, in contrast to the Tories."
+            }
+        ],
+        "mentions": {
+            "candidate": "Richard Thomson",
+            "otherPartyLeaderCandidate": "Boris",
+            "partyLeader": "",
+            "tacticalSituation": "In Gordon, it's between the SNP or the Conservatives. The Lib Dems and Labour can't win here."
+        },
+        "issues": {
+            "brexitEurope": "Boris Johnson's Brexit 'deal' will be a disaster for the North East. It solves nothing and we could still be facing a hard Brexit at the end of it, which would be a catastrophe for our economy and public services.",
+            "defence": "",
+            "economy": "Boris Johnson's Brexit 'deal' will be a disaster for the North East. It solves nothing and we could still be facing a hard Brexit at the end of it, which would be a catastrophe for our economy and public services.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "At every election, the Conservatives go on and on about another independence referendum. They seem to have absolutely nothing else to say to people about anything.",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "At every election, the Conservatives go on and on about another independence referendum.",
+                        "It's almost like they can't find anything positive to say about themselves.",
+                        "Scotland's voice doesn't matter to the Tories but it matters to me.",
+                        "I'm an MP who puts the interests of Gordon ahead of the interests of Boris."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "I'm an MP who puts the interests of Gordon ahead of the interests of Boris."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "At every election, the Conservatives go on and on about another independence referendum.",
+                        "Boris Johnson's Brexit 'deal' will be a disaster for the North East.",
+                        "We voted to remain. Scotland's voice doesn't matter to the Tories but it matters to me."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "At every election, the Conservatives go on and on about another independence referendum. They seem to have absolutely nothing else to say to people about anything."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "I'm an MP who puts the interests of Gordon ahead of the interests of Boris."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "It's almost like they can't find anything positive to say about themselves. Or as if they are trying to distract us all from something really huge - like Brexit."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Boris Johnson's Brexit 'deal' will be a disaster for the North East.",
+                        "I'm an MP who puts the interests of Gordon ahead of the interests of Boris."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I'm an MP who puts the interests of Gordon ahead of the interests of Boris.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I'm an MP who puts the interests of Gordon ahead of the interests of Boris."
+                ]
+            }
+        }
+    }
+}

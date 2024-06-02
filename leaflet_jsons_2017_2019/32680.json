@@ -1,0 +1,175 @@
+{
+    "leaflet": {
+        "candidateName": "Colin Clark",
+        "candidateGender": "",
+        "constituency": "Gordon",
+        "politicalParty": "Scottish Conservative & Unionist",
+        "electionDate": "Thursday 12th December - 7am until 10pm",
+        "messages": [
+            {
+                "title": "We Said No. We Meant It.",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stand Firm Against IndyRef2",
+                "policyDescription": "Colin Clark will stand firm against another independence referendum."
+            }
+        ],
+        "mentions": {
+            "candidate": "Colin Clark",
+            "otherPartyLeaderCandidate": "Nicola Sturgeon",
+            "partyLeader": "",
+            "tacticalSituation": "Labour and the LibDems are just too weak to beat the SNP."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "North Street, Mintlaw, AB42 5HH",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Swinson: I could prop up a new Labour leader, even with IndyRef2",
+                "source": "The Scotsman",
+                "date": "Nov 2019"
+            },
+            {
+                "text": "Labour last night declared it would not block a second Scottish independence referendum",
+                "source": "Daily Mail",
+                "date": "Aug 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Colin Clark and Nicola Sturgeon"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "40.7% Colin Clark",
+                        "SNP 35.9%"
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "We Said No. We Meant It.",
+                        "Labour and the LibDems are just too weak to beat the SNP.",
+                        "Colin Clark who will stand firm against IndyRef2",
+                        "Swinson: I could prop up a new Labour leader, even with IndyRef2",
+                        "Labour last night declared it would not block a second Scottish independence referendum"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 6,
+                    "examples": [
+                        "Stand Firm Against IndyRef2",
+                        "Labour and the LibDems are just too weak to beat the SNP.",
+                        "40.7% Colin Clark",
+                        "35.9% SNP",
+                        "Swinson: I could prop up a new Labour leader, even with IndyRef2",
+                        "Labour last night declared it would not block a second Scottish independence referendum"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour and the LibDems are just too weak to beat the SNP."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Nicola Sturgeon\u2019s SNP and another independence referendum"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "leaflet": {
+        "candidateName": "Julian Huppert",
+        "candidateGender": "",
+        "constituency": "Cambridge",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "3 GREAT REASONS TO BACK JULIAN",
+                "content": "As our MP Julian gained a reputation for standing up for Cambridge residents and providing us with the strong voice we need on the issues that matter most."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Health Services",
+                "policyDescription": "Gaining health services an extra \u00a320 million."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Gaining schools an additional \u00a323.2 million per year."
+            },
+            {
+                "policyTitle": "City's Congestion Crisis",
+                "policyDescription": "Helped deliver the new Cambridge North station and Chisholm Trail cycle route."
+            }
+        ],
+        "mentions": {
+            "candidate": "Julian Huppert",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Gaining schools an additional \u00a323.2 million per year.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Gaining health services an extra \u00a320 million.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Helped deliver the new Cambridge North station and Chisholm Trail cycle route.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Julian grew up and lives here in Cambridge. He knows our city and the challenges we all face well.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.cambridgelibdems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Julian Huppert & the Cambridge Lib Dem team"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Gaining health services an extra \u00a320 million.",
+                        "Gaining schools an additional \u00a323.2 million per year."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Julian grew up and lives here in Cambridge. He knows our city and the challenges we all face well.",
+                        "His record of action speaks for itself.",
+                        "To help tackle our city's congestion crisis, Julian helped deliver the new Cambridge North station and Chisholm Trail cycle route."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Julian grew up and lives here in Cambridge. He knows our city and the challenges we all face well."
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Julian grew up and lives here in Cambridge. He knows our city and the challenges we all face well.",
+                    "issueRelated": "Community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Julian grew up and lives here in Cambridge.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Julian grew up and lives here in Cambridge."
+                ]
+            }
+        }
+    }
+}

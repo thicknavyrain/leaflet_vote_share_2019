@@ -1,0 +1,163 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Edinburgh",
+        "politicalParty": "Scottish Greens",
+        "electionDate": "12 Dec",
+        "messages": [
+            {
+                "title": "",
+                "content": "From fighting for action on the climate emergency, to challenging austerity, to defending Scotland\u2019s place at the heart of Europe, the Scottish Green Party are the only Scottish party taking the challenges of today seriously. Let\u2019s build a new Scotland together."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Climate Action",
+                "policyDescription": "Fighting for action on the climate emergency."
+            },
+            {
+                "policyTitle": "Austerity",
+                "policyDescription": "Challenging austerity."
+            },
+            {
+                "policyTitle": "European Relationship",
+                "policyDescription": "Defending Scotland\u2019s place at the heart of Europe."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Defending Scotland\u2019s place at the heart of Europe.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Fighting for action on the climate emergency.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Candidates for Edinburgh"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "From fighting for action on the climate emergency, to challenging austerity, to defending Scotland\u2019s place at the heart of Europe, the Scottish Green Party are the only Scottish party taking the challenges of today seriously. Let\u2019s build a new Scotland together."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Climate Action",
+                        "European Relationship"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

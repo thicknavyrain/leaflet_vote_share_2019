@@ -1,0 +1,187 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Making Brexit a Success Is Central to Our National Interest",
+                "content": "As a nation, we face the most important period in our lifetime. Making Brexit a success is central to our national interest \u2013 and it is central to your own security and prosperity."
+            },
+            {
+                "title": "That\u2019s Why I Decided We Need an Election Now",
+                "content": "By going to Brussels with a strong negotiating hand I can ensure we guarantee our economic security. That means delivering better paying jobs, more affordable housing, a good school place for every child, and a strong economy paying for a strong NHS."
+            },
+            {
+                "title": "The Choice is Clear",
+                "content": "Strong and stable leadership with me in the national interest, to see us through Brexit and beyond. Or a hung parliament and coalition of chaos with Jeremy Corbyn."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "National Security",
+                "policyDescription": "Ensure economic security and strong negotiating hand in Brexit."
+            },
+            {
+                "policyTitle": "Job Creation",
+                "policyDescription": "Deliver better paying jobs."
+            },
+            {
+                "policyTitle": "Affordable Housing",
+                "policyDescription": "Provide more affordable housing."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Guarantee a good school place for every child."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Strong economy paying for a strong NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "There are only two people who can possibly be Prime Minister after the election to negotiate Brexit \u2013 me or Jeremy Corbyn."
+        },
+        "issues": {
+            "brexitEurope": "Making Brexit a success is central to our national interest.",
+            "defence": "",
+            "economy": "Ensure we guarantee our economic security.",
+            "education": "A good school place for every child.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "A strong economy paying for a strong NHS.",
+            "immigration": "",
+            "labourEmployment": "Deliver better paying jobs.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Ensure we guarantee our economic security.",
+                        "The choice at this election is clear."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Making Brexit a success is central to our national interest.",
+                        "Strong and stable leadership with me in the national interest.",
+                        "Hung parliament and coalition of chaos."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Making Brexit a success is central to our national interest.",
+                        "Ensure we guarantee our economic security.",
+                        "The choice at this election is clear.",
+                        "A strong economy paying for a strong NHS."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Or a hung parliament and coalition of chaos with Jeremy Corbyn.",
+                        "A hung parliament and coalition will weaken our Brexit negotiations."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Or a hung parliament and coalition of chaos with Jeremy Corbyn.",
+                        "There are only two people who can possibly be Prime Minister after the election to negotiate Brexit \u2013 me or Jeremy Corbyn."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Or a hung parliament and coalition of chaos with Jeremy Corbyn.",
+                        "There are only two people who can possibly be Prime Minister after the election to negotiate Brexit \u2013 me or Jeremy Corbyn."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "leaflet": {
+        "candidateName": "Steve Pound",
+        "candidateGender": "",
+        "constituency": "Ealing North",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "LOCAL RESIDENTS BACK LABOUR'S STEVE POUND",
+                "content": "Local residents in Greenford, Northolt, Perivale and Hanwell are backing Steve Pound to continue as our MP."
+            },
+            {
+                "title": "Our children deserve a better future",
+                "content": "Children and young people in Ealing North rely on local schools to give them a good start in life."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Local Schools",
+                "policyDescription": "Steve believes every local child should have the opportunity to go to a good local school. But the government has cut the funding to our schools, with some having to think about cutting teachers."
+            },
+            {
+                "policyTitle": "Additional School Funding",
+                "policyDescription": "Steve will fight for additional funding for local schools so all our children have fair access to good teaching and facilities and get the chance to succeed in life."
+            },
+            {
+                "policyTitle": "Government Cuts",
+                "policyDescription": "Steve is fighting against government cuts that are making it hard for local families. It\u2019s not just about funding but also about ensuring schools are properly funded and cuts to teachers are halted."
+            }
+        ],
+        "mentions": {
+            "candidate": "Steve Pound",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Steve won new classrooms and facilities for schools in Greenford, Northolt, Perivale and Hanwell.",
+            "environment": "",
+            "governance": "",
+            "government": "The government has cut the funding to our schools.",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Steve lives in Ealing North and understands the needs of the local community. He has championed the cause of the local hospital, fought government cuts to Ealing Hospital A&E and campaigned for more investment in Northwick Park Hospital.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I'm very proud to live in Ealing North but we all know government cuts are making it hard for local families. This election is your chance to vote for a Labour MP who will put your community first.",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "",
+                "achievements": "Worked tirelessly to win new classrooms and facilities for schools in Greenford, Northolt, Perivale and Hanwell."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "I don't think it\u2019s right that the government is cutting the funding to schools.",
+                "source": "Steve Pound",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Steve talks to local parents in Greenford about school funding cuts."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Steve won new classrooms and facilities for schools in Greenford, Northolt, Perivale and Hanwell."
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "Steve believes every local child should have the opportunity to go to a good local school.",
+                        "I don't think it\u2019s right that the government is cutting the funding to schools.",
+                        "Steve will fight for additional funding for local schools so all our children have fair access to good teaching and facilities.",
+                        "Steve lives in Ealing North and understands the needs of the local community.",
+                        "He has championed the cause of the local hospital.",
+                        "I'm very proud to live in Ealing North."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Championing the cause of our local hospital, fought government cuts to Ealing Hospital A&E.",
+                        "Winning new classrooms and facilities for schools in Greenford, Northolt, Perivale and Hanwell.",
+                        "Steve lives in Ealing North and understands the needs of the local community."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Steve is fighting against government cuts that are making it hard for local families."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 2,
+                    "examples": [
+                        "The government has cut the funding to our schools.",
+                        "Government cuts to Ealing Hospital A&E."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Steve lives in Ealing North.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Steve lives in Ealing North and understands the needs of the local community."
+                ]
+            }
+        }
+    }
+}

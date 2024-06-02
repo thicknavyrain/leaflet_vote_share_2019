@@ -1,0 +1,193 @@
+{
+    "leaflet": {
+        "candidateName": "Ruth Edwards",
+        "candidateGender": "",
+        "constituency": "Rushcliffe",
+        "politicalParty": "Conservative",
+        "electionDate": "12th December 2019",
+        "messages": [
+            {
+                "title": "Ken Clarke Backs Ruth for Rushcliffe",
+                "content": "Rushcliffe's former MP Ken Clarke has endorsed the Conservatives' Parliamentary Candidate Ruth Edwards and urged voters to back her in the general election on 12th December 2019."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Better hospitals",
+                "policyDescription": "Investing an extra \u00a333.9 billion into the NHS. Helping improve your local hospital and GP surgeries."
+            },
+            {
+                "policyTitle": "Safer streets",
+                "policyDescription": "Hiring 20,000 new police officers. Helping make our streets safer."
+            },
+            {
+                "policyTitle": "Improved schools",
+                "policyDescription": "More funding for every pupil in every school. So our children get a great education."
+            },
+            {
+                "policyTitle": "Get Brexit Done",
+                "policyDescription": "So we can finally get on with our priorities."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ruth Edwards",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Committed to getting Brexit done by respecting the referendum result so that she can focus on your priorities.",
+            "defence": "",
+            "economy": "",
+            "education": "More funding for every pupil in every school. So our children get a great education.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Investing an extra \u00a333.9 billion into the NHS. Helping improve your local hospital and GP surgeries.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Hiring 20,000 new police officers. Helping make our streets safer.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Conservative Parliamentary Candidate and cyber security expert, Ruth Edwards, is the only candidate in this election with a clear plan for Rushcliffe.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I'm impressed with her energy, ideas and the experience she brings from outside of politics... I fully endorse her and encourage all of you who have voted for me in the last 10 elections to support Ruth with your votes for her on 12th December as Rushcliffe's next Member of Parliament.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Ken Clarke",
+                "endorsement": "I'm delighted Ruth Edwards has been selected as the Conservative candidate in Rushcliffe. I'm impressed with her energy, ideas and the experience she brings from outside of politics."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "I'm proud and quite humbled that such a well-respected figure believes I am the best person to be Rushcliffe's next MP.",
+                "source": "Ruth Edwards",
+                "date": ""
+            },
+            {
+                "text": "Ken is one of the most impressive politicians of our time and a dedicated public servant. It is a great honour to receive this endorsement from him.",
+                "source": "Ruth Edwards",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Ken Clarke with Ruth Edwards, backing her as the new Parliamentary Candidate"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Investing an extra \u00a333.9 billion into the NHS.",
+                        "Hiring 20,000 new police officers."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "I'm delighted Ruth Edwards has been selected as the Conservative candidate in Rushcliffe.",
+                        "I'm impressed with her energy, ideas and the experience she brings from outside of politics.",
+                        "Ken is one of the most impressive politicians of our time and a dedicated public servant.",
+                        "It is a great honour to receive this endorsement from him."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Helping improve your local hospital and GP surgeries.",
+                        "More funding for every pupil in every school."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Investing an extra \u00a333.9 billion into the NHS.",
+                        "Hiring 20,000 new police officers."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "I'm delighted Ruth Edwards has been selected as the Conservative candidate in Rushcliffe."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

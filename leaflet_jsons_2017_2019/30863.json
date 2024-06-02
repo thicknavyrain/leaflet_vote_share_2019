@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Helen Jones",
+        "candidateGender": "Female",
+        "constituency": "Warrington North",
+        "politicalParty": "Labour Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Choose the candidate who puts Warrington North first",
+                "content": "Helen Jones is the only candidate who will put Warrington North first. She has a record of defending our interests, and standing up for local people. She lives here with her family - she\u2019s one of us."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Save our A&E",
+                "policyDescription": "To fight to save our A&E and protect services at our local hospital."
+            },
+            {
+                "policyTitle": "More funding for schools",
+                "policyDescription": "Fight for more funding for our schools which are facing huge cuts from the Tories."
+            },
+            {
+                "policyTitle": "Protect Peel Hall",
+                "policyDescription": "To oppose any unnecessary development on this important green space."
+            },
+            {
+                "policyTitle": "Living Wage",
+                "policyDescription": "To campaign for secure jobs and a Living Wage for everyone in Warrington North."
+            }
+        ],
+        "mentions": {
+            "candidate": "Helen Jones",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Fight for more funding for our schools which are facing huge cuts from the Tories.",
+            "environment": "Oppose unnecessary development on Peel Hall, protecting our green spaces.",
+            "governance": "",
+            "government": "",
+            "health": "Fight to save our A&E and protect services at our local hospital.",
+            "immigration": "",
+            "labourEmployment": "Campaign for secure jobs and a Living Wage for everyone in Warrington North.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Labour's Helen Jones is the only candidate who will put Warrington North first. She has a record of defending our interests, and standing up for local people.",
+            "community": [
+                {
+                    "content": "Oppose unnecessary development on Peel Hall, protecting our green spaces.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I have always tried to keep the promises I have made and to act on the issues you have asked me to take up whether in Parliament or Westminster. I have always done my best to help local people with problems and issues they have raised.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Helen Jones Labour Candidate for Warrington North, Gilbert Wakefield House 67 Bewsey Street, Warrington WA2 7JQ",
+            "phone": "01925 419 481",
+            "email": "info@helenforwarringtonnorth.com",
+            "website": "www.helenforwarringtonnorth.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@helenjonesMP",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": []
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Helen Jones is the only candidate who will put Warrington North first.",
+                        "She has a record of defending our interests, and standing up for local people.",
+                        "I have always tried to keep the promises I have made.",
+                        "Local people have a right to ask - can she really be trusted with our community?"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "Save our A&E",
+                        "More funding for schools",
+                        "Protect Peel Hall",
+                        "Living Wage"
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Oppose unnecessary development on Peel Hall, protecting our green spaces."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "The Tories are a blank cheque to let them destroy our NHS.",
+                        "Risking our children\u2019s futures and threatening the jobs and security of workers and the elderly."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Local people have a right to ask - can she really be trusted with our community?"
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "The Tory candidate has a record of backing Halton schools, Widnes businesses, young people in Merseyside and investment in Greater Manchester."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "She lives here with her family - she\u2019s one of us.",
+                "employment": "",
+                "education": "",
+                "family": "She lives here with her family - she\u2019s one of us."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "She lives here with her family - she\u2019s one of us.",
+                    "I have always tried to keep the promises I have made and to act on the issues you have asked me to take up."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "leaflet": {
+        "candidateName": "Ben Sims",
+        "candidateGender": "",
+        "constituency": "Leyton & Wanstead",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "This is your chance to change Britain's future.",
+                "content": "If you are unhappy with the way things are going on Brexit and on the NHS, then this is your moment. The choice could not be clearer."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "A vote for me will get you a Liberal Democrat MP who is not afraid to stick to his principles. I will stand up against this Tory Government and its hard Brexit plans."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "I will stand up against damaging cuts to our NHS and schools."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ben Sims",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "The election is going to be a close finish between me and Labour. If Labour wins, nothing will change."
+        },
+        "issues": {
+            "brexitEurope": "A Labour vote will mean more of the same. Your Labour MP supported Brexit in the referendum, and voted with UKIP and the Conservatives to give Theresa May a Brexit blank cheque.",
+            "defence": "",
+            "economy": "",
+            "education": "I will stand up against damaging cuts to our NHS and schools.",
+            "environment": "",
+            "governance": "",
+            "government": "I will stand up against this Tory Government and its hard Brexit plans.",
+            "health": "If you are unhappy with the way things are going on the NHS, then this is your moment. I will stand up against damaging cuts to our NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I have already hit the ground running campaigning for local people. You may have seen my team out on the streets campaigning.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "If you want an MP that listens to you, make your vote count and choose me on the 8th of June.",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "ben@walthamforestlibdems.org",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@benjaminsims",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "This is your chance to change Britain's future.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "This is your chance to change Britain's future.",
+                        "A Labour vote will mean more of the same.",
+                        "If you are unhappy with the way things are going on Brexit and on the NHS, then this is your moment."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "You may have seen my team out on the streets campaigning."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "This is your chance to change Britain's future.",
+                        "If you are unhappy with the way things are going on Brexit and on the NHS, then this is your moment.",
+                        "A Labour vote will mean more of the same.",
+                        "I will stand up against damaging cuts to our NHS and schools."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I have already hit the ground running campaigning for local people.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "A Labour vote will mean more of the same.",
+                        "I will stand up against damaging cuts to our NHS and schools."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Every time we need Jeremy Corbyn's Labour Party to stand up to this Government they fail."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Your Labour MP supported Brexit in the referendum, and voted with UKIP and the Conservatives to give Theresa May a Brexit blank cheque.",
+                        "Remember that your Labour MP voted for Brexit in the referendum, and UKIP have chosen not to stand a candidate against him: Can you really support an MP backed by UKIP?"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

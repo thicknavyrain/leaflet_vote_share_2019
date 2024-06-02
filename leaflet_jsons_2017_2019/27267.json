@@ -1,0 +1,160 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "SNP",
+        "electionDate": "June 8",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Record health spending, more diagnostic tests, new schools, colleges and hospitals."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "More highly-qualified, flexible childcare."
+            },
+            {
+                "policyTitle": "Transport",
+                "policyDescription": "Borders railway and new road bypasses, M8/M73/M74/A9 upgrades."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "50,000 affordable homes."
+            },
+            {
+                "policyTitle": "Employment",
+                "policyDescription": "Living wage for care staff, more people in full-time employment."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Tory",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "More highly-qualified, flexible childcare, new schools and colleges.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Record health spending, more diagnostic tests, Scotland's NHS.",
+            "immigration": "",
+            "labourEmployment": "Living wage for care staff, more people in full-time employment.",
+            "lawCrime": "More police driving crime down to a 42-year low.",
+            "transport": "Borders railway and new road bypasses, M8/M73/M74/A9 upgrades.",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.snp.org/record",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Building a better Scotland."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 4,
+                    "examples": [
+                        "50,000 affordable homes",
+                        "More diagnostic tests",
+                        "More police driving crime down to a 42-year low",
+                        "Living wage for care staff"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Record health spending",
+                        "More highly-qualified, flexible childcare",
+                        "Building a better Scotland."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Building a better Scotland."
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 3,
+                    "examples": [
+                        "Police officer numbers fall by 25,000.",
+                        "NHS funding pledges broken.",
+                        "Send the Tories a message on June 8."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

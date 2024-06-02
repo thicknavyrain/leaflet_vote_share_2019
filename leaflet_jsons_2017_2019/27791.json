@@ -1,0 +1,170 @@
+{
+    "leaflet": {
+        "candidateName": "Simon Hughes",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Our local champion for over 30 years"
+            },
+            {
+                "title": "",
+                "content": "Fighting for affordable homes - fighting Labour's luxury developments"
+            },
+            {
+                "title": "",
+                "content": "Giving people not politicians the final say on the final Brexit deal"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Affordable Homes",
+                "policyDescription": "Fighting Labour's luxury developments"
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Giving people not politicians the final say on the final Brexit deal"
+            }
+        ],
+        "mentions": {
+            "candidate": "Simon Hughes",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "The Conservatives can't win here. Labour won in 2015 by just a few thousand votes. A vote for the Conservatives in this constituency will only help Jeremy Corbyn."
+        },
+        "issues": {
+            "brexitEurope": "Giving people not politicians the final say on the final Brexit deal",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Fighting for affordable homes - fighting Labour's luxury developments",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Our local champion for over 30 years",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "32 years",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Simon Hughes"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Labour won in 2015 by just a few thousand votes."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Our local champion for over 30 years",
+                        "Fighting for affordable homes - fighting Labour's luxury developments",
+                        "Giving people not politicians the final say on the final Brexit deal",
+                        "A vote for the Conservatives in this constituency will only help Jeremy Corbyn."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Fighting for affordable homes - fighting Labour's luxury developments"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Giving people not politicians the final say on the final Brexit deal"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "A vote for the Conservatives in this constituency will only help Jeremy Corbyn."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Our local champion for over 30 years",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Our local champion for over 30 years"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "leaflet": {
+        "candidateName": "Julian Sturdy",
+        "candidateGender": "",
+        "constituency": "York Outer",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Let's Get Brexit Done",
+                "content": "And get on with our priorities. \u00a333.9 billion for the NHS, 20,000 extra police, More funding for every pupil in every school"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Invest in Transport Network",
+                "policyDescription": "Campaign to widen the A64 & improve rail links."
+            },
+            {
+                "policyTitle": "Secure NHS Funding",
+                "policyDescription": "Push for further investment for specialised services."
+            },
+            {
+                "policyTitle": "More Resources for Local Schools",
+                "policyDescription": "Build upon 6.49% per-pupil funding increase in York Outer."
+            },
+            {
+                "policyTitle": "Support Local Jobs",
+                "policyDescription": "Build upon the 13% average growth in wages for York in 2019."
+            },
+            {
+                "policyTitle": "Protect Environment",
+                "policyDescription": "Safeguard against inappropriate development."
+            },
+            {
+                "policyTitle": "Deliver Brexit",
+                "policyDescription": "Pass the PM's new deal and honour the result of the 2016 referendum."
+            }
+        ],
+        "mentions": {
+            "candidate": "Julian Sturdy",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "PM",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Deliver Brexit - Pass the PM's new deal and honour the result of the 2016 referendum.",
+            "defence": "",
+            "economy": "Supporting York's Economy",
+            "education": "More Resources for Local Schools - Build upon 6.49% per-pupil funding increase in York Outer.",
+            "environment": "Protect our environment - Safeguard against inappropriate development.",
+            "governance": "",
+            "government": "",
+            "health": "Secure our share of NHS funding - Push for further investment for specialised services.",
+            "immigration": "",
+            "labourEmployment": "Support local jobs - Build upon the 13% average growth in wages for York in 2019.",
+            "lawCrime": "",
+            "transport": "Invest in our transport network - Campaign to widen the A64 & improve rail links.",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "01904 784 847",
+            "email": "",
+            "website": "juliansturdy.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@JulianSturdy",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 4,
+                    "examples": [
+                        "\u00a333.9 billion for the NHS",
+                        "20,000 extra police",
+                        "6.49% per-pupil funding increase in York Outer",
+                        "13% average growth in wages for York in 2019"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Deliver Brexit - Pass the PM's new deal and honour the result of the 2016 referendum.",
+                        "Supporting York's Economy",
+                        "Protect our environment - Safeguard against inappropriate development."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 8,
+                    "examples": [
+                        "Invest in our transport network",
+                        "Secure our share of NHS funding",
+                        "More Resources for Local Schools",
+                        "Support local jobs",
+                        "Protect our environment",
+                        "Supporting York's Economy",
+                        "Securing York's Fair Share of NHS Funding",
+                        "More Resources for York's Schools"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Deliver Brexit - Pass the PM's new deal and honour the result of the 2016 referendum."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

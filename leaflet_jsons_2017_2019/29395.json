@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "Paul Holmes",
+        "candidateGender": "",
+        "constituency": "Southampton Test",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "My Priorities For You and Southampton",
+                "content": "Southampton is a great place to live and work. We need a council to deliver lower taxes, a real clean air strategy for our city and a plan of action for: Public consultation and investment in key services such as children's services, Support local businesses to prosper and grow by taking City Growth forward."
+            },
+            {
+                "title": "Investing in Education",
+                "content": "Schools are incredibly important and good schools are the key to successful futures for our young people."
+            },
+            {
+                "title": "Getting the Best Deal for Southampton",
+                "content": "Paul is standing with Theresa May to ensure that Brexit works for everyone in Southampton."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Making Brexit a success is central to our national interest."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Build a stronger economy that rewards people who work hard and make life easier for everyone."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Make the NHS the priority it truly is."
+            }
+        ],
+        "mentions": {
+            "candidate": "Paul Holmes",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Making Brexit a success is central to our national interest.",
+            "defence": "",
+            "economy": "Build a stronger economy that rewards people who work hard and make life easier for everyone.",
+            "education": "Investing in Education: Schools are incredibly important and good schools are the key to successful futures for our young people.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Make the NHS the priority it truly is.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07483 811 820",
+            "email": "votepholmes@gmail.com",
+            "website": "voteholmes.co.uk",
+            "socialMedia": {
+                "facebook": "fb.com/PaulHolmesSoton/",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Standing with Theresa May"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Over \u00a37.5 million for pupils in school improvement funding for disadvantaged pupils"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Southampton is a great place to live and work.",
+                        "Schools are incredibly important",
+                        "Ensure that Brexit works for everyone in Southampton"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Southampton is a great place to live and work.",
+                        "Getting the best deal for Southampton",
+                        "Support local businesses to prosper and grow by taking City Growth forward."
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "Making Brexit a success is central to our national interest.",
+                        "Build a stronger economy that rewards people who work hard and make life easier for everyone.",
+                        "Make the NHS the priority it truly is.",
+                        "The risk is just too big to take: HIGHER DEBT, HIGHER TAXES, ECONOMIC CHAOS",
+                        "Our candidates promise that we will deliver the best Brexit deal \u2013 striking new trade deals that create sustainable jobs and provide security for Britain."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn",
+                        "Think Jeremy Corbyn as Prime Minister is never going to happen? DON'T BE SO SURE"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

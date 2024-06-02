@@ -1,0 +1,180 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Labour will put people before privilege",
+                "content": "Britain is at a crossroads. The choice at the coming election is clear."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "End the Brexit crisis",
+                "policyDescription": "Take the decision back to the people with the choice of a credible Leave offer or Remain."
+            },
+            {
+                "policyTitle": "Invest in every community",
+                "policyDescription": "Attract businesses, creating jobs and equipping people with the skills to succeed."
+            },
+            {
+                "policyTitle": "Kick start a green industrial revolution",
+                "policyDescription": "Tackle the climate emergency and create high skilled, high wage jobs."
+            },
+            {
+                "policyTitle": "Build a country that rewards workers",
+                "policyDescription": "Not just the very richest."
+            },
+            {
+                "policyTitle": "Deliver properly funded public services",
+                "policyDescription": "World class public services run for people not profit."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "Jeremy Corbyn",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "End the Brexit crisis by taking the decision back to the people with the choice of a credible Leave offer or Remain.",
+            "defence": "",
+            "economy": "Invest in every community, attracting businesses, giving people the skills to succeed.",
+            "education": "",
+            "environment": "Kick start a green industrial revolution to tackle the climate emergency.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "Build a country that rewards workers not just the very richest.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Deliver properly funded public services: world class public services run for people not profit.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "labour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Britain is at a crossroads. The choice at the coming election is clear."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Invest in every community, attracting businesses, giving people the skills to succeed."
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "End the Brexit crisis by taking the decision back to the people with the choice of a credible Leave offer or Remain.",
+                        "Invest in every community, attracting businesses, giving people the skills to succeed.",
+                        "Kick start a green industrial revolution to tackle the climate emergency.",
+                        "Build a country that rewards workers not just the very richest.",
+                        "Deliver properly funded public services: world class public services run for people not profit."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Tories are in chaos and our country is in crisis."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson\u2019s Conservatives want to drive our country over a cliff edge.",
+                        "His reckless Brexit deal will take us towards a future dictated by Donald Trump."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

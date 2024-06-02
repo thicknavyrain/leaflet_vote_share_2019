@@ -1,0 +1,153 @@
+{
+    "leaflet": {
+        "candidateName": "Vernon Coaker",
+        "candidateGender": "",
+        "constituency": "Gedling",
+        "politicalParty": "Labour",
+        "electionDate": "12 Dec",
+        "messages": [
+            {
+                "title": "Today is Polling Day",
+                "content": "Re-elect Vernon Coaker, Your local champion"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Tory Austerity",
+                "policyDescription": "Tory austerity has not worked and the Tories cannot be trusted."
+            }
+        ],
+        "mentions": {
+            "candidate": "Vernon Coaker",
+            "otherPartyLeaderCandidate": "Tory outsider",
+            "partyLeader": "",
+            "tacticalSituation": "A vote for anyone else would let the Tory outsider in."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07902510142",
+            "email": "vernon.coaker@labour.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@vernoncoaker",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "In Gedling, if you want to keep the Tories out, vote Labour.",
+                "source": "The Independent",
+                "date": "7 November, 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Polls are open from 7am to 10pm on 12 Dec"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Tory austerity has not worked and the Tories cannot be trusted.",
+                        "A vote for anyone else would let the Tory outsider in."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": []
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Tory austerity has not worked and the Tories cannot be trusted."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "In Gedling, if you want to keep the Tories out, vote Labour."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Tory austerity has not worked and the Tories cannot be trusted."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "A vote for anyone else would let the Tory outsider in."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Your local champion",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Your local champion"
+                ]
+            }
+        }
+    }
+}

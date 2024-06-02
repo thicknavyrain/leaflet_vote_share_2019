@@ -1,0 +1,156 @@
+{
+    "leaflet": {
+        "candidateName": "Danielle Rowley",
+        "candidateGender": "",
+        "constituency": "Midlothian",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Here in Midlothian there is only one party that can beat the SNP and their obsession with another divisive independence referendum. That party is Labour. I will stand up for the people of Midlothian by fighting for what matters - better housing, better schools and a better future for our communities. A vote for Labour is a vote for the many, not just the few."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Better housing for the people of Midlothian."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Better schools for the people of Midlothian."
+            },
+            {
+                "policyTitle": "Community",
+                "policyDescription": "A better future for our communities."
+            }
+        ],
+        "mentions": {
+            "candidate": "Danielle Rowley",
+            "otherPartyLeaderCandidate": "SNP",
+            "partyLeader": "",
+            "tacticalSituation": "Here in Midlothian there is only one party that can beat the SNP and their obsession with another divisive independence referendum. In Midlothian only Labour can beat the SNP."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Better schools for the people of Midlothian.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "A better future for our communities.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Based on 2017 local election first preference votes cast."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Here in Midlothian there is only one party that can beat the SNP and their obsession with another divisive independence referendum. That party is Labour. I will stand up for the people of Midlothian by fighting for what matters - better housing, better schools and a better future for our communities. A vote for Labour is a vote for the many, not just the few."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "A better future for our communities.",
+                        "Better schools for the people of Midlothian."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "In Midlothian only Labour can beat the SNP."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Here in Midlothian there is only one party that can beat the SNP and their obsession with another divisive independence referendum."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

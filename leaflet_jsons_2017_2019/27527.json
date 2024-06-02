@@ -1,0 +1,203 @@
+{
+    "leaflet": {
+        "candidateName": "Fiona SMITH",
+        "candidateGender": "",
+        "constituency": "Hertsmere",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": "I am proud to be standing as Labour\u2019s candidate in Hertsmere. I have served my country in the police and the RAF and now my wish is to serve the people of Hertsmere as your MP."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Pragmatic negotiation with our European neighbours"
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Fair deal and a higher minimum wage"
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Fully funded education sector"
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Joined up health and care service which gives equal priority to mental health"
+            },
+            {
+                "policyTitle": "Government",
+                "policyDescription": "Progressive Labour government"
+            }
+        ],
+        "mentions": {
+            "candidate": "Vote Fiona SMITH",
+            "otherPartyLeaderCandidate": "May",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Hard Brexit or pragmatic negotiation with our European neighbours",
+            "defence": "",
+            "economy": "Cuts that hit you and your family, or a fair deal and a higher minimum wage",
+            "education": "Rising class sizes and cash-strapped schools, or a fully funded education sector",
+            "environment": "",
+            "governance": "",
+            "government": "Regressive, ruthless Conservative government, or a progressive Labour government",
+            "health": "Continued crisis in the NHS or a joined up health and care service which gives equal priority to mental health",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Police and RAF",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Between a regressive, ruthless Conservative government, or a progressive Labour government."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 6,
+                    "examples": [
+                        "Hard Brexit or pragmatic negotiation with our European neighbours",
+                        "Cuts that hit you and your family, or a fair deal and a higher minimum wage",
+                        "Rising class sizes and cash-strapped schools, or a fully funded education sector",
+                        "Continued crisis in the NHS or a joined up health and care service which gives equal priority to mental health",
+                        "Regressive, ruthless Conservative government, or a progressive Labour government"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I have served my country in the police and the RAF and now my wish is to serve the people of Hertsmere as your MP.",
+                    "issueRelated": "Governance"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "Cuts that hit you and your family",
+                        "Rising class sizes and cash-strapped schools",
+                        "Continued crisis in the NHS"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Between May's mandate for a hard Brexit, or a pragmatic negotiation with our European neighbours."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

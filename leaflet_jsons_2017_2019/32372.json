@@ -1,0 +1,198 @@
+{
+    "leaflet": {
+        "candidateName": "Caroline Jones",
+        "candidateGender": "",
+        "constituency": "Shipley Constituency",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "This election is your chance to stop Brexit",
+                "content": "Build a brighter future"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "A Liberal Democrat government led by Jo Swinson will stop Brexit on day one and get on with the job of improving people's lives."
+            }
+        ],
+        "mentions": {
+            "candidate": "Caroline Jones",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The Conservatives want to force through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom.",
+            "defence": "",
+            "economy": "The Conservatives want to force through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Kay Kirkham on behalf of Caroline Jones, (Liberal Democrats), both at 3 Gateways, Harden BD16 1TG",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Jo Swinson",
+                "endorsement": "A Liberal Democrat government led by Jo Swinson will stop Brexit on day one and get on with the job of improving people's lives."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "The Conservatives want to force through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom.",
+                "source": "",
+                "date": ""
+            },
+            {
+                "text": "Who knows where Jeremy Corbyn stands on Brexit? Labour now say they want to negotiate their own Brexit deal.",
+                "source": "",
+                "date": ""
+            },
+            {
+                "text": "A Liberal Democrat government led by Jo Swinson will stop Brexit on day one and get on with the job of improving people's lives.",
+                "source": "Jo Swinson",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Liberal Democrats: Working for you"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "The Conservatives want to force through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom.",
+                        "Who knows where Jeremy Corbyn stands on Brexit? Labour now say they want to negotiate their own Brexit deal.",
+                        "A Liberal Democrat government led by Jo Swinson will stop Brexit on day one and get on with the job of improving people's lives."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "The Conservatives want to force through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom.",
+                        "Who knows where Jeremy Corbyn stands on Brexit? Labour now say they want to negotiate their own Brexit deal.",
+                        "A Liberal Democrat government led by Jo Swinson will stop Brexit on day one and get on with the job of improving people's lives."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "A Liberal Democrat government led by Jo Swinson will stop Brexit on day one and get on with the job of improving people's lives."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "The Conservatives want to force through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom.",
+                        "Who knows where Jeremy Corbyn stands on Brexit? Labour now say they want to negotiate their own Brexit deal.",
+                        "A Liberal Democrat government led by Jo Swinson will stop Brexit on day one and get on with the job of improving people's lives."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "The Conservatives want to force through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom.",
+                        "Who knows where Jeremy Corbyn stands on Brexit? Labour now say they want to negotiate their own Brexit deal."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

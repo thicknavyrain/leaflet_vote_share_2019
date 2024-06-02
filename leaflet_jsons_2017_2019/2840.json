@@ -1,0 +1,184 @@
+{
+    "leaflet": {
+        "candidateName": "Nick Clegg",
+        "candidateGender": "",
+        "constituency": "Sheffield Hallam",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Real Environmental Action",
+                "policyDescription": "Lib Dem Council is rolling out kerbside recycling for glass, plastic and cans by the end of 2010. Campaign to cut emissions by 10% by 2010."
+            },
+            {
+                "policyTitle": "More cash for people on ordinary incomes",
+                "policyDescription": "Proposed raising the personal allowance to \u00a310,000, meaning lower taxes for those in need."
+            },
+            {
+                "policyTitle": "Getting Britain back to work",
+                "policyDescription": "Support for 800,000 new training places, 25,000 more paid apprenticeships, and policies on job creation."
+            },
+            {
+                "policyTitle": "No more tax breaks for the super-rich",
+                "policyDescription": "Abolish the unfair Council Tax and give an extra \u00a3700 tax cut for people on middle and low incomes."
+            }
+        ],
+        "mentions": {
+            "candidate": "Nick Clegg",
+            "otherPartyLeaderCandidate": "Brown and Osborne in this VAT cut mess",
+            "partyLeader": "Lib Dems",
+            "tacticalSituation": "Poll showing Lib Dem at 46%, Con at 29%, suggesting a competitive race."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Restart the economy and give a \u00a3700 tax cut to people on low and middle incomes.",
+            "education": "",
+            "environment": "Green Economy, investing in renewable energy and sustainable projects.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "Support for 800,000 new training places and 25,000 more paid apprenticeships.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Hard work and real local action with Nick Clegg.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP for Sheffield Hallam",
+                "duration": "Since being elected in 2005",
+                "achievements": "Backing the Lib Dems in local projects and actions."
+            }
+        ],
+        "contactInformation": {
+            "address": "Nick Clegg MP, Liberal Democrats, FREEPOST NEA11900, Sheffield S11 7ZZ",
+            "phone": "",
+            "email": "",
+            "website": "www.libdems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Supporting the green economy."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Proposed raising the personal allowance to \u00a310,000.",
+                        "Support for 800,000 new training places.",
+                        "Lib Dem at 46%, Con at 29%."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Real help for people in Sheffield.",
+                        "Getting Britain back to work.",
+                        "No more tax breaks for the super-rich.",
+                        "Out of touch with Sheffield."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Hard work and real local action with Nick Clegg."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Getting Britain back to work.",
+                        "More cash for people on ordinary incomes.",
+                        "No more tax breaks for the super-rich."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives: Out of touch with Sheffield."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Brown and Osborne in this VAT cut mess."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Leader of the Conservative party policies will not benefit Sheffield."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives who are out of touch with Sheffield."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Nick Clegg's real local action.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Hard work and real local action with Nick Clegg."
+                ]
+            }
+        }
+    }
+}

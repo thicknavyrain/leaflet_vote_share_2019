@@ -1,0 +1,188 @@
+{
+    "leaflet": {
+        "candidateName": "Maggie Throup",
+        "candidateGender": "Female",
+        "constituency": "Erewash",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Heading",
+                "content": "Maggie Throup STANDING WITH THERESA MAY"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Contacting Maggie",
+                "policyDescription": "Information on how to contact Maggie Throup."
+            },
+            {
+                "policyTitle": "A Strong Economy That Works For Everyone",
+                "policyDescription": "Policies focused on strengthening the economy and ensuring it benefits everyone."
+            }
+        ],
+        "mentions": {
+            "candidate": "Maggie Throup",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Making Brexit A Success: Interests of Our Nation",
+            "defence": "",
+            "economy": "A Strong Economy That Works For Everyone",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Tough on Crime and Investing in our Security",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Championing Your Local Issues",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "With a strong negotiating team in place",
+        "politicalExperience": [
+            {
+                "role": "MP for Erewash",
+                "duration": "since 2015",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "/throupmaggie",
+                "twitter": "@maggie4erewash",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Theresa May",
+                "endorsement": "Strong and Stable Leadership"
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Theresa May: Strong, Stable Leadership in the National Interest",
+                "source": "Theresa May",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Maggie Throup Standing with Theresa May"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Theresa May: Strong, Stable Leadership in the National Interest",
+                        "With a strong negotiating team in place"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 5,
+                "candidateAlone": 1,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Championing Your Local Issues"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "A Strong Economy That Works For Everyone",
+                        "Tough on Crime and Investing in our Security",
+                        "Making Brexit A Success: Interests of Our Nation"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Championing Your Local Issues",
+                    "issueRelated": "Community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Theresa May: Strong and Stable Leadership"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "A Coalition of Chaos with Jeremy Corbyn"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "A Coalition of Chaos with Jeremy Corbyn"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Championing Your Local Issues"
+                ]
+            }
+        }
+    }
+}

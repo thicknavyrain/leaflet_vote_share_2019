@@ -1,0 +1,176 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Newcastle",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Only Labour Stands up for Newcastle",
+                "content": "School cuts are damaging our children\u2019s education. Labour supports the climate strike. Work to improve our air quality."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "School Cuts",
+                "policyDescription": "School cuts are damaging our children\u2019s education. \u00a39.4 million cut to Newcastle schools\u2019 funding from 2015 to 2020. \u00a34,000 per school cut to Newcastle school funding by 2020."
+            },
+            {
+                "policyTitle": "Climate Emergency",
+                "policyDescription": "Labour supports the climate strike. Need a Labour Government to tackle the climate emergency. Five big announcements from Labour Party Conference."
+            },
+            {
+                "policyTitle": "Air Quality",
+                "policyDescription": "Looking to achieve clean air through proposals and partnerships, including school streets and research on respiratory health."
+            }
+        ],
+        "mentions": {
+            "candidate": "Cllr Hazel Stephenson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Revoke Article 50 in the five big announcements.",
+            "defence": "",
+            "economy": "End tax breaks for tax dodgers.",
+            "education": "Scrap school Ofsted inspections.",
+            "environment": "Labour supports the climate strike. Renewed vision for the Labour Green Industrial Revolution.",
+            "governance": "",
+            "government": "",
+            "health": "Scrap prescription charges.",
+            "immigration": "",
+            "labourEmployment": "End zero hours contracts.",
+            "lawCrime": "Reverse cuts to police - Labour will recruit more police officers.",
+            "transport": "",
+            "socialWelfare": "Real living wage of \u00a310 an hour by 2020. Ending Universal Credit.",
+            "community": [
+                {
+                    "content": "Work to improve air quality. Greening Denton Burn - volunteers are sprucing up Denton Burn Community Garden.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Cllr Hazel Stephenson",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "0191 278 7878 (Cllr Rob Higgins), 0191 261 5538 (Cllr Hazel Stephenson)",
+            "email": "hazelrj@smartemail.co.uk (Cllr Hazel Stephenson)",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Labour supports the climate strike."
+                },
+                {
+                    "caption": "Greening Denton Burn."
+                },
+                {
+                    "caption": "Work to improve our air quality."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "\u00a39.4 million cut to Newcastle schools\u2019 funding from 2015 to 2020.",
+                        "\u00a34,000 per school cut to Newcastle school funding by 2020.",
+                        "Real living wage of \u00a310 an hour by 2020."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "School cuts are damaging our children\u2019s education.",
+                        "Need a Labour Government to tackle the climate emergency."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 3,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Work to improve air quality.",
+                        "Greening Denton Burn."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "End zero hours contracts."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Volunteers are sprucing up Denton Burn Community Garden.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Labour Party has a real living wage proposal.",
+                "employment": "End zero hours contracts. Scrap prescription charges.",
+                "education": "Scrap school Ofsted inspections.",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Labour\u2019s four new proposals include school streets and research on the health of children and younger and older people."
+                ]
+            }
+        }
+    }
+}

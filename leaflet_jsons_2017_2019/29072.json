@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Jean Davis",
+        "candidateGender": "",
+        "constituency": "Ross, Skye and Lochaber",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Jean will fight against another divisive independence referendum. Jean will oppose the Conservatives' damaging hard Brexit. Jean will continue to be a hard working local champion for the Highlands."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Independence Referendum",
+                "policyDescription": "Jean will fight against another divisive independence referendum."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Jean will oppose the Conservatives' damaging hard Brexit."
+            },
+            {
+                "policyTitle": "Local Champion",
+                "policyDescription": "Jean will continue to be a hard working local champion for the Highlands."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jean Davis",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "The only way to stop the SNP in the Highlands"
+        },
+        "issues": {
+            "brexitEurope": "Jean will oppose the Conservatives' damaging hard Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "Jean will fight against another divisive independence referendum.",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Jean will continue to be a hard working local champion for the Highlands.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Jean will fight against another divisive independence referendum.",
+                        "Jean will oppose the Conservatives' damaging hard Brexit.",
+                        "Jean will continue to be a hard working local champion for the Highlands."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Jean will continue to be a hard working local champion for the Highlands."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Jean will fight against another divisive independence referendum.",
+                        "Jean will oppose the Conservatives' damaging hard Brexit."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Jean will fight against another divisive independence referendum.",
+                        "Jean will oppose the Conservatives' damaging hard Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Jean will continue to be a hard working local champion for the Highlands.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Jean will continue to be a hard working local champion for the Highlands."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "leaflet": {
+        "candidateName": "Will Forster",
+        "candidateGender": "",
+        "constituency": "Woking",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Will Forster and the Lib Dems: Fighting to stop Brexit and building a brighter future."
+            },
+            {
+                "title": "",
+                "content": "Will Forster has the passion and experience to really fight for Woking Constituency as our next local MP."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "Will do his best to stop Brexit and focus on local priorities."
+            },
+            {
+                "policyTitle": "Invest in NHS and Schools",
+                "policyDescription": "Wants to see investment in the NHS and schools."
+            }
+        ],
+        "mentions": {
+            "candidate": "Will Forster",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": "Conservative Government doesn't care about ordinary people. They're pushing ahead with their damaging Brexit."
+        },
+        "issues": {
+            "brexitEurope": "Fighting to stop Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "Investment in schools.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Investment in the NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Will worked closely with local charities, including the homeless shelter and York Road Project.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "Will Forster has the passion and experience to really fight for Woking Constituency as our next local MP. He has spent much of his life fighting to help people in Woking.",
+        "politicalExperience": [
+            {
+                "role": "Former Mayor of Woking and Councillor for the Woking area",
+                "duration": "last 10 years",
+                "achievements": "Has a record of standing up for his community."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.WokingLibDems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Woking didn't vote for Brexit in the 2016 referendum and we don't want it now."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "This Conservative Government doesn't care about ordinary people.",
+                        "We all know that this Conservative Government doesn't care about ordinary people.",
+                        "Will Forster has the passion and experience to really fight for Woking Constituency as our next local MP."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 5,
+                "candidateAlone": 2,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Investment in the NHS and schools.",
+                        "Fighting to help people in Woking."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Fighting to stop Brexit.",
+                        "This Conservative Government doesn't care about ordinary people."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Will has spent much of his life fighting to help people in Woking, particularly homeless people. Will worked closely with local charities, including the homeless shelter and York Road Project.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "This Conservative Government doesn't care about ordinary people."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "If Boris Johnson\u2019s Tories get their way on Brexit there\u2019ll be less money to fund our NHS\u2026"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Grew up in Goldsworth Park and Horsell. Attended Horsell C of E School, Woking High School and Woking College.",
+                "employment": "",
+                "education": "",
+                "family": "Lives in Fairview Avenue by Woking Park with his partner Hannah and their dog Toffee."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Grew up in Goldsworth Park and Horsell."
+                ]
+            }
+        }
+    }
+}

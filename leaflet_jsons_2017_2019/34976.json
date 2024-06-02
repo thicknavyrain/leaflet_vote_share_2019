@@ -1,0 +1,199 @@
+{
+    "leaflet": {
+        "candidateName": "Jo Swinson",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "It's time to build a brighter future",
+                "content": "For too many people, things aren\u2019t working as they should be. Both the Conservatives and Labour are failing time and again to deliver a better future. The Liberal Democrats\u2019 plan for government stands in stark contrast to the tired, divisive politics of Johnson and Corbyn\u2019s Brexit Britain. The Liberal Democrats will stop Brexit and build a brighter future for the UK. Jo Swinson said, 'We have an ambitious plan for the future of our country, where every single person, every community and our planet can thrive.'"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "Revoke Article 50 to stop Brexit."
+            },
+            {
+                "policyTitle": "Tackle the Climate Emergency",
+                "policyDescription": "Generate 80% of our electricity from renewables by 2030."
+            },
+            {
+                "policyTitle": "Give every child the best start in life",
+                "policyDescription": "Recruit 20,000 more teachers and increase funding for schools."
+            },
+            {
+                "policyTitle": "Build a Fairer Economy",
+                "policyDescription": "Build a fairer economy."
+            },
+            {
+                "policyTitle": "Transform our mental health services",
+                "policyDescription": "Give mental health the same status as physical health."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jo Swinson",
+            "otherPartyLeaderCandidate": "Boris Johnson, Jeremy Corbyn",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Leading the fight to Stop Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "Recruit 20,000 more teachers and increase funding for schools.",
+            "environment": "Generate 80% of our electricity from renewables by 2030.",
+            "governance": "",
+            "government": "",
+            "health": "Give mental health the same status as physical health.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Freepost RSTK-HKSH-EJGE, Liberal Democrats, 8-10 Great George Street, London, SW1P 3AE",
+            "phone": "",
+            "email": "",
+            "website": "www.LibDems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Kevin Deyrick, former teacher, Labour councillor",
+                "endorsement": "The Greens are supporting us to stop Brexit. Vote for the Liberal Democrats."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "We have an ambitious plan for the future of our country, where every single person, every community and our planet can thrive.",
+                "source": "Jo Swinson",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Recruit 20,000 more teachers.",
+                        "Generate 80% of our electricity from renewables by 2030."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Leading the fight to Stop Brexit.",
+                        "Build a Fairer Economy.",
+                        "Give mental health the same status as physical health."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 1,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Leading the fight to Stop Brexit.",
+                        "Generate 80% of our electricity from renewables by 2030.",
+                        "Give mental health the same status as physical health."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "The Greens are supporting us to stop Brexit. Vote for the Liberal Democrats."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "Both the Conservatives and Labour are failing time and again to deliver a better future.",
+                        "Whether it\u2019s the Conservatives\u2019 hostile environment or Labour\u2019s insistence to negotiate their own Brexit deal, both are failing our communities and allow hatred to spread.",
+                        "We can build a brighter future for our country by stopping Brexit and building a fair, inclusive and green society."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Boris Johnson\u2019s Conservatives - Making a mess out of Brexit.",
+                        "Jeremy Corbyn\u2019s Labour Party - Wants to negotiate his own Brexit deal."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

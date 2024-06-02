@@ -1,0 +1,204 @@
+{
+    "leaflet": {
+        "candidateName": "Ian Walker",
+        "candidateGender": "",
+        "constituency": "Sheffield Hallam",
+        "politicalParty": "",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "NHS",
+                "content": "As a former director of NHS Yorkshire, lobby for our hospitals to get their fair share of the new government investment."
+            },
+            {
+                "title": "TRANSPORT",
+                "content": "Support better bus and rail links to nearby towns and London: vital to attract investment, to help communities prosper."
+            },
+            {
+                "title": "BREXIT",
+                "content": "Honour the result of the referendum that Britain leave the EU and move forward to a better future."
+            },
+            {
+                "title": "EDUCATION",
+                "content": "More support for our excellent teachers so all children can have an outstanding education."
+            },
+            {
+                "title": "SKILLS TRAINING",
+                "content": "As an engineer I know the importance of training our workforce for the technologies of the future."
+            },
+            {
+                "title": "TRUST",
+                "content": "Born in Hallam, with a heart for my community, I want to rebuild trust that Hallam voters' needs can be represented at the heart of government."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Lobby for hospitals to get their fair share of the new government investment."
+            },
+            {
+                "policyTitle": "TRANSPORT",
+                "policyDescription": "Support better bus and rail links to nearby towns and London to attract investment and help communities prosper."
+            },
+            {
+                "policyTitle": "BREXIT",
+                "policyDescription": "Honour the result of the referendum that Britain leave the EU and move forward to a better future."
+            },
+            {
+                "policyTitle": "EDUCATION",
+                "policyDescription": "More support for excellent teachers so all children can have an outstanding education."
+            },
+            {
+                "policyTitle": "SKILLS TRAINING",
+                "policyDescription": "Training the workforce for the technologies of the future."
+            },
+            {
+                "policyTitle": "TRUST",
+                "policyDescription": "Rebuild trust that Hallam voters' needs can be represented at the heart of government."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ian Walker",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Honour the result of the referendum that Britain leave the EU and move forward to a better future.",
+            "defence": "",
+            "economy": "",
+            "education": "More support for excellent teachers so all children can have an outstanding education.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Lobby for hospitals to get their fair share of the new government investment.",
+            "immigration": "",
+            "labourEmployment": "Training the workforce for the technologies of the future.",
+            "lawCrime": "",
+            "transport": "Support better bus and rail links to nearby towns and London to attract investment and help communities prosper.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Rebuild trust that Hallam voters' needs can be represented at the heart of government.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Born in Hallam, with a heart for my community.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Born in Hallam, with a heart for my community."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "leaflet": {
+        "candidateName": "Bethan Vincent",
+        "candidateGender": "",
+        "constituency": "York Outer",
+        "politicalParty": "Green Party",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "",
+                "content": "This election isn\u2019t about the next five years. It\u2019s about the next fifty years. Only the Green Party is offering real opposition to this Government\u2019s extreme Brexit. Only the Green Party has the vision to deliver an alternative future for our country, and our place in the world. And only the Green Party offers a different kind of politics. Every Green vote on 8th June will help make that vision a reality."
+            },
+            {
+                "title": "",
+                "content": "To shape an economy for everyone while preserving a safe environment. To build affordable homes and provide properly funded public services. And to put power back in your hands through a citizen's democracy."
+            },
+            {
+                "title": "",
+                "content": "If you agree with us, stand with us. The Conservatives think they have this election sewn up. But it\u2019s in your hands. Stand with us for housing, schools, our NHS, our environment, and for our future. We stand up for what matters."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "To shape an economy for everyone while preserving a safe environment."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "To build affordable homes."
+            },
+            {
+                "policyTitle": "Public Services",
+                "policyDescription": "Provide properly funded public services."
+            },
+            {
+                "policyTitle": "Citizen's Democracy",
+                "policyDescription": "Put power back in your hands through a citizen's democracy."
+            },
+            {
+                "policyTitle": "Opposition to Brexit",
+                "policyDescription": "Offering real opposition to this Government\u2019s extreme Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "Bethan Vincent",
+            "otherPartyLeaderCandidate": "The Conservatives",
+            "partyLeader": "Green Party Co-Leaders Caroline Lucas and Jonathan Bartley",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Only the Green Party is offering real opposition to this Government\u2019s extreme Brexit.",
+            "defence": "",
+            "economy": "To shape an economy for everyone while preserving a safe environment.",
+            "education": "Stand with us for housing, schools, our NHS, our environment, and for our future.",
+            "environment": "To shape an economy for everyone while preserving a safe environment.",
+            "governance": "Put power back in your hands through a citizen's democracy.",
+            "government": "",
+            "health": "Stand with us for housing, schools, our NHS, our environment, and for our future.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "To build affordable homes.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "15 Priory St, York, YO1 6ET",
+            "phone": "",
+            "email": "office@yorkgreenparty.org.uk",
+            "website": "greenparty.org.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/thegreenparty",
+                "twitter": "@thegreenparty, @TeamBethanYork",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Green Party Co-Leaders Caroline Lucas and Jonathan Bartley"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "This election isn\u2019t about the next five years. It\u2019s about the next fifty years.",
+                        "Only the Green Party is offering real opposition to this Government\u2019s extreme Brexit."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Only the Green Party is offering real opposition to this Government\u2019s extreme Brexit."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives think they have this election sewn up."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Cambridge",
+        "politicalParty": "Lib Dems",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": "Strong local MPs with the Liberal Democrats OR Jeremy Corbyn\u2019s weak and divided Labour Party"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Investment in the NHS",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "More money for local schools",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Community champion MPs",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "Lifelong Conservatives here in CAMBRIDGE are voting Lib Dem to beat Labour."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "More money for local schools",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Investment in the NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Community champion MPs",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Strong local MPs with the Liberal Democrats OR Jeremy Corbyn\u2019s weak and divided Labour Party"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Lifelong Conservatives here in CAMBRIDGE are voting Lib Dem to beat Labour."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Strong local MPs with the Liberal Democrats OR Jeremy Corbyn\u2019s weak and divided Labour Party"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn\u2019s weak and divided Labour Party"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn\u2019s weak and divided Labour Party"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

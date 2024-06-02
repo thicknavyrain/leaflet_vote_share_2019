@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Neil Gray",
+        "candidateGender": "",
+        "constituency": "Airdrie & Shotts",
+        "politicalParty": "Scottish National Party",
+        "electionDate": "Thursday 12th December 2019",
+        "messages": [
+            {
+                "title": "",
+                "content": "Re-elect NEIL GRAY\nWorking for Airdrie & Shotts"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Monklands Hospital Relocation",
+                "policyDescription": "No relocation of Monklands Hospital to Gartcosh"
+            },
+            {
+                "policyTitle": "School Bus Cuts",
+                "policyDescription": "Helped stop school bus cuts"
+            },
+            {
+                "policyTitle": "Universal Credit Reform",
+                "policyDescription": "Campaigning for Universal Credit reform"
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Send a message about Westminster's Brexit shambles"
+            },
+            {
+                "policyTitle": "Scotland's Future",
+                "policyDescription": "Scotland's future in Scotland's hands"
+            }
+        ],
+        "mentions": {
+            "candidate": "Neil Gray",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Send a message about Westminster's Brexit shambles",
+            "defence": "",
+            "economy": "",
+            "education": "Helped stop school bus cuts",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "No relocation of Monklands Hospital to Gartcosh",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Campaigning for Universal Credit reform",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07388 151229",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Neil Gray"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "No relocation of Monklands Hospital to Gartcosh",
+                        "Helped stop school bus cuts",
+                        "Campaigning for Universal Credit reform"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Send a message about Westminster's Brexit shambles",
+                        "Scotland's future in Scotland's hands"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "No relocation of Monklands Hospital to Gartcosh",
+                        "Helped stop school bus cuts"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Campaigning for Universal Credit reform",
+                        "Send a message about Westminster's Brexit shambles",
+                        "Scotland's future in Scotland's hands"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Send a message about Westminster's Brexit shambles"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

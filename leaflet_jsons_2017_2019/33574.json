@@ -1,0 +1,202 @@
+{
+    "leaflet": {
+        "candidateName": "Geoffrey Cox",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "Three Great Reasons to Vote for Geoffrey",
+                "content": "The local man with a record of local action. Delivering major new local investment. Keeping our economy strong and getting Brexit done."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "The Local Man with a Record of Local Action",
+                "policyDescription": "Since 2017, Geoffrey has helped over 3000 local people, held over 550 surgery appointments, secured \u00a3millions for local communities, backed farm and small businesses, and fought for local interests like reopening Appledore Shipyard and keeping Dartmoor Prison."
+            },
+            {
+                "policyTitle": "Delivering Major New Local Investment",
+                "policyDescription": "Major investment in our rail, roads and broadband, hundreds more Devon police, the largest funding boost to our schools, 2 new local hospitals and state-of-the-art cancer screening to serve our communities."
+            },
+            {
+                "policyTitle": "Keeping Our Economy Strong and Getting Brexit Done",
+                "policyDescription": "A sound economic plan. Record jobs, low inflation, rising wages, tax cut for low and middle earners, the deficit beaten and continuing growth. Your hard work. Don't let Corbyn wreck it."
+            }
+        ],
+        "mentions": {
+            "candidate": "Geoffrey Cox",
+            "otherPartyLeaderCandidate": "Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Getting Brexit Done",
+            "defence": "",
+            "economy": "A sound economic plan. Record jobs, low inflation, rising wages, tax cut for low and middle earners, the deficit beaten and continuing growth.",
+            "education": "The largest funding boost to our schools",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "2 new local hospitals and state-of-the-art cancer screening",
+            "immigration": "",
+            "labourEmployment": "Record jobs",
+            "lawCrime": "",
+            "transport": "Major investment in our rail, roads and broadband",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Since 2017, Geoffrey has helped over 3000 local people, held over 550 surgery appointments, secured \u00a3millions for local communities, backed farm and small businesses, and fought for local interests like reopening Appledore Shipyard and keeping Dartmoor Prison.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 7,
+                    "examples": [
+                        "Since 2017, Geoffrey has helped over 3000 local people",
+                        "Held over 550 surgery appointments",
+                        "Major investment in our rail, roads and broadband",
+                        "Hundreds more Devon police",
+                        "The largest funding boost to our schools",
+                        "2 new local hospitals",
+                        "Record jobs, low inflation, rising wages"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "A sound economic plan",
+                        "Your hard work. Don't let Corbyn wreck it.",
+                        "Keeping our economy strong and getting Brexit done"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 5,
+                    "examples": [
+                        "Since 2017, Geoffrey has helped over 3000 local people",
+                        "Held over 550 surgery appointments",
+                        "Major investment in our rail, roads and broadband",
+                        "Hundreds more Devon police",
+                        "The largest funding boost to our schools"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Record jobs, low inflation, rising wages",
+                        "Keeping our economy strong and getting Brexit done"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Don't let Corbyn wreck it."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "The Local Man with a Record of Local Action",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "The Local Man with a Record of Local Action"
+                ]
+            }
+        }
+    }
+}

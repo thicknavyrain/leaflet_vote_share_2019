@@ -1,0 +1,186 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Your Choice on Thursday",
+                "content": "Liberal Democrat MPs who champion their communities and will stand up for our NHS. OR Conservative MPs who are backing heartless cuts to our NHS services."
+            },
+            {
+                "title": "A Liberal Democrat Vote on Thursday",
+                "content": "A Liberal Democrat vote on Thursday will give our NHS the boost it needs."
+            },
+            {
+                "title": "Everyone knows Labour can\u2019t win in this area on Thursday.",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "The Liberal Democrats have pledged to increase income tax by a penny for every earner to fund a \u00a36bn-a-year cash injection for the NHS and social care."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Conservative MPs",
+            "partyLeader": "Liberal Democrats",
+            "tacticalSituation": "Everyone knows Labour can\u2019t win in this area on Thursday."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Liberal Democrat MPs who champion their communities and will stand up for our NHS. Tory cuts have left the NHS on the brink of collapse, says shocking report.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Liberal Democrat MPs who champion their communities and will stand up for our NHS.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "The Liberal Democrats have pledged to increase income tax by a penny for every earner to fund a \u00a36bn-a-year cash injection for the NHS and social care.",
+                "source": "The Guardian, 6 May 2017",
+                "date": "6 May 2017"
+            },
+            {
+                "text": "Tory cuts have left NHS on the brink of collapse, says shocking report.",
+                "source": "The Mirror, 13 Oct 2016",
+                "date": "13 Oct 2016"
+            },
+            {
+                "text": "The Tory manifesto says, in effect, that people who need care in old age will have to pay for every penny of it \u2013 no matter how big the costs.",
+                "source": "The Spectator, 18 May 2017",
+                "date": "18 May 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "The Liberal Democrats have pledged to increase income tax by a penny for every earner to fund a \u00a36bn-a-year cash injection for the NHS and social care.",
+                        "The Tory manifesto says, in effect, that people who need care in old age will have to pay for every penny of it \u2013 no matter how big the costs."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Liberal Democrat MPs who champion their communities and will stand up for our NHS.",
+                        "Tory cuts have left NHS on the brink of collapse, says shocking report."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Liberal Democrat MPs who champion their communities and will stand up for our NHS.",
+                        "Tory cuts have left the NHS on the brink of collapse, says shocking report.",
+                        "The Tory manifesto says, in effect, that people who need care in old age will have to pay for every penny of it \u2013 no matter how big the costs."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Tory cuts have left NHS on the brink of collapse, says shocking report.",
+                        "The Tory manifesto says, in effect, that people who need care in old age will have to pay for every penny of it \u2013 no matter how big the costs."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Conservative MPs who are backing heartless cuts to our NHS services."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

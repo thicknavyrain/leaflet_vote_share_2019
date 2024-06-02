@@ -1,0 +1,196 @@
+{
+    "leaflet": {
+        "candidateName": "Royston Smith",
+        "candidateGender": "",
+        "constituency": "Southampton Itchen",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "It's time to move Britain forward",
+                "content": "No more delays. No more gridlock. Let's get stuff done."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit Done. Better hospitals.",
+                "policyDescription": "Safer streets. Stronger schools. A brighter future for our country."
+            },
+            {
+                "policyTitle": "\u00a314 billion extra for schools",
+                "policyDescription": "The Conservative government will increase our school funding by \u00a314 billion, ensuring our children have the education they deserve."
+            },
+            {
+                "policyTitle": "20,000 more police",
+                "policyDescription": "It's time to grip on crime. Extra police will help protect your family and keep our streets safe."
+            },
+            {
+                "policyTitle": "Better broadband, better transport",
+                "policyDescription": "Investing billions of pounds to improve broadband and transport infrastructure across the country, ensuring rural areas aren't left behind."
+            }
+        ],
+        "mentions": {
+            "candidate": "Royston Smith",
+            "otherPartyLeaderCandidate": "Corbyn",
+            "partyLeader": "The Prime Minister",
+            "tacticalSituation": "326 seats needed for a majority. Don't risk more years of chaos and gridlock."
+        },
+        "issues": {
+            "brexitEurope": "Brexit done.",
+            "defence": "",
+            "economy": "Our economy has grown for nine years in a row.",
+            "education": "\u00a314 billion extra for schools",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "20,000 more police",
+            "transport": "Better broadband, better transport",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Investment in local schools and police",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Candidate for Southampton Itchen",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "John Curtice",
+                "endorsement": "Polls teeter between hung parliament and slim Tory majority"
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Don't risk more years of chaos and gridlock. Vote to get a majority government.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "The Prime Minister with police officers"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Our economy has grown for nine years in a row.",
+                        "\u00a314 billion extra for schools",
+                        "20,000 more police"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "No more delays.",
+                        "Let's get stuff done.",
+                        "Better broadband, better transport"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Investment in local schools and police"
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Brexit done.",
+                        "Our economy has grown for nine years in a row.",
+                        "Better broadband, better transport.",
+                        "\u00a314 billion extra for schools"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "John Curtice: Polls teeter between hung parliament and slim Tory majority"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Don't risk more years of chaos and gridlock."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Vote Lib Dem, get Corbyn and Sturgeon.",
+                        "STOP back Labour government only with Scottish independence vote."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Corbyn"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

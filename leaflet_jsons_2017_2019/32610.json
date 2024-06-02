@@ -1,0 +1,176 @@
+{
+    "leaflet": {
+        "candidateName": "Emma Corlett",
+        "candidateGender": "Female",
+        "constituency": "North Norfolk",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Standing up for North Norfolk",
+                "content": "Judge Emma by her actions: fighting cuts to vital services across Norfolk and standing up for all we hold dear in North Norfolk."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Champion of Public Services",
+                "policyDescription": "Fighting cuts to services, making North Norfolk a better place to live."
+            },
+            {
+                "policyTitle": "A Clear Message on Brexit",
+                "policyDescription": "Backing a public vote to stop a bad Brexit deal."
+            },
+            {
+                "policyTitle": "My Pledge to You",
+                "policyDescription": "Improving local NHS facilities, supporting local businesses, cutting crime, better education and training opportunities."
+            }
+        ],
+        "mentions": {
+            "candidate": "Emma Corlett",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "A clear message on Brexit: Backing a public vote to stop a bad Brexit deal.",
+            "defence": "",
+            "economy": "",
+            "education": "Better education and training opportunities.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Improving local NHS facilities.",
+            "immigration": "",
+            "labourEmployment": "Supporting local businesses.",
+            "lawCrime": "Cutting crime.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Making North Norfolk a better place to live.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07787538881",
+            "email": "emma4NN@gmail.com",
+            "website": "northnorfolklabourparty.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Local Supporters",
+                "endorsement": "Why I'm backing Emma Corlett."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Judge Emma by her actions: fighting cuts to vital services across Norfolk and standing up for all we hold dear in North Norfolk.",
+                        "Making North Norfolk a better place to live.",
+                        "A vote for Emma is a vote for real change in North Norfolk."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 3,
+                "candidateAlone": 2,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Making North Norfolk a better place to live.",
+                        "Improving local NHS facilities.",
+                        "Supporting local businesses."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Backing a public vote to stop a bad Brexit deal."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Why I'm backing Emma Corlett."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Standing up for North Norfolk."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "leaflet": {
+        "candidateName": "Dr Tariq Mahmood",
+        "candidateGender": "",
+        "constituency": "Ealing Southall",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "12th December 2019",
+        "messages": [
+            {
+                "title": "",
+                "content": "As an NHS consultant I will always fight for the NHS and try to Save Ealing Hospital Services."
+            },
+            {
+                "title": "",
+                "content": "I am Opposed to Brexit and will campaign to remain in the European Union."
+            },
+            {
+                "title": "",
+                "content": "I will work tirelessly to improve the Housing Crisis, Knife Crime and Air Quality issues that have been neglected previously."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "As an NHS consultant I will always fight for the NHS and try to Save Ealing Hospital Services."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "I am Opposed to Brexit and will campaign to remain in the European Union."
+            },
+            {
+                "policyTitle": "Local Issues",
+                "policyDescription": "I will work tirelessly to improve the Housing Crisis, Knife Crime and Air Quality issues that have been neglected previously."
+            }
+        ],
+        "mentions": {
+            "candidate": "Dr Tariq Mahmood",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "I am Opposed to Brexit and will campaign to remain in the European Union.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "As an NHS consultant I will always fight for the NHS and try to Save Ealing Hospital Services.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "I will work tirelessly to improve the Knife Crime issues that have been neglected previously.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I will work tirelessly to improve the Housing Crisis and Air Quality issues that have been neglected previously.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "47 Ridley Ave, London W13 7XW",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Save Ealing Hospital Services"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "As an NHS consultant I will always fight for the NHS and try to Save Ealing Hospital Services.",
+                        "I am Opposed to Brexit and will campaign to remain in the European Union.",
+                        "I will work tirelessly to improve the Housing Crisis, Knife Crime and Air Quality issues that have been neglected previously."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 3,
+                "candidateAlone": 2,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "As an NHS consultant I will always fight for the NHS and try to Save Ealing Hospital Services."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "I am Opposed to Brexit and will campaign to remain in the European Union."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

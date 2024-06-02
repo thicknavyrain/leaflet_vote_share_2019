@@ -1,0 +1,167 @@
+{
+    "leaflet": {
+        "candidateName": "Kim Johnson",
+        "candidateGender": "Female",
+        "constituency": "Liverpool Riverside",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Why I'm backing Kim Johnson",
+                "content": "\"She has fought on the issues that matter to local people, in particular the victims of the Hillsborough disaster and the Orgreave miners and their families.\" \\nKate Pollard, Labour Party's longest-serving woman councillor"
+            },
+            {
+                "title": "Defending Our Fire Service",
+                "content": "Kim Johnson will work with Labour to rebuild the fire service, vote for Labour to strengthen our fire service."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A Caring Economy",
+                "policyDescription": "Kim Johnson and Labour will build an economy that works for all of us, not just the rich, and invest significantly in our NHS and public services."
+            },
+            {
+                "policyTitle": "Defending Our Fire Service",
+                "policyDescription": "Work with Labour to rebuild the fire service, vote Labour to strengthen our fire service."
+            },
+            {
+                "policyTitle": "NHS Not for Sale",
+                "policyDescription": "We will stop the Tories from selling ou NHS to America."
+            }
+        ],
+        "mentions": {
+            "candidate": "Kim Johnson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Kim Johnson and Labour will build an economy that works for all of us, not just the rich.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "This election is about the next generation",
+            "health": "Kim Johnson and Labour will invest significantly in our NHS and public services. We will stop the Tories from selling our NHS to America.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Reopen day centres and lunch clubs for older people. Building council and affordable homes. Increase police presence on our streets. Support young families with proper education and healthcare. Introduce free bus travel for under 25s. Improve Sefton Park and the waterfront. A real living wage.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "kimforriverside@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "@Kim4Riverside",
+                "twitter": "@kim4riverside",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Kate Pollard",
+                "endorsement": "\"She has fought on the issues that matter to local people, in particular the victims of the Hillsborough disaster and the Orgreave miners and their families.\" \\nKate Pollard, Labour Party's longest-serving woman councillor"
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Kim Johnson - A Strong Voice for Riverside"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Reopen day centres and lunch clubs for older people. Building council and affordable homes. Increase police presence on our streets."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "This election is about the next generation.",
+                        "\"She has fought on the issues that matter to local people, in particular the victims of the Hillsborough disaster and the Orgreave miners and their families.\" \\nKate Pollard, Labour Party's longest-serving woman councillor"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 3,
+                "candidateAlone": 2,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Reopen day centres and lunch clubs for older people. Building council and affordable homes. Increase police presence on our streets."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Kim Johnson and Labour will build an economy that works for all of us, not just the rich. Kim Johnson and Labour will invest significantly in our NHS and public services. We will stop the Tories from selling our NHS to America."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Kate Pollard's endorsement"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "We will stop the Tories from selling our NHS to America."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

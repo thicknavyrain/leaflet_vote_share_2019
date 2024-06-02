@@ -1,0 +1,180 @@
+{
+    "leaflet": {
+        "candidateName": "Dehenna Davison",
+        "candidateGender": "",
+        "constituency": "Bishop Auckland",
+        "politicalParty": "",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "BRING BACK OUR A&E",
+                "content": "We have a great hospital in Bishop Auckland, but many services are only available in Durham or Darlington. The NHS is getting record investment under this Government, so I'll fight to get a share of that to bring back our A&E."
+            },
+            {
+                "title": "REVITALISE OUR HIGH STREETS",
+                "content": "Bishop and Spennymoor need our help. The Government\u2019s Town Fund will see us get up to \u00a325 million in Bishop. I will form a plan so we can make the most of the investment, and will campaign for the next round to come into Spennymoor."
+            },
+            {
+                "title": "GET OUR YOUNG PEOPLE INTO WORK",
+                "content": "Jobs fairs help our young people get into work and discover exciting new career opportunities. I\u2019ll work with local businesses to hold jobs fairs every three months to help connect up employers with young people looking for new jobs."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Bring Back Our A&E",
+                "policyDescription": "Fight for a share of Government NHS investment to bring A&E services back to Bishop Auckland Hospital."
+            },
+            {
+                "policyTitle": "Revitalise Our High Streets",
+                "policyDescription": "Leverage Government\u2019s Town Fund to get up to \u00a325 million for Bishop and campaign for further investment in Spennymoor."
+            },
+            {
+                "policyTitle": "Get Our Young People Into Work",
+                "policyDescription": "Organize jobs fairs every three months to connect employers with young job seekers, working with local businesses."
+            }
+        ],
+        "mentions": {
+            "candidate": "Dehenna Davison",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The NHS is getting record investment under this Government, so I'll fight to get a share of that to bring back our A&E.",
+            "immigration": "",
+            "labourEmployment": "Jobs fairs help our young people get into work and discover exciting new career opportunities. I\u2019ll work with local businesses to hold jobs fairs every three months to help connect up employers with young people looking for new jobs.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Bishop and Spennymoor need our help. The Government\u2019s Town Fund will see us get up to \u00a325 million in Bishop. I will form a plan so we can make the most of the investment, and will campaign for the next round to come into Spennymoor.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Dehenna Davison standing with a group of local supporters."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "The Government\u2019s Town Fund will see us get up to \u00a325 million in Bishop."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "We have a great hospital in Bishop Auckland.",
+                        "Bishop and Spennymoor need our help.",
+                        "Jobs fairs help our young people get into work.",
+                        "I\u2019ll fight to get a share of that to bring back our A&E."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Bishop and Spennymoor need our help.",
+                        "I will form a plan so we can make the most of the investment.",
+                        "Jobs fairs help our young people get into work and discover exciting new career opportunities."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The NHS is getting record investment under this Government."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

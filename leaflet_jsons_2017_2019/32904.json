@@ -1,0 +1,199 @@
+{
+    "leaflet": {
+        "candidateName": "Duncan Baker",
+        "candidateGender": "",
+        "constituency": "North Norfolk",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Don't risk another hung parliament with Jeremy Corbyn in charge. Last time, the Conservatives were only nine seats short of a majority. This time will be just as close. And North Norfolk is one of the seats the Conservatives need to gain for us to secure a majority government. Only 1,757 people need to change their minds for the Conservatives to beat Jeremy Corbyn's Labour. So to secure a majority government, vote for Duncan Baker in North Norfolk."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Higher tax on every home",
+                "policyDescription": "The leaflet highlights the potential impact on higher taxes under the opposing party."
+            },
+            {
+                "policyTitle": "Reduced pension savings",
+                "policyDescription": "The leaflet mentions concerns about reduced pension savings."
+            },
+            {
+                "policyTitle": "Politicians in charge of water and energy supplies",
+                "policyDescription": "The leaflet raises issues regarding politicians controlling water and energy supplies."
+            }
+        ],
+        "mentions": {
+            "candidate": "Duncan Baker",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "North Norfolk is one of the seats the Conservatives need to gain for us to secure a majority government. Only 1,757 people need to change their minds for the Conservatives to beat Jeremy Corbyn's Labour."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "The leaflet mentions concerns about reduced pension savings which relates to social welfare.",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Higher tax on every home"
+                },
+                {
+                    "caption": "Reduced pension savings"
+                },
+                {
+                    "caption": "Politicians in charge of water and energy supplies"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Only 1,757 people need to change their minds for the Conservatives to beat Jeremy Corbyn's Labour."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Don't risk another hung parliament with Jeremy Corbyn in charge."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Higher tax on every home",
+                        "Reduced pension savings",
+                        "Politicians in charge of water and energy supplies"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "Higher tax on every home",
+                        "Reduced pension savings",
+                        "Politicians in charge of water and energy supplies"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Don't risk another hung parliament with Jeremy Corbyn in charge."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Only 1,757 people need to change their minds for the Conservatives to beat Jeremy Corbyn's Labour."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

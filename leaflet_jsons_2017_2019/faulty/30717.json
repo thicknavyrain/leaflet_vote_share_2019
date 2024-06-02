@@ -1,0 +1,156 @@
+{
+    "leaflet": {
+        "candidateName": "Barry Holliday",
+        "candidateGender": "",
+        "constituency": "East Yorkshire",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8",
+        "messages": [
+            {
+                "title": "CHANGE BRITAIN'S FUTURE",
+                "content": ""
+            },
+            {
+                "title": "DON'T LET JEREMY HELP THERESA GET A HARD BREXIT",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "1p on income tax to fund the health service, raising the money we need to save our NHS"
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Focus on teaching excellence for all children, not just the lucky few"
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Give the British people a say on the final Brexit deal"
+            }
+        ],
+        "mentions": {
+            "candidate": "Barry Holliday",
+            "otherPartyLeaderCandidate": "Chris Leslie",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Give the British people a say on the final Brexit deal",
+            "defence": "",
+            "economy": "",
+            "education": "Focus on teaching excellence for all children, not just the lucky few",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "1p on income tax to fund the health service, raising the money we need to save our NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "Barry has worked in the NHS and a local school. He knows our public services first hand. His priorities are:",
+        "politicalExperience": [],
+        "contactInformation": {},
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "1p on income tax to fund the health service, raising the money we need to save our NHS"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Focus on teaching excellence for all children, not just the lucky few",
+                        "Give the British people a say on the final Brexit deal"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Barry has worked in the NHS and a local school.",
+                        "He knows our public services first hand."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "1p on income tax to fund the health service, raising the money we need to save our NHS",
+                        "Focus on teaching excellence for all children, not just the lucky few",
+                        "Give the British people a say on the final Brexit deal"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Barry has worked in the NHS and a local school.",
+                    "issueRelated": "health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "DON'T LET JEREMY HELP THERESA GET A HARD BREXIT"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "CAN YOU TRUST CHRIS LESLIE TO SPEAK FOR YOU?"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Barry has worked in the NHS and a local school.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Barry has worked in the NHS and a local school."
+                ]
+            }
+        }
+    }
+}

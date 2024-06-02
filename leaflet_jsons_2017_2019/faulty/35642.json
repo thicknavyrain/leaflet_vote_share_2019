@@ -1,0 +1,194 @@
+{
+    "leaflet": {
+        "candidateName": "Julian Sturdy",
+        "candidateGender": "",
+        "constituency": "York",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Another hung parliament, or a majority Conservative government.",
+                "content": "Your vote will decide."
+            },
+            {
+                "title": "Vote this Thursday for:",
+                "content": [
+                    "A strong economy with more jobs and lower taxes.",
+                    "Billions extra for our NHS, schools, and police.",
+                    "Action to protect our environment and York's green belt."
+                ]
+            },
+            {
+                "title": "How to use your vote to get a majority government",
+                "content": [
+                    "1. A Conservative-Lib Dem coalition isn't an option. So a vote for the Lib Dems means another hung parliament.",
+                    "2. Vote Lib Dem, get Corbyn and Sturgeon. Nicola Sturgeon ready to make Jeremy Corbyn the next Prime Minister if there is a hung Parliament",
+                    "3. Vote Conservative to get stuff done. The Conservatives can win a majority."
+                ]
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Strong Economy",
+                "policyDescription": "More jobs and lower taxes."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Billions extra for our NHS, schools, and police."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Action to protect our environment and York's green belt."
+            }
+        ],
+        "mentions": {
+            "candidate": "Julian Sturdy",
+            "otherPartyLeaderCandidate": [
+                "Nicola Sturgeon ready to make Jeremy Corbyn the next Prime Minister if there is a hung Parliament",
+                "Vote Lib Dem, get Corbyn and Sturgeon"
+            ],
+            "partyLeader": "The Conservatives can win a majority. That means with your vote, we can get on with our country\u2019s priorities.",
+            "tacticalSituation": [
+                "Polls teeter between hung parliament and slim Tory majority.",
+                "Your vote will decide."
+            ]
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "A strong economy with more jobs and lower taxes.",
+            "education": "",
+            "environment": "Action to protect our environment and York's green belt.",
+            "governance": "",
+            "government": "Vote for the majority government our country needs.",
+            "health": "Billions extra for our NHS, schools, and police.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Action to protect our environment and York's green belt.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "61A High Street, York YO26 4UR",
+            "phone": "01904 788 355",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Billions extra for our NHS, schools, and police."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "A strong economy with more jobs and lower taxes.",
+                        "Action to protect our environment and York's green belt.",
+                        "Your vote will decide.",
+                        "Vote for the majority government our country needs."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Action to protect our environment and York's green belt."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "A strong economy with more jobs and lower taxes.",
+                        "Billions extra for our NHS, schools, and police.",
+                        "Vote for the majority government our country needs."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Vote Lib Dem, get Corbyn and Sturgeon. Nicola Sturgeon ready to make Jeremy Corbyn the next Prime Minister if there is a hung Parliament"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Nicola Sturgeon ready to make Jeremy Corbyn the next Prime Minister if there is a hung Parliament"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "leaflet": {
+        "candidateName": "Jo Swinson",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "12th December",
+        "messages": [
+            {
+                "title": "",
+                "content": "On 12th December Vote For A Brighter Future"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Free Childcare",
+                "policyDescription": "Provide free childcare for all children of working parents from 9 months old."
+            },
+            {
+                "policyTitle": "Mental Health Services",
+                "policyDescription": "Transform mental health services by treating mental health with the same urgency as physical health."
+            },
+            {
+                "policyTitle": "Fairer Economy",
+                "policyDescription": "Help working families and ensure economic prosperity."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jo Swinson",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Help working families and ensure economic prosperity.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Transform mental health services by treating mental health with the same urgency as physical health.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Provide free childcare for all children of working parents from 9 months old.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Leader of the Liberal Democrats",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.LibDems.org.uk/plan",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Former Conservative member: Cyndy Robertshaw",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "\u201cBoris Johnson facing Lib Dems surge.\u201d",
+                "source": "Express",
+                "date": "September 2019"
+            },
+            {
+                "text": "\u201cGeneral election 2019 could deliver 'seismic change.'\u201d",
+                "source": "BBC",
+                "date": "November 2019"
+            },
+            {
+                "text": "\u201cIf Boris Johnson is forced to call a general election this year, the Liberal Democrats are poised to take full advantage.\u201d",
+                "source": "Spectator",
+                "date": "July 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "People are currently waiting 14 weeks on average: just for an assessment."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Help working families and ensure economic prosperity."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Provide free childcare for all children of working parents from 9 months old."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Transform mental health services by treating mental health with the same urgency as physical health.",
+                        "Help working families and ensure economic prosperity."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Former Conservative member: Cyndy Robertshaw"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 3,
+                    "examples": [
+                        "\u201cBoris Johnson facing Lib Dems surge.\u201d",
+                        "\u201cBoris Johnson really is the British Donald Trump.\u201d",
+                        "\u201cIf Boris Johnson is forced to call a general election this year, the Liberal Democrats are poised to take full advantage.\u201d"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

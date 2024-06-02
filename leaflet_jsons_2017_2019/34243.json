@@ -1,0 +1,149 @@
+{
+    "leaflet": {
+        "candidateName": "Philip Crook",
+        "candidateGender": "",
+        "constituency": "Southampton Test",
+        "politicalParty": "The Brexit Party",
+        "electionDate": "December 12th",
+        "messages": [
+            {
+                "title": "Brexit Party Campaign Message",
+                "content": "Leavers, don\u2019t waste your vote. Vote for the Brexit Party in Southampton Test on December 12th. Without the Brexit Party there can be no real Brexit."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Without the Brexit Party there can be no real Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "There are around 130 seats that the Conservatives haven\u2019t won in at least 50 years."
+        },
+        "issues": {
+            "brexitEurope": "Without the Brexit Party there can be no real Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "85 Victoria Street, London SW1H 0HW",
+            "phone": "0800 414 8525",
+            "email": "",
+            "website": "www.thebrexitparty.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "There are around 130 seats that the Conservatives haven\u2019t won in at least 50 years."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Leavers, don\u2019t waste your vote.",
+                        "Vote for the Brexit Party in Southampton Test on December 12th.",
+                        "Without the Brexit Party there can be no real Brexit.",
+                        "Only the Brexit Party can beat Corbyn\u2019s Labour."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Vote for the Brexit Party in Southampton Test on December 12th."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Without the Brexit Party there can be no real Brexit.",
+                        "Only the Brexit Party can beat Corbyn\u2019s Labour.",
+                        "Leavers, don\u2019t waste your vote."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Only the Brexit Party can beat Corbyn\u2019s Labour."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Only the Brexit Party can beat Corbyn\u2019s Labour."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

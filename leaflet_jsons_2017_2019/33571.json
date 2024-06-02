@@ -1,0 +1,206 @@
+{
+    "leaflet": {
+        "candidateName": "Geoffrey Cox",
+        "candidateGender": "",
+        "constituency": "Torridge and West Devon",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "",
+                "content": "Get Brexit Done with our New Deal"
+            },
+            {
+                "title": "",
+                "content": "\u00a333.9 billion extra for the NHS"
+            },
+            {
+                "title": "",
+                "content": "Fair funding for our schools"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get Brexit Done with our New Deal"
+            },
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "\u00a333.9 billion extra for the NHS"
+            },
+            {
+                "policyTitle": "Education Funding",
+                "policyDescription": "Fair funding for our schools"
+            },
+            {
+                "policyTitle": "Police",
+                "policyDescription": "20,000 extra police for safer streets"
+            },
+            {
+                "policyTitle": "Healthcare Infrastructure",
+                "policyDescription": "40 new hospitals across the country"
+            },
+            {
+                "policyTitle": "Broadband",
+                "policyDescription": "Gigabit broadband for the whole country"
+            },
+            {
+                "policyTitle": "Town Investments",
+                "policyDescription": "\u00a33.6 billion to help towns invest and attract new businesses"
+            }
+        ],
+        "mentions": {
+            "candidate": "Geoffrey Cox",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Get Brexit Done with our New Deal",
+            "defence": "",
+            "economy": "\u00a33.6 billion to help towns invest and attract new businesses",
+            "education": "More funding for every pupil in every school, Fair funding for our schools",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "\u00a333.9 billion extra for the NHS, 40 new hospitals across the country",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "20,000 extra police for safer streets",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "\u00a33.6 billion to help towns invest and attract new businesses",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Conservative Party HQ, 38 Chapel Street, Holsworthy, Devon EX22 6BU",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Geoffrey Cox talking to local residents"
+                },
+                {
+                    "caption": "\u00a333.9 billion extra for the NHS"
+                },
+                {
+                    "caption": "More funding for every pupil in every school"
+                },
+                {
+                    "caption": "Geoffrey Cox with a dog"
+                },
+                {
+                    "caption": "Boris Johnson"
+                },
+                {
+                    "caption": "Gigabit broadband for the whole country"
+                },
+                {
+                    "caption": "\u00a33.6 billion to help towns invest and attract new businesses"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "\u00a333.9 billion extra for the NHS",
+                        "20,000 extra police for safer streets",
+                        "\u00a33.6 billion to help towns invest and attract new businesses"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Get Brexit Done with our New Deal",
+                        "More funding for every pupil in every school",
+                        "Fair funding for our schools"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 7,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "\u00a33.6 billion to help towns invest and attract new businesses"
+                    ]
+                },
+                "national": {
+                    "count": 6,
+                    "examples": [
+                        "Get Brexit Done with our New Deal",
+                        "\u00a333.9 billion extra for the NHS",
+                        "Fair funding for our schools",
+                        "20,000 extra police for safer streets",
+                        "40 new hospitals across the country",
+                        "Gigabit broadband for the whole country"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Geoffrey Cox talking to local residents"
+                ]
+            }
+        }
+    }
+}

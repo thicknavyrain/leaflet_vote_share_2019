@@ -1,0 +1,204 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Brecon and Radnorshire",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "Thursday 12th December",
+        "messages": [
+            {
+                "title": "There is a clear choice",
+                "content": "MORE CUTS TO OUR NHS, SCHOOLS AND POLICE WITH THE CONSERVATIVES"
+            },
+            {
+                "title": "You can help STOP the Tories",
+                "content": "Find out how inside..."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Majority believe lying Boris Johnson will sell off NHS services to US."
+            },
+            {
+                "policyTitle": "Schools",
+                "policyDescription": "83% of schools will be worse off next year than they were in 2015."
+            }
+        ],
+        "mentions": {
+            "candidate": "Liberal Democrat",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": "Brecon and Radnorshire is 1 of 50 seats across the country that can Stop the Conservatives."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "\"83% of schools will be worse off next year than they were in 2015.\"",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "\"Majority believe lying Boris Johnson will sell off NHS services to US.\"",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "MORE CUTS TO OUR NHS, SCHOOLS AND POLICE WITH THE CONSERVATIVES",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "National Education Union",
+                "endorsement": "\"83% of schools will be worse off next year than they were in 2015.\""
+            },
+            {
+                "endorser": "Daily Mirror",
+                "endorsement": "\"Majority believe lying Boris Johnson will sell off NHS services to US.\""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "\"83% of schools will be worse off next year than they were in 2015.\"",
+                "source": "National Education Union",
+                "date": "October 2019"
+            },
+            {
+                "text": "\"Majority believe lying Boris Johnson will sell off NHS services to US.\"",
+                "source": "Daily Mirror",
+                "date": "27th October 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Boris Johnson with other Conservative figures."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "\"83% of schools will be worse off next year than they were in 2015.\"",
+                        "\"Majority believe lying Boris Johnson will sell off NHS services to US.\""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "\"There is a clear choice\"",
+                        "\"You can help STOP the Tories\"",
+                        "\"Find out how inside...\""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "\"83% of schools will be worse off next year than they were in 2015.\"",
+                        "\"Majority believe lying Boris Johnson will sell off NHS services to US.\""
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "\"83% of schools will be worse off next year than they were in 2015.\"",
+                    "\"Majority believe lying Boris Johnson will sell off NHS services to US.\""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "\"Majority believe lying Boris Johnson will sell off NHS services to US.\"",
+                        "\"83% of schools will be worse off next year than they were in 2015.\""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "\"Majority believe lying Boris Johnson will sell off NHS services to US.\""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "\"Majority believe lying Boris Johnson will sell off NHS services to US.\""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

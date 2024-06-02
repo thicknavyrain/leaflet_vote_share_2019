@@ -1,0 +1,157 @@
+{
+    "leaflet": {
+        "candidateName": "Cooper, Jason",
+        "candidateGender": "",
+        "constituency": "Newcastle-under-Lyme",
+        "politicalParty": "The Brexit Party",
+        "electionDate": "December 12th",
+        "messages": [
+            {
+                "title": "Main Message",
+                "content": "Only the Brexit Party can beat Corbyn\u2019s Labour. Leavers, don\u2019t waste your vote. Vote for the Brexit Party in Newcastle-under-Lyme on December 12th."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Without the Brexit Party there can be no real Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "Cooper, Jason",
+            "otherPartyLeaderCandidate": "Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "There are around 130 seats that the Conservatives haven\u2019t won in at least 50 years."
+        },
+        "issues": {
+            "brexitEurope": "Without the Brexit Party there can be no real Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "83 Victoria Street, London SW1H 0HW",
+            "phone": "0800 414 8525",
+            "email": "",
+            "website": "www.thebrexitparty.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "There are around 130 seats that the Conservatives haven\u2019t won in at least 50 years."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Only the Brexit Party can beat Corbyn\u2019s Labour.",
+                        "Leavers, don\u2019t waste your vote.",
+                        "Without the Brexit Party there can be no real Brexit."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Vote for the Brexit Party in Newcastle-under-Lyme on December 12th."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Without the Brexit Party there can be no real Brexit."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Without the Brexit Party there can be no real Brexit.",
+                        "Only the Brexit Party can beat Corbyn\u2019s Labour."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Only the Brexit Party can beat Corbyn\u2019s Labour."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Only the Brexit Party can beat Corbyn\u2019s Labour."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

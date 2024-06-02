@@ -1,0 +1,157 @@
+{
+    "leaflet": {
+        "candidateName": "Royston Smith",
+        "candidateGender": "",
+        "constituency": "Southampton",
+        "politicalParty": "",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "My Priorities for Southampton",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "IMPROVING OUR LOCAL HEALTHCARE FACILITIES",
+                "policyDescription": "I have been working with the local NHS to ensure evening and weekend appointments are offered to patients and will continue to push for further improvements across our GP Surgeries."
+            },
+            {
+                "policyTitle": "MAKING OUR CITY A SAFER PLACE TO LIVE AND WORK",
+                "policyDescription": "The Prime Minister has announced funding for 20,000 extra police, this is great news and will really help our city. I will continue to lobby to ensure that as well as additional officers, our police have the support and equipment they need."
+            },
+            {
+                "policyTitle": "IMPROVED JOBS AND INCREASED OPPORTUNITY",
+                "policyDescription": "Southampton needs more jobs that offer higher wages and greater prospects. I have been lobbying the Chancellor and Secretary of State for Transport for additional infrastructure investment in our city so that we can improve employment opportunities for local people."
+            }
+        ],
+        "mentions": {
+            "candidate": "Royston Smith",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "The Prime Minister",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "I have been working with the local NHS to ensure evening and weekend appointments are offered to patients and will continue to push for further improvements across our GP Surgeries.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "The Prime Minister has announced funding for 20,000 extra police, this is great news and will really help our city. I will continue to lobby to ensure that as well as additional officers, our police have the support and equipment they need.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Southampton needs more jobs that offer higher wages and greater prospects. I have been lobbying the Chancellor and Secretary of State for Transport for additional infrastructure investment in our city so that we can improve employment opportunities for local people.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "The Prime Minister has announced funding for 20,000 extra police, this is great news and will really help our city."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I have been working with the local NHS to ensure evening and weekend appointments are offered to patients and will continue to push for further improvements across our GP Surgeries.",
+                        "Southampton needs more jobs that offer higher wages and greater prospects. I have been lobbying the Chancellor and Secretary of State for Transport for additional infrastructure investment in our city so that we can improve employment opportunities for local people.",
+                        "I will continue to lobby to ensure that as well as additional officers, our police have the support and equipment they need."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "IMPROVING OUR LOCAL HEALTHCARE FACILITIES",
+                        "Southampton needs more jobs that offer higher wages and greater prospects. I have been lobbying the Chancellor and Secretary of State for Transport for additional infrastructure investment in our city so that we can improve employment opportunities for local people."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "The Prime Minister has announced funding for 20,000 extra police, this is great news and will really help our city.",
+                        "I have been lobbying the Chancellor and Secretary of State for Transport for additional infrastructure investment in our city so that we can improve employment opportunities for local people."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

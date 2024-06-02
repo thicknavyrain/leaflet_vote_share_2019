@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Brecon and Radnorshire",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "It's Time to Move Britain Forward",
+                "content": "No more delays. No more gridlock. Let's get stuff done. Brexit done. Better hospitals. Safer streets. Improved schools."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "An extra \u00a31.2 billion for the Welsh NHS."
+            },
+            {
+                "policyTitle": "Police",
+                "policyDescription": "20,000 extra police officers for safer streets."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "\u00a31.24 billion extra for schools in Wales."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get Brexit done with a new deal and move on with the country's priorities."
+            }
+        ],
+        "mentions": {
+            "candidate": "Vote Conservative to get a majority government and get Brexit done.",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "Last time, the Conservatives were just nine seats short of a majority. A handful of votes could decide this seat. So this election will be very close. And your local vote in Brecon and Radnorshire will make the difference."
+        },
+        "issues": {
+            "brexitEurope": "Brexit done with a deal.",
+            "defence": "",
+            "economy": "",
+            "education": "The Conservatives will make more funding available for schools in Wales. This extra \u00a31.24 billion is on top of other money invested into schools.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "An extra \u00a31.2 billion for our Welsh NHS. This means improved treatments, reduced waiting times, and the healthcare you need when you need it.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "That's why the Conservatives will hire 20,000 extra police officers. Recruitment has already started. Helping to break up country-line drug gangs and make our streets safer.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "More money for our Welsh NHS. You shouldn't have to wait up to 2 years for treatment or hours for an ambulance.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "More money for our Welsh NHS"
+                },
+                {
+                    "caption": "20,000 more police"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "An extra \u00a31.2 billion for the Welsh NHS.",
+                        "\u00a31.24 billion extra for schools in Wales.",
+                        "20,000 extra police officers."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "No more delays. No more gridlock. Let's get stuff done.",
+                        "Get Brexit done with a new deal and move on with the country's priorities."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "More money for our Welsh NHS.",
+                        "Improved treatments, reduced waiting times."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Brexit done with a deal.",
+                        "\u00a31.24 billion extra for schools in Wales."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Just a handful of votes could decide this seat. So this election will be very close. Your local vote in Brecon and Radnorshire will make the difference. Don't risk five more years of uncertainty, delay, and gridlock."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

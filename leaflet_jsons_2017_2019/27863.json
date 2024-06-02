@@ -1,0 +1,191 @@
+{
+    "leaflet": {
+        "candidateName": "Martin Docherty",
+        "candidateGender": "",
+        "constituency": "West Dunbartonshire",
+        "politicalParty": "SNP",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Candidate's Personal Message",
+                "content": "As we move through one of the most enduring crises since the second world war... Our main objectives in Westminster include increasing pension protections, ensuring a fair immigration system, protecting public services, and securing more funding for our local schools and hospitals."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Pension Protections",
+                "policyDescription": "Increasing pension protections."
+            },
+            {
+                "policyTitle": "Immigration System",
+                "policyDescription": "Ensuring a fair immigration system."
+            },
+            {
+                "policyTitle": "Public Services",
+                "policyDescription": "Protecting public services."
+            },
+            {
+                "policyTitle": "Funding for Schools and Hospitals",
+                "policyDescription": "Securing more funding for our local schools and hospitals."
+            }
+        ],
+        "mentions": {
+            "candidate": "Martin Docherty",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Brexit will be hard.",
+            "defence": "",
+            "economy": "We need to deflect from the state of the U.K. economy and the Brexit fiasco.",
+            "education": "Securing more funding for our local schools.",
+            "environment": "",
+            "governance": "",
+            "government": "There is no other effective party that will oppose the Tories and their far-reaching cuts such as the state pensions, tax credit 'rape clause' and disability benefits.",
+            "health": "Securing more funding for our hospitals.",
+            "immigration": "Ensuring a fair immigration system.",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Pensions and the triple lock are safeguarded.",
+            "community": [
+                {
+                    "content": "Martin Docherty has held 80 traditional as well as pop-up surgeries over 11 different locations across West Dunbartonshire and handled over 4300 cases.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Raised in Clydebank and joining the SNP in 1991, Martin became Scotland's youngest Councillor for the then Clydebank District Council aged 21.\nHe understands what it's like to grow up as a young carer allegedly his older sister and brother have autism while their Gran had an acquired brain injury.\nWorking in jobs made possible by the wind-up, at the age of 16, accrued two additional Masters Degrees from the Glasgow University at the age of 45.\nAfter completing his studies, Martin came home and spent his time supporting local people and their businesses across West Dunbartonshire.",
+        "politicalExperience": [
+            {
+                "role": "Councillor",
+                "duration": "from the age of 21",
+                "achievements": "Scotland's youngest Councillor for the then Clydebank District Council."
+            },
+            {
+                "role": "Delegate to Westminster Parliaments",
+                "duration": "2015-2017 and 2019-2021",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Martin Docherty has spoken in 211 debates in just 2 years, significantly more than his predecessor did over a 5-year period.",
+                        "Martin Docherty has held 80 traditional as well as pop-up surgeries over 11 different locations across West Dunbartonshire and handled over 4300 cases."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "It has been an honour to represent you as your MP for the last two years.",
+                        "We need to deflect from the state of the U.K. economy and the Brexit fiasco."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Securing more funding for our local schools and hospitals.",
+                        "Martin Docherty has held 80 traditional as well as pop-up surgeries over 11 different locations across West Dunbartonshire and handled over 4300 cases."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "There is no other effective party that will oppose the Tories and their far-reaching cuts such as the state pensions, tax credit 'rape clause' and disability benefits."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Raised in Clydebank and joining the SNP in 1991, Martin became Scotland's youngest Councillor for the then Clydebank District Council aged 21. He understands what it's like to grow up as a young carer allegedly his older sister and brother have autism while their Gran had an acquired brain injury.",
+                    "issueRelated": "health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "We need to deflect from the state of the U.K. economy and the Brexit fiasco."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Only two years into a five-year term, and Is more about Theresa May's need to deflect from the state of the U.K. economy and the Brexit fiasco."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Raised in Clydebank.",
+                "employment": "Working in jobs made possible by the wind-up, at the age of 16, accrued two additional Masters Degrees from the Glasgow University at the age of 45.",
+                "education": "Completed additional Masters Degrees from the Glasgow University.",
+                "family": "He understands what it's like to grow up as a young carer allegedly his older sister and brother have autism while their Gran had an acquired brain injury."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Raised in Clydebank and joining the SNP in 1991.",
+                    "After completing his studies, Martin came home and spent his time supporting local people and their businesses across West Dunbartonshire."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,185 @@
+{
+    "leaflet": {
+        "candidateName": "Joe Richards",
+        "candidateGender": "",
+        "constituency": "Hackney North & Stoke Newington",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "This election is our chance to change Britain's future",
+                "content": "Only the Lib Dems are fighting to stop hard Brexit. Labour and the Conservatives are dragging the country towards a hard Brexit that will be disastrous for the future of Britain."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Hard Brexit",
+                "policyDescription": "The Lib Dems will fight hard to keep Britain in the single market. They will oppose the divisive referendum results to stop hard Brexit."
+            },
+            {
+                "policyTitle": "Support for NHS",
+                "policyDescription": "Liberal Democrats promise strong support for the NHS and oppose Conservative plans."
+            },
+            {
+                "policyTitle": "Support for local schools",
+                "policyDescription": "The Liberal Democrats offer strong support for local schools and hospitals."
+            }
+        ],
+        "mentions": {
+            "candidate": "Joe Richards",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn, Diane Abbott",
+            "partyLeader": "",
+            "tacticalSituation": "The Tories can't win in Hackney. It's Lib Dem or Labour here."
+        },
+        "issues": {
+            "brexitEurope": "Only the Lib Dems are fighting to stop hard Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "Support for local schools.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Support for the NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Lib Dems will build proper communities, not just houses.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "74 Amhurst Road, London, E8 1HS",
+            "phone": "",
+            "email": "",
+            "website": "hackneylibdems.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Jeremy Corbyn has betrayed us over Brexit. He is unfit to be called leader of the opposition.",
+                "source": "The Guardian",
+                "date": "19 Feb 2017"
+            },
+            {
+                "text": "Labour voted with the Tories to bankrupt the country and failed to stop hard Brexit.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "The Liberal Democrat's are fighting to keep Britain in the single market."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Only 2 seats will be crucial: Hackney North & Stoke Newington and the Lib Dems are trying hard to win."
+                    ]
+                },
+                "qualitative": {
+                    "count": 9,
+                    "examples": [
+                        "Labour and the Conservatives are dragging the country towards a hard Brexit.",
+                        "Liberal Democrats are the real opposition.",
+                        "Labour failed to stand up for us."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Support for local schools and hospitals.",
+                        "Lib Dems will build proper communities, not just houses."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Only the Lib Dems are fighting to stop hard Brexit.",
+                        "Support for the NHS.",
+                        "The Tories can't win in Hackney. It's Lib Dem or Labour here."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Labour and the Conservatives are dragging the country towards a hard Brexit that will be disastrous for the future of Britain.",
+                        "Labour voted with the Tories to bankrupt the country."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn has betrayed us over Brexit.",
+                        "Jeremy Corbyn\u2019s Labour Party are not up to the job."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Diane Abbott betrayed the Hackney vote."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

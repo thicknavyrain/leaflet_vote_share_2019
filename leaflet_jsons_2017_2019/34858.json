@@ -1,0 +1,195 @@
+{
+    "leaflet": {
+        "candidateName": "Martin Whitfield",
+        "candidateGender": "",
+        "constituency": "East Lothian",
+        "politicalParty": "Scottish Labour Party",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Martin Whitfield is stronger for East Lothian",
+                "content": "Since being elected, I've always put East Lothian first. If re-elected, I will keep my promise to oppose independence and a no-deal Brexit."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "No-deal Brexit",
+                "policyDescription": "Oppose a no-deal Brexit as it would be catastrophic for the economy."
+            },
+            {
+                "policyTitle": "Support the Union",
+                "policyDescription": "Advocate for a strong and successful union between Scotland and the UK."
+            },
+            {
+                "policyTitle": "Defend Local Services",
+                "policyDescription": "Pledge to fight for local services like the NHS and better local transport."
+            },
+            {
+                "policyTitle": "Fight Welfare Cuts",
+                "policyDescription": "Oppose welfare cuts and want a fair system for everyone in need."
+            }
+        ],
+        "mentions": {
+            "candidate": "Martin Whitfield",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Oppose a no-deal Brexit.",
+            "defence": "",
+            "economy": "Oppose a no-deal Brexit as it would be catastrophic for the economy.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "Oppose independence.",
+            "health": "Defend local services like the NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Better local transport \u2013 Improve local facilities for everyone in East Lothian.",
+            "socialWelfare": "Oppose welfare cuts and want a fair system for everyone in need.",
+            "community": [
+                {
+                    "content": "Defend local services like the NHS and better local transport.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP for East Lothian",
+                "duration": "Since 2017",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "38 Longwood Drive, Cardiff, CF14 7ZB",
+            "phone": "01875 810 403",
+            "email": "martin@vote4whitfield.uk",
+            "website": "http://www.scottishlabour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Iain Gray MSP",
+                "endorsement": "Martin has been an outstanding local MP and is campaigning on the issues that matter to East Lothian. He has fought against SNP\u2019s austerity, for better local services, and has made a difference for the people of East Lothian."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Martin has been an outstanding local MP and is campaigning on the issues that matter to East Lothian.",
+                "source": "Iain Gray MSP",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 4,
+                    "examples": [
+                        "Since being elected, I've always put East Lothian first.",
+                        "Being East Lothian's MP is a huge honour and privilege.",
+                        "2017 - I promise to be a strong local voice.",
+                        "He campaigned for free TV licenses for over 75s and for an end to unfair gas and electricity standing charges."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "I will keep my promise to oppose independence and a no-deal Brexit.",
+                        "A campaigning Member of Parliament."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 6,
+                "candidateAlone": 2,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "Defend local services like the NHS.",
+                        "Better local transport \u2013 Improve local facilities for everyone in East Lothian.",
+                        "Better local facilities for everyone.",
+                        "Being East Lothian's MP is a huge honour and privilege."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Oppose a no-deal Brexit as it would be catastrophic for the economy.",
+                        "Support the union \u2013 Advocate for a strong and successful union between Scotland and the UK."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Being East Lothian's MP is a huge honour and privilege.",
+                    "issueRelated": "local"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Iain Gray MSP endorsement."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Oppose a no-deal Brexit as it would be catastrophic for the economy."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Martin believes that it is best for East Lothian and best for Scotland, that we remain part of the United Kingdom."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Being East Lothian's MP is a huge honour and privilege.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Being East Lothian's MP is a huge honour and privilege."
+                ]
+            }
+        }
+    }
+}

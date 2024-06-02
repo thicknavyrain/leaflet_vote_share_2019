@@ -1,0 +1,192 @@
+{
+    "leaflet": {
+        "candidateName": "Nigel Farage",
+        "candidateGender": "",
+        "constituency": "West Ham",
+        "politicalParty": "The Brexit Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "NO TO A SECOND REFERENDUM YES TO A REAL BREXIT",
+                "content": "This is a Brexit General Election. Our priority is to stop a Corbyn-led Remainer alliance sneaking into power and using a rigged second referendum to overturn the votes of 17.4m Leavers. That's why we are fighting to win Labour and Remainer-held seats, such as yours."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "The Brexit Party's priority is to deliver a real Brexit and prepare a future outside of the EU for the UK."
+            },
+            {
+                "policyTitle": "Parliamentary Reform",
+                "policyDescription": "Parliament's betrayal of our vote proves that the political system is broken. We need big democratic reforms to make Parliament serve the People."
+            },
+            {
+                "policyTitle": "Trade Deals",
+                "policyDescription": "Promote a free trade deal that does not involve any political entanglement with the EU."
+            }
+        ],
+        "mentions": {
+            "candidate": "Nigel Farage MEP Leader of The Brexit Party",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "This is a Brexit General Election. Our priority is to stop a Corbyn-led Remainer alliance sneaking into power and using a rigged second referendum to overturn the votes of 17.4m Leavers.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "We need big democratic reforms to make Parliament serve the People.",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Leader of The Brexit Party",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Brexit is just the beginning, Parliament's betrayal of our vote proves that the political system is broken.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Nigel Farage, Leader of The Brexit Party"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Corbyn has betrayed five million Labour leave voters."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Our priority is to stop a Corbyn-led Remainer alliance sneaking into power.",
+                        "We need big democratic reforms to make Parliament serve the People.",
+                        "Brexit is just the beginning, Parliament's betrayal of our vote proves that the political system is broken."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "The Brexit Party's priority is to deliver a real Brexit and prepare a future outside of the EU for the UK.",
+                        "Promote a free trade deal that does not involve any political entanglement with the EU."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Corbyn has betrayed five million Labour leave voters."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn promised to respect the Brexit vote. Instead Labour wants a rigged referendum."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "leaflet": {
+        "candidateName": "Laura Coyle",
+        "candidateGender": "",
+        "constituency": "Henley",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "December 12",
+        "messages": [
+            {
+                "title": "Election Choice",
+                "content": "We're 2nd now! It's time for a new MP here. With your vote Laura can win!"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "Action on preventing Brexit from proceeding."
+            },
+            {
+                "policyTitle": "Action on Climate Change",
+                "policyDescription": "Initiatives and measures to combat climate change."
+            },
+            {
+                "policyTitle": "Fund Our NHS",
+                "policyDescription": "Increasing funding and support for the National Health Service."
+            },
+            {
+                "policyTitle": "Invest in Schools",
+                "policyDescription": "Investments and improvements in educational institutions."
+            }
+        ],
+        "mentions": {
+            "candidate": "Laura Coyle",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "We're 2nd now! With your vote Laura can win!"
+        },
+        "issues": {
+            "brexitEurope": "Stop Brexit",
+            "defence": "",
+            "economy": "",
+            "education": "Invest in Schools",
+            "environment": "Action on Climate Change",
+            "governance": "",
+            "government": "",
+            "health": "Fund Our NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@Lauracoyle",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Laura Coyle"
+                },
+                {
+                    "caption": "Henley deserves better"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "We're 2nd now! With your vote Laura can win!"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Henley deserves better"
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Stop Brexit",
+                        "Action on Climate Change",
+                        "Fund Our NHS",
+                        "Invest in Schools"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

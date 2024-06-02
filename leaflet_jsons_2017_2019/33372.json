@@ -1,0 +1,191 @@
+{
+    "leaflet": {
+        "candidateName": "Ruth Jones",
+        "candidateGender": "",
+        "constituency": "Newport West",
+        "politicalParty": "Welsh Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "",
+                "content": "This election is a two horse race between me and the Tories. Only Labour will protect our NHS from a Tory sell-off, will reinstate TV licences for over-75s and will deliver for WASPI women."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Protect NHS from a Tory sell-off."
+            },
+            {
+                "policyTitle": "TV Licences",
+                "policyDescription": "Reinstate TV licences for over-75s."
+            },
+            {
+                "policyTitle": "WASPI Women",
+                "policyDescription": "Deliver for WASPI women."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ruth Jones",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "This election is a two horse race between me and the Tories."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Protect NHS from a Tory sell-off.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Deliver for WASPI women.",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "07423277979",
+            "email": "contact@ruthjones.wales",
+            "website": "www.ruthjones.wales",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@RuthNewportWest",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "This election is a two horse race between me and the Tories. Only Labour will protect our NHS from a Tory sell-off, will reinstate TV licences for over-75s and will deliver for WASPI women.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "This election is a two horse race between me and the Tories. Only Labour will protect our NHS from a Tory sell-off, will reinstate TV licences for over-75s and will deliver for WASPI women."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 2,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Protect NHS from a Tory sell-off.",
+                        "Reinstate TV licences for over-75s.",
+                        "Deliver for WASPI women."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

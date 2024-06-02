@@ -1,0 +1,190 @@
+{
+  "leaflet": {
+    "candidateName": "Robert Mackenzie",
+    "candidateGender": "",
+    "constituency": "Ross, Skye and Lochaber",
+    "politicalParty": "Scottish Conservative and Unionist Party",
+    "electionDate": "Thursday 8th June",
+    "messages": [
+      {
+        "title": "A Message From Ruth Davidson",
+        "content": "Only one vote on Thursday 8th June can beat the SNP in Ross, Skye and Lochaber and stop the threat of a second independence referendum – a vote for the Scottish Conservative and Unionist Party."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "No to Independence",
+        "policyDescription": "A vote for the Scottish Conservatives is a vote to say No to Nicola Sturgeon’s second independence referendum."
+      },
+      {
+        "policyTitle": "Focus on Jobs",
+        "policyDescription": "Your vote will force the SNP to focus on the day job of making our schools, hospitals and public services better."
+      }
+    ],
+    "mentions": {
+      "candidate": "Robert Mackenzie",
+      "otherPartyLeaderCandidate": "Nicola Sturgeon",
+      "partyLeader": "Ruth Davidson",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "defence": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "government": "",
+      "health": "",
+      "immigration": "",
+      "labourEmployment": "",
+      "lawCrime": "",
+      "transport": "",
+      "socialWelfare": "",
+      "community": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Ruth Davidson",
+        "endorsement": "Your vote for my candidate Robert Mackenzie can make the SNP listen to us."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Tory revival on course to foil independence.",
+        "source": "Sunday Times Scotland 23/04/17",
+        "date": "23/04/17"
+      },
+      {
+        "text": "Ruth Davidson: Scots do not want a referendum.",
+        "source": "BBC News 19/03/17",
+        "date": "19/03/17"
+      },
+      {
+        "text": "Poll rejects Sturgeon's plan for new referendum.",
+        "source": "Scottish Daily Express 20/04/17",
+        "date": "20/04/17"
+      },
+      {
+        "text": "Nicola Sturgeon yesterday insisted indyref2 is at the 'heart' of the general election.",
+        "source": "Scottish Sun 02/05/17",
+        "date": "02/05/17"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "",
+    "analysis": {
+      "statementAnalysis": {
+        "quantitative": {
+          "count": 1,
+          "examples": [
+            "3 things to remember before you vote on Thursday 8th June."
+          ]
+        },
+        "qualitative": {
+          "count": 2,
+          "examples": [
+            "Your vote will force the SNP to focus on the day job of making our schools, hospitals and public services better.",
+            "We said no to independence. We meant it."
+          ]
+        }
+      },
+      "photoAnalysis": {
+        "localPlaces": 0,
+        "people": 2,
+        "candidateAlone": 1,
+        "candidateWithOthers": 1
+      },
+      "issueFocus": {
+        "local": {
+          "count": 0,
+          "examples": [""]
+        },
+        "national": {
+          "count": 2,
+          "examples": [
+            "Your vote for the Scottish Conservatives is a vote to say No to Nicola Sturgeon’s second independence referendum.",
+            "3 things to remember before you vote on Thursday 8th June."
+          ]
+        }
+      },
+      "personalStories": [
+        {
+          "story": "",
+          "issueRelated": ""
+        }
+      ],
+      "endorsementsUsed": {
+        "count": 1,
+        "examples": [
+          "Ruth Davidson endorsing Robert Mackenzie."
+        ]
+      },
+      "negativeMessaging": {
+        "localIssues": {
+          "count": 0,
+          "examples": [""]
+        },
+        "nationalIssues": {
+          "count": 1,
+          "examples": [
+            "A vote for the Scottish Conservatives is a vote to say No to Nicola Sturgeon’s second independence referendum."
+          ]
+        },
+        "leaderOfOpponentsParty": {
+          "count": 0,
+          "examples": [""]
+        },
+        "oppositeCandidateNoName": {
+          "count": 0,
+          "examples": [""]
+        },
+        "oppositeCandidateWithName": {
+          "count": 0,
+          "examples": [""]
+        }
+      },
+      "nonPolicyAttributes": {
+        "localness": "",
+        "employment": "",
+        "education": "",
+        "family": ""
+      },
+      "localCandidate": {
+        "isLocal": false,
+        "examples": [""]
+      }
+    }
+  }
+}

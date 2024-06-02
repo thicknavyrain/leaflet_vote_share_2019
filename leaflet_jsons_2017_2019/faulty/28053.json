@@ -1,0 +1,199 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Kim Caddy",
+    "candidateGender": "Female",
+    "constituency": "Streatham",
+    "politicalParty": "Conservative",
+    "electionDate": "8 June 2017",
+    "messages": [
+      {
+        "title": "Theresa May backs Kim Caddy",
+        "content": "Kim Caddy is standing with me to secure strong and stable leadership for our country, and the best Brexit deal possible for you and your constituency of Streatham. It's important to remember that a vote for anyone other than Kim Caddy risks Jeremy Corbyn becoming Prime Minister of a Shambolic coalition government..."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Leadership and Brexit",
+        "policyDescription": "Kim Caddy is standing with Theresa May to secure strong and stable leadership for the country and the best Brexit deal possible."
+      },
+      {
+        "policyTitle": "Community Support",
+        "policyDescription": "Kim Caddy as a local councillor knows how to get things done and will help improve the local area."
+      }
+    ],
+    "mentions": {
+      "candidate": "Kim Caddy",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": "It's important to remember that a vote for anyone other than Kim Caddy risks Jeremy Corbyn becoming Prime Minister of a Shambolic coalition government."
+    },
+    "issues": {
+      "brexitEurope": "I voted Remain but now I want the best possible deal in Europe – I think Theresa May is the best person to negotiate that deal and the only way to guarantee that is to vote for Kim.",
+      "community": [
+        {
+          "content": "Kim is an experienced businesswoman and local councillor, I know she will be a strong voice for the community.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Local Councillor",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "0203 7328155",
+      "email": "kim@streathamconservatives.com",
+      "website": "streathamconservatives.com",
+      "socialMedia": {
+        "facebook": "fb.com/kimcaddystreatham",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Theresa May",
+        "endorsement": "Kim Caddy is standing with me to secure strong and stable leadership for our country, and the best Brexit deal possible for you and your constituency of Streatham."
+      },
+      {
+        "endorser": "Tim Briggs",
+        "endorsement": "I am the Leader of the Conservative Group on Lambeth Council and I know Kim is the right person to support us and help improve our local area.”
+      },
+      {
+        "endorser": "Helen Smith",
+        "endorsement": "Kim is an experienced businesswoman and local councillor, I know she will be a strong voice for the community."
+      },
+      {
+        "endorser": "Wendy Newall",
+        "endorsement": "I'm voting for Kim Caddy because she will hold Lambeth Council to account. With her experience as a Councillor in Wandsworth she knows how to get things done and I want her as a strong voice for Streatham."
+      },
+      {
+        "endorser": "Francis Hear",
+        "endorsement": "I'm voting for Kim Caddy because the Conservatives are the only party supporting business. Our community loves our local shops and businesses and they bring jobs to the area"
+      },
+      {
+        "endorser": "Leslie Miraslava",
+        "endorsement": "Problems on the trains mean I am often late for work, and sometimes my friends can't even get on the tube at Clapham because it is so busy. I am voting for Kim because I think she will work hard to get these problems fixed."
+      },
+      {
+        "endorser": "Lavinia Cartwright",
+        "endorsement": "Like Kim, I voted Remain but now I want the best possible deal in Europe – I think Theresa May is the best person to negotiate that deal and the only way to guarantee that is to vote for Kim."
+      }
+    ],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Kim Caddy and Theresa May standing up for Britain."
+        }
+      ]
+    },
+    "additionalNotes": "",
+    "analysis": {
+      "statementAnalysis": {
+        "quantitative": {
+          "count": 0,
+          "examples": [""]
+        },
+        "qualitative": {
+          "count": 3,
+          "examples": [
+            "Kim Caddy is standing with me to secure strong and stable leadership for our country, and the best Brexit deal possible for you and your constituency of Streatham.",
+            "Kim is an experienced businesswoman and local councillor, I know she will be a strong voice for the community.",
+            "With her experience as a Councillor in Wandsworth she knows how to get things done and I want her as a strong voice for Streatham."
+          ]
+        }
+      },
+      "photoAnalysis": {
+        "localPlaces": 0,
+        "people": 3,
+        "candidateAlone": 1,
+        "candidateWithOthers": 2
+      },
+      "issueFocus": {
+        "local": {
+          "count": 1,
+          "examples": [
+            "I'm voting for Kim Caddy because she will hold Lambeth Council to account. With her experience as a Councillor in Wandsworth she knows how to get things done and I want her as a strong voice for Streatham."
+          ]
+        },
+        "national": {
+          "count": 2,
+          "examples": [
+            "Kim Caddy is standing with me to secure strong and stable leadership for our country, and the best Brexit deal possible for you and your constituency of Streatham.",
+            "I voted Remain but now I want the best possible deal in Europe – I think Theresa May is the best person to negotiate that deal and the only way to guarantee that is to vote for Kim."
+          ]
+        }
+      },
+      "personalStories": [
+        {
+          "story": "Problems on the trains mean I am often late for work, and sometimes my friends can't even get on the tube at Clapham because it is so busy. I am voting for Kim because I think she will work hard to get these problems fixed.",
+          "issueRelated": "transport"
+        }
+      ],
+      "endorsementsUsed": {
+        "count": 7,
+        "examples": [
+          "Theresa May endorsing Kim Caddy",
+          "Tim Briggs endorsing Kim Caddy",
+          "Helen Smith endorsing Kim Caddy",
+          "Wendy Newall endorsing Kim Caddy",
+          "Francis Hear endorsing Kim Caddy",
+          "Leslie Miraslava endorsing Kim Caddy",
+          "Lavinia Cartwright endorsing Kim Caddy"
+        ]
+      },
+      "negativeMessaging": {
+        "localIssues": {
+          "count": 1,
+          "examples": [
+            "We are offering a real alternative to the failing Labour Council."
+          ]
+        },
+        "nationalIssues": {
+          "count": 1,
+          "examples": [
+            "It's important to remember that a vote for anyone other than Kim Caddy risks Jeremy Corbyn becoming Prime Minister of a Shambolic coalition government."
+          ]
+        },
+        "leaderOfOpponentsParty": {
+          "count": 1,
+          "examples": [
+            "Jeremy Corbyn becoming Prime Minister of a Shambolic coalition government."
+          ]
+        },
+        "oppositeCandidateNoName": {
+          "count": 1,
+          "examples": [
+            "It's important to remember that a vote for anyone other than Kim Caddy risks Jeremy Corbyn becoming Prime Minister of a Shambolic coalition government."
+          ]
+        },
+        "oppositeCandidateWithName": {
+          "count": 0,
+          "examples": [""]
+        }
+      },
+      "nonPolicyAttributes": {
+        "localness": "",
+        "employment": "I think she will work hard to get these problems fixed.",
+        "education": "",
+        "family": ""
+      },
+      "localCandidate": {
+        "isLocal": true,
+        "examples": [
+          "Kim is an experienced businesswoman and local councillor, I know she will be a strong voice for the community.",
+          "With her experience as a Councillor in Wandsworth she knows how to get things done and I want her as a strong voice for Streatham."
+        ]
+      }
+    }
+  }
+}
+```

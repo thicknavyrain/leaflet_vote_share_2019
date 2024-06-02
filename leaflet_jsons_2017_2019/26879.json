@@ -1,0 +1,181 @@
+{
+    "leaflet": {
+        "candidateName": "Alan Hilliar",
+        "candidateGender": "male",
+        "constituency": "Aldershot and Farnborough",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Invest in Hampshire schools",
+                "policyDescription": "Liberal Democrats plan to invest \u00a339 million into schools and colleges in Hampshire."
+            },
+            {
+                "policyTitle": "Fight against hard Brexit",
+                "policyDescription": "They oppose a hard Brexit to keep Britain in the Single Market and protect local jobs."
+            },
+            {
+                "policyTitle": "Address NHS and social care crisis",
+                "policyDescription": "They aim to increase support and funding for NHS services."
+            },
+            {
+                "policyTitle": "Oppose armed forces cuts",
+                "policyDescription": "Alan Hilliar criticizes Conservative cuts to armed forces, calling staff reductions a disgrace."
+            }
+        ],
+        "mentions": {
+            "candidate": "Alan Hilliar",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Tim Farron",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Lib Dems fight against HARD BREXIT",
+            "defence": "Alan Hilliar criticizes Conservative cuts to the armed forces, calling it a disgrace.",
+            "economy": "",
+            "education": "Lib Dems plan to invest \u00a339 million into Hampshire schools and colleges.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Lib Dems address NHS and social care crisis in a time of increased demands.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Local services and maintenance (e.g., roads) are in poor condition under Conservative policies.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "Farnboroughlibdems@gmail.com",
+            "website": "www.lidems.org.uk",
+            "socialMedia": {
+                "facebook": "FarnboroughLibDems",
+                "twitter": " @rushmoorlibdems",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Alan Hilliar at Aldershot Library"
+                },
+                {
+                    "caption": "Alan Hilliar, along with Tim Farron and the rest of the Liberal Democrats are working hard to stop a hard Brexit"
+                },
+                {
+                    "caption": "Alan Hilliar is concerned about increasing pressure at Frimley Park Hospital"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Lib Dems plan to invest \u00a339 million into Hampshire schools and colleges."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Alan Hilliar criticizes Conservative cuts to the armed forces, calling it a disgrace.",
+                        "Lib Dems fight against HARD BREXIT"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 2,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Conservative cuts to local bus services."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Lib Dems fight against HARD BREXIT",
+                        "Address NHS and social care crisis.",
+                        "Oppose armed forces cuts"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Conservative cuts to local bus services.",
+                        "Local roads and pavements are in a mess."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn's Labour Party is in disarray."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Conservatives are only making things worse locally and nationally."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Alan Hilliar at Aldershot Library",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Alan Hilliar at Aldershot Library"
+                ]
+            }
+        }
+    }
+}

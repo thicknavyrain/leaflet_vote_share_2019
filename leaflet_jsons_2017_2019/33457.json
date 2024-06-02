@@ -1,0 +1,176 @@
+{
+    "leaflet": {
+        "candidateName": "Karen Ward",
+        "candidateGender": "female",
+        "constituency": "North Norfolk",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Karen Ward",
+                "content": "The strong local voice North Norfolk needs"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Local Homes for Local People",
+                "policyDescription": "Too many people in North Norfolk struggle to own their own homes. It\u2019s time the Government made local homes for people living in our communities because everyone deserves a safe and affordable place to live."
+            },
+            {
+                "policyTitle": "Tackle the Climate Emergency Head On",
+                "policyDescription": "Climate change has impacted every aspect of our lives. We must act now to protect our planet and ensure a sustainable future."
+            },
+            {
+                "policyTitle": "Rescue our NHS and Schools",
+                "policyDescription": "Conservatives have starved our local health services of funding. We must properly fund our local hospitals and schools to ensure everyone can access decent healthcare and education."
+            }
+        ],
+        "mentions": {
+            "candidate": "Karen Ward",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Properly fund local schools to ensure every child has the opportunity of a decent education.",
+            "environment": "Tackle the climate emergency head-on. We cannot ignore the devastating impacts of climate change.",
+            "governance": "",
+            "government": "",
+            "health": "Rescue our NHS. Conservatives have starved our local health services of funding.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Build local homes for people living in our communities because everyone deserves a safe and affordable place to live.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "karen@karenward.uk",
+            "website": "www.KarenWard.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 8,
+                    "examples": [
+                        "Karen Ward - The strong local voice North Norfolk needs",
+                        "Too many people in North Norfolk struggle to own their own homes.",
+                        "Conservatives have starved our local health services of funding.",
+                        "Rescue our NHS and Schools",
+                        "Properly fund local schools to ensure every child has the opportunity of a decent education.",
+                        "Tackle the climate emergency head-on.",
+                        "We must act now to protect our planet and ensure a sustainable future.",
+                        "Build local homes for people living in our communities because everyone deserves a safe and affordable place to live."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Build local homes for people living in our communities.",
+                        "Properly fund local schools to ensure every child has the opportunity of a decent education.",
+                        "Rescue our NHS."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Tackle the climate emergency head-on."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Conservatives have starved our local health services of funding."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson's failing Tories"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson's failing Tories."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "The strong local voice North Norfolk needs.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "The strong local voice North Norfolk needs."
+                ]
+            }
+        }
+    }
+}

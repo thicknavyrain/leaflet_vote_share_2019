@@ -1,0 +1,155 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Greg Marshall",
+    "candidateGender": "",
+    "constituency": "Broxtowe",
+    "politicalParty": "Labour",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Greg Marshall and your local Labour Team called today",
+        "content": "Let’s build a country where we invest our wealth to give everyone the best chance. Building the homes Broxtowe needs to rent and buy, keeping our communities safe with more police officers, giving our children’s schools the funding they deserve and restoring the NHS to its place as the envy of the world. For the many, not the few. Join us.”
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Building the homes Broxtowe needs to rent and buy."
+      },
+      {
+        "policyTitle": "Community Safety",
+        "policyDescription": "Keeping our communities safe with more police officers."
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Giving our children’s schools the funding they deserve."
+      },
+      {
+        "policyTitle": "Health",
+        "policyDescription": "Restoring the NHS to its place as the envy of the world."
+      }
+    ],
+    "mentions": {
+      "candidate": "Greg Marshall",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "defence": "",
+      "economy": "",
+      "education": "Giving our children’s schools the funding they deserve.",
+      "environment": "",
+      "governance": "",
+      "government": "",
+      "health": "Restoring the NHS to its place as the envy of the world.",
+      "immigration": "",
+      "labourEmployment": "",
+      "lawCrime": "",
+      "transport": "",
+      "socialWelfare": "",
+      "community": [
+        {
+          "content": "Building the homes Broxtowe needs to rent and buy.",
+          "yimbyNimby": "YIMBY"
+        },
+        {
+          "content": "Keeping our communities safe with more police officers.",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "27 Redland Drive, Chilwell, Nottingham, NG9 5JZ",
+      "phone": "07856 812006",
+      "email": "",
+      "website": "www.broxtowelabour.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Images of local Labour team members"
+        }
+      ]
+    },
+    "additionalNotes": "",
+    "analysis": {
+      "statementAnalysis": {
+        "quantitative": {
+          "count": 0,
+          "examples": [""]
+        },
+        "qualitative": {
+          "count": 1,
+          "examples": ["Let’s build a country where we invest our wealth to give everyone the best chance."]
+        }
+      },
+      "photoAnalysis": {
+        "localPlaces": 0,
+        "people": 3,
+        "candidateAlone": 0,
+        "candidateWithOthers": 1
+      },
+      "issueFocus": {
+        "local": {
+          "count": 2,
+          "examples": ["Building the homes Broxtowe needs to rent and buy.", "Keeping our communities safe with more police officers."]
+        },
+        "national": {
+          "count": 2,
+          "examples": ["Giving our children’s schools the funding they deserve.", "Restoring the NHS to its place as the envy of the world."]
+        }
+      },
+      "personalStories": [],
+      "endorsementsUsed": {
+        "count": 0,
+        "examples": [""]
+      },
+      "negativeMessaging": {
+        "localIssues": {
+          "count": 0,
+          "examples": [""]
+        },
+        "nationalIssues": {
+          "count": 0,
+          "examples": [""]
+        },
+        "leaderOfOpponentsParty": {
+          "count": 0,
+          "examples": [""]
+        },
+        "oppositeCandidateNoName": {
+          "count": 0,
+          "examples": [""]
+        },
+        "oppositeCandidateWithName": {
+          "count": 0,
+          "examples": [""]
+        }
+      },
+      "nonPolicyAttributes": {
+        "localness": "",
+        "employment": "",
+        "education": "",
+        "family": ""
+      },
+      "localCandidate": {
+        "isLocal": true,
+        "examples": ["From Broxtowe, For Broxtowe"]
+      }
+    }
+  }
+}
+```

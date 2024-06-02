@@ -1,0 +1,184 @@
+{
+    "leaflet": {
+        "candidateName": "Chris Kealey MBE",
+        "candidateGender": "",
+        "constituency": "Bosworth",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "8 June is a job interview: Pick the best candidate.",
+                "content": "Vote for Chris Kealey who has experience in helping the local community."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Action not words",
+                "policyDescription": "Chris Kealey promised to tackle key issues such as public transport, local health, safer streets, and sustainable development."
+            },
+            {
+                "policyTitle": "Real issues not petty politics",
+                "policyDescription": "Focus on real issues affecting the community and not on trivial political feuds."
+            },
+            {
+                "policyTitle": "A Brexit that benefits the many",
+                "policyDescription": "Ensure a Brexit deal that protects local jobs and community interests."
+            },
+            {
+                "policyTitle": "Battling for families",
+                "policyDescription": "Supporting families by addressing issues in education, healthcare, and local amenities."
+            }
+        ],
+        "mentions": {
+            "candidate": "Chris Kealey MBE",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "A Brexit that benefits the many",
+            "defence": "",
+            "economy": "",
+            "education": "Supporting education for families",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Focus on local health issues and NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Addressing public transport limitations",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Sustainable development and building new homes while preserving parks.",
+                    "yimbyNimby": "YIMBY"
+                },
+                {
+                    "content": "Tackling the blight of commuters during peak times.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "No nonsense. The man for the job.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "122 Upper Loughborough Road, Hinckley, LE10 2DJ",
+            "phone": "07979 504454",
+            "email": "bosworthlabour@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "ChrisKealeyLabourHinckley",
+                "twitter": "C_KealeyLabour",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Bridget Smith",
+                "endorsement": "I've worked in war zones, I've worked for Royal Princes, and on estate verges: none with anybody I'd rather serve here with you. Every time I meet him I feel proud to show you what a good hard working local MP can bring to Bosworth."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Chris Kealey with local families."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Action not words",
+                        "Real issues not petty politics"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "Focus on local health issues and NHS",
+                        "Addressing public transport limitations",
+                        "Supporting families by addressing issues in education, healthcare, and local amenities",
+                        "Sustainable development and building new homes while preserving parks."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "A Brexit that benefits the many"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Bridget Smith's endorsement of Chris Kealey"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Tackling the blight of commuters during peak times."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Chris Kealey mentioned for his involvement with local community actions.",
+                "employment": "",
+                "education": "",
+                "family": "Chris Kealey pictured with a child on the leaflet."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Meeting local people and working on local issues."
+                ]
+            }
+        }
+    }
+}

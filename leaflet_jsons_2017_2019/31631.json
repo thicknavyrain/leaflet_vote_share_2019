@@ -1,0 +1,172 @@
+{
+    "leaflet": {
+        "candidateName": "Victoria Charleston",
+        "candidateGender": "",
+        "constituency": "Salisbury",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Victoria Charleston: Working hard for Salisbury",
+                "content": "We live in the most unsettled and divided of times. I have chosen to stand as the Liberal Democrat candidate for Salisbury constituency as I cannot watch our communities suffer further due to this chaotic government. I believe people locally deserve real representation and a Parliamentarian who will stand up for them and demand better. I campaigned proudly during the referendum to remain in the European Union and continue to do so. Our farmers, our hospital and young people locally have all benefited from the EU; we thrive inside Europe. As a charity worker, and from most of my career I have worked on behalf of the most vulnerable: those facing fuel poverty, those struggling with the broken rental system, and those suffering abuse within the home. I want to represent our communities and be the change that benefits us all."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "I campaigned proudly during the referendum to remain in the European Union and continue to do so."
+            },
+            {
+                "policyTitle": "Support for Farmers and Hospitals",
+                "policyDescription": "Our farmers and our hospital have benefited from the EU; we thrive inside Europe."
+            },
+            {
+                "policyTitle": "Support for Vulnerable Communities",
+                "policyDescription": "Worked on behalf of the most vulnerable: those facing fuel poverty, those struggling with the broken rental system, and those suffering abuse within the home."
+            }
+        ],
+        "mentions": {
+            "candidate": "Victoria Charleston",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "I campaigned proudly during the referendum to remain in the European Union and continue to do so.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "I cannot watch our communities suffer further due to this chaotic government.",
+            "government": "I believe people locally deserve real representation and a Parliamentarian who will stand up for them and demand better.",
+            "health": "Our hospital have benefited from the EU; we thrive inside Europe.",
+            "immigration": "",
+            "labourEmployment": "and young people locally have all benefited from the EU; we thrive inside Europe.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Our farmers, our hospital and young people locally have all benefited from the EU; we thrive inside Europe.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I live in the most unsettled and divided of times. I have chosen to stand as the Liberal Democrat candidate for Salisbury constituency as I cannot watch our communities suffer further due to this chaotic government. I believe people locally deserve real representation and a Parliamentarian who will stand up for them and demand better. I campaigned proudly during the referendum to remain in the European Union and continue to do so. Our farmers, our hospital and young people locally have all benefited from the EU; we thrive inside Europe. As a charity worker, and from most of my career, I have worked on behalf of the most vulnerable: those facing fuel poverty, those struggling with the broken rental system, and those suffering abuse within the home. I want to represent our communities and be the change that benefits us all.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Victoria Charleston: Working hard for Salisbury"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "We live in the most unsettled and divided of times.",
+                        "I cannot watch our communities suffer further due to this chaotic government.",
+                        "I believe people locally deserve real representation and a Parliamentarian who will stand up for them and demand better.",
+                        "As a charity worker, and from most of my career I have worked on behalf of the most vulnerable: those facing fuel poverty, those struggling with the broken rental system, and those suffering abuse within the home.",
+                        "I want to represent our communities and be the change that benefits us all."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "I believe people locally deserve real representation and a Parliamentarian who will stand up for them and demand better.",
+                        "Our farmers, our hospital and young people locally have all benefited from the EU; we thrive inside Europe."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "I campaigned proudly during the referendum to remain in the European Union and continue to do so."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "I cannot watch our communities suffer further due to this chaotic government."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

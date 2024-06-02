@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Nick Brown",
+        "candidateGender": "",
+        "constituency": "Newcastle upon Tyne East",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Message from Nick Brown",
+                "content": "The Prime Minister has chosen to call a vanity General Election. The Government should be working to get the best deal for Britain as part of the Brexit negotiations. I am standing on my record as a full-time, hard-working local MP. East based on my record and my pledge to be a public servant to the people of Newcastle upon Tyne East, based on my record as a full-time, hard-working local MP and my pledge to be a public servant to the people I have served for 34 years. This Tory Government has starved our public services through years of austerity and more action from Government on moving funding and investment to Newcastle and our region."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Public Services",
+                "policyDescription": "This Tory Government has starved our public services through years of austerity."
+            },
+            {
+                "policyTitle": "Investment",
+                "policyDescription": "More action from Government on moving funding and investment to Newcastle and our region."
+            }
+        ],
+        "mentions": {
+            "candidate": "Rt Hon Nick Brown",
+            "otherPartyLeaderCandidate": "The Prime Minister",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The Government should be working to get the best deal for Britain as part of the Brexit negotiations.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "The Prime Minister has chosen to call a vanity General Election.",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "More action from Government on moving funding and investment to Newcastle and our region.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "I would be grateful for your support on Thursday 8th June.",
+                "source": "Rt Hon Nick Brown",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "I have served for 34 years."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "The Prime Minister has chosen to call a vanity General Election.",
+                        "This Tory Government has starved our public services through years of austerity.",
+                        "I would be grateful for your support on Thursday 8th June."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 2,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "More action from Government on moving funding and investment to Newcastle and our region."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The Government should be working to get the best deal for Britain as part of the Brexit negotiations."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "This Tory Government has starved our public services through years of austerity."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "The Prime Minister has chosen to call a vanity General Election."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I am standing on my record as a full-time, hard-working local MP.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I am standing on my record as a full-time, hard-working local MP."
+                ]
+            }
+        }
+    }
+}

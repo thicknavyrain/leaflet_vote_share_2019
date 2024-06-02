@@ -1,0 +1,190 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": "Only the Liberal Democrats can change Britain's future.\nProtect funding for our schools.\nFight the dangerous impact of Brexit to protect our jobs and our economy.\nVote Lib Dem for a better future.\nOn 8th June change Britain\u2019s future. Vote Liberal Democrat."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protect funding for our schools",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Fight the dangerous impact of Brexit",
+                "policyDescription": "To protect our jobs and our economy."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Theresa May, Jeremy Corbyn, Nigel Farage",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Labour voted with UKIP and Tories for Brexit.\nLabour is backing plans for a hard Brexit.\nCorbyn's Labour is too weak to stop hard Brexit.\nFight the dangerous impact of Brexit to protect our jobs and our economy.",
+            "defence": "",
+            "economy": "Fight the dangerous impact of Brexit to protect our jobs and our economy.",
+            "education": "Protect funding for our schools.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Corbyn's Labour is too weak and divided to win this election.",
+                        "Five more years of Theresa May means a more heartless and divided Britain."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Protect funding for our schools."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Labour voted with UKIP and Tories for Brexit.",
+                        "Fight the dangerous impact of Brexit to protect our jobs and our economy."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "Labour voted with UKIP and Tories for Brexit.",
+                        "Labour's Brexit Betrayal",
+                        "Corbyn's Labour is too weak to stop hard Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Five more years of Theresa May means a more heartless and divided Britain."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Corbyn's Labour is too weak to stop hard Brexit."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Five more years of Theresa May means a more heartless and divided Britain.",
+                        "Corbyn's Labour is too weak and divided to win this election."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

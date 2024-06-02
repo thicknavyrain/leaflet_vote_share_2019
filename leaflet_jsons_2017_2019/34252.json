@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "This election is the chance to transform our country.",
+                "content": "Only Labour can stop Boris Johnson\u2019s disastrous Brexit deal. A vote for the Lib Dems or any other party will help Boris Johnson."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get Brexit sorted by giving you the final say."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Abolish tuition fees and reintroduce grants and allowances for young people from low and middle income backgrounds."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Kickstart a Green Industrial Revolution to tackle the climate emergency and create high-skilled, high-wage jobs."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Fix the housing crisis with a massive increase in social housing and a New Deal for private renters and first-time buyers."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Immediately introduce a Real Living Wage of \u00a310 an hour for everyone in work over 16."
+            },
+            {
+                "policyTitle": "Taxation",
+                "policyDescription": "Reverse Tory tax giveaways to the super rich."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": "Only Labour can stop Boris Johnson\u2019s disastrous Brexit deal. A vote for the Lib Dems or any other party will help Boris Johnson."
+        },
+        "issues": {
+            "brexitEurope": "Get Brexit sorted by giving you the final say.",
+            "defence": "",
+            "economy": "Immediately introduce a Real Living Wage of \u00a310 an hour for everyone in work over 16. Reverse Tory tax giveaways to the super rich.",
+            "education": "Abolish tuition fees and reintroduce grants and allowances for young people from low and middle income backgrounds.",
+            "environment": "Kickstart a Green Industrial Revolution to tackle the climate emergency and create high-skilled, high-wage jobs.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "Immediately introduce a Real Living Wage of \u00a310 an hour for everyone in work over 16.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Reverse Tory tax giveaways to the super rich.",
+            "community": [
+                {
+                    "content": "Fix the housing crisis with a massive increase in social housing and a New Deal for private renters and first-time buyers.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Immediately introduce a Real Living Wage of \u00a310 an hour for everyone in work over 16.",
+                        "Reverse Tory tax giveaways to the super rich."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Only Labour can stop Boris Johnson\u2019s disastrous Brexit deal.",
+                        "Fix the housing crisis with a massive increase in social housing and a New Deal for private renters and first-time buyers.",
+                        "Kickstart a Green Industrial Revolution to tackle the climate emergency and create high-skilled, high-wage jobs."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Fix the housing crisis with a massive increase in social housing and a New Deal for private renters and first-time buyers."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Get Brexit sorted by giving you the final say.",
+                        "Immediately introduce a Real Living Wage of \u00a310 an hour for everyone in work over 16.",
+                        "Reverse Tory tax giveaways to the super rich."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Only Labour can stop Boris Johnson\u2019s disastrous Brexit deal."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "A vote for the Lib Dems or any other party will help Boris Johnson."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

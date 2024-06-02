@@ -1,0 +1,191 @@
+{
+    "leaflet": {
+        "candidateName": "Rt. Hon Theresa May",
+        "candidateGender": "Female",
+        "constituency": "",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "STAND UP FOR BRITAIN",
+                "content": "As your Prime Minister and these negotiations begin, I am standing up for Britain to guarantee our economic security, our national security and our place in the world."
+            },
+            {
+                "title": "STAND WITH ME TO HELP STRENGTHEN MY BREXIT HAND",
+                "content": "I\u2019m asking you to stand with me to help strengthen my hand in the negotiations to secure the best possible deal from Brexit."
+            },
+            {
+                "title": "STAND UP FOR THE BRITISH PEOPLE, AND FIGHT FOR THE BRITISH PEOPLE",
+                "content": "With Jeremy Corbyn as Prime Minister, there will be no attempt to put controls on immigration. And there will be no respect for the will of the British people."
+            },
+            {
+                "title": "MY COMMITMENT TO YOU AND TO BRITAIN",
+                "content": "I am committed to providing the strong and stable leadership our country needs at this crucial time, and my commitment is to make Brexit a success and make life better for all."
+            },
+            {
+                "title": "DON\u2019T RISK JEREMY CORBYN MESSING UP BREXIT",
+                "content": "Giving Jeremy Corbyn the keys to Downing Street and our Brexit negotiations risks everything we hold dear and would be a disaster for Britain."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit Negotiations",
+                "policyDescription": "Ensuring a strong stance in negotiations to secure the best possible deal."
+            },
+            {
+                "policyTitle": "Economic Security",
+                "policyDescription": "Guarantee economic security through strong leadership."
+            },
+            {
+                "policyTitle": "National Security",
+                "policyDescription": "Strengthen national security to protect the country."
+            },
+            {
+                "policyTitle": "Immigration Control",
+                "policyDescription": "Implement strict immigration controls."
+            },
+            {
+                "policyTitle": "NHS Support",
+                "policyDescription": "Provide more funding and support for the NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "The electorate\u2019s decision will affect Brexit negotiations and Britain\u2019s future."
+        },
+        "issues": {
+            "brexitEurope": "I\u2019m asking you to stand with me to help strengthen my hand in the negotiations to secure the best possible deal from Brexit.",
+            "defence": "",
+            "economy": "Guarantee our economic security.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Provide more funding and support for the NHS.",
+            "immigration": "With Jeremy Corbyn as Prime Minister, there will be no attempt to put controls on immigration.",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "I am committed to providing the strong and stable leadership our country needs at this crucial time, and my commitment is to make Brexit a success and make life better for all.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Rt. Hon Theresa May, Prime Minister of the United Kingdom"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Provide more funding and support for the NHS."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "I\u2019m asking you to stand with me to help strengthen my hand in the negotiations to secure the best possible deal from Brexit."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Guarantee economic security through strong leadership.",
+                        "Provide more funding and support for the NHS."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "With Jeremy Corbyn as Prime Minister, there will be no attempt to put controls on immigration.",
+                        "Giving Jeremy Corbyn the keys to Downing Street and our Brexit negotiations risks everything we hold dear and would be a disaster for Britain.",
+                        "Jeremy Corbyn is propped up by the minor parties that oppose Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 3,
+                    "examples": [
+                        "With Jeremy Corbyn as Prime Minister, there will be no attempt to put controls on immigration.",
+                        "Giving Jeremy Corbyn the keys to Downing Street and our Brexit negotiations risks everything we hold dear and would be a disaster for Britain.",
+                        "Jeremy Corbyn is propped up by the minor parties that oppose Brexit."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "With Jeremy Corbyn as Prime Minister, there will be no attempt to put controls on immigration."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

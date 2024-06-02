@@ -1,0 +1,182 @@
+{
+    "leaflet": {
+        "candidateName": "Dr Katherine Dunne",
+        "candidateGender": "",
+        "constituency": "Twickenham",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "Dear Resident,",
+                "content": "As MP for Twickenham I will stand up for the issues local people care about: good quality schools; affordable homes; a clean environment and protection from the Tories' reckless Brexit. Twickenham schools are under unprecedented pressure to cut costs. Housing costs are rising due to lack of supply. A Labour government will deliver growth by investing in homes and infrastructure, creating jobs and raising wages. It will invest in our children and protect school funding. Voters in Twickenham need a better choice than the Tories and their former coalition partners the Lib Dems. Labour offers a real alternative."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Investing for a better Britain",
+                "policyDescription": "We will build a high skilled, high tech, low carbon economy. We will raise the living wage to \u00a310 an hour and unlock \u00a3500 billion of investment through a National Investment Bank."
+            },
+            {
+                "policyTitle": "Secure home guarantee",
+                "policyDescription": "We will build over a million new homes in five years, with at least half a million council homes, through our public investment strategy, and give new rights to private renters."
+            },
+            {
+                "policyTitle": "Security at work",
+                "policyDescription": "We will end exploitative zero-hours contracts and undercutting through exploitation of migrant labour. We will defend employment rights during the Brexit negotiations."
+            },
+            {
+                "policyTitle": "A secure NHS and social care",
+                "policyDescription": "We will end NHS privatisation, integrate health and social care and ensure parity for mental health services."
+            },
+            {
+                "policyTitle": "Educational for all",
+                "policyDescription": "We will provide universal childcare and guarantee quality apprenticeships and adult skills training. We will work towards progressive restoration of free education for all."
+            }
+        ],
+        "mentions": {
+            "candidate": "Dr Katherine Dunne",
+            "otherPartyLeaderCandidate": "Tories",
+            "partyLeader": "",
+            "tacticalSituation": "Voters in Twickenham need a better choice than the Tories and their former coalition partners the Lib Dems."
+        },
+        "issues": {
+            "brexitEurope": "protection from the Tories' reckless Brexit.",
+            "defence": "",
+            "economy": "A Labour government will deliver growth by investing in homes and infrastructure, creating jobs and raising wages.",
+            "education": "Twickenham schools are under unprecedented pressure to cut costs. It will invest in our children and protect school funding.",
+            "environment": "a clean environment",
+            "governance": "",
+            "government": "",
+            "health": "We will end NHS privatisation, integrate health and social care and ensure parity for mental health services.",
+            "immigration": "",
+            "labourEmployment": "Security at work: We will end exploitative zero-hours contracts and undercutting through exploitation of migrant labour. We will defend employment rights during the Brexit negotiations.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "good quality schools; affordable homes",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "We will raise the living wage to \u00a310 an hour and unlock \u00a3500 billion of investment through a National Investment Bank.",
+                        "We will build over a million new homes in five years, with at least half a million council homes."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "a clean environment",
+                        "good quality schools",
+                        "Security at work"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "good quality schools; affordable homes",
+                        "Twickenham schools are under unprecedented pressure to cut costs."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "We will end exploitative zero-hours contracts and undercutting through exploitation of migrant labour.",
+                        "We will build a high skilled, high tech, low carbon economy.",
+                        "We will end NHS privatisation, integrate health and social care and ensure parity for mental health services."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Twickenham schools are under unprecedented pressure to cut costs."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "protection from the Tories' reckless Brexit"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "protection from the Tories' reckless Brexit.",
+                        "Voters in Twickenham need a better choice than the Tories and their former coalition partners the Lib Dems."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

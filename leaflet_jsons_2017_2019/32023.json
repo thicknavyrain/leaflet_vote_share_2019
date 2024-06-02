@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Jo Swinson",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "It's Time to Build a Brighter Future",
+                "content": "For too many people, things aren't working as they should be. The Conservatives and Labour let you down time and again. The Liberal Democrats plan for the environment stands in stark contrast to the empty rhetoric from the Conservatives and Labour. We have an ambitious plan to lead the country, united against the chaos of Brexit and focused on building a brighter future for everyone."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Leading the fight to Stop Brexit.",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Secure fair funding for Wales, tackle the climate emergency, and improve our public services.",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Jo Swinson",
+            "otherPartyLeaderCandidate": "Boris Johnson, Jeremy Corbyn",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Leading the fight to Stop Brexit. Making a mess out of Brexit. Wants to negotiate his own Brexit deal.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Tackle the climate emergency.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Improve our public services.",
+            "community": [
+                {
+                    "content": "Secure fair funding for Wales.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Prepost RSTK-HKSH-EJGE, Liberal Democrats, 8-10 Great George Street, London, SW1P 3AE",
+            "phone": "",
+            "email": "",
+            "website": "www.LibDems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Liberal Democrats campaign photo"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "For too many people, things aren't working as they should be.",
+                        "The Conservatives and Labour let you down time and again.",
+                        "We have an ambitious plan to lead the country, united against the chaos of Brexit and focused on building a brighter future for everyone."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Secure fair funding for Wales."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Leading the fight to Stop Brexit.",
+                        "Tackle the climate emergency."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "Making a mess out of Brexit.",
+                        "Wants to negotiate his own Brexit deal.",
+                        "Taking us backwards."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 3,
+                    "examples": [
+                        "Boris Johnson\u2019s Conservatives.",
+                        "Jeremy Corbyn\u2019s Labour Party.",
+                        "The Liberal Democrats plan for the environment stands in stark contrast to the empty rhetoric from the Conservatives and Labour."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Boris Johnson.",
+                        "Jeremy Corbyn."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

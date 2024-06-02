@@ -1,0 +1,184 @@
+{
+    "leaflet": {
+        "candidateName": "Shaffaq Mohammed",
+        "candidateGender": "",
+        "constituency": "Yorkshire & Humber",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Action on the climate crisis",
+                "content": "Liberal Democrats back aggressive plan to tackle existential threat. Record flooding. Devastating wildfires. 100-year storms that happen every year. The climate emergency is real and getting worse. Newly-elected Liberal Democrat MEPs are backing a plan in the European Parliament to achieve net-zero carbon emissions by 2050."
+            },
+            {
+                "title": "Action to help with cost of living",
+                "content": "Stagnant wages. Rising inequality. Sluggish economic growth. Brexit is set to hit families right across the region really hard if there's No Deal and we have to use WTO rules. Impact on imported goods' cost after a No Deal Brexit: Cheese +44%, Dairy products +8%, Frozen beef +37%."
+            },
+            {
+                "title": "Action to Stop Brexit",
+                "content": "Brexit is something most people don\u2019t want. It\u2019s making matters worse. We can still stop Brexit. Shaffaq told us, 'We can still stop Brexit. I will vote in the press for us to be given the final say on any final deal between the UK and the EU.'"
+            },
+            {
+                "title": "Action on our NHS",
+                "content": "The current funding crisis in the NHS and Social Care is keeping all too many people up at night. Long waiting times. Cancelled operations. Rising costs of life-saving medication. The UK relies heavily on doctors and nurses from the EU, with an incredible 65,000 staff in the NHS in England coming from other EU countries. Any kind of Brexit is impacting this essential workforce."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Action on the climate crisis",
+                "policyDescription": "Liberal Democrats back aggressive plan to tackle existential threat. Newly-elected Liberal Democrat MEPs are urging a move towards more renewable energy."
+            },
+            {
+                "policyTitle": "Cost of Living",
+                "policyDescription": "Addressing stagnant wages, rising inequality, and sluggish economic growth. Ensuring the impact of Brexit on imported goods is mitigated."
+            },
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "Campaign to stop Brexit and ensure that people have the final say on any deal between the UK and the EU."
+            },
+            {
+                "policyTitle": "NHS Crisis",
+                "policyDescription": "Addressing funding crisis, long waiting times, cancelled operations, and impact of Brexit on NHS staffing."
+            }
+        ],
+        "mentions": {
+            "candidate": "Shaffaq Mohammed",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Action to Stop Brexit. Brexit is something most people don\u2019t want. It's making matters worse.",
+            "defence": "",
+            "economy": "Stagnant wages. Rising inequality. Sluggish economic growth. Impact on imported goods' cost after a No Deal Brexit.",
+            "education": "",
+            "environment": "Liberal Democrats back aggressive plan to tackle existential threat. Newly-elected Liberal Democrat MEPs are urging a move towards more renewable energy.",
+            "governance": "",
+            "government": "",
+            "health": "The current funding crisis in the NHS and Social Care is keeping all too many people up at night. Long waiting times. Cancelled operations. Rising costs of life-saving medication.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@ShaffaqMohammed.MEP",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Give people the final say"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Impact on imported goods' cost after a No Deal Brexit: Cheese +44%, Dairy products +8%, Frozen beef +37%",
+                        "The UK relies heavily on doctors and nurses from the EU, with an incredible 65,000 staff in the NHS in England coming from other EU countries."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Brexit is something most people don\u2019t want. It\u2019s making matters worse.",
+                        "The current funding crisis in the NHS and Social Care is keeping all too many people up at night."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Action on the climate crisis",
+                        "Action to help with cost of living",
+                        "Action to Stop Brexit",
+                        "Action on our NHS"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Brexit is something most people don\u2019t want. It\u2019s making matters worse.",
+                        "The current funding crisis in the NHS and Social Care is keeping all too many people up at night."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

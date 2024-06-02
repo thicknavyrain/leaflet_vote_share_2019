@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "Amanda",
+        "candidateGender": "",
+        "constituency": "Durham City",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "It's AMANDA or Corbyn's Labour",
+                "content": "Theresa May's Tories cannot win here. They haven't won a council seat since 1981. A month ago in this Constituency you elected 10 Labour and 10 Lib Dem county councillors and no Conservatives."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protecting pensions",
+                "policyDescription": "Focus on ensuring the protection of pensions."
+            },
+            {
+                "policyTitle": "Opposing the Tory dementia tax",
+                "policyDescription": "Standing against the Tory dementia tax."
+            },
+            {
+                "policyTitle": "Investing in the NHS & Social Care",
+                "policyDescription": "Investment plans for the NHS and social care."
+            },
+            {
+                "policyTitle": "Opposing school cuts",
+                "policyDescription": "Opposition to school cuts."
+            }
+        ],
+        "mentions": {
+            "candidate": "Amanda",
+            "otherPartyLeaderCandidate": "Theresa May, Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "Theresa May's Tories cannot win here. They haven't won a council seat since 1981. A month ago in this Constituency you elected 10 Labour and 10 Lib Dem county councillors and no Conservatives."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Opposing school cuts",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Investing in the NHS & Social Care",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Protecting pensions",
+            "community": [
+                {
+                    "content": "A strong voice for Durham City and its villages",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "9 Stock Road, SS2 5QF. The Grove, North End, Durham, DH1 4LU.",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "They haven't won a council seat since 1981.",
+                        "A month ago in this Constituency you elected 10 Labour and 10 Lib Dem county councillors and no Conservatives.",
+                        "Lib Dems 37%, Lab 30%, Con 18%, Green 8%."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Theresa May's Tories cannot win here.",
+                        "Hard Left Labour",
+                        "Hard Working And Local",
+                        "Hard Right Unknown Candidate"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "A strong voice for Durham City and its villages."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Protecting pensions",
+                        "Opposing the Tory dementia tax",
+                        "Investing in the NHS & Social Care",
+                        "Opposing school cuts"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May's Tories cannot win here."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Hard Working And Local",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "A strong voice for Durham City and its villages."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "leaflet": {
+        "candidateName": "Sabriye Warsame",
+        "candidateGender": "",
+        "constituency": "Hendon",
+        "politicalParty": "UKIP",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "The Truth About UKIP",
+                "content": "Keep the NHS free at point of delivery\nAn Australian-style, points based, fairer Immigration system\nScrap HS2 - Save at least \u00a380 billion!\nNo to Over-development, Community Led Planning and not opportunist developers"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Keep the NHS free at point of delivery. UKIP will ensure \u00a33 billion extra to the NHS to keep it free."
+            },
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "An Australian-style, points based, fairer Immigration system. UKIP opposes unlimited immigration and supports controlled immigration."
+            },
+            {
+                "policyTitle": "HS2",
+                "policyDescription": "Scrap HS2 - Save at least \u00a380 billion. Funds should be spent on infrastructure such as roads, footpaths, schools and hospitals."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "No to Over-development, Community Led Planning and not opportunist developers. Housing priority for local people."
+            },
+            {
+                "policyTitle": "Tax",
+                "policyDescription": "No tax on the minimum wage. Opposes the 'bedroom tax' and the 'mansion tax'."
+            },
+            {
+                "policyTitle": "Foreign Aid",
+                "policyDescription": "Opposes \u00a312 billion a year in foreign aid."
+            }
+        ],
+        "mentions": {
+            "candidate": "Sabriye Warsame",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Nigel Farage MEP",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Keep the NHS free at point of delivery. UKIP will ensure \u00a33 billion extra to the NHS to keep it free.",
+            "immigration": "An Australian-style, points based, fairer Immigration system. UKIP opposes unlimited immigration and supports controlled immigration.",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Scrap HS2 - Save at least \u00a380 billion.",
+            "socialWelfare": "Opposes the 'bedroom tax' and the 'mansion tax'. No tax on the minimum wage.",
+            "community": [
+                {
+                    "content": "No to Over-development, Community Led Planning and not opportunist developers. Housing priority for local people.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "UKIP, King Charles Business Park, Newton Abbot, Devon TQ12 6UT",
+            "phone": "",
+            "email": "",
+            "website": "ukip.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "\u2018The old parties are lying about UKIP and it\u2019s policies. They are running scared and don\u2019t want you to know the truth. Well here it is!\u2019",
+                "source": "Nigel Farage MEP",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Nigel Farage MEP with Sabriye Warsame"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "UKIP will ensure \u00a33 billion extra to the NHS to keep it free.",
+                        "Scrap HS2 - Save at least \u00a380 billion."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Keep the NHS free at point of delivery.",
+                        "No to Over-development, Community Led Planning and not opportunist developers.",
+                        "Housing priority for local people."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Housing priority for local people.",
+                        "No to Over-development, Community Led Planning and not opportunist developers."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "An Australian-style, points based, fairer Immigration system.",
+                        "Keep the NHS free at point of delivery.",
+                        "Scrap HS2 - Save at least \u00a380 billion."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

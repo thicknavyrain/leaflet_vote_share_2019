@@ -1,0 +1,159 @@
+{
+    "leaflet": {
+        "candidateName": "DANIEL ZEICHNER",
+        "candidateGender": "",
+        "constituency": "Cambridge",
+        "politicalParty": "Labour",
+        "electionDate": "12 December",
+        "messages": [
+            {
+                "title": "STOP THIS NIGHTMARE TORY GOVERNMENT",
+                "content": "We face the most right-wing Tory Government, further electrified by extreme and dangerous views. Imagination how you would feel if the next election each Labour MP elected against Johnson reminded their club of the horror that day you voted."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Vote for real experience, real principles, and real action",
+                "policyDescription": "Re-elect Daniel Zeichner"
+            }
+        ],
+        "mentions": {
+            "candidate": "Daniel Zeichner",
+            "otherPartyLeaderCandidate": "Johnson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "People need hope, not Brexit",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Climate change",
+            "governance": "",
+            "government": "",
+            "health": "NHS (National Health Service)",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "01223 500515",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "We face the most right-wing Tory Government, further electrified by extreme and dangerous views."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "We face the most right-wing Tory Government, further electrified by extreme and dangerous views."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "We face the most right-wing Tory Government, further electrified by extreme and dangerous views."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

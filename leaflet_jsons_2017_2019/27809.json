@@ -1,0 +1,199 @@
+{
+    "leaflet": {
+        "candidateName": "Jeremy Corbyn",
+        "candidateGender": "",
+        "constituency": "Islington North",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "",
+                "content": "Islington Labour is on your side"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Building affordable housing for families",
+                "policyDescription": "Building more affordable housing including over 50,000 council homes and improving safety standards."
+            },
+            {
+                "policyTitle": "Employment with rights",
+                "policyDescription": "Protect new workers by bringing in a \u00a310 per hour living wage."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Bringing back free school meals and college grants, providing free education for all ages."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Ending NHS privatisation and providing secure funding."
+            },
+            {
+                "policyTitle": "Transport",
+                "policyDescription": "Bringing railways back into public ownership."
+            }
+        ],
+        "mentions": {
+            "candidate": "Vote Labour on 8th June to re-elect me as your MP and to elect a Labour Government.",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Re-Elect Jeremy Corbyn",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Protecting the rights of EU citizens living in the UK and protecting the Workers\u2019 Rights.",
+            "defence": "",
+            "economy": "Bringing in a \u00a310 per hour living wage.",
+            "education": "Bringing back free school meals and college grants, providing free education for all ages.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Ending NHS privatisation and providing secure funding.",
+            "immigration": "",
+            "labourEmployment": "Protect new workers by bringing in a \u00a310 per hour living wage.",
+            "lawCrime": "",
+            "transport": "Bringing railways back into public ownership.",
+            "socialWelfare": "Building more affordable housing including over 50,000 council homes and improving safety standards.",
+            "community": [
+                {
+                    "content": "Building more affordable housing including over 50,000 council homes and improving safety standards.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Labour Parliamentary Candidate for Islington North",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "65 Barnsbury Street, London, N1",
+            "phone": "0203 475 3476",
+            "email": "jeremy@jeremycorbyn.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "facebook.com/jeremycorbyn",
+                "twitter": "@jeremycorbyn",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Islington Labour",
+                "endorsement": "Islington Labour is on your side"
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Vote Labour on 8th June to re-elect me as your MP and to elect a Labour Government.",
+                "source": "Jeremy Corbyn",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Jeremy Corbyn, Labour candidate for Islington North"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Bringing in a \u00a310 per hour living wage.",
+                        "Building more affordable housing including over 50,000 council homes."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Islington Labour is on your side",
+                        "Providing free education for all ages.",
+                        "Protecting the rights of EU citizens living in the UK."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Building more affordable housing including over 50,000 council homes and improving safety standards."
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "Protect new workers by bringing in a \u00a310 per hour living wage.",
+                        "Providing free education for all ages.",
+                        "Ending NHS privatisation and providing secure funding.",
+                        "Bringing railways back into public ownership.",
+                        "Protecting the rights of EU citizens living in the UK."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Islington Labour is on your side"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

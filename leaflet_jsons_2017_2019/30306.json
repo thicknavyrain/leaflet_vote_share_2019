@@ -1,0 +1,175 @@
+{
+    "leaflet": {
+        "candidateName": "Ryan Stephenson",
+        "candidateGender": "",
+        "constituency": "Leeds North East",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": "Ryan Stephenson for Leeds North East STANDING WITH THERESA MAY"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Ryan's Five-Point Plan for Leeds North East",
+                "policyDescription": "1. More school places; 2. Extra funding for our NHS; 3. Delivering Brexit; 4. Strengthening job and skills; 5. Support for local businesses."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ryan Stephenson",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "Your choice at this election: Theresa May strong, stable leadership in the national interest OR A coalition of chaos with Jeremy Corbyn"
+        },
+        "issues": {
+            "brexitEurope": "Making Brexit a success is central to our national interest.",
+            "defence": "",
+            "economy": "Securing our economic future. Shock win: Brexit: Europe stunned by UK leave vote.",
+            "education": "More school places.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Extra funding for our NHS",
+            "immigration": "",
+            "labourEmployment": "Strengthening job and skills.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Support for local businesses",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I am asking for your support as your local candidate to deliver for the first time in this seat the promise of more job opportunities for local people, better resources for our schools and positive representation in your area.",
+        "politicalExperience": [
+            {
+                "role": "Local councillor",
+                "duration": "",
+                "achievements": "worked to reveal chronic homelessness in our city, highlighting Labour Council's failings."
+            }
+        ],
+        "contactInformation": {
+            "address": "Mill Green, Leeds, LS27 9EL",
+            "phone": "",
+            "email": "conservatives@ryanstephenson.co.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "fb.com/conservatives",
+                "twitter": "@conservatives",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May strong, stable leadership in the national interest"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Shock win: Brexit: Europe stunned by UK leave vote.",
+                        "1. More school places; 2. Extra funding for our NHS; 3. Delivering Brexit; 4. Strengthening job and skills; 5. Support for local businesses.",
+                        "Theresa May strong, stable leadership in the national interest."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "I am asking for your support as your local candidate to deliver for the first time in this seat the promise of more job opportunities for local people, better resources for our schools and positive representation in your area.",
+                        "worked to reveal chronic homelessness in our city, highlighting Labour Council's failings."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 6,
+                "candidateAlone": 2,
+                "candidateWithOthers": 4
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "More school places.",
+                        "Support for local businesses",
+                        "better resources for our schools"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Making Brexit a success is central to our national interest.",
+                        "Theresa May strong, stable leadership in the national interest.",
+                        "Shock win: Brexit: Europe stunned by UK leave vote."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "Jeremy Corbyn was 200-1 outsider",
+                        "Jeremy Corbyn voted Labour leader",
+                        "Shock win: Brexit: Europe stunned by UK leave vote."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I am asking for your support as your local candidate.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I am asking for your support as your local candidate.",
+                    "Local councillor"
+                ]
+            }
+        }
+    }
+}

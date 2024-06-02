@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "candidateGender": "female",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "An Important Message from Theresa May to You",
+                "content": "Getting on with the job of securing the best possible deal from Brexit is vital. Our future prosperity, our place in the world, and our standard of living all depend on getting the Brexit deal right. And with your help, together we can make it work."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Take back control of our borders, our laws, and our money; sign new trade deals; ensure a smooth and orderly Brexit; maintain a strong negotiating hand."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Only with a good deal from Brexit can we keep our growing economy and all the public services we rely on."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Getting on with the job of securing the best possible deal from Brexit is vital. Getting Brexit right matters because it will decide whether or not our children have a safe, secure, and prosperous future.",
+            "defence": "",
+            "economy": "Only with a good deal from Brexit can we keep our growing economy and all the public services we rely on: well-paid jobs, more affordable housing, a good school place for every child, and a strong economy paying for a strong NHS.",
+            "education": "A good school place for every child.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "A strong economy paying for a strong NHS.",
+            "immigration": "Take back control of our borders.",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May for Britain"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 5,
+                    "examples": [
+                        "The deficit down by almost two thirds",
+                        "Income tax cut for 31 million people",
+                        "2.8 million new jobs",
+                        "Welfare capped to reward work",
+                        "3 million new apprenticeships"
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Getting on with the job of securing the best possible deal from Brexit is vital.",
+                        "Getting Brexit right matters because it will decide whether or not our children have a safe, secure, and prosperous future.",
+                        "Only with a good deal from Brexit can we keep our growing economy and all the public services we rely on: well-paid jobs, more affordable housing, a good school place for every child, and a strong economy paying for a strong NHS.",
+                        "The only way you can ensure we have the strong and stable leadership to get this right is by backing me, and voting for my Conservative candidate in your local area.",
+                        "EU leaders agree on tough stance at special Brexit summit."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "Getting on with the job of securing the best possible deal from Brexit is vital.",
+                        "Getting Brexit right matters because it will decide whether or not our children have a safe, secure, and prosperous future.",
+                        "Only with a good deal from Brexit can we keep our growing economy and all the public services we rely on: well-paid jobs, more affordable housing, a good school place for every child, and a strong economy paying for a strong NHS.",
+                        "The only way you can ensure we have the strong and stable leadership to get this right is by backing me, and voting for my Conservative candidate in your local area.",
+                        "EU leaders agree on tough stance at special Brexit summit."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Don't risk a coaltion of chaos",
+                        "The risk is just too big to take: Higher debt, higher taxes, economic chaos"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "At risk with Corbyn"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Think Jeremy Corbyn as Prime Minister is never going to happen?"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

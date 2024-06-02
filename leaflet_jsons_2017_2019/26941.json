@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "Edward Argar",
+        "candidateGender": "",
+        "constituency": "Charnwood",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "YOUR SEAT COUNTS AND EVERY SINGLE VOTE WILL COUNT",
+                "content": "If you want to make a real difference, back me by voting for my candidate, Edward Argar, in your local constituency of Charnwood. You will have a say in a strong and stable government, that will deliver the best Brexit deal for you and for Britain."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Making Brexit a Success",
+                "policyDescription": "By going to Brussels with a strong negotiating hand, ensure economic security and prosperity."
+            },
+            {
+                "policyTitle": "Stable Leadership",
+                "policyDescription": "Providing strong and stable leadership for Charnwood and Britain."
+            }
+        ],
+        "mentions": {
+            "candidate": "Edward Argar",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "Some people say Jeremy Corbyn can't possibly become Prime Minister and it doesn't matter who you vote for in Charnwood constituency."
+        },
+        "issues": {
+            "brexitEurope": "We will go to Brussels with a strong negotiating hand to ensure we guarantee our economic security.",
+            "defence": "",
+            "economy": "With dedication and hard work, we can make a success of Brexit and build our country together - building a stronger economy and creating more secure and well-paid jobs.",
+            "education": "Where every child gets a good school place and working people can buy a home.",
+            "environment": "",
+            "governance": "This is a unique and crucial election for our country.",
+            "government": "In a hung parliament and coalition of chaos with Jeremy Corbyn negotiating Brexit.",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Corbyn negotiating Brexit - which we would all pay for in higher taxes, fewer jobs, more waste and more debt.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "THERESA MAY AND EDWARD ARGAR - STRONG AND STABLE LEADERSHIP FOR CHARNWOOD AND FOR BRITAIN"
+                },
+                {
+                    "caption": "A COALITION OF CHAOS WITH JEREMY CORBYN"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Making Brexit a success is central to our national interest and it is central to your own security and prosperity.",
+                        "We can make a success of Brexit and build our country together - building a stronger economy and creating more secure and well-paid jobs.",
+                        "We will go to Brussels with a strong negotiating hand to ensure we guarantee our economic security.",
+                        "It is nonsense to me that votes for Mr Corbyn\u2019s local Labour candidate as a vote for or from locally doesn\u2019t matter nationally."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "back me by voting for my candidate, Edward Argar, in your local constituency of Charnwood."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Make Brexit a success is central to our national interest.",
+                        "Some people say Jeremy Corbyn can't possibly become Prime Minister and it doesn't matter who you vote for in Charnwood constituency."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "Labour plots Brexit deal with other parties if Tories don't win election majority.",
+                        "Corbyn negotiating Brexit.",
+                        "A Coalition of Chaos with Jeremy Corbyn."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 3,
+                    "examples": [
+                        "Jeremy Corbyn",
+                        "Jeremy Corbyn negotiating Brexit.",
+                        "coalition of chaos with Jeremy Corbyn."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

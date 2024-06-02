@@ -1,0 +1,187 @@
+{
+    "leaflet": {
+        "candidateName": "Catherine Atkinson",
+        "candidateGender": "",
+        "constituency": "Erewash",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "The strongest voice for Erewash?",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Fought bed cuts at Ilkeston Hospital."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Fights to stop HS2 cutting through Long Eaton and protect our environment."
+            },
+            {
+                "policyTitle": "Public Services",
+                "policyDescription": "Successfully campaigned to stop the closure of Hazelwood, Ilkeston's last local authority care home."
+            },
+            {
+                "policyTitle": "Law Enforcement",
+                "policyDescription": "Campaigned against the closure of Long Eaton Police Station."
+            },
+            {
+                "policyTitle": "Emergency Services",
+                "policyDescription": "Successfully campaigned to stop the closure of Long Eaton Fire Station."
+            }
+        ],
+        "mentions": {
+            "candidate": "Catherine Atkinson",
+            "otherPartyLeaderCandidate": "Maggie Throup",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Fights to stop HS2 cutting through Long Eaton and protect our environment.",
+            "governance": "",
+            "government": "",
+            "health": "Fought bed cuts at Ilkeston Hospital.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Campaigned against the closure of Long Eaton Police Station.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Successfully campaigned to stop the closure of Hazelwood, Ilkeston's last local authority care home.",
+                    "yimbyNimby": "N/A"
+                },
+                {
+                    "content": "Successfully campaigned to stop the closure of Long Eaton Fire Station.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Catherine Atkinson"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 5,
+                    "examples": [
+                        "Fought bed cuts at Ilkeston Hospital.",
+                        "Fights to stop HS2 cutting through Long Eaton and protect our environment.",
+                        "Successfully campaigned to stop the closure of Hazelwood, Ilkeston's last local authority care home.",
+                        "Campaigned against the closure of Long Eaton Police Station.",
+                        "Successfully campaigned to stop the closure of Long Eaton Fire Station."
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 5,
+                    "examples": [
+                        "Promised no bed cuts at Ilkeston Hospital then backed the loss of 50% of beds.",
+                        "Voted for HS2 in Parliament. Supports HS2 cutting Long Eaton in two which would cause more traffic congestion.",
+                        "The Tories have taken \u00a38bn out of social care funding since 2010.",
+                        "Supported Tory cuts to the number of police of 20,000 since 2010.",
+                        "Voted for every Tory budget: Relentless Tory cuts to fire and rescue services."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Maggie Throup: Promised no bed cuts at Ilkeston Hospital then backed the loss of 50% of beds."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "leaflet": {
+        "candidateName": "Alex Norris",
+        "candidateGender": "",
+        "constituency": "Nottingham North",
+        "politicalParty": "Labour and Co-operative Party",
+        "electionDate": "Thursday 12 December",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Saved and improved Basford Hall College",
+                "policyDescription": "Successfully saved and improved Basford Hall College."
+            },
+            {
+                "policyTitle": "Saved the most vulnerable",
+                "policyDescription": "Saved the most vulnerable in our community."
+            },
+            {
+                "policyTitle": "Groundbreaking 'lung health MOTs'",
+                "policyDescription": "Delivered over a dozen initiatives through our groundbreaking 'lung health MOTs'."
+            },
+            {
+                "policyTitle": "Job fairs and courses",
+                "policyDescription": "Helped thousands of people with our job fairs and courses."
+            },
+            {
+                "policyTitle": "School cuts",
+                "policyDescription": "Successfully campaigned to reduce school cuts."
+            },
+            {
+                "policyTitle": "New powers for councils",
+                "policyDescription": "Fought for new powers to build more council homes."
+            },
+            {
+                "policyTitle": "NHS and care services",
+                "policyDescription": "Championed our NHS, care for the elderly, police and youth services."
+            }
+        ],
+        "mentions": {
+            "candidate": "Alex Norris",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "A vote for anyone other than Alex risks letting the Tories in!"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Successfully saved and improved Basford Hall College.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Delivered over a dozen initiatives through our groundbreaking 'lung health MOTs'. Championed our NHS.",
+            "immigration": "",
+            "labourEmployment": "Helped thousands of people with our job fairs and courses.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Championed our NHS, care for the elderly, police and youth services.",
+            "community": [
+                {
+                    "content": "Successfully campaigned to reduce school cuts. Fought for new powers to build more council homes.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "15 Commercial Road, NG6 8PR",
+            "phone": "07306 682481",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Successfully saved and improved Basford Hall College.",
+                        "Successfully campaigned to reduce school cuts."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Saved the most vulnerable in our community.",
+                        "Delivered over a dozen initiatives through our groundbreaking 'lung health MOTs'.",
+                        "Helped thousands of people with our job fairs and courses.",
+                        "Fought for new powers to build more council homes.",
+                        "Championed our NHS, care for the elderly, police and youth services."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 5,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Fought for new powers to build more council homes."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Championed our NHS."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "A vote for anyone other than Alex risks letting the Tories in!"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "This Thursday Stop the NHS Cuts",
+                "content": "A Liberal Democrat vote will give our NHS the boost it needs. Vote Liberal Democrat on Thursday."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS and Social Care",
+                "policyDescription": "The Liberal Democrats have pledged to increase income tax by a penny for every pound to fund the NHS and social care."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "In areas like this the Conservatives can't win."
+        },
+        "issues": {
+            "health": "Stop the NHS cuts. A Liberal Democrat vote will give our NHS the boost it needs. The boost that our NHS and social care need with the Liberal Democrats.",
+            "economy": "The Liberal Democrats would put 1p on income tax.",
+            "socialWelfare": "The boost that our NHS and social care need with the Liberal Democrats. \u00a36 billion extra per year for our NHS and social care."
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Labour is too busy fighting its own civil war to fight for our NHS.",
+                "source": "",
+                "date": ""
+            },
+            {
+                "text": "Labour who are too busy fighting with each other to fight for our NHS.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "\u00a36 billion extra per year for our NHS and social care."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Labour is too busy fighting its own civil war to fight for our NHS.",
+                        "Labour who are too busy fighting with each other to fight for our NHS."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "In areas like this the Conservatives can't win."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "The boost that our NHS and social care need with the Liberal Democrats.",
+                        "\u00a36 billion extra per year for our NHS and social care.",
+                        "The Liberal Democrats would put 1p on income tax."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Labour is too busy fighting its own civil war to fight for our NHS.",
+                        "Labour who are too busy fighting with each other to fight for our NHS."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "'Labour's Jeremy Corbyn'."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

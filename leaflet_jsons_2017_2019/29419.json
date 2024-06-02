@@ -1,0 +1,164 @@
+{
+    "leaflet": {
+        "candidateName": "Annabel Tall",
+        "candidateGender": "",
+        "constituency": "Bristol West",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Transport, Clean Air, Education and Housing",
+                "policyDescription": "A happier, healthier Bristol with transport, clean air, education and housing solutions for everyone."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "A strong, stable government who can negotiate the best Brexit for Bristol."
+            }
+        ],
+        "mentions": {
+            "candidate": "Annabel Tall",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "A strong, stable government who can negotiate the best Brexit for Bristol.",
+            "defence": "",
+            "economy": "",
+            "education": "Education solutions for everyone.",
+            "environment": "Clean air solutions for everyone.",
+            "governance": "",
+            "government": "",
+            "health": "A happier, healthier Bristol.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Transport solutions for everyone.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "A happier, healthier Bristol with transport, clean air, education and housing solutions for everyone.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "An experienced, grounded, realistic political campaigner and Chartered Engineer with a special interest in disability issues.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "A happier, healthier Bristol with transport, clean air, education and housing solutions for everyone.",
+                        "A strong, stable government who can negotiate the best Brexit for Bristol."
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

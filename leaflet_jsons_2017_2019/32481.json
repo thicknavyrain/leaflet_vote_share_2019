@@ -1,0 +1,164 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Altrincham & Sale West",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Voting Labour here only helps him win",
+                "content": "Here\u2019s why independent \u2018Best for Britain\u2019 is recommending you vote Liberal Democrat in Altrincham & Sale West: Labour finished fourth in the 2019 European Elections. Labour have never won in Altrincham & Sale West. Voting Labour in Altrincham & Sale West splits the anti-Tory Remain vote and risks letting Boris Johnson\u2019s candidate win. Make sure your vote counts. Back the Liberal Democrats."
+            },
+            {
+                "title": "Your vote will make the difference...",
+                "content": "A pro-European candidate can win here in Altrincham & Sale West if you vote for them. Independent pro-Remain group \u2018Best for Britain\u2019 recommends you vote tactically for: Liberal Democrats"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Tactical Voting",
+                "policyDescription": "Backing Liberal Democrats to unite the anti-Tory Remain vote."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": "Voting Labour in Altrincham & Sale West splits the anti-Tory Remain vote and risks letting Boris Johnson\u2019s candidate win."
+        },
+        "issues": {
+            "brexitEurope": "A pro-European candidate can win here in Altrincham & Sale West if you vote for them. The Lib Dems are unequivocal remainers who want to stop Brexit from happening.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Best for Britain",
+                "endorsement": "Recommending you vote Liberal Democrat in Altrincham & Sale West."
+            },
+            {
+                "endorser": "The Guardian",
+                "endorsement": "The Lib Dems are unequivocal remainers who want to stop Brexit from happening."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Labour finished fourth in the 2019 European Elections.",
+                        "Labour have never won in Altrincham & Sale West.",
+                        "Voting Labour in Altrincham & Sale West splits the anti-Tory Remain vote and risks letting Boris Johnson\u2019s candidate win."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "A pro-European candidate can win here in Altrincham & Sale West if you vote for them.",
+                        "The Lib Dems are unequivocal remainers who want to stop Brexit from happening."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Labour have never won in Altrincham & Sale West."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Labour finished fourth in the 2019 European Elections.",
+                        "The Lib Dems are unequivocal remainers who want to stop Brexit from happening."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "Recommending you vote Liberal Democrat in Altrincham & Sale West. (Best for Britain)",
+                    "The Lib Dems are unequivocal remainers who want to stop Brexit from happening. (The Guardian)"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour finished fourth in the 2019 European Elections."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Risks letting Boris Johnson\u2019s candidate win."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

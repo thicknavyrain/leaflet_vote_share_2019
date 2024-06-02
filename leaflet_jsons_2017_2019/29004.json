@@ -1,0 +1,182 @@
+{
+    "leaflet": {
+        "candidateName": "Owen Meredith",
+        "candidateGender": "",
+        "constituency": "Newcastle-under-Lyme",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Theresa May: Strong, Stable Leadership in the National Interest",
+                "content": "A coalition of chaos with Jeremy Corbyn. Discussions between Labour, Liberal Democrats and the SNP on how to prop up a weak, floundering and nonsensical 'progressive alliance.' Think Jeremy Corbyn as Prime Minister is never going to happen? Don't be so sure."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A Successful Brexit for Newcastle",
+                "policyDescription": "Backing the Prime Minister\u2019s plan to get the best possible Brexit deal."
+            },
+            {
+                "policyTitle": "Economic Stability and Jobs",
+                "policyDescription": "Creating more jobs and supporting local businesses."
+            },
+            {
+                "policyTitle": "A Local Champion for Newcastle",
+                "policyDescription": "Investing in our local schools and supporting our NHS, building a stronger economy."
+            }
+        ],
+        "mentions": {
+            "candidate": "Owen Meredith",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Making Brexit a success is central to our national interest.",
+            "defence": "",
+            "economy": "Economic Stability and Jobs - Creating more jobs and supporting local businesses.",
+            "education": "Investing in our local schools.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Supporting our NHS.",
+            "immigration": "",
+            "labourEmployment": "Creating more jobs.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Investing in our local schools and supporting our NHS.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "A Local Champion for Newcastle: Owen Meredith has the record we need to champion our area in Westminster.",
+        "politicalExperience": [
+            {
+                "role": "Previous roles in supporting the Prime Minister\u2019s plan.",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "07377 142190",
+            "email": "campaign@owenmeredith.co.uk",
+            "website": "www.owenmeredith.co.uk",
+            "socialMedia": {
+                "facebook": "fb.com/OwenMeredithNUL",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Think Jeremy Corbyn as Prime Minister is never going to happen? Don't be so sure.",
+                        "Backing the Prime Minister\u2019s plan to get the best possible Brexit deal."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Investing in our local schools and supporting our NHS.",
+                        "Creating more jobs and supporting local businesses."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Theresa May: Strong, Stable Leadership in the National Interest.",
+                        "Making Brexit a success is central to our national interest.",
+                        "A coalition of chaos with Jeremy Corbyn."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Owen Meredith has the record we need to champion our area in Westminster.",
+                    "issueRelated": "Community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn. Discussions between Labour, Liberal Democrats and the SNP on how to prop up a weak, floundering and nonsensical 'progressive alliance.'"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Think Jeremy Corbyn as Prime Minister is never going to happen? Don't be so sure."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "A Local Champion for Newcastle: Owen Meredith has the record we need to champion our area in Westminster.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "A Local Champion for Newcastle: Owen Meredith has the record we need to champion our area in Westminster."
+                ]
+            }
+        }
+    }
+}

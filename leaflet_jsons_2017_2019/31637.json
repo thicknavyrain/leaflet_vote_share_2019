@@ -1,0 +1,164 @@
+{
+    "leaflet": {
+        "candidateName": "Jane Dodds",
+        "candidateGender": "",
+        "constituency": "Brecon & Radnorshire",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "For a brighter future:",
+                "content": "A fairer Britain, tackle the climate emergency, more money for our schools and NHS"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A fairer Britain",
+                "policyDescription": "Britain needs fresh vision and leadership to restore fairness in our country. The Liberal Democrats will build an economy that works for everyone, not just the richest."
+            },
+            {
+                "policyTitle": "Tackle the climate emergency",
+                "policyDescription": "The Liberal Democrats will tackle the urgent climate crisis by reducing our reliance on fossil fuels, making Britain a world leader in renewable energy and green technology."
+            },
+            {
+                "policyTitle": "More money for our schools and NHS",
+                "policyDescription": "As Prime Minister, Jo Swinson will fight for a fair share of funding targeted towards Wales to support our schools and NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jane Dodds",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": "Labour can't win here"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Tackle the climate emergency",
+            "governance": "",
+            "government": "",
+            "health": "More money for our schools and NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Strengthening rural communities, Fighting for better healthcare, Standing up for our farmers and services",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.libdems.org.uk/plan",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Result here in 2019 by-election: Con 39%, Lib Dem 43%, Lab 5%"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Labour can't win here",
+                        "Ceidwadwyr Boris Johnson\u2019s Conservatives",
+                        "Mae\u2019n ddewis clir"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 5,
+                "candidateAlone": 2,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Strengthening rural communities",
+                        "Standing up for our farmers and services"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Fighting for better healthcare"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Their uncaring cuts will hit our area hard",
+                        "Result here in 2019 by-election: Con 39%, Lib Dem 43%, Lab 5%"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Ceidwadwyr Boris Johnson\u2019s Conservatives"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 2,
+                    "examples": [
+                        "Result here in 2019 by-election: Con 39%, Lib Dem 43%, Lab 5%",
+                        "Labour can't win here"
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

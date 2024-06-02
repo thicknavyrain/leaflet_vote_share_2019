@@ -1,0 +1,183 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "THE PROGRESS WE'VE MADE TOGETHER AS A NATION SINCE 2010",
+                "content": "THE DEFICIT DOWN by almost two thirds\nINCOME TAX CUT for 31 million people\n2.8 MILLION NEW JOBS\nWELFARE CAPPED to reward work\n3 MILLION NEW APPRENTICESHIPS\nSAFER STREETS with crime down by a third"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "THE DEFICIT DOWN",
+                "policyDescription": "Deficit reduced by almost two thirds"
+            },
+            {
+                "policyTitle": "INCOME TAX CUT",
+                "policyDescription": "Tax cuts for 31 million people"
+            },
+            {
+                "policyTitle": "NEW JOBS",
+                "policyDescription": "2.8 million new jobs"
+            },
+            {
+                "policyTitle": "WELFARE CAPPED",
+                "policyDescription": "Capped welfare to reward work"
+            },
+            {
+                "policyTitle": "NEW APPRENTICESHIPS",
+                "policyDescription": "3 million new apprenticeships"
+            },
+            {
+                "policyTitle": "SAFER STREETS",
+                "policyDescription": "Crime down by a third"
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Deficit reduced by almost two thirds",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "2.8 million new jobs\n3 million new apprenticeships",
+            "lawCrime": "Crime down by a third",
+            "transport": "",
+            "socialWelfare": "Capped welfare to reward work",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 4,
+                    "examples": [
+                        "Deficit reduced by almost two thirds",
+                        "Tax cuts for 31 million people",
+                        "2.8 million new jobs",
+                        "Crime down by a third"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Welfare capped to reward work",
+                        "Safer streets"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 6,
+                    "examples": [
+                        "Deficit reduced by almost two thirds",
+                        "Tax cuts for 31 million people",
+                        "2.8 million new jobs",
+                        "3 million new apprenticeships",
+                        "Capped welfare to reward work",
+                        "Crime down by a third"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 6,
+                    "examples": [
+                        "AT RISK WITH CORBYN (for each key policy mentioned)"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "AT RISK WITH CORBYN"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "AT RISK WITH CORBYN"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

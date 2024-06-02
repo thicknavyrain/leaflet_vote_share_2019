@@ -1,0 +1,26 @@
+{
+    "leaflet": {
+        "messages": [
+            {
+                "title": "LABOUR WILL PUT BOBBIES ON THE BEAT.",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Putting Bobbies on the Beat",
+                "policyDescription": "Labour's promise to increase police presence."
+            }
+        ],
+        "issues": {
+            "lawCrime": "Labour will increase police presence by putting bobbies on the beat."
+        },
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Labour will put bobbies on the beat"
+                }
+            ]
+        }
+    }
+}

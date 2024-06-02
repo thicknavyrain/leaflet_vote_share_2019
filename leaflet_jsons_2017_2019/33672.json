@@ -1,0 +1,212 @@
+{
+    "leaflet": {
+        "candidateName": "Rosa Bolger",
+        "candidateGender": "",
+        "constituency": "West Oxfordshire",
+        "politicalParty": "Labour and Co-operative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Vote Rosa Bolger",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Forming a Government",
+                "policyDescription": "Capable of forming a government without a coalition"
+            },
+            {
+                "policyTitle": "Austerity",
+                "policyDescription": "Commits to end crippling austerity"
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "People's vote, not revoke, on Brexit"
+            },
+            {
+                "policyTitle": "Local Track Record",
+                "policyDescription": "Candidate has fantastic local track record"
+            },
+            {
+                "policyTitle": "Climate Emergency",
+                "policyDescription": "Actively tackling the climate emergency"
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Vows to bring the NHS back to life"
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Commitment to improve schools and reduce class size"
+            }
+        ],
+        "mentions": {
+            "candidate": "Rosa Bolger",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "2nd to Conservatives in 2015 & 2017"
+        },
+        "issues": {
+            "brexitEurope": "People's vote, not revoke, on Brexit",
+            "defence": "",
+            "economy": "",
+            "education": "Commitment to improve schools and reduce class size",
+            "environment": "Actively tackling the climate emergency",
+            "governance": "",
+            "government": "Capable of forming a government without a coalition",
+            "health": "Vows to bring the NHS back to life",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Commits to end crippling austerity",
+            "community": [
+                {
+                    "content": "Candidate has fantastic local track record",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "21 Cordell Gardens Witney OX28 4DF",
+            "phone": "",
+            "email": "",
+            "website": "labour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "2nd to Conservatives in 2015 & 2017"
+                    ]
+                },
+                "qualitative": {
+                    "count": 8,
+                    "examples": [
+                        "Capable of forming a government without a coalition",
+                        "Commits to end crippling austerity",
+                        "People's vote, not revoke, on Brexit",
+                        "Candidate has fantastic local track record",
+                        "Actively tackling the climate emergency",
+                        "Vows to bring the NHS back to life",
+                        "Commitment to improve schools and reduce class size"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Candidate has fantastic local track record"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "People's vote, not revoke, on Brexit",
+                        "Capable of forming a government without a coalition"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Candidate has fantastic local track record",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,217 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Romsey & Southampton North",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "LABOUR CAN WIN",
+                "content": "Labour won in Canterbury & Kensington. We can win in Romsey!"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Renationalise the NHS",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Bring railways up to scratch",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Stop Corporate tax-evasion",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Free education & childcare",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Free school meals",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "End student loans",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "New homes",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Fair rents",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "Labour won in Canterbury & Kensington. We can win in Romsey!"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Stop Corporate tax-evasion",
+            "education": [
+                "Free education & childcare",
+                "End student loans"
+            ],
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Renationalise the NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Bring railways up to scratch",
+            "socialWelfare": [
+                "Free school meals",
+                "Fair rents"
+            ],
+            "community": [
+                {
+                    "content": "New homes",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "57.1% (2017 General Election - constituency vote share)"
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Labour won in Canterbury & Kensington. We can win in Romsey!"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Renationalise the NHS",
+                        "Stop Corporate tax-evasion",
+                        "Bring railways up to scratch"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

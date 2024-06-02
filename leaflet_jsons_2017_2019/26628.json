@@ -1,0 +1,178 @@
+{
+    "leaflet": {
+        "candidateName": "Mike Ross",
+        "candidateGender": "",
+        "constituency": "North Hull",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Fighting for real change",
+                "content": ""
+            },
+            {
+                "title": "Our country needs a strong opposition",
+                "content": "The Conservatives plan to cut schools and hospital funding and Jeremy Corbyn's Labour Party are too weak and divided to do anything about it. Only MIKE ROSS and the Liberal Democrats will provide the effective opposition that will stop the Conservatives and get a better deal for our area. Mike said: 'Jeremy Corbyn\u2019s weak leadership means the Tories think they can get away with doing what they like. It means further cuts to our NHS and local schools. Another Labour MP here will change nothing. It\u2019ll mean more Jeremy Corbyn and years of Conservative cuts with no real opposition. This election is your chance to change that. A Lib Dem MP here will help deliver the strong opposition our area and our country needs.'"
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Mike Ross",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "voting system",
+            "health": "stop further cuts to our NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Only the Lib Dems can deliver the strong opposition the country needs.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "FREEPOST RSEH-XLSX-ACKU, Hull, HU8 8QT",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Jeremy Corbyn\u2019s weak leadership means the Tories think they can get away with doing what they like. It means further cuts to our NHS and local schools. Another Labour MP here will change nothing. It\u2019ll mean more Jeremy Corbyn and years of Conservative cuts with no real opposition.",
+                "source": "Mike",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Liberal Democrats Winning here!"
+                },
+                {
+                    "caption": "Help MIKE ROSS win in North Hull"
+                },
+                {
+                    "caption": "Only the Lib Dems can deliver the strong opposition the country needs"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "further cuts to our NHS and local schools"
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Fighting for real change",
+                        "The Conservatives plan to cut schools and hospital funding and Jeremy Corbyn's Labour Party are too weak and divided to do anything about it.",
+                        "This election is your chance to change that. A Lib Dem MP here will help deliver the strong opposition our area and our country needs.",
+                        "Only the Lib Dems can deliver the strong opposition the country needs.",
+                        "'Jeremy Corbyn\u2019s weak leadership means the Tories think they can get away with doing what they like.'"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 0,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "further cuts to our NHS and local schools"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Only the Lib Dems can deliver the strong opposition the country needs."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 4,
+                    "examples": [
+                        "The Conservatives plan to cut schools and hospital funding",
+                        "Jeremy Corbyn's Labour Party are too weak and divided to do anything about it.",
+                        "'Jeremy Corbyn\u2019s weak leadership means the Tories think they can get away with doing what they like. It means further cuts to our NHS and local schools.'",
+                        "Another Labour MP here will change nothing. It\u2019ll mean more Jeremy Corbyn and years of Conservative cuts with no real opposition."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn\u2019s weak leadership means the Tories think they can get away with doing what they like.",
+                        "Jeremy Corbyn and years of Conservative cuts with no real opposition."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "leaflet": {
+        "candidateName": "Richard Benwell",
+        "candidateGender": "",
+        "constituency": "Wantage",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Richard Benwell Sets The Pace",
+                "content": "Local man and environment expert is taking on Boris Johnson\u2019s Conservative candidate from London."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Environmental Protection",
+                "policyDescription": "Leading environmental expert Dr. Richard Benwell is winning support across the Wantage constituency."
+            }
+        ],
+        "mentions": {
+            "candidate": "Local man and environment expert is taking on Boris Johnson\u2019s Conservative candidate from London.",
+            "otherPartyLeaderCandidate": "Boris Johnson\u2019s Conservative candidate from London",
+            "partyLeader": "",
+            "tacticalSituation": "The election here in Wantage constituency is turning into a \u201ctwo horse race\u201d between Lib Dem Dr. Richard Benwell and the Conservative candidate from London."
+        },
+        "issues": {
+            "brexitEurope": "A fantastic response to our campaign",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Leading environmental expert Dr. Richard Benwell is winning support across the Wantage constituency.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "It is great to be able to travel round the constituency and see our Lib Dem diamonds springing up everywhere.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Leading environmental expert Dr. Richard Benwell is winning support across the Wantage constituency."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Local man and environment expert is taking on Boris Johnson\u2019s Conservative candidate from London.",
+                        "A fantastic response to our campaign",
+                        "It is great to be able to travel round the constituency and see our Lib Dem diamonds springing up everywhere.",
+                        "Leading environmental expert Dr. Richard Benwell is winning support across the Wantage constituency."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Leading environmental expert Dr. Richard Benwell is winning support across the Wantage constituency.",
+                        "It is great to be able to travel round the constituency and see our Lib Dem diamonds springing up everywhere."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "A fantastic response to our campaign"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson\u2019s Conservative candidate from London"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Local man",
+                "employment": "environment expert",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Local man and environment expert is taking on Boris Johnson\u2019s Conservative candidate from London."
+                ]
+            }
+        }
+    }
+}

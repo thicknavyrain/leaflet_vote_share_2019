@@ -1,0 +1,162 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Plaid Cymru",
+        "electionDate": "2019",
+        "messages": [
+            {
+                "title": "",
+                "content": "Vote for Wales' leading party of remain. Vote Plaid Cymru. The Party of Wales."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Plaid Cymru to give voters a single candidate who supports remaining in the European Union."
+            }
+        ],
+        "mentions": {
+            "candidate": "Mae Cymru\u2019n cael ei dal yn \u00f4l gan San Steffan.",
+            "otherPartyLeaderCandidate": "Gyda Johnson a Corbyn",
+            "partyLeader": "Adam Price",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Plaid Cymru to give voters a single candidate who supports remaining in the European Union.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Wales is being held back by Westminster.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Adam Price, Leader of Plaid Cymru."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Stop the Brexit chaos.",
+                        "Vote for Wales' leading party of Remain.",
+                        "Wales is being held back by Westminster. With Johnson and Corbyn it's the politics of the past, but for a better future and a new Wales, it's us."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Wales is being held back by Westminster."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Plaid Cymru to give voters a single candidate who supports remaining in the European Union.",
+                        "Stop the Brexit chaos."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Stop the Brexit chaos."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "With Johnson and Corbyn it's the politics of the past."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "leaflet": {
+        "candidateName": "Graham Cockarill",
+        "candidateGender": "",
+        "constituency": "North East Hampshire",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "2019",
+        "messages": [
+            {
+                "title": "My top 4 priorities for North East Hampshire",
+                "content": "Graham Cockarill outlines his top priorities which include saving the planet, stopping bad development, saving the NHS and more police, and stopping Brexit."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Save our Planet",
+                "policyDescription": "The Liberal Democrats aim to combat climate change and save the planet."
+            },
+            {
+                "policyTitle": "Stop Bad Development",
+                "policyDescription": "Stop overbuilding and expand the area thoughtfully."
+            },
+            {
+                "policyTitle": "Save our NHS and More Police",
+                "policyDescription": "Increase funding and support for the NHS and police force."
+            },
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "Warn against Brexit madness and highlight the potential damage it could cause."
+            }
+        ],
+        "mentions": {
+            "candidate": "Graham Cockarill",
+            "otherPartyLeaderCandidate": "Jacob Rees-Mogg",
+            "partyLeader": "",
+            "tacticalSituation": "It's a two-horse race here in North East Hampshire."
+        },
+        "issues": {
+            "brexitEurope": "Stop Brexit - Warning: You want to end this Brexit madness? Well, if you're one of the many local voters who realizes the country is better off in Europe...",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "SAVE our Planet - The Liberal Democrats will create a brighter green future for our children and grandchildren.",
+            "governance": "",
+            "government": "",
+            "health": "SAVE our NHS and More Police - Liberal MP William Beveridge who originally designed the NHS back in the 1940s.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "SAVE our NHS and More Police - We will add 30,000 more police officers.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Stopping Bad Development - Shapley Heath - The Truth",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "The bulldozers move in at Grove Farm, west of Fleet."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "We will add 30,000 more police officers."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "SAVE our Planet. Liberal Democrats will create a brighter green future for our children and grandchildren.",
+                        "It\u2019s a two-horse race here in North East Hampshire!"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Stop Bad Development - You know where they build, they haven't put in school places, doctor's surgeries, or road improvements to avoid if we have more traffic."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Stop Brexit - Warning: You want to end this Brexit madness? Well, if you're one of the many local voters who realizes the country is better off in Europe...",
+                        "SAVE our NHS and More Police - It was Liberal MP William Beveridge who originally designed the NHS back in the 1940s."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Stop Brexit - Warn about Brexit madness"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jacob Rees-Mogg who sits in the heart of Conservative for challenges."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

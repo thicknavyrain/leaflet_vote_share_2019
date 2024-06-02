@@ -1,0 +1,186 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Welsh Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Getting on with the country's priorities",
+                "content": ""
+            },
+            {
+                "title": "More investment for our Welsh NHS",
+                "content": "The NHS is part of our heritage. It's a statement of who we are as a country. That's why the UK Government is investing \u00a31.2 billion extra in the Welsh NHS. It's up to the Welsh Labour Government whether they actually spend this money \u2013 or just sit on it like they have before. It is only a future Welsh Conservative Government who will invest in our Welsh NHS for generations to come. So we're able to protect the NHS for generations to come."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Investment in Welsh NHS",
+                "policyDescription": "The UK Government is investing \u00a31.2 billion extra in the Welsh NHS. A future Welsh Conservative Government will invest in our Welsh NHS for generations to come."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Welsh Labour Government",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The NHS is part of our heritage. The UK Government is investing \u00a31.2 billion extra in the Welsh NHS. It is only a future Welsh Conservative Government who will invest in our Welsh NHS for generations to come.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "welshconservatives.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "The UK Government is investing \u00a31.2 billion extra in the Welsh NHS.",
+                        "A future Welsh Conservative Government will invest in our Welsh NHS for generations to come."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "The NHS is part of our heritage. It's a statement of who we are as a country."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "That's why the UK Government is investing \u00a31.2 billion extra in the Welsh NHS."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "It's up to the Welsh Labour Government whether they actually spend this money \u2013 or just sit on it like they have before."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

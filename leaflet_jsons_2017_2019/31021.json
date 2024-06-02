@@ -1,0 +1,172 @@
+{
+    "leaflet": {
+        "candidateName": "Rashid Nix",
+        "candidateGender": "",
+        "constituency": "Dulwich and West Norwood",
+        "politicalParty": "Green Party",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Rashid Says...",
+                "content": "I'm a father of three, a mentor to many, an educational consultant and film maker. I was introduced to politics when my Brixton estate was demolished in a regeneration programme. Cuts to services, library closures and a squeeze on small businesses is fuelling inequality. An unequal society is an unstable society. A lack of opportunities for young people is linked to increasing gang crime. We also have some of the worst air pollution in Europe. We deserve better than this. As your MP, I will stand up for what matters."
+            },
+            {
+                "title": "This election isn't about the next 5 years. It's about the next 50 years.",
+                "content": "The Green Party is offering real opposition to this Government\u2019s extreme Brexit. Only the Green Party has the vision to deliver an alternative future for our country, and our place in the world. And only the Green Party offers a different kind of politics. To shape an economy for everyone while preserving a safe environment. To build affordable homes and provide properly funded public services. And to put power back in your hands through a citizens\u2019 democracy. If you agree with us, stand with us. The Conservatives think they have this election sewn up. But it\u2019s in your hands. Stand with us for housing, schools, our NHS, our environment, and our future. We stand up for what matters. Vote Green Party on 8th June."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Opposition to Extreme Brexit",
+                "policyDescription": "Offering real opposition to the Government's extreme Brexit."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Shaping an economy for everyone while preserving a safe environment."
+            },
+            {
+                "policyTitle": "Affordable Homes",
+                "policyDescription": "Building affordable homes and providing properly funded public services."
+            },
+            {
+                "policyTitle": "Citizens' Democracy",
+                "policyDescription": "Putting power back in your hands through a citizens\u2019 democracy."
+            }
+        ],
+        "mentions": {
+            "candidate": "Rashid Nix",
+            "otherPartyLeaderCandidate": "The Conservatives",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The Green Party is offering real opposition to this Government\u2019s extreme Brexit.",
+            "defence": "",
+            "economy": "To shape an economy for everyone while preserving a safe environment.",
+            "education": "",
+            "environment": "We also have some of the worst air pollution in Europe.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "A lack of opportunities for young people is linked to increasing gang crime.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Cuts to services, library closures and a squeeze on small businesses is fuelling inequality. An unequal society is an unstable society.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I\u2019m a father of three, a mentor to many, an educational consultant and film maker. I was introduced to politics when my Brixton estate was demolished in a regeneration programme. Cuts to services, library closures and a squeeze on small businesses is fuelling inequality. An unequal society is an unstable society. A lack of opportunities for young people is linked to increasing gang crime. We also have some of the worst air pollution in Europe. We deserve better than this. As your MP, I will stand up for what matters.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "rashid.nix@greenparty.org.uk",
+            "website": "lambeth.greenparty.org.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/GreenRashidNix",
+                "twitter": "twitter.com/RashidNix",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Your Green Party Candidate Rashid Nix"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "We also have some of the worst air pollution in Europe."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "An unequal society is an unstable society."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Cuts to services, library closures and a squeeze on small businesses is fuelling inequality."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The Green Party is offering real opposition to this Government\u2019s extreme Brexit."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I was introduced to politics when my Brixton estate was demolished in a regeneration programme.",
+                    "issueRelated": "Community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Cuts to services, library closures and a squeeze on small businesses is fuelling inequality."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives think they have this election sewn up."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "Educational consultant and film maker",
+                "education": "",
+                "family": "Father of three"
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I was introduced to politics when my Brixton estate was demolished in a regeneration programme."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "leaflet": {
+        "candidateName": "Ewan Hoyle",
+        "candidateGender": "",
+        "constituency": "Glasgow Central",
+        "politicalParty": "Scottish Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "STOP BREXIT STOP INDEPENDENCE",
+                "content": "BUILD A BRIGHTER FUTURE"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Rebuild Our Economy",
+                "policyDescription": "Invest in our NHS, schools and tackle the climate emergency."
+            },
+            {
+                "policyTitle": "Fresh Start for Scotland in the UK",
+                "policyDescription": "A new government to look forwards, tackle Brexit chaos, and end independence uncertainty."
+            },
+            {
+                "policyTitle": "Tackling the Climate Emergency",
+                "policyDescription": "Requiring energy companies to use green technologies and developing renewable energy."
+            },
+            {
+                "policyTitle": "Demand Better for Scotland",
+                "policyDescription": "Better public services, strong economy and community."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ewan Hoyle",
+            "otherPartyLeaderCandidate": "More chaos with Boris Johnson's divisive plans. No idea from Corbyn's Labour.",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "STOP BREXIT STOP INDEPENDENCE",
+            "defence": "",
+            "economy": "Rebuild Our Economy",
+            "education": "Invest in our NHS, schools.",
+            "environment": "Tackling the Climate Emergency",
+            "governance": "",
+            "government": "Demand Better for Scotland",
+            "health": "Invest in our NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Invest in our NHS, schools.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Invest in our NHS, schools."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "STOP BREXIT STOP INDEPENDENCE",
+                        "Rebuild Our Economy",
+                        "Demand Better for Scotland"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "More chaos with Boris Johnson's divisive plans.",
+                        "No idea from Corbyn's Labour."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,185 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "December 12th",
+        "messages": [
+            {
+                "title": "Lib Dems lead the fight to stop Brexit",
+                "content": "The Liberal Democrats want to stop Brexit. We've been fighting it since the day after the referendum. We are the strongest party of Remain, with a clear and simple message: let's stop Brexit. Jo Swinson said, 'Stopping Brexit means that we can focus on tackling the big issues facing the UK right now. We could build a Britain where we grow our economy, tackle the climate emergency, and address the crises in our NHS and schools.'"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "The Liberal Democrats are committed to stopping Brexit through a clear and simple message."
+            },
+            {
+                "policyTitle": "Economic Growth",
+                "policyDescription": "Focus on growing the economy by stopping Brexit and addressing major issues."
+            },
+            {
+                "policyTitle": "Climate Emergency",
+                "policyDescription": "Tackle the climate emergency as part of their broader policy agenda."
+            },
+            {
+                "policyTitle": "NHS and Schools",
+                "policyDescription": "Address the crises in NHS and schools by focusing efforts post-Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jo Swinson",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "Only the Lib Dems can beat Labour here"
+        },
+        "issues": {
+            "brexitEurope": "The Liberal Democrats want to stop Brexit. Jo Swinson said, 'Stopping Brexit means that we can focus on tackling the big issues facing the UK right now.'",
+            "defence": "",
+            "economy": "We could build a Britain where we grow our economy.",
+            "education": "Address the crises in our schools.",
+            "environment": "Tackle the climate emergency.",
+            "governance": "",
+            "government": "",
+            "health": "Address the crises in our NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.LibDems.org.uk/help",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "'Jeremy Corbyn refused NINE TIMES to say whether he thought Britain should leave the EU or remain.'",
+                "source": "The Telegraph",
+                "date": "November 2019"
+            },
+            {
+                "text": "'Labour is proposing to negotiate a new deal with the European Union.'",
+                "source": "The Times",
+                "date": "November 2019"
+            },
+            {
+                "text": "'Labour is not a Remain party'",
+                "source": "Len McCluskey",
+                "date": "November 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Back the Lib Dems to stop Brexit"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn refused NINE TIMES to say whether he thought Britain should leave the EU or remain.",
+                        "'Stopping Brexit means that we can focus on tackling the big issues facing the UK right now.'"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "The Liberal Democrats want to stop Brexit.",
+                        "We could build a Britain where we grow our economy, tackle the climate emergency, and address the crises in our NHS and schools."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": []
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "The Liberal Democrats want to stop Brexit.",
+                        "'Stopping Brexit means that we can focus on tackling the big issues facing the UK right now.'",
+                        "We could build a Britain where we grow our economy.",
+                        "Tackle the climate emergency."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Jo Swinson said, 'Stopping Brexit means that we can focus on tackling the big issues facing the UK right now.'",
+                    "issueRelated": "brexitEurope"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "'Jeremy Corbyn refused NINE TIMES to say whether he thought Britain should leave the EU or remain.'"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

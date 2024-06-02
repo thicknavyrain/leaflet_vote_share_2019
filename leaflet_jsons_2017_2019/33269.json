@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "Dr Philip Lee",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "Friday 13th December",
+        "messages": [
+            {
+                "title": "",
+                "content": "Can you imagine waking up on Friday 13th December to find out Jeremy Corbyn's Labour Party has won in your area? You can make sure this doesn't happen by using your vote carefully in this election. In seats like Cambridge constituency, the choice is between the Liberal Democrats or Corbyn's Labour. Just a few votes could decide who wins. The Conservatives can't win in areas like these."
+            },
+            {
+                "title": "",
+                "content": "By lending your vote to the Liberal Democrats you can stop Jeremy Corbyn and his extreme left-wing policies. The Liberal Democrats will stand up for what's important in communities like yours. The Liberal Democrats will stand up for our NHS and work to make our streets safer. We will oppose any attempt to install Jeremy Corbyn as Prime Minister. This a vital election for our country and your vote can make a crucial difference. Lend your vote to the Liberal Democrats and together we can stop Jeremy Corbyn."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Opposing Labour Policies",
+                "policyDescription": "We will oppose any attempt to install Jeremy Corbyn as Prime Minister and his extreme left-wing policies."
+            },
+            {
+                "policyTitle": "Support the NHS",
+                "policyDescription": "The Liberal Democrats will stand up for our NHS and work to make our streets safer."
+            }
+        ],
+        "mentions": {
+            "candidate": "Dr Philip Lee",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "In seats like Cambridge constituency, the choice is between the Liberal Democrats or Corbyn's Labour. Just a few votes could decide who wins. The Conservatives can't win in areas like these. By lending your vote to the Liberal Democrats you can stop Jeremy Corbyn and his extreme left-wing policies."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The Liberal Democrats will stand up for our NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "The Liberal Democrats will work to make our streets safer.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "The Liberal Democrats will stand up for what's important in communities like yours.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Conservative MP",
+                "duration": "2010-2019",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "Can you imagine waking up on Friday 13th December to find out Jeremy Corbyn's Labour Party has won in your area?",
+                        "You can make sure this doesn't happen by using your vote carefully in this election.",
+                        "In seats like Cambridge constituency, the choice is between the Liberal Democrats or Corbyn's Labour. Just a few votes could decide who wins. The Conservatives can't win in areas like these.",
+                        "By lending your vote to the Liberal Democrats you can stop Jeremy Corbyn and his extreme left-wing policies.",
+                        "The Liberal Democrats will stand up for what's important in communities like yours. The Liberal Democrats will stand up for our NHS and work to make our streets safer.",
+                        "This a vital election for our country and your vote can make a crucial difference."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "The Liberal Democrats will stand up for what's important in communities like yours."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "The Liberal Democrats will stand up for our NHS and work to make our streets safer.",
+                        "We will oppose any attempt to install Jeremy Corbyn as Prime Minister."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "We will oppose any attempt to install Jeremy Corbyn as Prime Minister."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "By lending your vote to the Liberal Democrats you can stop Jeremy Corbyn and his extreme left-wing policies."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

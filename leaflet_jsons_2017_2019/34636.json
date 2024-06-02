@@ -1,0 +1,149 @@
+{
+    "leaflet": {
+        "candidateName": "Si\u00e2n Berry",
+        "candidateGender": "Female",
+        "constituency": "London",
+        "politicalParty": "Green Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "NOW IS THE TIME",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "European stances",
+                "policyDescription": "Always said yes to Europe, no to climate chaos, and worked tirelessly at City Hall to make London a much fairer and more equal place to live."
+            },
+            {
+                "policyTitle": "Voting Green",
+                "policyDescription": "The old parties have let us down so badly. Now is the time to vote Green. We need a Green Mayor and Greens in Government who know how we can build a truly Green London."
+            }
+        ],
+        "mentions": {
+            "candidate": "Si\u00e2n Berry",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Always said yes to Europe, no to climate chaos",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "No to climate chaos",
+            "governance": "",
+            "government": "Greens in Government who know how we can build a truly Green London.",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Worked tirelessly at City Hall to make London a much fairer and more equal place to live.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Always said yes to Europe, no to climate chaos, and worked tirelessly at City Hall to make London a much fairer and more equal place to live."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "The old parties have let us down so badly. Now is the time to vote Green. We need a Green Mayor and Greens in Government who know how we can build a truly Green London."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Worked tirelessly at City Hall to make London a much fairer and more equal place to live."
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Worked tirelessly at City Hall to make London a much fairer and more equal place to live."
+                ]
+            }
+        }
+    }
+}

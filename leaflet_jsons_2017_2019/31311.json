@@ -1,0 +1,187 @@
+{
+    "leaflet": {
+        "candidateName": "Jo Swinson",
+        "candidateGender": "female",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "12th December",
+        "messages": [
+            {
+                "title": "",
+                "content": "Dear friend, For too many people, things aren\u2019t working as they should be. Both the Conservatives and Labour are stuck in the past, failing time and again to deliver a better future. It doesn\u2019t have to be this way. We have an ambitious plan for the future of our country, where every person, every community, and our planet can thrive. A Liberal Democrat government will stop Brexit and build a brighter future. Please use your vote on 12th December to vote Liberal Democrat and build a brighter future. Best wishes, Jo Swinson."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Tackle the climate emergency",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Build a fair economy",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Give every child the best start in life",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Transform our mental health services",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Jo Swinson",
+            "otherPartyLeaderCandidate": "Both the Conservatives and Labour are stuck in the past, failing time and again to deliver a better future.",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Build a fair economy",
+            "education": "Give every child the best start in life",
+            "environment": "Tackle the climate emergency",
+            "governance": "",
+            "government": "",
+            "health": "Transform our mental health services",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Liberal Democrats, 8-10 Great George Street, London, SW1P 3AE",
+            "phone": "",
+            "email": "",
+            "website": "LibDems.org.uk/plan",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "For too many people, things aren\u2019t working as they should be.",
+                "source": "Jo Swinson",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "For too many people, things aren\u2019t working as they should be.",
+                        "Both the Conservatives and Labour are stuck in the past, failing time and again to deliver a better future.",
+                        "A Liberal Democrat government will stop Brexit and build a brighter future."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "Stop Brexit",
+                        "Tackle the climate emergency",
+                        "Build a fair economy",
+                        "Give every child the best start in life",
+                        "Transform our mental health services"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Both the Conservatives and Labour are stuck in the past, failing time and again to deliver a better future."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

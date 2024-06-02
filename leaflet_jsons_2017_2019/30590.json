@@ -1,0 +1,169 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "candidateGender": "",
+        "constituency": "Gedling",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Just 11 days after you vote on Thursday, the EU wants to start Brexit negotiations with Britain.",
+                "content": "Our Prime Minister must be up to the job, and have the strongest possible hand in any negotiations."
+            },
+            {
+                "title": "Your local vote on Thursday will decide who is Prime Minister on Friday",
+                "content": "A loss of just 6 seats will cost Theresa May her majority and create a hung parliament \u2013 and that will deliver chaos. It means Jeremy Corbyn as Prime Minister propped up by the Lib Dems and SNP, and it would mean Jeremy Corbyn negotiating Brexit just 11 days after you vote."
+            },
+            {
+                "title": "EU wants Brexit negotiations to start 11 days after your vote",
+                "content": "Turn over to reveal what local outcome your vote will deliver..."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Leadership",
+                "policyDescription": "Strong & Stable Leadership"
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "The best Brexit deal"
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Economic security for Britain"
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "A loss of just 6 seats will cost Theresa May her majority and create a hung parliament \u2013 and that will deliver chaos."
+        },
+        "issues": {
+            "brexitEurope": "The best Brexit deal",
+            "defence": "",
+            "economy": "Economic security for Britain",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "Our Prime Minister must be up to the job, and have the strongest possible hand in any negotiations.",
+            "health": "",
+            "immigration": "No controls on immigration",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Propped up by the Lib Dems and SNP",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "4 Matthew Parker Street, London, SW1H 9HQ",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May as Prime Minister"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "A loss of just 6 seats will cost Theresa May her majority and create a hung parliament."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Our Prime Minister must be up to the job, and have the strongest possible hand in any negotiations.",
+                        "Turn over to reveal what local outcome your vote will deliver...",
+                        "It means Jeremy Corbyn as Prime Minister propped up by the Lib Dems and SNP, and it would mean Jeremy Corbyn negotiating Brexit just 11 days after you vote."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": []
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Strong & Stable Leadership",
+                        "The best Brexit deal"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn as Prime Minister would mean uncertain Brexit, no controls on immigration, chaos of a hung parliament, SNP call shots on Brexit and tax rises."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn as Prime Minister would mean uncertain Brexit, no controls on immigration, chaos of a hung parliament.",
+                        "Jeremy Corbyn negotiating Brexit just 11 days after you vote."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn as Prime Minister would mean uncertain Brexit, no controls on immigration, chaos of a hung parliament."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

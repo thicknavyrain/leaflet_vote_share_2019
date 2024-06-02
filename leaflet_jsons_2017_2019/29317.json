@@ -1,0 +1,182 @@
+{
+    "leaflet": {
+        "candidateName": "Matt Smith",
+        "candidateGender": "",
+        "constituency": "Cardiff West",
+        "politicalParty": "Welsh Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Overdevelopment",
+                "policyDescription": "I will fight overdevelopment to protect our green spaces."
+            },
+            {
+                "policyTitle": "Local Services",
+                "policyDescription": "I will support local schools, hospitals and social services."
+            },
+            {
+                "policyTitle": "Investment",
+                "policyDescription": "I will win investment for local jobs, apprenticeships and high streets."
+            },
+            {
+                "policyTitle": "Leadership",
+                "policyDescription": "Provide strong and stable leadership for our country."
+            },
+            {
+                "policyTitle": "Brexit Deal",
+                "policyDescription": "Get the best Brexit deal possible to deliver economic security for our future."
+            },
+            {
+                "policyTitle": "Standing Up",
+                "policyDescription": "Always stand up for you and your family."
+            },
+            {
+                "policyTitle": "Future Risk",
+                "policyDescription": "Don\u2019t risk our future at this crucial moment in history with a vote for anyone else."
+            }
+        ],
+        "mentions": {
+            "candidate": "Matt Smith",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Get the best Brexit deal possible to deliver economic security for our future.",
+            "defence": "",
+            "economy": "",
+            "education": "I will support local schools.",
+            "environment": "I will fight overdevelopment to protect our green spaces.",
+            "governance": "",
+            "government": "Provide strong and stable leadership for our country.",
+            "health": "I will support local hospitals.",
+            "immigration": "",
+            "labourEmployment": "I will win investment for local jobs, apprenticeships.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "I will support social services.",
+            "community": [
+                {
+                    "content": "I will fight overdevelopment to protect our green spaces.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Always stand up for you and your family."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "I will fight overdevelopment to protect our green spaces.",
+                        "I will support local schools, hospitals and social services.",
+                        "I will win investment for local jobs, apprenticeships and high streets."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Provide strong and stable leadership for our country.",
+                        "Get the best Brexit deal possible to deliver economic security for our future.",
+                        "Don't risk our future at this crucial moment in history with a vote for anyone else."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Don't risk our future at this crucial moment in history with a vote for anyone else."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I will support local schools, hospitals and social services."
+                ]
+            }
+        }
+    }
+}

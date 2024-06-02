@@ -1,0 +1,182 @@
+{
+    "leaflet": {
+        "candidateName": "Bridget Fox",
+        "candidateGender": "",
+        "constituency": "Cities of London & Westminster",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "8 June",
+        "messages": [
+            {
+                "title": "YOUR CHOICE, YOUR FUTURE!",
+                "content": "On 8 June, choose the kind of future you want for you, your family and our country. Every vote for the Liberal Democrats is a vote for:\n- Fully-costed plans for investment in the NHS, schools and social care.\n- Help for small businesses, and fighting the hard Brexit that hurts jobs and services.\n- Building the homes that London needs and introducing new rent-to-buy schemes.\n- Protecting the environment, cleaning up air pollution and keeping our streets safe.\n- Funding aid and defence properly to play a responsible role in a changing world.\nOnly the Liberal Democrats are offering the positive choice we deserve."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Investment in the NHS, Schools and Social Care",
+                "policyDescription": "Fully-costed plans for investment."
+            },
+            {
+                "policyTitle": "Support for Small Businesses",
+                "policyDescription": "Help for small businesses and fighting hard Brexit."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Building homes and introducing new rent-to-buy schemes."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Protecting the environment, cleaning up air pollution and keeping our streets safe."
+            },
+            {
+                "policyTitle": "Funding Aid and Defence",
+                "policyDescription": "Funding aid and defence properly to play a responsible role in a changing world."
+            }
+        ],
+        "mentions": {
+            "candidate": "Bridget Fox",
+            "otherPartyLeaderCandidate": "Tories and Labour have let us down: it's time to vote for the Liberal Democrats!",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "fighting the hard Brexit that hurts jobs and services",
+            "defence": "Funding aid and defence properly to play a responsible role in a changing world",
+            "economy": "",
+            "education": "Fully-costed plans for investment in the NHS, schools and social care",
+            "environment": "Protecting the environment, cleaning up air pollution and keeping our streets safe",
+            "governance": "",
+            "government": "",
+            "health": "Fully-costed plans for investment in the NHS, schools and social care",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Building the homes that London needs and introducing new rent-to-buy schemes.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Bridget Fox: Liberal Democrat Candidate for Cities of London & Westminster"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Fully-costed plans for investment in the NHS, schools and social care.",
+                        "Help for small businesses, and fighting the hard Brexit that hurts jobs and services.",
+                        "Building the homes that London needs and introducing new rent-to-buy schemes.",
+                        "Protecting the environment, cleaning up air pollution and keeping our streets safe.",
+                        "Funding aid and defence properly to play a responsible role in a changing world."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Building the homes that London needs and introducing new rent-to-buy schemes."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Fully-costed plans for investment in the NHS, schools and social care.",
+                        "Help for small businesses, and fighting the hard Brexit that hurts jobs and services.",
+                        "Protecting the environment, cleaning up air pollution and keeping our streets safe.",
+                        "Funding aid and defence properly to play a responsible role in a changing world."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Tories and Labour have let us down: it's time to vote for the Liberal Democrats!"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

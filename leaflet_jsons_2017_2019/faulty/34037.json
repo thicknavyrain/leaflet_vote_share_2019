@@ -1,0 +1,212 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Jonathan Lord",
+    "candidateGender": "",
+    "constituency": "Woking",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "",
+        "content": ""
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "NHS Funding",
+        "policyDescription": "£33.9 billion extra for the NHS."
+      },
+      {
+        "policyTitle": "Police Funding",
+        "policyDescription": "20,000 extra police officers."
+      },
+      {
+        "policyTitle": "Education Funding",
+        "policyDescription": "More funding for every pupil in every school."
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Ending our contribution to global warming by 2050."
+      },
+      {
+        "policyTitle": "Healthcare Infrastructure",
+        "policyDescription": "40 new hospitals across the country."
+      },
+      {
+        "policyTitle": "Economic Development",
+        "policyDescription": "£3.6 billion to help towns invest and attract new businesses."
+      },
+      {
+        "policyTitle": "Broadband",
+        "policyDescription": "Gigabit broadband for the whole country."
+      },
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Brexit done with a deal."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "Jeremy Corbyn",
+      "partyLeader": "Boris Johnson",
+      "tacticalSituation": "A Lib Dem-Conservative coalition is not an option. So your local vote will decide. Another hung parliament – or a Conservative majority."
+    },
+    "issues": {
+      "brexitEurope": "Brexit done with a deal",
+      "defence": "",
+      "economy": "£3.6 billion to help towns invest and attract new businesses",
+      "education": "More funding for every pupil in every school",
+      "environment": "Ending our contribution to global warming by 2050",
+      "governance": "",
+      "government": "",
+      "health": "£33.9 billion extra for the NHS; 40 new hospitals across the country",
+      "immigration": "",
+      "labourEmployment": "",
+      "lawCrime": "20,000 extra police officers",
+      "transport": "",
+      "socialWelfare": "",
+      "community": [
+        {
+          "content": "",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    ],
+    "endorsements": [
+      {
+        "endorser": "",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Jo Swinson says no to second Tory alliance",
+        "source": "The Herald",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "",
+    "analysis": {
+      "statementAnalysis": {
+        "quantitative": {
+          "count": 7,
+          "examples": [
+            "£33.9 billion extra for the NHS",
+            "20,000 extra police officers",
+            "More funding for every pupil in every school",
+            "40 new hospitals across the country",
+            "£3.6 billion to help towns invest and attract new businesses",
+            "Ending our contribution to global warming by 2050",
+            "Gigabit broadband for the whole country"
+          ]
+        },
+        "qualitative": {
+          "count": 2,
+          "examples": [
+            "A Lib Dem-Conservative coalition is not an option. So your local vote will decide. Another hung parliament – or a Conservative majority.",
+            "Vote Lib Dem, get Jeremy Corbyn. Five years of arguing about Brexit. Propped up by Nicola Sturgeon’s SNP. Another referendum to break up Britain."
+          ]
+        }
+      },
+      "photoAnalysis": {
+        "localPlaces": 1,
+        "people": 1,
+        "candidateAlone": 0,
+        "candidateWithOthers": 1
+      },
+      "issueFocus": {
+        "local": {
+          "count": 0,
+          "examples": [""]
+        },
+        "national": {
+          "count": 7,
+          "examples": [
+            "£33.9 billion extra for the NHS",
+            "20,000 extra police officers",
+            "More funding for every pupil in every school",
+            "40 new hospitals across the country",
+            "£3.6 billion to help towns invest and attract new businesses",
+            "Ending our contribution to global warming by 2050",
+            "Gigabit broadband for the whole country"
+          ]
+        }
+      },
+      "personalStories": [
+        {
+          "story": "",
+          "issueRelated": ""
+        }
+      ],
+      "endorsementsUsed": {
+        "count": 0,
+        "examples": [""]
+      },
+      "negativeMessaging": {
+        "localIssues": {
+          "count": 0,
+          "examples": [""]
+        },
+        "nationalIssues": {
+          "count": 1,
+          "examples": [
+            "Vote Lib Dem, get Jeremy Corbyn. Five years of arguing about Brexit. Propped up by Nicola Sturgeon’s SNP. Another referendum to break up Britain."
+          ]
+        },
+        "leaderOfOpponentsParty": {
+          "count": 1,
+          "examples": [
+            "Jeremy Corbyn"
+          ]
+        },
+        "oppositeCandidateNoName": {
+          "count": 0,
+          "examples": [""]
+        },
+        "oppositeCandidateWithName": {
+          "count": 0,
+          "examples": [""]
+        }
+      },
+      "nonPolicyAttributes": {
+        "localness": "",
+        "employment": "",
+        "education": "",
+        "family": ""
+      },
+      "localCandidate": {
+        "isLocal": false,
+        "examples": [""]
+      }
+    }
+  }
+}
+```

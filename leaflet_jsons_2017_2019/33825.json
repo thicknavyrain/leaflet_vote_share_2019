@@ -1,0 +1,186 @@
+{
+    "leaflet": {
+        "candidateName": "Tracey Biggs",
+        "candidateGender": "Female",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "12 December",
+        "messages": [
+            {
+                "title": "",
+                "content": "My name is Tracey and I\u2019m writing to you today because I care about our NHS and I think you do too. I have worked in the NHS for 36 years, working hard to tackle health inequality. Since the Tories came to power nearly 10 years ago my job has got harder. Cuts to the NHS has put huge pressure on resources putting up waiting times in A&E, for a GP and cancer treatment. Boris Johnson promised \u00a3350m a week more for the NHS, but you can\u2019t trust a word the man says. Under his watch GP numbers are falling, the number of patients waiting longer for urgent cancer treatment has trebled, we have the worst waiting times since records began, and the waiting list for operations has reached a record 4.4 million. Labour\u2019s NHS Rescue Plan will restore the nursing bursary and recruit the thousands of doctors and nurses we need to end the Tory NHS crisis. Labour would also focus on prevention measures to stop people getting sick and tackle health inequalities and prioritise children\u2019s health and wellbeing. Lots of people think Brexit is the only thing that matters at this election, but there\u2019s any number of other issues at stake too. Please think about the future of the NHS when you cast your vote on 12 December."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS Rescue Plan",
+                "policyDescription": "Restore the nursing bursary and recruit the thousands. Focus on prevention measures to stop people getting sick and tackle health inequalities and prioritise children\u2019s health and wellbeing."
+            }
+        ],
+        "mentions": {
+            "candidate": "Tracey Biggs",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Please think about the future of the NHS when you cast your vote on 12 December.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Cuts to the NHS has put huge pressure on resources putting up waiting times in A&E, for a GP and cancer treatment. Labour\u2019s NHS Rescue Plan will restore the nursing bursary and recruit the thousands of doctors and nurses we need to end the Tory NHS crisis. Labour would also focus on prevention measures to stop people getting sick and tackle health inequalities and prioritise children\u2019s health and wellbeing. We have the worst waiting times since records began, and the waiting list for operations has reached a record 4.4 million.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Cuts to the NHS has put huge pressure on resources putting up waiting times in A&E, for a GP and cancer treatment.",
+                        "we have the worst waiting times since records began, and the waiting list for operations has reached a record 4.4 million.",
+                        "Under his watch GP numbers are falling, the number of patients waiting longer for urgent cancer treatment has trebled."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "my job has got harder.",
+                        "you can\u2019t trust a word the man says.",
+                        "Please think about the future of the NHS when you cast your vote on 12 December.",
+                        "I care about our NHS and I think you do too."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Lots of people think Brexit is the only thing that matters at this election, but there\u2019s any number of other issues at stake too."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I have worked in the NHS for 36 years, working hard to tackle health inequality.",
+                    "issueRelated": "health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Under his watch GP numbers are falling, the number of patients waiting longer for urgent cancer treatment has trebled, we have the worst waiting times since records began, and the waiting list for operations has reached a record 4.4 million."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson promised \u00a3350m a week more for the NHS, but you can\u2019t trust a word the man says."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "I have worked in the NHS for 36 years.",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

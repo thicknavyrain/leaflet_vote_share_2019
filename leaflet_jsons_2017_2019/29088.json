@@ -1,0 +1,177 @@
+{
+    "leaflet": {
+        "candidateName": "Luke Hall",
+        "candidateGender": "",
+        "constituency": "South Gloucestershire",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Over the last two years, we have been making positive and steady progress as a community; investing in local health services like Thornbury Hospital, securing \u00a3500,000 to kick start junction 18A into the M4, delivering superfast broadband to over 7,300 premises locally and fiercely fighting off unsustainable development. However, that progress is at risk."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Investing in local health services like Thornbury Hospital."
+            },
+            {
+                "policyTitle": "Infrastructure",
+                "policyDescription": "Securing \u00a3500,000 to kick start junction 18A into the M4 and delivering superfast broadband to over 7,300 premises locally."
+            },
+            {
+                "policyTitle": "Development",
+                "policyDescription": "Fiercely fighting off unsustainable development."
+            }
+        ],
+        "mentions": {
+            "candidate": "Luke Hall",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn, Nicola Sturgeon",
+            "partyLeader": "",
+            "tacticalSituation": "We live in a key constituency in deciding the outcome of the coming election."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "There has never been a Conservative majority Government without a Conservative MP here.",
+            "health": "Investing in local health services like Thornbury Hospital.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Securing \u00a3500,000 to kick start junction 18A into the M4.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Delivering superfast broadband to over 7,300 premises locally. Fiercely fighting off unsustainable development.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP for South Gloucestershire",
+                "duration": "Two years",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Luke Hall, 37 Sturmer Close, Yate, BS37 5UR",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Luke Hall, Parliamentary Candidate for South Gloucestershire"
+                }
+            ]
+        },
+        "additionalNotes": "Having a Conservative MP here means we have real and proven influence in Government to get the best deal for our area.",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Securing \u00a3500,000 to kick start junction 18A into the M4",
+                        "Delivering superfast broadband to over 7,300 premises locally",
+                        "A loss of just six seats and the Government loses its majority"
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "positive and steady progress as a community",
+                        "fiercely fighting off unsustainable development",
+                        "However, that progress is at risk",
+                        "calling the shots",
+                        "real and proven influence"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "Investing in local health services like Thornbury Hospital",
+                        "Securing \u00a3500,000 to kick start junction 18A into the M4",
+                        "Delivering superfast broadband to over 7,300 premises locally",
+                        "Fiercely fighting off unsustainable development"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "There has never been a Conservative majority Government without a Conservative MP here",
+                        "A loss of just six seats and the Government loses its majority",
+                        "Having a Conservative MP here means we have real and proven influence in Government to get the best deal for our area"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Fiercely fighting off unsustainable development."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "A loss of just six seats and the Government loses its majority"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn would be imposed as Prime Minister",
+                        "Nicola Sturgeon would be calling the shots"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

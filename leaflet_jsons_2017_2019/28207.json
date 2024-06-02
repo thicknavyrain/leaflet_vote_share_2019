@@ -1,0 +1,170 @@
+{
+    "leaflet": {
+        "candidateName": "Robert Brown",
+        "candidateGender": "",
+        "constituency": "Rutherglen & Hamilton West",
+        "politicalParty": "Scottish Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "My priorities",
+                "content": "This is a unique election. I want to use my experience to fight for our local communities - and to help stop the SNP and the Tories who have divided our country. Above all, I want an outward-looking, liberal, optimistic future in partnership with the world \u2013 not the intolerant and divisive SNP obsession with independence or the Tory hard Brexit."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop another divisive independence referendum",
+                "policyDescription": "Stop another divisive independence referendum."
+            },
+            {
+                "policyTitle": "Oppose the Conservatives\u2019 destructive hard Brexit",
+                "policyDescription": "Oppose the Conservatives\u2019 destructive hard Brexit."
+            },
+            {
+                "policyTitle": "Invest in Scottish education and mental health",
+                "policyDescription": "Invest in Scottish education and mental health."
+            }
+        ],
+        "mentions": {
+            "candidate": "I want to use my experience to fight for our local communities.",
+            "otherPartyLeaderCandidate": "stop the SNP and the Tories who have divided our country.",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "not the intolerant and divisive SNP obsession with independence or the Tory hard Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "Invest in Scottish education and mental health.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Invest in Scottish education and mental health.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I want to use my experience to fight for our local communities.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I want to use my experience to fight for our local communities - and to help stop the SNP and the Tories who have divided our country. Above all, I want an outward-looking, liberal, optimistic future in partnership with the world \u2013 not the intolerant and divisive SNP obsession with independence or the Tory hard Brexit.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "90b Blairbeth Road, Rutherglen G73 4JA",
+            "phone": "",
+            "email": "Robert@robertbrown.org.uk",
+            "website": "www.robertbrown.org.uk",
+            "socialMedia": {
+                "facebook": "Robert4LibDems",
+                "twitter": "Robert@robertbrown.org.uk",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Robert Brown with supporters"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "This is a unique election. I want to use my experience to fight for our local communities - and to help stop the SNP and the Tories who have divided our country.",
+                        "Above all, I want an outward-looking, liberal, optimistic future in partnership with the world \u2013 not the intolerant and divisive SNP obsession with independence or the Tory hard Brexit."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "I want to use my experience to fight for our local communities."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "not the intolerant and divisive SNP obsession with independence or the Tory hard Brexit.",
+                        "Invest in Scottish education and mental health."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "not the intolerant and divisive SNP obsession with independence or the Tory hard Brexit.",
+                        "Oppose the Conservatives\u2019 destructive hard Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

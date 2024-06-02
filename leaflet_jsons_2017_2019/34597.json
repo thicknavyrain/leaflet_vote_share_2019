@@ -1,0 +1,173 @@
+{
+    "leaflet": {
+        "candidateName": "Daniel Zeichner",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "12 December",
+        "messages": [
+            {
+                "title": "What kind of a country do you want to live in?",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Climate Action Plan",
+                "policyDescription": "To save our planet"
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "NHS not for sale"
+            },
+            {
+                "policyTitle": "Affordable Housing",
+                "policyDescription": "Affordable housing to rent and buy"
+            },
+            {
+                "policyTitle": "Real Living Wage",
+                "policyDescription": "A real living wage of \u00a310 an hour"
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "More cash in our classrooms; Children are the future"
+            }
+        ],
+        "mentions": {
+            "candidate": "Daniel Zeichner",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "More cash in our classrooms; Children are the future",
+            "environment": "Climate Action Plan to save our planet",
+            "governance": "",
+            "government": "",
+            "health": "NHS not for sale",
+            "immigration": "",
+            "labourEmployment": "A real living wage of \u00a310 an hour",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Affordable housing to rent and buy",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Alex Wood Hall, Norfolk Street, Cambridge CB1 2LD",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "People's Vote",
+                "endorsement": "Official voting recommendation from 'People's Vote' is Daniel Zeichner"
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "A real living wage of \u00a310 an hour"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "NHS not for sale",
+                        "Affordable housing to rent and buy"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Affordable housing to rent and buy"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "NHS not for sale",
+                        "A real living wage of \u00a310 an hour",
+                        "More cash in our classrooms; Children are the future"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Official voting recommendation from 'People's Vote' is Daniel Zeichner"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

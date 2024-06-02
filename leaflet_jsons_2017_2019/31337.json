@@ -1,0 +1,197 @@
+{
+    "leaflet": {
+        "candidateName": "Angela Smith",
+        "candidateGender": "",
+        "constituency": "Altrincham and Sale West",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "\"Only I can beat the Conservatives here\""
+            },
+            {
+                "title": "",
+                "content": "The election here in Altrincham and Sale West is between me and the Conservative candidate. Just look at the result here last time."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "Stop Brexit from damaging jobs and opportunity in Trafford."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Fighting for more money for all of our local schools."
+            },
+            {
+                "policyTitle": "Constituency Office",
+                "policyDescription": "Having an office available for constituents to visit their MP."
+            }
+        ],
+        "mentions": {
+            "candidate": "Angela Smith",
+            "otherPartyLeaderCandidate": "Conservative candidate",
+            "partyLeader": "",
+            "tacticalSituation": "The election here in Altrincham and Sale West is between me and the Conservative candidate. Just look at the result here last time."
+        },
+        "issues": {
+            "brexitEurope": "The Conservative MP has supported a hard Brexit for years and I know he doesn\u2019t share the values of the people of Altrincham and Sale West.",
+            "defence": "",
+            "economy": "",
+            "education": "Fighting for more money for all of our local schools.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.traffordlibdems.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "The election here in Altrincham and Sale West is between me and the Conservative candidate. Just look at the result here last time.",
+                "source": "Angela Smith",
+                "date": ""
+            },
+            {
+                "text": "The Conservative MP has supported a hard Brexit for years and I know he doesn\u2019t share the values of the people of Altrincham and Sale West. He\u2019s voted against same sex marriage and in favour of fox hunting. Those views do not represent voters round here.",
+                "source": "Angela Smith",
+                "date": ""
+            },
+            {
+                "text": "I hope people make their vote count this time and back an MP Trafford can be proud of.",
+                "source": "Angela Smith",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Lib Dem 31%, Con & Brexit 32%, Lab 12%",
+                        "The Euro election result from May 2017"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "\"Only I can beat the Conservatives here\"",
+                        "The election here in Altrincham and Sale West is between me and the Conservative candidate. Just look at the result here last time.",
+                        "The Conservative MP has supported a hard Brexit for years and I know he doesn\u2019t share the values of the people of Altrincham and Sale West. He\u2019s voted against same sex marriage and in favour of fox hunting. Those views do not represent voters round here."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Stop Brexit from damaging jobs and opportunity in Trafford.",
+                        "He\u2019s voted against same sex marriage and in favour of fox hunting. Those views do not represent voters round here."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservative MP has supported a hard Brexit for years."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "He\u2019s voted against same sex marriage and in favour of fox hunting. Those views do not represent voters round here."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservative MP has supported a hard Brexit for years and I know he doesn\u2019t share the values of the people of Altrincham and Sale West."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

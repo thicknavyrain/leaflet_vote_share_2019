@@ -1,0 +1,169 @@
+{
+    "leaflet": {
+        "candidateName": "Meera Chadha",
+        "candidateGender": "",
+        "constituency": "Walthamstow",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "12th December",
+        "messages": [
+            {
+                "title": "Demanding Better for Walthamstow",
+                "content": "Meera Chadha, a local champion for Walthamstow. Disappointed with Labour and despair with the Tories? Labour have put our country at risk. Vote for a positive, progressive change. Vote Liberal Democrat on 12th December."
+            },
+            {
+                "title": "A Brighter Future for Britain",
+                "content": "Vote Liberal Democrat on 12th December. Voters don't have to choose between Boris Johnson or Jeremy Corbyn for the next Prime Minister. They can do better and back the Liberal Democrats."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "Meera Chadha wants to stop Brexit so that we can build a brighter future."
+            },
+            {
+                "policyTitle": "Save the Environment",
+                "policyDescription": "Saving our environment for the future."
+            },
+            {
+                "policyTitle": "Affordable Living",
+                "policyDescription": "Helping people to live affordably."
+            }
+        ],
+        "mentions": {
+            "candidate": "Meera Chadha",
+            "otherPartyLeaderCandidate": [
+                "Boris Johnson",
+                "Jeremy Corbyn"
+            ],
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Avoiding the damage inflicted by Brexit.",
+            "defence": "",
+            "economy": "\u00a350 billion Remain Bonus to invest in public services and tackling inequality.",
+            "education": "Conservative policies have seen our schools suffer.",
+            "environment": "Saving our environment for the future.",
+            "governance": "",
+            "government": "",
+            "health": "Under the Conservative government we\u2019ve seen our NHS suffer.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.libdems.org.uk/vote",
+            "socialMedia": {
+                "facebook": "facebook.com/meerachadhaLD",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Meera Chadha with supporters."
+                },
+                {
+                    "caption": "Jo Swinson is the leader of the Liberal Democrats."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "\u00a350 billion Remain Bonus to invest in public services and tackling inequality."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Disappointed with Labour and despair with the Tories?",
+                        "A local champion for Walthamstow.",
+                        "Meera Chadha wants to stop Brexit so that we can build a brighter future."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Demanding Better for Walthamstow."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Stop Brexit",
+                        "Save the Environment",
+                        "Avoiding the damage inflicted by Brexit."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour will not stop Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Boris Johnson",
+                        "Jeremy Corbyn"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "A local champion for Walthamstow.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "A local champion for Walthamstow."
+                ]
+            }
+        }
+    }
+}

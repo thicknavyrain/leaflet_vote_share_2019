@@ -1,0 +1,65 @@
+{
+    "leaflet": {
+        "candidateName": "Tim Aker",
+        "constituency": "Thurrock",
+        "politicalParty": "UKIP",
+        "messages": [
+            {
+                "title": "My local priorities",
+                "content": "Working Hard For You: Thurrock Council figures show I have put in more casework and helped more people in Thurrock than both Tory MPs combined. Fighting New Thames Crossing: No more Crossings in Thurrock. Put it elsewhere. Thurrock has had enough. It will bring more traffic and more pollution. Tackle The Housing Crisis: Thurrock residents should be put first in the housing queue. We need to reduce migration to ease pressure on the housing stock."
+            },
+            {
+                "title": "Our national priorities",
+                "content": "Control & Cut Migration: On 5th April, only UKIP MEPs voted to stop unlimited migration after Brexit. The Tories and Labour want to continue free movement. The Brexit You Voted For: 72% of people in Thurrock voted to leave the EU. The Tory MP voted to Remain in the EU. Please support me to get a Brexit MP. Defend Our NHS: I will fight the Tory cuts to our NHS including the proposed ending of services at Orsett Hospital. Thurrock needs a new hospital."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Working Hard For You",
+                "policyDescription": "Thurrock Council figures show the candidate has put in more casework and helped more people in Thurrock than both Tory MPs combined."
+            },
+            {
+                "policyTitle": "Fighting New Thames Crossing",
+                "policyDescription": "No more Crossings in Thurrock. Put it elsewhere. Thurrock has had enough. It will bring more traffic and more pollution."
+            },
+            {
+                "policyTitle": "Tackle The Housing Crisis",
+                "policyDescription": "Thurrock residents should be put first in the housing queue. We need to reduce migration to ease pressure on the housing stock."
+            },
+            {
+                "policyTitle": "Control & Cut Migration",
+                "policyDescription": "On 5th April, only UKIP MEPs voted to stop unlimited migration after Brexit. The Tories and Labour want to continue free movement."
+            },
+            {
+                "policyTitle": "The Brexit You Voted For",
+                "policyDescription": "72% of people in Thurrock voted to leave the EU. The Tory MP voted to Remain in the EU. Please support the candidate to get a Brexit MP."
+            },
+            {
+                "policyTitle": "Defend Our NHS",
+                "policyDescription": "The candidate will fight the Tory cuts to our NHS including the proposed ending of services at Orsett Hospital. Thurrock needs a new hospital."
+            }
+        ],
+        "mentions": {
+            "tacticalSituation": "72% of people in Thurrock voted to leave the EU."
+        },
+        "issues": {
+            "brexitEurope": "72% of people in Thurrock voted to leave the EU. The Tory MP voted to Remain in the EU.",
+            "health": "I will fight the Tory cuts to our NHS including the proposed ending of services at Orsett Hospital. Thurrock needs a new hospital.",
+            "immigration": "On 5th April, only UKIP MEPs voted to stop unlimited migration after Brexit. The Tories and Labour want to continue free movement.",
+            "lawCrime": "Working Hard For You: Thurrock Council figures show I have put in more casework and helped more people in Thurrock than both Tory MPs combined.",
+            "community": [
+                {
+                    "content": "Fighting New Thames Crossing: No more Crossings in Thurrock. Put it elsewhere. Thurrock has had enough. It will bring more traffic and more pollution.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        }
+    }
+}

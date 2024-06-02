@@ -1,0 +1,172 @@
+{
+    "leaflet": {
+        "candidateName": "Liz Savage",
+        "candidateGender": "",
+        "constituency": "Southport",
+        "politicalParty": "Labour",
+        "electionDate": "December 12th",
+        "messages": [
+            {
+                "title": "DON'T LET THE LIB DEMS PUT THE TORIES BACK IN...",
+                "content": "THEY'VE DONE IT BEFORE, DON'T RISK IT AGAIN!"
+            },
+            {
+                "title": "ONLY LABOUR CAN BEAT THE TORIES",
+                "content": "Labour is the leading opposition in Southport with the best chance of stopping the Conservatives."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Labour built the NHS, only Labour will rebuild it!"
+            }
+        ],
+        "mentions": {
+            "candidate": "Liz Savage",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "Labour is the leading opposition in Southport with the best chance of stopping the Conservatives."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Labour built the NHS, only Labour will rebuild it!",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Labour built the NHS, only Labour will rebuild it!",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Labour built the NHS, only Labour will rebuild it!",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "DON'T LET THE LIB DEMS PUT THE TORIES BACK IN...",
+                        "THEY'VE DONE IT BEFORE, DON'T RISK IT AGAIN!",
+                        "Labour built the NHS, only Labour will rebuild it!",
+                        "Labour is the leading opposition in Southport with the best chance of stopping the Conservatives."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Labour built the NHS, only Labour will rebuild it!"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

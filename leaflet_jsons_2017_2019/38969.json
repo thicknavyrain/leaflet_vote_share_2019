@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Ian Flindall",
+        "candidateGender": "",
+        "constituency": "St Ives",
+        "politicalParty": "Green Party",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Vote Ian Flindall for St Ives Constituency",
+                "content": "Ian has spent his career implementing action to combat climate change. He has prevented energy waste in the public sector, installed renewable energy systems and reduced harmful carbon emissions. Thanks to Ian, over 30 small businesses in Cornwall have small wind turbines. He helps run a small family farm at Morvah, setting half the acreage aside for rare heathland plants and providing a home for the Cornish chough and other precious wildlife. Time is running out to avoid climate breakdown. This emergency demands that we mobilise \u2013 with our neighbours around the world \u2013 on the same scale as World War Two."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Climate Action",
+                "policyDescription": "Implementing action to combat climate change, installing renewable energy systems, reducing carbon emissions, and supporting small wind turbine businesses."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ian Flindall",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Implementing action to combat climate change, installing renewable energy systems, reducing carbon emissions, and supporting small wind turbine businesses.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "He helps run a small family farm at Morvah, setting half the acreage aside for rare heathland plants and providing a home for the Cornish chough and other precious wildlife.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Ian has spent his career implementing action to combat climate change. He has prevented energy waste in the public sector, installed renewable energy systems and reduced harmful carbon emissions. Thanks to Ian, over 30 small businesses in Cornwall have small wind turbines. He helps run a small family farm at Morvah, setting half the acreage aside for rare heathland plants and providing a home for the Cornish chough and other precious wildlife. Time is running out to avoid climate breakdown. This emergency demands that we mobilise \u2013 with our neighbours around the world \u2013 on the same scale as World War Two.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Time is running out to avoid climate breakdown. This emergency demands that we mobilise \u2013 with our neighbours around the world \u2013 on the same scale as World War Two.",
+                "source": "Ian Flindall",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Thanks to Ian, over 30 small businesses in Cornwall have small wind turbines."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Implementing action to combat climate change.",
+                        "Time is running out to avoid climate breakdown. This emergency demands that we mobilise \u2013 with our neighbours around the world \u2013 on the same scale as World War Two."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "He helps run a small family farm at Morvah, setting half the acreage aside for rare heathland plants and providing a home for the Cornish chough and other precious wildlife."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Implementing action to combat climate change."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Ian helps run a small family farm at Morvah, setting half the acreage aside for rare heathland plants and providing a home for the Cornish chough and other precious wildlife.",
+                    "issueRelated": "Environment"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

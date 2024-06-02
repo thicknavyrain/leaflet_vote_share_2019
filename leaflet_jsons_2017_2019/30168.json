@@ -1,0 +1,199 @@
+{
+    "leaflet": {
+        "candidateName": "Unknown",
+        "candidateGender": "Unknown",
+        "constituency": "Bermondsey and Old Southwark",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Labour\u2019s Brexit let-down",
+                "content": "Voted with UKIP to back Brexit. Want us out of the single market. Fighting against free movement. Jeremy Corbyn has betrayed us over Brexit. He is unfit to be called leader of the opposition. The Guardian, 19 February 2017. There\u2019s only one way to stop Brexit wrecking Britain. See over."
+            },
+            {
+                "title": "More and more people in Bermondsey and Old Southwark are switching to the Lib Dems to stop Brexit wrecking Britain",
+                "content": "Lib Dems are the anti-Brexit party. BBC, 19 April 2017. Only the Lib Dems can stop hard Brexit. The Times, 4 April 2017. The Conservatives can\u2019t win here. Vote Lib Dem on 8th June."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "Switch to the Liberal Democrats to prevent Brexit from wrecking Britain."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Tim Farron",
+            "tacticalSituation": "The Conservatives can\u2019t win here."
+        },
+        "issues": {
+            "brexitEurope": "Stop Brexit wrecking Britain. Lib Dems are the anti-Brexit party. Only the Lib Dems can stop hard Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "More and more people in Bermondsey and Old Southwark are switching to the Lib Dems.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "8-10 Great George Street, London, SW1P 3AE",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Jeremy Corbyn has betrayed us over Brexit. He is unfit to be called leader of the opposition.",
+                "source": "The Guardian",
+                "date": "19 February 2017"
+            },
+            {
+                "text": "Lib Dems are the anti-Brexit party.",
+                "source": "BBC",
+                "date": "19 April 2017"
+            },
+            {
+                "text": "Only the Lib Dems can stop hard Brexit.",
+                "source": "The Times",
+                "date": "4 April 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Labour's Brexit let-down with photo of Jeremy Corbyn."
+                },
+                {
+                    "caption": "Vote Lib Dem on 8th June with photo of Tim Farron."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Jeremy Corbyn has betrayed us over Brexit. He is unfit to be called leader of the opposition.",
+                        "Lib Dems are the anti-Brexit party.",
+                        "Only the Lib Dems can stop hard Brexit.",
+                        "The Conservatives can\u2019t win here."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "More and more people in Bermondsey and Old Southwark are switching to the Lib Dems."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Stop Brexit wrecking Britain.",
+                        "Lib Dems are the anti-Brexit party.",
+                        "Only the Lib Dems can stop hard Brexit."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "Labour\u2019s Brexit let-down.",
+                        "Jeremy Corbyn has betrayed us over Brexit.",
+                        "He is unfit to be called leader of the opposition."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 3,
+                    "examples": [
+                        "Labour\u2019s Brexit let-down.",
+                        "Jeremy Corbyn has betrayed us over Brexit.",
+                        "He is unfit to be called leader of the opposition."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 3,
+                    "examples": [
+                        "Labour\u2019s Brexit let-down.",
+                        "Jeremy Corbyn has betrayed us over Brexit.",
+                        "He is unfit to be called leader of the opposition."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

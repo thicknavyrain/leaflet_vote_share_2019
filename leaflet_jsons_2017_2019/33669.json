@@ -1,0 +1,177 @@
+{
+    "leaflet": {
+        "candidateName": "Jason Cooper",
+        "candidateGender": "",
+        "constituency": "Newcastle-under-Lyme",
+        "politicalParty": "The Brexit Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "I AM READY",
+                "content": "I am from Wolverhampton where I have lived for most of my life. It is a privilege to be your Brexit Party Parliamentary Candidate here in Newcastle-Under-Lyme. I am a consultant cardiovascular surgeon, and if elected I would strive to protect and restore our beloved NHS."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A Clean-Break Brexit",
+                "policyDescription": "We must control our laws, borders, money, and defence."
+            },
+            {
+                "policyTitle": "A Brexit Dividend",
+                "policyDescription": "Spend \u00a3200bn on transport, and jobs in the regions."
+            },
+            {
+                "policyTitle": "Controlled Immigration",
+                "policyDescription": "We need a fair, firm points-based system."
+            },
+            {
+                "policyTitle": "Supporting the NHS",
+                "policyDescription": "Keep investing. Better management, less waste."
+            },
+            {
+                "policyTitle": "Fundamental Democratic Reform",
+                "policyDescription": "Let's make Parliament serve the people."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jason Cooper",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "A Clean-Break Brexit. We must control our laws, borders, money, and defence.",
+            "defence": "",
+            "economy": "A Brexit Dividend. Spend \u00a3200bn on transport, and jobs in the regions.",
+            "education": "",
+            "environment": "",
+            "governance": "Fundamental Democratic Reform. Let's make Parliament serve the people.",
+            "government": "",
+            "health": "Supporting the NHS. Keep investing. Better management, less waste.",
+            "immigration": "Controlled Immigration. We need a fair, firm points-based system.",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "A Brexit Dividend. Spend \u00a3200bn on transport, and jobs in the regions.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "To reform political system, so that Parliament represents the people. For a clean break Brexit. To invest \u00a3200 billion in our neglected regions - creating well-paid, highly skilled jobs. To restore bolstered trees on the high streets in our town. To increase police numbers and tackle anti-social behaviour.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I am from Wolverhampton where I have lived for most of my life. It is a privilege to be your Brexit Party Parliamentary Candidate here in Newcastle-Under-Lyme. I am a consultant cardiovascular surgeon, and if elected I would strive to protect and restore our beloved NHS.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "jason.cooper@thebrexitparty.org",
+            "website": "www.jasoncooper.org",
+            "socialMedia": {
+                "facebook": "facebook.com/JasonCooper",
+                "twitter": "@JasonCooper",
+                "instagram": "thebrexitpartyNewcastleUnderLyme",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Jason Cooper, Parliamentary Candidate"
+                },
+                {
+                    "caption": "Nigel Farage, Leader of The Brexit Party"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Spend \u00a3200bn on transport, and jobs in the regions.",
+                        "To invest \u00a3200 billion in our neglected regions - creating well-paid, highly skilled jobs."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Keep investing. Better management, less waste.",
+                        "It is a privilege to be your Brexit Party Parliamentary Candidate here in Newcastle-Under-Lyme."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "To restore bolstered trees on the high streets in our town. To increase police numbers and tackle anti-social behaviour."
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "A Clean-Break Brexit. We must control our laws, borders, money, and defence.",
+                        "A Brexit Dividend. Spend \u00a3200bn on transport, and jobs in the regions.",
+                        "Controlled Immigration. We need a fair, firm points-based system.",
+                        "Supporting the NHS. Keep investing. Better management, less waste.",
+                        "Fundamental Democratic Reform. Let's make Parliament serve the people."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I am from Wolverhampton where I have lived for most of my life. I am a consultant cardiovascular surgeon.",
+                    "issueRelated": "health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I am from Wolverhampton where I have lived for most of my life.",
+                "employment": "I am a consultant cardiovascular surgeon.",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I am from Wolverhampton where I have lived for most of my life."
+                ]
+            }
+        }
+    }
+}

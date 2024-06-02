@@ -1,0 +1,194 @@
+{
+    "leaflet": {
+        "candidateName": "Olivia Blake",
+        "candidateGender": "",
+        "constituency": "Sheffield Hallam",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "",
+                "content": "As your MP I will support a Labour government to respond rapidly and effectively to the climate emergency. We will rebuild public services and end the Tories\u2019 Brexit chaos. I\u2019ll campaign to Remain in a \u2018final say\u2019 referendum. Please contact me to hear about our plans."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Rebuild public services",
+                "policyDescription": "Support a Labour government to rebuild public services."
+            },
+            {
+                "policyTitle": "Climate emergency",
+                "policyDescription": "Respond rapidly and effectively to the climate emergency."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "End the Tories\u2019 Brexit chaos and campaign to Remain in a \u2018final say\u2019 referendum."
+            }
+        ],
+        "mentions": {
+            "candidate": "Olivia Blake",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "I\u2019ll campaign to Remain in a \u2018final say\u2019 referendum.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Respond rapidly and effectively to the climate emergency.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "0114 272 4964",
+            "email": "olivia@oliviablake.org.uk",
+            "website": "www.oliviablake.org.uk",
+            "socialMedia": {
+                "facebook": "fb.com/oliviablakeuk",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Olivia Blake"
+                },
+                {
+                    "caption": "Olivia Blake"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "I\u2019ll campaign to Remain in a \u2018final say\u2019 referendum. We will rebuild public services and end the Tories\u2019 Brexit chaos."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "As your MP I will support a Labour government to respond rapidly and effectively to the climate emergency."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Respond rapidly and effectively to the climate emergency.",
+                        "Rebuild public services.",
+                        "Campaign to Remain in a \u2018final say\u2019 referendum."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "End the Tories\u2019 Brexit chaos."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

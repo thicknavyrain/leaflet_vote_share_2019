@@ -1,0 +1,194 @@
+{
+    "leaflet": {
+        "candidateName": "Ranil Jayawardena",
+        "candidateGender": "",
+        "constituency": "North East Hampshire",
+        "politicalParty": "Conservative",
+        "electionDate": "12th December",
+        "messages": [
+            {
+                "title": "Your choice at this election",
+                "content": "Getting on with the country's priorities OR A hung parliament with Jeremy Corbyn in charge"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get Brexit done with our new deal"
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "More funding for every school"
+            },
+            {
+                "policyTitle": "Defense and Security",
+                "policyDescription": "20,000 extra police officers"
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "33.9 billion extra for the NHS"
+            },
+            {
+                "policyTitle": "Local Transport",
+                "policyDescription": "Faster, longer, better trains"
+            },
+            {
+                "policyTitle": "Local Infrastructure",
+                "policyDescription": "Better roads for everyone"
+            },
+            {
+                "policyTitle": "Healthcare Services",
+                "policyDescription": "Easier access to healthcare facilities"
+            },
+            {
+                "policyTitle": "Healthcare Funding",
+                "policyDescription": "33.9bn extra investment in the NHS"
+            }
+        ],
+        "mentions": {
+            "candidate": "Ranil Jayawardena",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Get Brexit done with our new deal",
+            "defence": "20,000 extra police officers",
+            "economy": "Highest taxes in peacetime history",
+            "education": "More funding for every school",
+            "environment": "",
+            "governance": "",
+            "government": "No progress on the country's priorities",
+            "health": "33.9 billion extra for the NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Faster, longer, better trains",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Better infrastructure supporting local communities, visiting infrastructure projects",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Ranil Jayawardena visiting local projects"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 5,
+                    "examples": [
+                        "33.9 billion extra for the NHS",
+                        "20,000 extra police officers",
+                        "More funding for every school",
+                        "Higher taxes in peacetime history",
+                        "33.9bn extra investment in the NHS"
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "Get Brexit done with our new deal",
+                        "No progress on the country's priorities",
+                        "Better roads for everyone",
+                        "Easier access to healthcare facilities",
+                        "Visiting infrastructure projects",
+                        "Supporting local communities"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Ranil Jayawardena visiting local projects",
+                        "Better roads for everyone"
+                    ]
+                },
+                "national": {
+                    "count": 6,
+                    "examples": [
+                        "Get Brexit done with our new deal",
+                        "More funding for every school",
+                        "20,000 extra police officers",
+                        "33.9 billion extra for the NHS",
+                        "No progress on the country's priorities",
+                        "Highest taxes in peacetime history"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "No progress on the country's priorities"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "A hung parliament with Jeremy Corbyn in charge"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

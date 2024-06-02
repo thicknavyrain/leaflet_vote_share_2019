@@ -1,0 +1,192 @@
+{
+    "leaflet": {
+        "candidateName": "Sophie Johnson",
+        "candidateGender": "",
+        "constituency": "South Northamptonshire",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Local Issues",
+                "policyDescription": "Commitment to protecting and improving local health services, creating safer roads, and improving public transport links."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Ensuring the best Brexit deal for all."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Increasing education funding to overcome financial struggles."
+            },
+            {
+                "policyTitle": "Community",
+                "policyDescription": "Support for diverse community while doing all I can to create safer roads."
+            }
+        ],
+        "mentions": {
+            "candidate": "Sophie Johnson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Best Brexit deal for all.",
+            "defence": "",
+            "economy": "",
+            "education": "Increasing education funding to overcome financial struggles.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Protecting and improving local health services.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Improving public transport links and creating safer roads.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Creating safer roads and improving public transport links.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I am honoured to stand as parliamentary candidate for this beautiful constituency where I live and work.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "96 Charles Street, Northampton NN1 3BG",
+            "phone": "07747 198383",
+            "email": "enquiries@southnorthantslabour.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Bridget Robb",
+                "endorsement": "As a local campaigner, Sophie gets the constituency and its community."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "A vote for me is a vote for a candidate with a local focus and a constant local presence.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Sophie Johnson"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Ensuring the best Brexit deal for all."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "A vote for me is a vote for a candidate with a local focus and a constant local presence.",
+                        "Protecting and improving local health services.",
+                        "Increasing education funding to overcome financial struggles."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "Commitment to protecting and improving local health services.",
+                        "Creating safer roads.",
+                        "Improving public transport links.",
+                        "Supporting the diverse community."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Ensuring the best Brexit deal for all."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I am honoured to stand as parliamentary candidate for this beautiful constituency where I live and work.",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Bridget Robb: As a local campaigner, Sophie gets the constituency and its community."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I am honoured to stand as parliamentary candidate for this beautiful constituency where I live and work.",
+                "employment": "Local community campaigner",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I am honoured to stand as parliamentary candidate for this beautiful constituency where I live and work."
+                ]
+            }
+        }
+    }
+}

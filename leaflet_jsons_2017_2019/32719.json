@@ -1,0 +1,178 @@
+{
+    "leaflet": {
+        "candidateName": "Christine Roach",
+        "candidateGender": "",
+        "constituency": "Ogmore",
+        "politicalParty": "The Brexit Party",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Fighting for Democracy, Fighting for Ogmore",
+                "content": "I am proud to be the Ogmore Constituency Candidate. I have been selected to stand as the parliamentary candidate for The Brexit Party and represent communities. I am committed to helping people, providing services, and working tirelessly for the benefit of the Ogmore constituency."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "More Money for Ogmore",
+                "policyDescription": "Ensure that the budget allocation for strategic projects is made available for the Ogmore Constituency, using the savings from not paying into the EU."
+            },
+            {
+                "policyTitle": "Improve Public Services",
+                "policyDescription": "Work closely with the Welsh Assembly and Local Government to deliver first-class services for all the people of Ogmore and Wales."
+            },
+            {
+                "policyTitle": "Improve Law and Order",
+                "policyDescription": "Review and reform law and order, including a review of sentencing guidelines and an increase in front line policing."
+            },
+            {
+                "policyTitle": "Wales Voted to Leave",
+                "policyDescription": "We are the only political party in Wales committed to respecting the result of the 2016 EU Referendum. The Welsh vote to leave will not be ignored or betrayed. Let's make a success out of Brexit!"
+            }
+        ],
+        "mentions": {
+            "candidate": "Christine Roach, Ogmore",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "If you want more of the same that we've had for the last 20 years, then vote Labour."
+        },
+        "issues": {
+            "brexitEurope": "Let's make a success out of Brexit!",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Review and reform law and order, including a review of sentencing guidelines and an increase in front line policing.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Ensure that the budget allocation for strategic projects is made available for the Ogmore Constituency, using the savings from not paying into the EU.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I am not a career politician! I started out helping to run the family business, and for the last 5 years, I have worked in the Welsh National Health Service, providing services and support for people with long-term health conditions. I have served as an energetic Community Councillor, Chair of School Governors and led a local charity for Children with Special Needs and Autism.",
+        "politicalExperience": [
+            {
+                "role": "Community Councillor, Chair of School Governors, Charity Leader",
+                "duration": "Several Years",
+                "achievements": "Served as an energetic Community Councillor, led a local charity for Children with Special Needs and Autism."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "christine.roach@thebrexitparty.org",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@_ChristineRoach",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Vote The Brexit Party"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Wales voted to leave"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I am proud to be the Ogmore Constituency Candidate.",
+                        "I am committed to helping people, providing services, and working tirelessly for the benefit of the Ogmore constituency.",
+                        "If you want more of the same that we've had for the last 20 years, then vote Labour."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Ensure that the budget allocation for strategic projects is made available for the Ogmore Constituency, using the savings from not paying into the EU.",
+                        "Work closely with the Welsh Assembly and Local Government to deliver first-class services for all the people of Ogmore and Wales."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Let's make a success out of Brexit!"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I am not a career politician! I started out helping to run the family business, and for the last 5 years, I have worked in the Welsh National Health Service, providing services and support for people with long-term health conditions.",
+                    "issueRelated": "health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "If you want more of the same that we've had for the last 20 years, then vote Labour."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Labour has let you down. If you vote for Labour, absolutely nothing changes."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I am proud to be the Ogmore Constituency Candidate.",
+                "employment": "For the last 5 years I have worked in the Welsh National Health Service, providing services and support for people with long term health conditions.",
+                "education": "",
+                "family": "I started out helping to run the family business."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I am proud to be the Ogmore Constituency Candidate.",
+                    "I have worked in the Welsh National Health Service."
+                ]
+            }
+        }
+    }
+}

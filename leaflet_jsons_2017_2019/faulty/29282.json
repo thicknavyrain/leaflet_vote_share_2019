@@ -1,0 +1,212 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "You Can Change the Future of Britain",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Tim Farron",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Tim Farron",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The Lib Dems are fighting to protect what's most important to families - our NHS, schools and jobs.",
+            "immigration": "",
+            "labourEmployment": "Labour are too busy fighting with each other to fight for you.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "We want to keep the UK in the single market and build an economy that works for you and your family wherever you live.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "LibDems.org.uk/join",
+            "socialMedia": {}
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "\"Labour suffers historic defeat.\"",
+                "source": "The Independent, 24 Feb 2017",
+                "date": "24 Feb 2017"
+            },
+            {
+                "text": "\"Labour is fatally divided inside Parliament and outside it.\"",
+                "source": "New Statesman, 30 Mar 2017",
+                "date": "30 Mar 2017"
+            },
+            {
+                "text": "\"We cannot fight and win with Jeremy as our leader.\"",
+                "source": "Birmingham Labour MP, Jack Dromey",
+                "date": ""
+            },
+            {
+                "text": "\"Jeremy Corbyn's position is no longer tenable if we are to be effective.\"",
+                "source": "Yorkshire Labour MP, Sarah Champion",
+                "date": ""
+            },
+            {
+                "text": "\"I will not countenance ever voting to make Corbyn prime minister.\"",
+                "source": "Barrow Labour MP, John Woodcock",
+                "date": ""
+            },
+            {
+                "text": "\"The Liberal Democrats have raised half a million pounds from grassroots supporters since the snap General Election was called, more than twice as much as Labour.\"",
+                "source": "The Financial Times, 21 Apr 2017",
+                "date": "21 Apr 2017"
+            },
+            {
+                "text": "\"Liberal Democrats celebrate stunning council wins in both North and South.\"",
+                "source": "The Independent, 13 Jan 2017",
+                "date": "13 Jan 2017"
+            },
+            {
+                "text": "\"Lib Dems have been enjoying a stunning run of local success, snatching council seats in traditional Labour places such as Rotherham, Sunderland and Kettering.\"",
+                "source": "The Times, 6 Mar 2017",
+                "date": "6 Mar 2017"
+            },
+            {
+                "text": "\"Lib Dems gain 1,000 members in the first hour after general election announced.\"",
+                "source": "Metro, 18 Apr 2017",
+                "date": "18 Apr 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Tim Farron"
+                },
+                {
+                    "caption": "Jeremy Corbyn"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "\"The Liberal Democrats have raised half a million pounds from grassroots supporters since the snap General Election was called, more than twice as much as Labour.\""
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "\"Labour suffers historic defeat.\"",
+                        "\"Labour is fatally divided inside Parliament and outside it.\"",
+                        "\"We cannot fight and win with Jeremy as our leader.\"",
+                        "\"Jeremy Corbyn's position is no longer tenable if we are to be effective.\"",
+                        "\"I will not countenance ever voting to make Corbyn prime minister.\""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "The Lib Dems are fighting to protect what's most important to families - our NHS, schools and jobs.",
+                        "Labour are too busy fighting with each other to fight for you.",
+                        "We want to keep the UK in the single market and build an economy that works for you and your family wherever you live."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 6,
+                    "examples": [
+                        "\"Labour suffers historic defeat.\"",
+                        "\"Labour is fatally divided inside Parliament and outside it.\"",
+                        "\"We cannot fight and win with Jeremy as our leader.\"",
+                        "\"Jeremy Corbyn's position is no longer tenable if we are to be effective.\"",
+                        "\"I will not countenance ever voting to make Corbyn prime minister.\"",
+                        "Labour are too busy fighting with each other to fight for you."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "\"We cannot fight and win with Jeremy as our leader.\"",
+                        "\"Jeremy Corbyn's position is no longer tenable if we are to be effective.\""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 3,
+                    "examples": [
+                        "\"I will not countenance ever voting to make Corbyn prime minister.\"",
+                        "Labour are too busy fighting with each other to fight for you.",
+                        "\"Labour suffers historic defeat.\""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

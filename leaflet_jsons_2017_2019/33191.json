@@ -1,0 +1,175 @@
+{
+    "leaflet": {
+        "candidateName": "Stephen Flynn",
+        "candidateGender": "",
+        "constituency": "Aberdeen South",
+        "politicalParty": "SNP",
+        "electionDate": "12th December",
+        "messages": [
+            {
+                "title": "UK General Election, 12th December",
+                "content": "There can be no doubt that this election will define our future.\nThe Tories want to drag us out of the EU against our will and leave Aberdeen, and Scotland, at the mercy of Boris Johnson.\nWe know that Brexit will hit Aberdeen harder than any other city in the UK and that the NHS will be on Donald Trump's negotiating table.\nWe can choose a better future.\nA future where our city, and country, thrives as a vibrant member of the EU.\nA future where we capitalise on our oil and gas skills and realise our renewables potential.\nA future where we welcome those who want to work in our schools, NHS and universities.\nIf elected as your SNP MP, I promise to fight to make this possible.\nIt\u2019s time to show the Tories the door and ensure Scotland's future is in Scotland's hands.\nOnly the SNP can beat the Tories in Aberdeen South and we can only do so with your support.\nVote SNP on the 12th December."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Fight against being dragged out of the EU against our will."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Prevent the NHS from being on Donald Trump's negotiating table."
+            },
+            {
+                "policyTitle": "Economic Development",
+                "policyDescription": "Capitalize on oil and gas skills and realize renewable potential."
+            },
+            {
+                "policyTitle": "Education and Employment",
+                "policyDescription": "Welcome those who want to work in our schools, NHS, and universities."
+            },
+            {
+                "policyTitle": "Scottish Autonomy",
+                "policyDescription": "Ensure Scotland's future is in Scotland's hands."
+            }
+        ],
+        "mentions": {
+            "candidate": "Stephen Flynn",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": "Only the SNP can beat the Tories in Aberdeen South and we can only do so with your support."
+        },
+        "issues": {
+            "brexitEurope": "The Tories want to drag us out of the EU against our will and leave Aberdeen, and Scotland, at the mercy of Boris Johnson.\nA future where our city, and country, thrives as a vibrant member of the EU.\nIf elected as your SNP MP, I promise to fight to make this possible.",
+            "defence": "",
+            "economy": "A future where we capitalise on our oil and gas skills and realise our renewables potential.",
+            "education": "A future where we welcome those who want to work in our schools, NHS and universities.",
+            "environment": "Capitalize on oil and gas skills and realize renewable potential.",
+            "governance": "",
+            "government": "",
+            "health": "We know that Brexit will hit Aberdeen harder than any other city in the UK and that the NHS will be on Donald Trump's negotiating table.",
+            "immigration": "",
+            "labourEmployment": "A future where we welcome those who want to work in our schools, NHS and universities.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Ensure Scotland's future is in Scotland's hands.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "4A Algy Craik Northern Road, Aberdeen",
+            "phone": "",
+            "email": "sflynnsnp@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "@StephenFlynnSNP",
+                "twitter": "@StephenFlynnSNP",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Brexit will hit Aberdeen harder than any other city in the UK."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "We can choose a better future."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Only the SNP can beat the Tories in Aberdeen South."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The Tories want to drag us out of the EU against our will."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Tories want to drag us out of the EU against our will and leave Aberdeen, and Scotland, at the mercy of Boris Johnson."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

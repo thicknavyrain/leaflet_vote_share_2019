@@ -1,0 +1,220 @@
+{
+    "leaflet": {
+        "candidateName": "Martin Lyon",
+        "candidateGender": "",
+        "constituency": "Winchester",
+        "politicalParty": "UK Independence Party",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Dear Voter",
+                "content": "These are important times. Stakes are high and the opportunities great as we leave the EU. For 40 years the main parties have been weak on Europe. UKIP are not. Meantime we have other serious issues to tackle . The NHS, poorly managed and underfunded, uncontrolled immigration, a broken housing system, family breakdown, low industrial output, a shortage of apprenticeships, tax burden on SMEs and pressure on public services. As a parent, ex-county councillor and professional business person I will represent you well. Yours sincerely, Martin Lyon"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "UKIP is strong on Europe, unlike the main parties which have been weak for 40 years."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Poorly managed and underfunded."
+            },
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "Uncontrolled immigration."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "A broken housing system."
+            },
+            {
+                "policyTitle": "Family",
+                "policyDescription": "Family breakdown."
+            },
+            {
+                "policyTitle": "Industry",
+                "policyDescription": "Low industrial output."
+            },
+            {
+                "policyTitle": "Apprenticeships",
+                "policyDescription": "A shortage of apprenticeships."
+            },
+            {
+                "policyTitle": "SMEs",
+                "policyDescription": "Tax burden on SMEs."
+            },
+            {
+                "policyTitle": "Public Services",
+                "policyDescription": "Pressure on public services."
+            }
+        ],
+        "mentions": {
+            "candidate": "Martin Lyon",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Stakes are high and the opportunities great as we leave the EU. For 40 years the main parties have been weak on Europe. UKIP are not.",
+            "defence": "",
+            "economy": "Low industrial output, tax burden on SMEs.",
+            "education": "A shortage of apprenticeships.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The NHS, poorly managed and underfunded.",
+            "immigration": "Uncontrolled immigration.",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Family breakdown, pressure on public services.",
+            "community": [
+                {
+                    "content": "A broken housing system.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "As a parent, ex-county councillor and professional business person I will represent you well.",
+        "politicalExperience": [
+            {
+                "role": "ex-county councillor",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "07876 210815",
+            "email": "",
+            "website": "www.ukipwinchester.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "For 40 years the main parties have been weak on Europe."
+                    ]
+                },
+                "qualitative": {
+                    "count": 9,
+                    "examples": [
+                        "Stakes are high and the opportunities great as we leave the EU.",
+                        "The NHS, poorly managed and underfunded.",
+                        "Uncontrolled immigration.",
+                        "A broken housing system.",
+                        "Family breakdown.",
+                        "Low industrial output.",
+                        "A shortage of apprenticeships.",
+                        "Tax burden on SMEs.",
+                        "Pressure on public services."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "A broken housing system."
+                    ]
+                },
+                "national": {
+                    "count": 6,
+                    "examples": [
+                        "Stakes are high and the opportunities great as we leave the EU.",
+                        "For 40 years the main parties have been weak on Europe.",
+                        "The NHS, poorly managed and underfunded.",
+                        "Uncontrolled immigration.",
+                        "Low industrial output.",
+                        "Pressure on public services."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "As a parent, ex-county councillor and professional business person I will represent you well.",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 6,
+                    "examples": [
+                        "For 40 years the main parties have been weak on Europe.",
+                        "The NHS, poorly managed and underfunded.",
+                        "Uncontrolled immigration.",
+                        "Low industrial output.",
+                        "A shortage of apprenticeships.",
+                        "Pressure on public services."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I will represent you well.",
+                "employment": "Professional business person.",
+                "education": "",
+                "family": "As a parent."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I will represent you well."
+                ]
+            }
+        }
+    }
+}

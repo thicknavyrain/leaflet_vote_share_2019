@@ -1,0 +1,203 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Mary Gwen Griffiths-Clarke",
+    "candidateGender": "",
+    "constituency": "Arfon",
+    "politicalParty": "Welsh Labour",
+    "electionDate": "8th June",
+    "messages": [
+      {
+        "title": "Working for the many, not the few",
+        "content": ""
+      },
+      {
+        "title": "",
+        "content": "It takes winning 326 seats to form a British government. Vote Labour to get the Tories out. A vote for anyone else will hand Theresa May the keys to Downing Street. This is the most important election of our lifetime and will affect generations to come."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Economic Vision",
+        "policyDescription": "A single set of quality standards for bus operators across Wales. A higher baseline funding for schools. More accessible childcare and nursery education. A workforce strategy for teachers and teaching assistants."
+      },
+      {
+        "policyTitle": "",
+        "policyDescription": "Ensure that workers receive the training opportunities they deserve. An integrated health and social care system.”
+      }
+    ],
+    "mentions": {
+      "candidate": "Mary Gwen Griffiths-Clarke",
+      "otherPartyLeaderCandidate": "Theresa May",
+      "partyLeader": "",
+      "tacticalSituation": "It takes winning 326 seats to form a British government. Vote Labour to get the Tories out."
+    },
+    "issues": {
+      "brexitEurope": "",
+      "defence": "",
+      "economy": "Only a Labour government in Westminster can deliver the change that Arfon needs. A proper industrial strategy to support business. Introduce measures to halt blacklisting and the abusive use of zero-hour contracts. Introduce a higher minimum wage and promote the living wage among Code of Practice companies. Deliver good quality jobs and growth and ensure opportunities for all.",
+      "education": "A higher baseline funding for schools. More accessible childcare and nursery education. A workforce strategy for teachers and teaching assistants.",
+      "environment": "",
+      "governance": "",
+      "government": "",
+      "health": "Integrated health and social care system.",
+      "immigration": "",
+      "labourEmployment": "Ensure that workers receive the training opportunities they deserve. Only a Labour government in Westminster can deliver the change that Arfon needs. Introduce measures to halt blacklisting and the abusive use of zero-hour contracts.",
+      "lawCrime": "",
+      "transport": "A single set of quality standards for bus operators across Wales.",
+      "socialWelfare": "",
+      "community": [
+        {
+          "content": "Deliver good quality jobs and growth and ensure opportunities for all, not just a privileged few. Build affordable and secure homes and tackle unfair letting fees charged by letting agents. Ensure that communities are able to access vital public services.",
+          "yimbyNimby": ""
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Whitby's Book Shop Manager",
+        "duration": "30 years",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Betty Williams, Llafur ar gyfer Arfon",
+      "phone": "07719 106524",
+      "email": "marygwenworkingforarfon@gmail.com",
+      "website": "",
+      "socialMedia": {
+        "facebook": "Working4Arfon",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Betty Williams, Former MP for Conwy",
+        "endorsement": ""
+      },
+      {
+        "endorser": "Eifion Gwynedd, Former PC",
+        "endorsement": ""
+      }
+    ],
+    "quotes": [
+      {
+        "text": "Mary Gwen has worked tirelessly for this community for many years and I invite all those concerned to support her.",
+        "source": "Betty Williams, Former MP for Conwy",
+        "date": ""
+      },
+      {
+        "text": "Mary has represented local people to a high standard through her roles on various committees. She will be a strong local voice in the Senedd and stand up for all of us.",
+        "source": "Eifion Gwynedd, Former PC",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        },
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "",
+    "analysis": {
+      "statementAnalysis": {
+        "quantitative": {
+          "count": 2,
+          "examples": [
+            "The Tories have cut £1.2 billion from Wales.",
+            "Only a Labour government in Westminster can deliver the change that Arfon needs."
+          ]
+        },
+        "qualitative": {
+          "count": 2,
+          "examples": [
+            "This is the most important election of our lifetime and will affect generations to come.",
+            "Deliver good quality jobs and growth and ensure opportunities for all, not just a privileged few."
+          ]
+        }
+      },
+      "photoAnalysis": {
+        "localPlaces": 0,
+        "people": 3,
+        "candidateAlone": 1,
+        "candidateWithOthers": 2
+      },
+      "issueFocus": {
+        "local": {
+          "count": 3,
+          "examples": [
+            "A single set of quality standards for bus operators across Wales.",
+            "Integrated health and social care system.",
+            "Deliver good quality jobs and growth and ensure opportunities for all, not just a privileged few."
+          ]
+        },
+        "national": {
+          "count": 2,
+          "examples": [
+            "Only a Labour government in Westminster can deliver the change that Arfon needs.",
+            "The Tories have cut £1.2 billion from Wales."
+          ]
+        }
+      },
+      "personalStories": [
+        {
+          "story": "Whitby's Book Shop Manager for 30 years.",
+          "issueRelated": ""
+        }
+      ],
+      "endorsementsUsed": {
+        "count": 2,
+        "examples": [
+          "Betty Williams, Former MP for Conwy",
+          "Eifion Gwynedd, Former PC"
+        ]
+      },
+      "negativeMessaging": {
+        "localIssues": {
+          "count": 0,
+          "examples": [""]
+        },
+        "nationalIssues": {
+          "count": 1,
+          "examples": [
+            "The Tories have cut £1.2 billion from Wales."
+          ]
+        },
+        "leaderOfOpponentsParty": {
+          "count": 1,
+          "examples": [
+            "It takes winning 326 seats to form a British government. Vote Labour to get the Tories out. A vote for anyone else will hand Theresa May the keys to Downing Street."
+          ]
+        },
+        "oppositeCandidateNoName": {
+          "count": 0,
+          "examples": [""]
+        },
+        "oppositeCandidateWithName": {
+          "count": 0,
+          "examples": [""]
+        }
+      },
+      "nonPolicyAttributes": {
+        "localness": "Mary has represented local people to a high standard through her roles on various committees.",
+        "employment": "Worked as Whitby's Book Shop Manager for 30 years.",
+        "education": "",
+        "family": ""
+      },
+      "localCandidate": {
+        "isLocal": true,
+        "examples": [
+          "Mary has represented local people to a high standard through her roles on various committees."
+        ]
+      }
+    }
+  }
+}
+```

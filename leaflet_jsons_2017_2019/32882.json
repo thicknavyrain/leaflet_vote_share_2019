@@ -1,0 +1,187 @@
+{
+    "leaflet": {
+        "candidateName": "Alok Sharma",
+        "candidateGender": "",
+        "constituency": "Reading West",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "John Curtice: Polls teeter between hung parliament and slim Tory majority",
+                "content": "At the end of this election, we\u2019ll either get a Conservative majority \u2013 or a hung parliament."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Supporting high-quality jobs locally",
+                "policyDescription": "Organised export seminars and campaigned for faster broadband."
+            },
+            {
+                "policyTitle": "Delivering an outstanding education for all our children",
+                "policyDescription": "Supported parent groups to set up the Wren School and All Saints Junior School."
+            },
+            {
+                "policyTitle": "Campaigning for better accessibility at local rail stations",
+                "policyDescription": "Won millions for local transport projects and delivered more standard class train seats."
+            },
+            {
+                "policyTitle": "Tackle illegal encampments",
+                "policyDescription": "Campaigning for a change in law and more police, with 183 new officers announced for Thames Valley Police."
+            },
+            {
+                "policyTitle": "Improving local NHS services",
+                "policyDescription": "Successfully campaigned to keep the hydrotherapy pool at Royal Berkshire Hospital."
+            },
+            {
+                "policyTitle": "Championing sustainable housing with additional local infrastructure",
+                "policyDescription": "Protecting the environment and green spaces like Pincents Hill."
+            }
+        ],
+        "mentions": {
+            "candidate": "Alok Sharma",
+            "otherPartyLeaderCandidate": "Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "A vote for Labour means another hung parliament. With Corbyn propped up by parties like the Scottish Nationalists. And they\u2019re demanding ANOTHER referendum to break up Britain. That\u2019s five long years of gridlock and uncertainty."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Delivering an outstanding education for all our children, having supported parent groups to set up the Wren School and All Saints Junior School.",
+            "environment": "Championing sustainable housing with additional local infrastructure, whilst protecting our environment and green spaces like Pincents Hill.",
+            "governance": "",
+            "government": "",
+            "health": "Improving local NHS services, having campaigned successfully to keep the hydrotherapy pool at Royal Berkshire Hospital.",
+            "immigration": "",
+            "labourEmployment": "Supporting high-quality jobs locally, having organised export seminars and campaigned for faster broadband.",
+            "lawCrime": "Campaigning for a change in law to tackle illegal encampments and for more police, with 183 new officers recently announced for Thames Valley Police.",
+            "transport": "Continuing to campaign for better accessibility at local rail stations, having already won millions for local transport projects and delivered more standard class train seats.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Championing sustainable housing with additional local infrastructure, whilst protecting our environment and green spaces like Pincents Hill.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Polls teeter between hung parliament and slim Tory majority",
+                        "183 new officers recently announced for Thames Valley Police."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Better hospitals. Safer streets. Improved schools.",
+                        "A vote for Labour means another hung parliament. With Corbyn propped up by parties like the Scottish Nationalists. And they\u2019re demanding ANOTHER referendum to break up Britain. That\u2019s five long years of gridlock and uncertainty.",
+                        "Let's get on with our priorities."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Supporting high-quality jobs locally",
+                        "Delivering an outstanding education for all our children",
+                        "Campaigning for better accessibility at local rail stations"
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "At the end of this election, we\u2019ll either get a Conservative majority \u2013 or a hung parliament.",
+                        "Campaigning for a change in law to tackle illegal encampments",
+                        "Improving local NHS services",
+                        "Championing sustainable housing with additional local infrastructure"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "A vote for Labour means another hung parliament. With Corbyn propped up by parties like the Scottish Nationalists."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

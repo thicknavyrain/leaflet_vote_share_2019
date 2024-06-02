@@ -1,0 +1,186 @@
+{
+    "leaflet": {
+        "candidateName": "Kirsty",
+        "candidateGender": "",
+        "constituency": "Hampstead & Kilburn",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "8 June",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fight Hard Brexit",
+                "policyDescription": "Guarantee the rights of Camden's EU citizens and protect the Single Market."
+            },
+            {
+                "policyTitle": "Support our NHS",
+                "policyDescription": "Fund the NHS and reduce the pressure on services."
+            },
+            {
+                "policyTitle": "Oppose Education Cuts",
+                "policyDescription": "Defend sure start funding and make sure school funds are going to the right places."
+            },
+            {
+                "policyTitle": "Defend Human Rights and Community Cohesion",
+                "policyDescription": "Support this area's proud tradition of welcoming refugees and building strong communities."
+            },
+            {
+                "policyTitle": "New Homes",
+                "policyDescription": "Oppose the provision of social housing and hold the council to account for their poor record of building affordable homes."
+            }
+        ],
+        "mentions": {
+            "candidate": "Kirsty",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Fight Hard Brexit, Guarantee the rights of Camden's EU citizens and protect the Single Market.",
+            "defence": "",
+            "economy": "",
+            "education": "Oppose Education Cuts, Defend sure start funding and make sure school funds are going to the right places.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Support our NHS, Fund the NHS and reduce the pressure on services.",
+            "immigration": "Defend Human Rights and Community Cohesion, Support this area's proud tradition of welcoming refugees and building strong communities.",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Defend Human Rights and Community Cohesion, Support this area's proud tradition of welcoming refugees and building strong communities.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "KirstyAllenLD@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "Facebook@CamdenLDDems",
+                "twitter": "T:@CamdenLDDems",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Fight Hard Brexit",
+                        "Support our NHS",
+                        "Oppose Education Cuts",
+                        "Defend Human Rights and Community Cohesion",
+                        "New Homes"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 5,
+                "candidateAlone": 0,
+                "candidateWithOthers": 5
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Support this area's proud tradition of welcoming refugees and building strong communities."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Fight Hard Brexit",
+                        "Support our NHS",
+                        "Oppose Education Cuts"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Support this area's proud tradition of welcoming refugees and building strong communities.",
+                    "issueRelated": "immigration"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Oppose the provision of social housing and hold the council to account for their poor record of building affordable homes."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

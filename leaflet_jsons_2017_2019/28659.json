@@ -1,0 +1,177 @@
+{
+    "leaflet": {
+        "candidateName": "Daniel Zeichner",
+        "candidateGender": "",
+        "constituency": "Cambridge",
+        "politicalParty": "Labour",
+        "electionDate": "8 June",
+        "messages": [
+            {
+                "title": "A message to Cambridge from Owen Jones",
+                "content": "As a Guardian columnist (and so I suppose a fully paid up member of the 'mainstream media'), I know how this election was meant to play out. The script was written well in advance, with the Tories winning big and a new Lib Dem surge. But what we've seen has been a little different."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Opposition to Privatisation",
+                "policyDescription": "Fought against the privatisation of the NHS forced on the local area by the Coalition Government."
+            },
+            {
+                "policyTitle": "Support for Public Transportation",
+                "policyDescription": "Worked deftly to help secure legislation to allow public franchises for buses to improve public transport."
+            }
+        ],
+        "mentions": {
+            "candidate": "Daniel Zeichner has shown since his election two years ago that he shares Cambridge's values.",
+            "otherPartyLeaderCandidate": "We've had Tim Farron on gay rights, abortion and bombing Syria.",
+            "partyLeader": "Theresa May's identikit candidates.",
+            "tacticalSituation": "I think we've seen the tide turn as the Liberals have proved not to be very liberal at all."
+        },
+        "issues": {
+            "brexitEurope": "opposed Brexit at every opportunity, doing right by his constituents.",
+            "defence": "opposed the bombing of Syria.",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "rebellion over tax credits only a few weeks after being elected and went against the party whip to vote in favour of a fairer voting system.",
+            "health": "fought against the privatisation of the NHS forced on the local area by the Coalition Government.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "help secure legislation to allow public franchises for buses to improve public transport.",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "Daniel Zeichner has shown since his election two years ago that he shares Cambridge's values. He has fought against the privatisation of the NHS forced on the local area by the Coalition Government with his Lib Dem predecessor supported; from opposition he worked deftly to help secure legislation to allow public franchises for buses to improve public transport; and he opposed Brexit at every opportunity, doing right by his constituents. He's also proven to be independent-minded. He rebelled over tax credits only a few weeks after being elected and went against the party whip to vote in favour of a fairer voting system. He opposed the bombing of Syria and voted against renewing Trident. Unlike his Lib Dem opponent, it's clear that Daniel will never prop up a Tory Government.",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "two years",
+                "achievements": "Fought against privatisation of the NHS, helped secure legislation for public franchises for buses, opposed Brexit."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Owen Jones",
+                "endorsement": "A message to Cambridge from Owen Jones - a Guardian columnist."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Owen Jones"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Wait a day, and the latest news, yes, they want to bring back fox hunting!"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "identikit candidates",
+                        "shares Cambridge's values"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "has shown since his election two years ago that he shares Cambridge's values"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "fought against the privatisation of the NHS",
+                        "opposed Brexit at every opportunity"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "He rebelled over tax credits only a few weeks after being elected and went against the party whip to vote in favour of a fairer voting system.",
+                    "issueRelated": "government"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Owen Jones - a Guardian columnist endorses Daniel Zeichner"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "forced on the local area by the Coalition Government"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "We've had Tim Farron on gay rights, abortion and bombing Syria.",
+                        "Wait a day, and the latest news, yes, they want to bring back fox hunting!"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Theresa May's identikit candidates.",
+                        "Tim Farron on gay rights, abortion and bombing Syria."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Suddenly, Tim Farron calls himself a 'bit of a Eurosceptic'."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "shares Cambridge's values",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "shares Cambridge's values",
+                    "doing right by his constituents"
+                ]
+            }
+        }
+    }
+}

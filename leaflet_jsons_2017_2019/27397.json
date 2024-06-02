@@ -1,0 +1,193 @@
+{
+    "leaflet": {
+        "candidateName": "Sarah Lesiter-Burgess",
+        "candidateGender": "",
+        "constituency": "Aberconwy",
+        "politicalParty": "Welsh Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Sarah says...",
+                "content": "The Lib Dems are united in the fight against a Hard Brexit. We want people to have a say on the final deal in a referendum."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "The Lib Dems are united in the fight against a Hard Brexit. We want people to have a say on the final deal in a referendum."
+            },
+            {
+                "policyTitle": "The NHS",
+                "policyDescription": "We will fight for the funding and staffing the NHS needs and give mental health the same importance as physical health."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "The Lib Dems slashed taxes for the lowest paid when in government. Now the Tories are making harsh cuts that block work."
+            }
+        ],
+        "mentions": {
+            "candidate": "Sarah Lesiter-Burgess",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Brexit - The Lib Dems are united in the fight against a Hard Brexit. We want people to have a say on the final deal in a referendum.",
+            "defence": "",
+            "economy": "Economy - The Lib Dems slashed taxes for the lowest paid when in government. Now the Tories are making harsh cuts that block work.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The NHS - We will fight for the funding and staffing the NHS needs and give mental health the same importance as physical health.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "Sarah Lesiter-Burgess",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Sarah Lesiter-Burgess"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "The Lib Dems are united in the fight against a Hard Brexit. We want people to have a say on the final deal in a referendum.",
+                        "We will fight for the funding and staffing the NHS needs and give mental health the same importance as physical health.",
+                        "The Lib Dems slashed taxes for the lowest paid when in government. Now the Tories are making harsh cuts that block work."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "The Lib Dems are united in the fight against a Hard Brexit. We want people to have a say on the final deal in a referendum.",
+                        "We will fight for the funding and staffing the NHS needs and give mental health the same importance as physical health.",
+                        "The Lib Dems slashed taxes for the lowest paid when in government. Now the Tories are making harsh cuts that block work."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Now the Tories are making harsh cuts that block work."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

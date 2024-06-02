@@ -1,0 +1,183 @@
+{
+    "leaflet": {
+        "candidateName": "Ruth Edwards",
+        "candidateGender": "",
+        "constituency": "Rushcliffe",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "",
+                "content": "IT'S A CONSERVATIVE MAJORITY OR A HUNG PARLIAMENT"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fight for fair share of police officers",
+                "policyDescription": "Fight to make sure West Bridgford and our villages get their fair share of the 20,000 additional police officers."
+            },
+            {
+                "policyTitle": "Benefit from NHS funding",
+                "policyDescription": "Ensure Rushcliffe constituents benefit from the \u00a333.9bn extra NHS funding, including upgrades for our local health centres."
+            },
+            {
+                "policyTitle": "Increase school funding per pupil",
+                "policyDescription": "Make sure that every child in the constituency gets the best start in life by increasing funding per pupil."
+            },
+            {
+                "policyTitle": "Reduce plastic use and carbon footprint",
+                "policyDescription": "Push for ways to reduce plastic use, our carbon footprint and include glass in our recycling collection service."
+            },
+            {
+                "policyTitle": "Superfast broadband for villages",
+                "policyDescription": "Lobby for superfast broadband in our villages and make this available to every home and business in our area."
+            },
+            {
+                "policyTitle": "Campaign for enterprise zone",
+                "policyDescription": "Campaign for an enterprise zone around the Ratcliffe-on-Soar Power Station site to bring in investment and well-paid jobs."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ruth Edwards",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn, Jo Swinson",
+            "partyLeader": "",
+            "tacticalSituation": "Polls teeter between hung parliament and slim Tory majority. A hung parliament means Jeremy Corbyn as Prime Minister. Corbyn would have to be propped up by the Scottish Nationalists. And they're demanding ANOTHER referendum to break up Britain."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Make sure that every child in the constituency gets the best start in life by increasing funding per pupil.",
+            "environment": "Push for ways to reduce plastic use, our carbon footprint and include glass in our recycling collection service.",
+            "governance": "",
+            "government": "",
+            "health": "Ensure Rushcliffe constituents benefit from the \u00a333.9bn extra NHS funding, including upgrades for our local health centres.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Fight to make sure West Bridgford and our villages get their fair share of the 20,000 additional police officers.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Lobby for superfast broadband in our villages and make this available to every home and business in our area.",
+                    "yimbyNimby": "NIMBY"
+                },
+                {
+                    "content": "Campaign for an enterprise zone around the Ratcliffe-on-Soar Power Station site to bring in investment and well-paid jobs.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Polls teeter between hung parliament and slim Tory majority."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Don't risk five long years of Corbyn in charge."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Fight to make sure West Bridgford and our villages get their fair share of the 20,000 additional police officers."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Ensure Rushcliffe constituents benefit from the \u00a333.9bn extra NHS funding, including upgrades for our local health centres."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

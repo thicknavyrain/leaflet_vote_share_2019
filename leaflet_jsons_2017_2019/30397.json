@@ -1,0 +1,140 @@
+{
+    "leaflet": {
+        "candidateName": "John Cryer",
+        "candidateGender": "",
+        "constituency": "Leyton & Wanstead",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "Time is running out!!",
+                "content": "The polls close at 10pm. Don't risk losing your vote by leaving it to the last minute. Go out and vote now! And remember, There are two choices here in Leyton & Wanstead: Labour or the Tories. Don't be tempted by either of the two irrelevant fringe parties. Keep Leyton & Wanstead Labour. Vote Labour, vote Cryer. Only John Cryer can beat the Tories here."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Only John Cryer can beat the Tories here",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "And remember, There are two choices here in Leyton & Wanstead: Labour or the Tories. Don't be tempted by either of the two irrelevant fringe parties."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "642 High Road Leytonstone, E11 3AA",
+            "phone": "07561 834352",
+            "email": "johncryerlabour@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "The polls close at 10pm."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Don't risk losing your vote by leaving it to the last minute.",
+                        "Go out and vote now!",
+                        "Only John Cryer can beat the Tories here.",
+                        "Don't be tempted by either of the two irrelevant fringe parties."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Keep Leyton & Wanstead Labour."
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Don't be tempted by either of the two irrelevant fringe parties."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Keep Leyton & Wanstead Labour.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Keep Leyton & Wanstead Labour."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "Lindsey Hall",
+        "candidateGender": "",
+        "constituency": "Westminster North",
+        "politicalParty": "Conservative",
+        "electionDate": "8 June 2017",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Secure the best Brexit deal possible for the country."
+            },
+            {
+                "policyTitle": "Leadership",
+                "policyDescription": "Provide strong and stable leadership for the country."
+            }
+        ],
+        "mentions": {
+            "candidate": "Lindsey Hall",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "A vote for anyone other than Lindsey Hall risks Jeremy Corbyn becoming Prime Minister of a shambolic coalition government."
+        },
+        "issues": {
+            "brexitEurope": "Best Brexit deal for Britain",
+            "defence": "",
+            "economy": "Strong leadership for the economy. Plans for more jobs and economy improvement.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Jeremy Corbyn doesn\u2019t speak for my community",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.lindseyhall.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Mohammed Janal",
+                "endorsement": "Jeremy Corbyn doesn\u2019t speak for my community or me. Only Theresa May or Jeremy Corbyn will be Prime Minister. Lindsey Hall and Theresa May will deliver the strong leadership needed to get a good Brexit deal."
+            },
+            {
+                "endorser": "Amanda Langford",
+                "endorsement": "Backing Lindsey Hall and the Conservatives. Corbyn would destroy the economy. Supports plans for more jobs and best deal for Britain from Brexit."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Lindsey Hall is standing with me to secure strong and stable leadership for our country."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn doesn\u2019t speak for my community or me.",
+                        "Corbyn would destroy the economy."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn doesn\u2019t speak for my community or me."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Secure strong and stable leadership for the country.",
+                        "Best Brexit deal possible.",
+                        "Corbyn would destroy the economy."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I am definitely backing Lindsey Hall, Theresa May and the Conservatives. I run a small business start up and the economy is my number one concern.\nCorbyn would destroy the economy. Only the Conservatives have a plan for to create more jobs and get the best deal for Britain from Brexit \u2013 can you imagine Jeremy Corbyn negotiating a good deal?",
+                    "issueRelated": "economy"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "Jeremy Corbyn doesn\u2019t speak for my community or me...",
+                    "I am definitely backing Lindsey Hall..."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn doesn\u2019t speak for my community."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Corbyn would destroy the economy.",
+                        "Only Theresa May or Jeremy Corbyn will be Prime Minister."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 3,
+                    "examples": [
+                        "A vote for anyone other than Lindsey Hall risks Jeremy Corbyn...",
+                        "Only Theresa May or Jeremy Corbyn will be Prime Minister.",
+                        "Can you imagine Jeremy Corbyn negotiating a good deal?"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

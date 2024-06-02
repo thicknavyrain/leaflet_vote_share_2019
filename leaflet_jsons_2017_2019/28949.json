@@ -1,0 +1,194 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Green Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Vote for a future to believe in"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Save Secure Tenancies",
+                "policyDescription": "Stop government plans to scrap secure tenancies and \u2018lifetime homes\u2019 for new council house tenants."
+            },
+            {
+                "policyTitle": "Free University Education",
+                "policyDescription": "Provide free university education with no fees and decrease class sizes."
+            },
+            {
+                "policyTitle": "Reverse NHS Privatisation",
+                "policyDescription": "Repair, restore and properly fund the NHS, and end the creeping privatisation."
+            },
+            {
+                "policyTitle": "Build Social Rented Homes",
+                "policyDescription": "Build 500,000 new social rented homes to tackle the housing crisis."
+            },
+            {
+                "policyTitle": "Fight for Climate Action",
+                "policyDescription": "Push for an ambitious UK climate change agenda. Promote zero carbon emissions and increased renewable energy."
+            }
+        ],
+        "mentions": {
+            "candidate": "Green MPs",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Fight for citizens\u2019 rights post-Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "Provide free university education with no fees and decrease class sizes.",
+            "environment": "Push for an ambitious UK climate change agenda. Promote zero carbon emissions and increased renewable energy.",
+            "governance": "",
+            "government": "",
+            "health": "Repair, restore and properly fund the NHS, and end the creeping privatisation.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Stop government plans to scrap secure tenancies and \u2018lifetime homes\u2019 for new council house tenants.",
+                    "yimbyNimby": "YIMBY"
+                },
+                {
+                    "content": "Build 500,000 new social rented homes to tackle the housing crisis.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Your city is unique and special. That\u2019s why you deserve an MP who is, first and foremost, a passionate representative for you and your interests. The Green Party is a party that believes in local decision making and that every individual deserves an MP who really listens, and acts.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Caroline Lucas",
+                "endorsement": "Green Party MP for Brighton Pavilion (2010-2017), has been a strong independent voice in parliament."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 5,
+                    "examples": [
+                        "Build 500,000 new social rented homes",
+                        "Free university education with no fees",
+                        "Stop government plans to scrap secure tenancies",
+                        "Repair, restore and properly fund the NHS",
+                        "End the creeping NHS privatisation"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Push for an ambitious UK climate change agenda",
+                        "Your city is unique and special"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 10,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Stop government plans to scrap secure tenancies",
+                        "Build 500,000 new social rented homes"
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "Provide free university education with no fees",
+                        "Repair, restore and properly fund the NHS",
+                        "Push for an ambitious UK climate change agenda",
+                        "Fight for citizens\u2019 rights post-Brexit",
+                        "End the creeping NHS privatisation"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Caroline Lucas, Green Party MP for Brighton Pavilion (2010-2017)"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Stop government plans to scrap secure tenancies"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "End the creeping NHS privatisation"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Your city is unique and special.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Your city is unique and special."
+                ]
+            }
+        }
+    }
+}

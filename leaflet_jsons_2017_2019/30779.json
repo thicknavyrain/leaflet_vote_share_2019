@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Xandra Arundel",
+        "candidateGender": "",
+        "constituency": "Newark",
+        "politicalParty": "UKIP",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Dear Voters,",
+                "content": "My name is Xandra Arundel. I am standing in this Brexit election to take back control of our money from the European Union and put it into our NHS and social care. None of the main parties can or will do this. Vote UKIP on June 8th."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Take back control of our money",
+                "policyDescription": "Put money into NHS and social care"
+            },
+            {
+                "policyTitle": "Control immigration",
+                "policyDescription": "Failed to control immigration as Home Secretary"
+            }
+        ],
+        "mentions": {
+            "candidate": "Xandra Arundel",
+            "otherPartyLeaderCandidate": "Theresa",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Take back control of our money from the European Union",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Put it into our NHS",
+            "immigration": "Failed to control immigration as Home Secretary",
+            "labourEmployment": "Employ hundreds of thousands of nurses",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Social care crisis",
+            "community": [
+                {
+                    "content": "Put it into our NHS and social care",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "My name is Xandra Arundel. I am standing in this Brexit election to take back control of our money from the European Union and put it into our NHS and social care.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "xarundel9@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 5,
+                    "examples": [
+                        "Net migration to the UK: 2013: 209K, 2014: 313K, 2015: 332K, 2016: 231K",
+                        "2013 - 209K",
+                        "2014 - 313K",
+                        "2015 - 332K",
+                        "2016 - 231K"
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Failed to control immigration as Home Secretary",
+                        "Put it into our NHS",
+                        "Social care crisis",
+                        "Brexit election to take back control",
+                        "None of the main parties can or will do this."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Put it into our NHS and social care"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Failed to control immigration as Home Secretary"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Put it into our NHS and social care"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Failed to control immigration as Home Secretary"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

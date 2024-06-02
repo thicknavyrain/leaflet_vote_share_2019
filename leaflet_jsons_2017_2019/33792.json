@@ -1,0 +1,195 @@
+{
+    "leaflet": {
+        "candidateName": "Chris Philp",
+        "candidateGender": "",
+        "constituency": "Croydon South",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "End the Brexit uncertainty with the agreed deal",
+                "policyDescription": "Deliver Brexit with the agreed deal."
+            },
+            {
+                "policyTitle": "\u00a333.9 billion extra for the NHS",
+                "policyDescription": "Increase funding for the NHS."
+            },
+            {
+                "policyTitle": "20,000 extra police officers",
+                "policyDescription": "Increase police presence for safer streets."
+            }
+        ],
+        "mentions": {
+            "candidate": "Chris Philp",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "End the Brexit uncertainty with the agreed deal.",
+            "defence": "",
+            "economy": "",
+            "education": "More funding for every pupil in every school.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "\u00a333.9 billion extra for the NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "20,000 extra police officers.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "\u00a33.6 billion to help towns invest and attract new businesses.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Before being elected, I set up and ran my own businesses. The NHS is particularly close to my heart. In 2013, my twins were born very prematurely at 25 weeks. The NHS saved their lives. I grew up nearby, and I still remember going to my first Palace game at Selhurst Park in 1991. Although I was offered a place at Trinity school here in Croydon, my parents in the end couldn\u2019t afford the fees and instead I went to a Grammar school in a next-door Borough.",
+        "politicalExperience": [
+            {
+                "role": "Conservative Candidate",
+                "duration": "Four years",
+                "achievements": "Securing a new A&E at Croydon Hospital, fighting Labour council\u2019s terrible planning policies."
+            }
+        ],
+        "contactInformation": {
+            "address": "36 Brighton Road, Purley CR8 2LG",
+            "phone": "",
+            "email": "",
+            "website": "www.chrisphilp.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "\u00a333.9 billion extra for the NHS",
+                        "20,000 extra police officers."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "End the Brexit uncertainty with the agreed deal.",
+                        "The NHS saved their lives.",
+                        "Ensuring that the state education system can provide the very best education for all our children is vital."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 7,
+                "candidateAlone": 1,
+                "candidateWithOthers": 6
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Securing a new A&E at Croydon Hospital.",
+                        "\u00a33.6 billion to help towns invest and attract new businesses."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "End the Brexit uncertainty with the agreed deal.",
+                        "\u00a333.9 billion extra for the NHS.",
+                        "20,000 extra police officers."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "In 2013, my twins were born very prematurely at 25 weeks. The NHS saved their lives.",
+                    "issueRelated": "Health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "I have also constantly fought the Labour council\u2019s terrible planning policies."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I grew up nearby, and I still remember going to my first Palace game at Selhurst Park in 1991.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I grew up nearby, and I still remember going to my first Palace game at Selhurst Park in 1991."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "leaflet": {
+        "candidateName": "Maria Miller",
+        "candidateGender": "",
+        "constituency": "Basingstoke",
+        "politicalParty": "Conservative",
+        "electionDate": "8 June 2017",
+        "messages": [
+            {
+                "title": "",
+                "content": "Maria Miller and Theresa May standing up for Britain."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protecting Our Environment",
+                "policyDescription": "Working with local Councillors to campaign for more effective management of water quality in the River Loddon, improved equipment and processes."
+            },
+            {
+                "policyTitle": "Investing for New Jobs",
+                "policyDescription": "Basingstoke has record levels of employment, with new jobs created here including quality apprenticeships."
+            },
+            {
+                "policyTitle": "A Voice for Basingstoke",
+                "policyDescription": "Support for Basing View, infrastructure improvements, creating a great place for work."
+            },
+            {
+                "policyTitle": "More Affordable Homes",
+                "policyDescription": "Help to buy and shared ownership schemes to make house ownership accessible to more families in Basingstoke."
+            },
+            {
+                "policyTitle": "Services Basingstoke Needs",
+                "policyDescription": "Plans for a new A&E Department, new GP Surgery, Fire Station, and improved infrastructure."
+            },
+            {
+                "policyTitle": "Safeguarding the NHS",
+                "policyDescription": "Securing improvements for local healthcare facilities and services, especially at the new Rooksdown Surgery."
+            }
+        ],
+        "mentions": {
+            "candidate": "Maria Miller",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "I believe we must look to the future and get the best possible deal for Britain.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Protecting Our Environment: Working on water quality improvement in the River Loddon.",
+            "governance": "",
+            "government": "",
+            "health": "Safeguarding the NHS: Securing local healthcare improvements at Rooksdown Surgery.",
+            "immigration": "",
+            "labourEmployment": "Basingstoke has record levels of employment with new jobs and apprenticeships.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Support for Basing View with upgraded roads and infrastructure.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Member of Parliament for 12 years",
+                "duration": "12 years",
+                "achievements": "Chair of Parliament's Women and Equalities Committee, supporting local charity, backing transparency for military personnel."
+            }
+        ],
+        "contactInformation": {
+            "address": "Basingstoke Conservatives, Unit 5, The Mall, Basingstoke, Hampshire RG21 7QU",
+            "phone": "07391 152051",
+            "email": "maria4basingstoke@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Borough Councillor Terri Reid",
+                "endorsement": "Maria is known and respected for getting things done, both nationally and locally."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Maria is known and respected for getting things done, both nationally and locally.",
+                "source": "Borough Councillor Terri Reid",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Maria Miller and Theresa May"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Basingstoke has record levels of employment.",
+                        "Maria Miller has been your hard-working MP for 12 years."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "I believe we must look to the future and get the best possible deal for Britain.",
+                        "Support for Basing View with upgraded roads and infrastructure."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 8,
+                "candidateAlone": 1,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Support for Basing View with upgraded roads and infrastructure.",
+                        "More Affordable Homes: Help to buy and shared ownership schemes.",
+                        "Services Basingstoke Needs: Plans for a new A&E Department and GP Surgery."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "I believe we must look to the future and get the best possible deal for Britain."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Maria is a working mum who lives with her husband Iain and their children in Basingstoke.",
+                    "issueRelated": "Family"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Maria is known and respected for getting things done, both nationally and locally. - Borough Councillor Terri Reid"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Maria and her family have lived in Basingstoke.",
+                "employment": "Maria is a working mum.",
+                "education": "",
+                "family": "Maria lives with her husband Iain and their children."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Maria and her family have lived in Basingstoke."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,181 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Llandrindod Wells",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Lifelong Conservatives are switching to back the Liberal Democrats."
+            },
+            {
+                "title": "",
+                "content": "If you don't want a Prime Minister who lies and bends the truth like Donald Trump... then this time vote: LIBERAL DEMOCRAT. Build a brighter future."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "stop Boris Johnson's Brexit",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Liberal Democrats, 8-10 Great George Street, London, SW1P 3AE",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Michael Heseltine",
+                "endorsement": "Michael Heseltine urges voters to 'put country first' and back the Liberal Democrats at the election to stop Boris Johnson's Brexit."
+            },
+            {
+                "endorser": "Nick Boles",
+                "endorsement": "Nick Boles today announced he will vote for the Liberal Democrats."
+            },
+            {
+                "endorser": "Matthew Parris",
+                "endorsement": "Former Tory MP and prominent columnist Matthew Parris will support the Liberal Democrats in the election."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Michael Heseltine urges voters to 'put country first' and back the Liberal Democrats at the election to stop Boris Johnson's Brexit.",
+                "source": "Daily Mail",
+                "date": "26th November 2019"
+            },
+            {
+                "text": "Nick Boles today announced he will vote for the Liberal Democrats.",
+                "source": "Evening Standard",
+                "date": "11th November 2019"
+            },
+            {
+                "text": "Former Tory MP and prominent columnist Matthew Parris will support the Liberal Democrats in the election.",
+                "source": "The Guardian",
+                "date": "1st November 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": []
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Lifelong Conservatives are switching to back the Liberal Democrats.",
+                        "If you don't want a Prime Minister who lies and bends the truth like Donald Trump... then this time vote: LIBERAL DEMOCRAT. Build a brighter future."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "stop Boris Johnson's Brexit"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 3,
+                "examples": [
+                    "Michael Heseltine urges voters to 'put country first' and back the Liberal Democrats at the election to stop Boris Johnson's Brexit.",
+                    "Nick Boles today announced he will vote for the Liberal Democrats.",
+                    "Former Tory MP and prominent columnist Matthew Parris will support the Liberal Democrats in the election."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "stop Boris Johnson's Brexit"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Prime Minister who lies and bends the truth like Donald Trump"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Prime Minister who lies and bends the truth like Donald Trump"
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "leaflet": {
+        "candidateName": "Sebastian Kindersley",
+        "candidateGender": "",
+        "constituency": "Cambridgeshire",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "Winter 2009/10",
+        "messages": [
+            {
+                "title": "Sebastian Kindersley comments",
+                "content": "We live, as the saying goes, in interesting times. With now less than six months to a General Election, things are already warming up. It is my intention to stand as the Liberal Democrat candidate for Parliament for South Cambridgeshire."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "School places at critical level",
+                "policyDescription": "Concern over the inadequate planning and provision of school places in Cambourne."
+            },
+            {
+                "policyTitle": "Travellers' Rights",
+                "policyDescription": "Balancing the rights of travelers with those of local residents."
+            },
+            {
+                "policyTitle": "Bus Services",
+                "policyDescription": "Criticism of cuts in bus services, emphasizing the need for better and more consistent public transportation."
+            }
+        ],
+        "mentions": {
+            "candidate": "Sebastian Kindersley",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Nick Clegg",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "education problems are serious",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "cuts in Citi bus services cause concern",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "New communities left in a mess - School places at critical level",
+                    "yimbyNimby": "NIMBY"
+                },
+                {
+                    "content": "Travellers have Rights but so have Residents!",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "It is my intention to stand as the Liberal Democrat candidate for Parliament for South Cambridgeshire.",
+        "politicalExperience": [
+            {
+                "role": "County Councillor",
+                "duration": "",
+                "achievements": "Leading on the issue of guided bus delays, road repair standards, and education problems."
+            }
+        ],
+        "contactInformation": {
+            "address": "FREEPOST ANG 10007, 1 Salander Close, Over, Cambridge, CB24 5ZS",
+            "phone": "",
+            "email": "contact@scllibdems.org.uk",
+            "website": "www.sclibdems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Peter Downes",
+                "endorsement": "Education problems are serious"
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Road repair standards are poor - Bridget calls for action now.",
+                "source": "",
+                "date": ""
+            },
+            {
+                "text": "Guided bus delays concern us all - Costs are still not clear.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Sebastian Kindersley seen here with LD County Group Leader, David Jenkins."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Costs are still not clear",
+                        "new community left in a mess",
+                        "Cuts in Citi bus services cause concern"
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Sebastian Kindersley comments",
+                        "school places at critical level",
+                        "Travellers have rights but so have residents!",
+                        "Education problems are serious",
+                        "Road repair standards are poor"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 5,
+                "candidateAlone": 2,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "Guided bus delays",
+                        "School places in Cambourne",
+                        "Bus service cuts",
+                        "Travellers' rights"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Education problems are serious"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Sebastian Kindersley seen here with LD County Group Leader, David Jenkins.",
+                    "issueRelated": "Local political leadership"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Education problems are serious"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 3,
+                    "examples": [
+                        "School places at critical level",
+                        "Guided Bus delays",
+                        "Road repair standards"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Bus service cuts"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I will be your local MP.",
+                "employment": "hard working all year round",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I will be your local MP.",
+                    "working hard all year round for our villages"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Jeremy Corbyn and Labour are running a scare campaign on social care that's just not true.\nBut here's the really scary thing: it only takes the loss of 6 seats by the Government and we will have the chaos of a hung parliament that delivers Jeremy Corbyn as Prime Minister, propped up by the SNP and the Lib Dems. That is the biggest threat to social care."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Only Theresa May has a plan for Brexit and the ability to deliver.",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "But here's the really scary thing: it only takes the loss of 6 seats by the Government and we will have the chaos of a hung parliament that delivers Jeremy Corbyn as Prime Minister, propped up by the SNP and the Lib Dems."
+        },
+        "issues": {
+            "brexitEurope": "Because just 11 days after you vote, the EU wants to start Brexit negotiations with Britain. And getting those negotiations right is central to everything - our economy, our finances, our position in the world, and our social care system.",
+            "defence": "",
+            "economy": "Because just 11 days after you vote, the EU wants to start Brexit negotiations with Britain. And getting those negotiations right is central to everything - our economy, our finances, our position in the world, and our social care system.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "But here's the really scary thing: it only takes the loss of 6 seats by the Government and we will have the chaos of a hung parliament that delivers Jeremy Corbyn as Prime Minister, propped up by the SNP and the Lib Dems.",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Jeremy Corbyn and Labour are running a scare campaign on social care that's just not true.",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "6 Albemarle Crescent, Scarborough YO11 1XS",
+            "phone": "01723 367715",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": []
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "But here's the really scary thing: it only takes the loss of 6 seats by the Government and we will have the chaos of a hung parliament that delivers Jeremy Corbyn as Prime Minister, propped up by the SNP and the Lib Dems."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Jeremy Corbyn and Labour are running a scare campaign on social care that's just not true.",
+                        "Because just 11 days after you vote, the EU wants to start Brexit negotiations with Britain. And getting those negotiations right is central to everything - our economy, our finances, our position in the world, and our social care system.",
+                        "Only Theresa May has a plan for Brexit and the ability to deliver."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": []
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Jeremy Corbyn and Labour are running a scare campaign on social care that's just not true.",
+                        "But here's the really scary thing: it only takes the loss of 6 seats by the Government and we will have the chaos of a hung parliament that delivers Jeremy Corbyn as Prime Minister, propped up by the SNP and the Lib Dems.",
+                        "Because just 11 days after you vote, the EU wants to start Brexit negotiations with Britain. And getting those negotiations right is central to everything - our economy, our finances, our position in the world, and our social care system.",
+                        "Only Theresa May has a plan for Brexit and the ability to deliver."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "But here's the really scary thing: it only takes the loss of 6 seats by the Government and we will have the chaos of a hung parliament that delivers Jeremy Corbyn as Prime Minister, propped up by the SNP and the Lib Dems."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn and Labour are running a scare campaign on social care that's just not true.",
+                        "Jeremy Corbyn as Prime Minister"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

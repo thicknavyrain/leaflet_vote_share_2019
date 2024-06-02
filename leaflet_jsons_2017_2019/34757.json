@@ -1,0 +1,162 @@
+{
+    "leaflet": {
+        "candidateName": "Emma Stockdale",
+        "candidateGender": "Female",
+        "constituency": "West Ham",
+        "politicalParty": "The Brexit Party",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "A CLEAN-BREAK BREXIT",
+                "policyDescription": "We Must Control Our Laws, Borders, Money and Defence"
+            },
+            {
+                "policyTitle": "FUNDAMENTAL DEMOCRATIC REFORM",
+                "policyDescription": "Let's Make Parliament Serve The People"
+            },
+            {
+                "policyTitle": "SUPPORTING THE NHS",
+                "policyDescription": "Keep Investing, Better Management, Less Waste"
+            },
+            {
+                "policyTitle": "A BREXIT DIVIDEND",
+                "policyDescription": "Spend \u00a3200bn On Transport And Jobs In The Regions"
+            },
+            {
+                "policyTitle": "CONTROLLED IMMIGRATION",
+                "policyDescription": "We Need A Fair, Firm Points-based System"
+            }
+        ],
+        "mentions": {
+            "candidate": "Emma Stockdale",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "For a Clean-Break Brexit, To break free from the EU Customs Union",
+            "defence": "",
+            "economy": "To scrap inheritance tax",
+            "education": "Return to proper, effective apprenticeship schemes",
+            "environment": "",
+            "governance": "FUNDAMENTAL DEMOCRATIC REFORM",
+            "government": "",
+            "health": "SUPPORTING THE NHS",
+            "immigration": "CONTROLLED IMMIGRATION",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Spend \u00a3200bn On Transport And Jobs In The Regions",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "I am from West Ham and have lived here for many years. It is a privilege to be your Brexit Party Parliamentary Candidate at the General Election. I am not a career politician. I worked as a new homes sales negotiator. Our broken political system has failed to deliver the Brexit that 52 percent of us voted for. Like many, I have lost trust in politics. As your MP I would increase employment opportunities for young people. Whether fighting for Brexit and democracy, or standing up for local people, I will be a strong voice for West Ham.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "emma.stockdale@thebrexitparty.org",
+            "website": "www.emmastockdale.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@emmaJStockdale",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Spend \u00a3200bn On Transport And Jobs In The Regions"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Our broken political system has failed to deliver the Brexit that 52 percent of us voted for.",
+                        "I am from West Ham and have lived here for many years."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Whether fighting for Brexit and democracy, or standing up for local people, I will be a strong voice for West Ham."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "For a Clean-Break Brexit"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I am from West Ham and have lived here for many years. I worked as a new homes sales negotiator.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Our broken political system has failed to deliver the Brexit that 52 percent of us voted for.",
+                        "Like many, I have lost trust in politics."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I am from West Ham and have lived here for many years.",
+                "employment": "I worked as a new homes sales negotiator.",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I am from West Ham and have lived here for many years."
+                ]
+            }
+        }
+    }
+}

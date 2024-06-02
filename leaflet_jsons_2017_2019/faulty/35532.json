@@ -1,0 +1,198 @@
+{
+    "leaflet": {
+        "candidateName": "Felicity Owen",
+        "candidateGender": "",
+        "constituency": "St Austell & Newquay",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "My pledges to you:",
+                "content": "\u00a310bn more for the NHS, Tackle the climate crisis, Look after pensioners, Scrap tuition fees, Build affordable homes"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Health Care For All",
+                "policyDescription": "Since 2010 the NHS has seen the largest real-terms cuts to funding in history. Labour founded the NHS. Only Labour will end its underfunding and creeping privatisation."
+            },
+            {
+                "policyTitle": "Security in Retirement",
+                "policyDescription": "Labour will always be on the side of pensioners. TV licences will continue to be free for those who are over 75."
+            },
+            {
+                "policyTitle": "Labour\u2019s Green New Deal",
+                "policyDescription": "The sheer scale of the climate crisis demands radical transformation to create investment in renewable energy and a community energy revolution."
+            }
+        ],
+        "mentions": {
+            "candidate": "Felicity Owen",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Tackle the climate crisis, Labour\u2019s Green New Deal",
+            "governance": "",
+            "government": "",
+            "health": "Health Care For All, Since 2010 the NHS has seen the largest real-terms cuts to funding in history., \u00a310bn more for the NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Build affordable homes",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Labour stands for Change. I joined Labour to be a voice for those who are ignored. I joined Labour because the environment matters.",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Sam Carmichael",
+                "endorsement": "\"I could never support the Liberal Democrats or agree to supporting a second referendum\""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "\"I could never support the Liberal Democrats or agree to supporting a second referendum. Lisey has always been a strong Brexit supporter, but she is backing Labour this time.",
+                "source": "Sam Carmichael",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "\u00a310bn more for the NHS",
+                        "Since 2010 the NHS has seen the largest real-terms cuts to funding in history."
+                    ]
+                },
+                "qualitative": {
+                    "count": 7,
+                    "examples": [
+                        "Labour founded the NHS. Only Labour will end its underfunding and creeping privatisation.",
+                        "Labour will always be on the side of pensioners.",
+                        "Labour stands for Change. I joined Labour to be a voice for those who are ignored. I joined Labour because the environment matters.",
+                        "Labour will look after pensioners.",
+                        "Labour\u2019s Green New Deal",
+                        "Create investment in renewable energy and a community energy revolution.",
+                        "\"I could never support the Liberal Democrats or agree to supporting a second referendum\""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Build affordable homes",
+                        "I joined Labour because the environment matters."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "\u00a310bn more for the NHS",
+                        "Scrap tuition fees"
+                    ]
+                }
+            }
+        },
+        "personalStories": [
+            {
+                "story": "\"I could never support the Liberal Democrats or agree to supporting a second referendum\"",
+                "issueRelated": "Brexit/Europe"
+            }
+        ],
+        "endorsementsUsed": {
+            "count": 1,
+            "examples": [
+                "\"I could never support the Liberal Democrats or agree to supporting a second referendum\""
+            ]
+        },
+        "negativeMessaging": {
+            "localIssues": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "nationalIssues": {
+                "count": 1,
+                "examples": [
+                    "Since 2010 the NHS has seen the largest real-terms cuts to funding in history."
+                ]
+            },
+            "leaderOfOpponentsParty": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "oppositeCandidateNoName": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "oppositeCandidateWithName": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            }
+        },
+        "nonPolicyAttributes": {
+            "localness": "The Best Choice for St Austell & Newquay",
+            "employment": "",
+            "education": "",
+            "family": ""
+        },
+        "localCandidate": {
+            "isLocal": true,
+            "examples": [
+                "The Best Choice for St Austell & Newquay"
+            ]
+        }
+    }
+}

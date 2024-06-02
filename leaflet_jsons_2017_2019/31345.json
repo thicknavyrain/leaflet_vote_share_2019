@@ -1,0 +1,191 @@
+{
+    "leaflet": {
+        "candidateName": "Tom Morrison",
+        "candidateGender": "",
+        "constituency": "Cheadle",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "December 12th",
+        "messages": [
+            {
+                "title": "",
+                "content": "Tom Morrison is fighting to give Cheadle Constituency a better deal. His priorities for Cheadle are more school funding, an end to local NHS cuts and more action on damaging climate change. A resident in Cheadle, Tom is a local councillor and school governor. He understands the issues facing our community and local people."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Reverse the school cuts",
+                "policyDescription": "Tom Morrison's priorities for Cheadle include more school funding."
+            },
+            {
+                "policyTitle": "More Police on our streets",
+                "policyDescription": "Tom has campaigned for more police on our streets and supported local residents and businesses when they have been affected by crime."
+            },
+            {
+                "policyTitle": "Protect our NHS",
+                "policyDescription": "Tom Morrison aims to end local NHS cuts and protect the NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "Tom Morrison",
+            "otherPartyLeaderCandidate": "Just another Conservative, Cutting services to the bone, Voting for damaging Brexit",
+            "partyLeader": "Jo Swinson's Liberal Democrats",
+            "tacticalSituation": "Everyone knows, Labour can't win in Cheadle"
+        },
+        "issues": {
+            "brexitEurope": "Voting for damaging Brexit",
+            "defence": "",
+            "economy": "",
+            "education": "Reverse the school cuts, His priorities for Cheadle are more school funding ",
+            "environment": "more action on damaging climate change",
+            "governance": "",
+            "government": "",
+            "health": "end to local NHS cuts, He will protect our NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "More Police on our streets, supported local residents and businesses when they have been affected by crime",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "supported local residents and businesses when they have been affected by crime, Tom and his wife Carlie enjoying local beauty spot Bramhall Hall",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "local councillor and school governor",
+                "duration": "",
+                "achievements": "He understands the issues facing our community and local people."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Sky News, August 2019",
+                "endorsement": "\"The Lib Dem fightback is real and it's changing everything.\""
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Tom and his wife Carlie enjoying local beauty spot Bramhall Hall"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Lib Dem 36%, Con 44%, Lab 19%"
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Tom Morrison is fighting to give Cheadle Constituency a better deal.",
+                        "\"The Lib Dem fightback is real and it's changing everything.\"",
+                        "The choice here is clear: Lib Dem Tom Morrison or The Conservatives",
+                        "Everyone knows, Labour can't win in Cheadle"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "more school funding",
+                        "more police on our streets",
+                        "local NHS cuts",
+                        "supported local residents and businesses when they have been affected by crime"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "more action on damaging climate change"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Tom and his wife Carlie enjoying local beauty spot Bramhall Hall",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Sky News, August 2019"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 3,
+                    "examples": [
+                        "Just another Conservative",
+                        "Cutting services to the bone",
+                        "Voting for damaging Brexit"
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "A resident in Cheadle, Tom is a local councillor and school governor. He understands the issues facing our community and local people.",
+                "employment": "",
+                "education": "",
+                "family": "Tom and his wife Carlie enjoying local beauty spot Bramhall Hall"
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "A resident in Cheadle, Tom is a local councillor and school governor. He understands the issues facing our community and local people."
+                ]
+            }
+        }
+    }
+}

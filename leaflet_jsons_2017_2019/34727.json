@@ -1,0 +1,182 @@
+{
+    "leaflet": {
+        "candidateName": "Bobby Dean",
+        "candidateGender": "",
+        "constituency": "Lewisham Deptford",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "December 12",
+        "messages": [
+            {
+                "title": "Stop Brexit",
+                "content": "Build a brighter future"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "Stop Brexit and build a brighter future."
+            },
+            {
+                "policyTitle": "Tackle the climate emergency",
+                "policyDescription": "Generate 80% of electricity from renewable sources by 2030, insulate all of Britain's homes by 2020, planting 60 million trees a year."
+            },
+            {
+                "policyTitle": "Transform our mental health services",
+                "policyDescription": "Investing \u00a311 billion into mental health, reducing waiting times for young people to get treatment."
+            },
+            {
+                "policyTitle": "Build a fairer economy",
+                "policyDescription": "Corporation tax cuts, tax cut worth \u00a31,000 a year for low and middle-income households."
+            },
+            {
+                "policyTitle": "Give every child the best start in life",
+                "policyDescription": "Give every child a fairer start in life by recruiting 20,000 more teachers, investing in our schools and colleges."
+            }
+        ],
+        "mentions": {
+            "candidate": "Bobby Dean",
+            "otherPartyLeaderCandidate": "Labour",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": "A vote for Labour could end up being a vote for Brexit. Don't risk it!"
+        },
+        "issues": {
+            "brexitEurope": "Stop Brexit and build a brighter future. How you voted in this borough at the European Elections earlier this year.",
+            "defence": "",
+            "economy": "Tax cut worth \u00a31,000 a year for low and middle-income households.",
+            "education": "Give every child a fairer start in life by recruiting 20,000 more teachers, investing in our schools and colleges.",
+            "environment": "Tackle the climate emergency - Generate 80% of electricity from renewable sources by 2030, insulate all of Britain's homes by 2020, planting 60 million trees a year.",
+            "governance": "",
+            "government": "",
+            "health": "Transform our mental health services - Investing \u00a311 billion into mental health, reducing waiting times for young people to get treatment.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "A background in tackling knife crime in the area.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Bobby grew up on a council estate in South East London and knows how important it is to invest in housing and public services.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Bobby Dean grew up on a council estate in South East London and knows how hard it is for people. He has a background in tackling knife crime in the area, having chaired a local council committee in the aftermath of the tragic loss of a young man in our community.",
+        "politicalExperience": [
+            {
+                "role": "Local Council Committee Chair",
+                "duration": "",
+                "achievements": "Tackled knife crime after the tragic loss of a young man in the community."
+            }
+        ],
+        "contactInformation": {
+            "address": "Liberal Democrats, 8-10 Great George Street, London, SW1P 3AE",
+            "phone": "",
+            "email": "data.protection@libdems.org.uk",
+            "website": "libdems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Bobby Dean"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Tax cut worth \u00a31,000 a year for low and middle-income households."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Stop Brexit and build a brighter future.",
+                        "Tackle the climate emergency.",
+                        "Generate 80% of electricity from renewable sources by 2030.",
+                        "Insulate all of Britain's homes by 2020, planting 60 million trees a year.",
+                        "Bobby Dean grew up on a council estate in South East London."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Bobby has a background in tackling knife crime in the area."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Stop Brexit and build a brighter future."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Bobby Dean grew up on a council estate in South East London and knows how hard it is for people. He has a background in tackling knife crime in the area, having chaired a local council committee in the aftermath of the tragic loss of a young man in our community.",
+                    "issueRelated": "knife crime, housing, public services"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "A vote for Labour could end up being a vote for Brexit. Don't risk it!"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "A vote for Labour could end up being a vote for Brexit. Don't risk it!"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Bobby Dean grew up on a council estate in South East London.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Bobby Dean grew up on a council estate in South East London."
+                ]
+            }
+        }
+    }
+}

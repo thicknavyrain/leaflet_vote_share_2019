@@ -1,0 +1,178 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Strong and Stable Leadership",
+                "content": "The best possible deal from Brexit. A growing economy to secure our future."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Getting on with the job and making Brexit work is vital."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "A vote to strengthen my negotiating position to ensure we get the best Brexit deal possible, and it is a vote to strengthen our economy for the future."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "But our opponents are already seeking to disrupt our chances of getting the best Brexit deal possible.",
+            "defence": "",
+            "economy": "A vote to strengthen my negotiating position to ensure we get the best Brexit deal possible, and it is a vote to strengthen our economy for the future.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "Every single vote for my candidate in your local area is a vote for strong and stable leadership in the national interest.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "And with your help, together we can get it right.",
+        "politicalExperience": [
+            {
+                "role": "Prime Minister",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "The choice at the election is clear: Strong and stable leadership with me in the national interest, where what you see is what you get. Or a hung parliament and coalition of chaos under Jeremy Corbyn \u2013 which every single one of us will pay for in higher taxes, fewer jobs, more waste and more debt.",
+                "source": "Theresa May",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "The choice at the election is clear: Strong and stable leadership with me in the national interest, where what you see is what you get. Or a hung parliament and coalition of chaos under Jeremy Corbyn \u2013 which every single one of us will pay for in higher taxes, fewer jobs, more waste and more debt."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Every single vote for my candidate in your local area is a vote for strong and stable leadership in the national interest."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "But our opponents are already seeking to disrupt our chances of getting the best Brexit deal possible.",
+                        "A vote to strengthen my negotiating position to ensure we get the best Brexit deal possible, and it is a vote to strengthen our economy for the future."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Some people say Jeremy Corbyn as Prime Minister is not going to happen, but in the days of shock election results and global uncertainty, no one can ever really be sure who will win. So surely it is better to avoid the chaos just in case, because if it does happen, we will all pay for it."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Or a hung parliament and coalition of chaos under Jeremy Corbyn \u2013 which every single one of us will pay for in higher taxes, fewer jobs, more waste and more debt.",
+                        "Some people say Jeremy Corbyn as Prime Minister is not going to happen, but in the days of shock election results and global uncertainty, no one can ever really be sure who will win. So surely it is better to avoid the chaos just in case, because if it does happen, we will all pay for it."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Our opponents are already seeking to disrupt our chances of getting the best Brexit deal possible."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn.",
+                        "Nicola Sturgeon accused of plotting to make Jeremy Corbyn PM in return for IndyRef 2."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "Prime Minister",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

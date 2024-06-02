@@ -1,0 +1,168 @@
+{
+    "leaflet": {
+        "candidateName": "Craig Tracey",
+        "candidateGender": "",
+        "constituency": "North Warwickshire & Bedworth",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Craig Tracey - 'Judge Me On My Record'",
+                "content": "Craig Tracey has been the hardworking local Member of Parliament he promised to be, standing up for residents and our community."
+            },
+            {
+                "title": "Honoured To Represent My Home Community",
+                "content": "Since 2015 we have had fifty extra police officers on our streets. We have also received more funding for our schools and our local NHS."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "More Jobs-Higher Wages-Stronger Economy",
+                "policyDescription": "Lower Taxes, ensuring young people receive the skills and qualifications they need to succeed in life, creating 600 new apprenticeship and training places."
+            }
+        ],
+        "mentions": {
+            "candidate": "Craig Tracey",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Craig voted to leave the EU",
+            "defence": "",
+            "economy": "Lower Taxes, 600 new apprenticeship and training places",
+            "education": "Ensuring young people receive the skills and qualifications they need to succeed in life",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Received more funding for our local NHS",
+            "immigration": "",
+            "labourEmployment": "Creating 600 new apprenticeship and training places",
+            "lawCrime": "Since 2015 we have had fifty extra police officers on our streets",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Standing up for residents and our community",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "Since 2015",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.craigtracey.co.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/craig4nwarks",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Since 2015 we have had fifty extra police officers on our streets",
+                        "600 new apprenticeship and training places",
+                        "Fifty extra police officers"
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Craig Tracey has been the hardworking local Member of Parliament he promised to be",
+                        "Standing up for residents and our community",
+                        "Ensuring young people receive the skills and qualifications they need to succeed in life",
+                        "Strong and stable leadership in the national interest"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "Standing up for residents and our community",
+                        "Since 2015 we have had fifty extra police officers on our streets",
+                        "More funding for our schools and our local NHS",
+                        "50 extra police officers"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Craig voted to leave the EU",
+                        "Strong and stable leadership in the national interest",
+                        "Lower Taxes"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Honoured to represent my home community",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Standing up for residents and our community",
+                    "Honoured to represent my home community"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "leaflet": {
+        "candidateName": "Gerald Vernon-Jackson",
+        "candidateGender": "",
+        "constituency": "Portsmouth South",
+        "politicalParty": "Lib Dem",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "People Before Politics!",
+                "content": "On 8th June vote for an MP who will put Portsmouth People Before Politics!"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Education",
+                "policyDescription": "\u00a310 million cuts to local schools. Hundreds of frontline teachers will be cut from schools in our area."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Urgent need to tackle beds crisis at QA Hospital. The Conservatives are failing our NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "Gerald Vernon-Jackson",
+            "otherPartyLeaderCandidate": "Jeremy Hunt",
+            "partyLeader": "",
+            "tacticalSituation": "In the last 10 parliamentary elections in Portsmouth South, it is 5 wins each to Lib Dems and Conservatives. Labour have NEVER won here."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "\u00a310 million cuts to local schools. Hundreds of front line teachers will be cut from schools in our area.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Urgent need to tackle beds crisis at QA Hospital. The Conservatives are failing our NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Local Councillor",
+                "duration": "",
+                "achievements": "Worked tirelessly for nearly 19 years to make this a better place to live and work."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "eandc@portsmouthlibdems.org.uk",
+            "website": "portsmouthlibdems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Matthew Winnington",
+                "endorsement": "It is obvious to me that Gerald cares deeply about Portsmouth and local people in a way I feel many others in those other parties here do not."
+            },
+            {
+                "endorser": "Terry Hall",
+                "endorsement": "There are millions worse off in our country who would have no hope if Gerald were in Westminster. He will put Portsmouth first, every single time."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Local Lib Dem Councillor Matthew Winnington and Community Champion Terry Hall are backing Gerald Vernon-Jackson to be the next MP for Portsmouth South."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "6 ambulances queuing in Portsmouth. Just another weekend in May. No flu, no norovirus, just a normal day. Thanks for your help @Jeremy_Hunt."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Gerald has tirelessly for nearly 19 years to make this a better place to live and work.",
+                        "There are millions worse off in our country.",
+                        "The Conservatives are failing our NHS.",
+                        "This problem is widespread and getting worse.",
+                        "The hard work Gerald does should be noticed."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "\u00a310 million cuts to local schools.",
+                        "Urgent need to tackle beds crisis at QA Hospital.",
+                        "Gerald will put Portsmouth first."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives are failing our NHS."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Gerald has been in and out of hospital with his mum in recent months and has seen first hand the patients waiting on trolleys in corridors and their frustrations at staff.",
+                    "issueRelated": "Health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "Matthew Winnington's endorsement",
+                    "Terry Hall's endorsement"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives are failing our NHS."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Thanks for your help @Jeremy_Hunt."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Put Portsmouth first",
+                "employment": "",
+                "education": "",
+                "family": "Gerald has been in and out of hospital with his mum."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "It is obvious to me that Gerald cares deeply about Portsmouth and local people."
+                ]
+            }
+        }
+    }
+}

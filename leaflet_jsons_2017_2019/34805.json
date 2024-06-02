@@ -1,0 +1,169 @@
+{
+    "leaflet": {
+        "candidateName": "Holly Whitbread",
+        "candidateGender": "",
+        "constituency": "Kingston upon Hull North",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "My Priorities for Hull North",
+                "content": "Backing Boris to Get Brexit Done\nInvesting in the NHS\nMore Local Police"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Backing Boris to Get Brexit Done"
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Investing in the NHS"
+            },
+            {
+                "policyTitle": "Police",
+                "policyDescription": "More Local Police"
+            }
+        ],
+        "mentions": {
+            "candidate": "Holly Whitbread",
+            "otherPartyLeaderCandidate": "local Labour MP",
+            "partyLeader": "Boris",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Backing Boris to Get Brexit Done",
+            "defence": "",
+            "economy": "",
+            "education": "More funding for every pupil in every school.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Investing in the NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "More Local Police; More local police to fight crime",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Like the people of Hull North, I voted to leave. I campaigned passionately for Brexit and I am committed to seeing it delivered. Your local Labour MP has ignored the views of her constituents and has voted in Parliament to frustrate Brexit. I will back Boris to get Brexit done. I am pleased that Boris has pledged more money for the NHS. Good healthcare, free at the point of use, is a principle I will always defend. I appreciate the value of the NHS. My Grandmother moved down south from Yorkshire to become a nurse after the war. We need more police locally to fight crime and keep our streets safe. I welcome Boris\u2019s pledge of 20,000 extra police officers. In my role as a councillor, I have promoted closer working between police and community stakeholders.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "North East field Hull Conservatives, 29 Newland Park, Hull, HU5 2DR",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "\u00a333.9 billion extra for the NHS",
+                        "20,000 extra police officers"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Like the people of Hull North, I voted to leave",
+                        "I am pleased that Boris has pledged more money for the NHS",
+                        "We need more police locally to fight crime and keep our streets safe."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 5,
+                "candidateAlone": 3,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "More local police to fight crime",
+                        "My Priorities for Hull North",
+                        "More funding for every pupil in every school."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Backing Boris to Get Brexit Done",
+                        "Investing in the NHS",
+                        "\u00a333.9 billion extra for the NHS"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "My Grandmother moved down south from Yorkshire to become a nurse after the war",
+                    "issueRelated": "health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Your local Labour MP has ignored the views of her constituents and has voted in Parliament to frustrate Brexit."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Like the people of Hull North, I voted to leave",
+                "employment": "",
+                "education": "",
+                "family": "My Grandmother moved down south from Yorkshire to become a nurse after the war"
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Like the people of Hull North, I voted to leave."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "leaflet": {
+        "candidateName": "Chris Harlow",
+        "candidateGender": "",
+        "constituency": "The Cotswolds",
+        "politicalParty": "UK Independence Party",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Dear Voter",
+                "content": "Here in the Cotswolds we face local problems because of open-door immigration. The Lib Dems want open borders, which equals more housing developments, longer waits for GP appointments, more congested roads and trains, and compressed wages. The Tories are threatening school budgets, policing has been cut, and our roads are a disgrace. Meanwhile they are wasting our money on their Foreign Aid vanity project. As a UKIP MP I will always act in Britain's interests, support local people and businesses. No one else will!"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Immigration",
+                "policyDescription": "Opposition to open-door immigration, citing local problems."
+            },
+            {
+                "policyTitle": "Housing Developments",
+                "policyDescription": "Against more housing developments resulting from open borders."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Against longer waits for GP appointments due to increased population."
+            },
+            {
+                "policyTitle": "Infrastructure",
+                "policyDescription": "Against more congested roads and trains due to population increase."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Against Tory threats to school budgets."
+            },
+            {
+                "policyTitle": "Policing",
+                "policyDescription": "Against cuts in policing."
+            },
+            {
+                "policyTitle": "Roads",
+                "policyDescription": "Against the current state of roads, calling them a disgrace."
+            },
+            {
+                "policyTitle": "Foreign Aid",
+                "policyDescription": "Against wastage of money on Foreign Aid."
+            }
+        ],
+        "mentions": {
+            "candidate": "Chris Harlow",
+            "otherPartyLeaderCandidate": "Lib Dems",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "The Tories are threatening school budgets.",
+            "environment": "",
+            "governance": "Tories are cutting policing.",
+            "government": "",
+            "health": "Longer waits for GP appointments.",
+            "immigration": "We face local problems because of open-door immigration.",
+            "labourEmployment": "Compressed wages.",
+            "lawCrime": "",
+            "transport": "More congested roads and trains.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Here in the Cotswolds we face local problems because of open-door immigration.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07946 014561",
+            "email": "chris.harlow@ukiplocal.org",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Here in the Cotswolds we face local problems because of open-door immigration."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Here in the Cotswolds we face local problems because of open-door immigration."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The Tories are threatening school budgets, policing has been cut, and our roads are a disgrace."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Here in the Cotswolds we face local problems because of open-door immigration."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Tories are threatening school budgets, policing has been cut, and our roads are a disgrace."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "The Lib Dems want open borders, which equals more housing developments, longer waits for GP appointments, more congested roads and trains, and compressed wages."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "leaflet": {
+        "candidateName": "Patrick Grady",
+        "candidateGender": "",
+        "constituency": "Glasgow North",
+        "politicalParty": "SNP",
+        "electionDate": "Thursday 8th June 2017",
+        "messages": [
+            {
+                "title": "Standing against Tory cuts",
+                "content": "Even with a small majority, Tory cuts are doing real damage to communities in Glasgow North. Every Tory vote risks allowing them to impose deeper cuts, penalise the vulnerable and undermine the Scottish Parliament."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "End to Tory austerity and welfare cuts",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "No Trident renewal",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "More powers for the Scottish Parliament to boost our economy",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Patrick Grady voted against Brexit, against Trident, and against austerity. He spoke up for the needs of the people of Glasgow North, in Westminster and here at home.",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Patrick Grady voted against Brexit.",
+            "defence": "Patrick Grady voted against Trident.",
+            "economy": "More powers for the Scottish Parliament to boost our economy.",
+            "education": "",
+            "environment": "Work with our new SNP council for cleaner streets, better housing and transport.",
+            "governance": "More powers for the Scottish Parliament to boost our economy.",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "Patrick Grady will continue standing up and speaking out for Glasgow North.",
+            "lawCrime": "",
+            "transport": "Work with our new SNP council for cleaner streets, better housing and transport.",
+            "socialWelfare": "End to Tory austerity and welfare cuts.",
+            "community": [
+                {
+                    "content": "Work with our new SNP council for cleaner streets, better housing and transport.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "From education, to protecting services like the NHS, Patrick has a strong record of standing up for Glasgow North.",
+        "politicalExperience": [
+            {
+                "role": "MP for Glasgow North",
+                "duration": "2015 to present",
+                "achievements": "One of Westminster's most active MPs: speaking over 300 times in one year and asking over 250 written questions holding Tory government to account. Organised a 'litter summit' with Sandra White MSP to promote clean streets in the West End. Worked with Bob Doris MSP to oppose closure of the Maryhill Job Centre. Held special advice sessions for EU nationals and others affected by Brexit."
+            }
+        ],
+        "contactInformation": {
+            "address": "Patrick Grady SNP, 68 St Vincent Terrace, Glasgow G3 8DX",
+            "phone": "07900 248144",
+            "email": "patrick.gradysnp@scottish.parliament.uk",
+            "website": "www.patrickgrady.scot",
+            "socialMedia": {
+                "facebook": "facebook.com/PGradySNP",
+                "twitter": "@PatrickGradySNP",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": "\"Patrick will be a strong voice for you and your family\""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "\"Patrick will be a strong voice for you and your family\"",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Patrick Grady with Nicola Sturgeon"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "One of Westminster's most active MPs: speaking over 300 times in one year and asking over 250 written questions holding Tory government to account."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "\"Patrick will be a strong voice for you and your family\""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 1,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Continue standing up and speaking out for Glasgow North.",
+                        "Work with our new SNP council for cleaner streets, better housing and transport."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "End to Tory austerity and welfare cuts.",
+                        "No Trident renewal."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "From education, to protecting services like the NHS, Patrick has a strong record of standing up for Glasgow North.",
+                    "issueRelated": "health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "\"Patrick will be a strong voice for you and your family\""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Tory cuts are doing real damage to communities in Glasgow North."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Continue standing up and speaking out for Glasgow North.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Continue standing up and speaking out for Glasgow North."
+                ]
+            }
+        }
+    }
+}

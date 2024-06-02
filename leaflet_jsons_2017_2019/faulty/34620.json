@@ -1,0 +1,177 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Normanton Pontefract and Castleford",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "\u00a333.9 billion extra for the NHS"
+            },
+            {
+                "policyTitle": "Police and Safety",
+                "policyDescription": "20,000 extra police for safer streets"
+            },
+            {
+                "policyTitle": "Education Funding",
+                "policyDescription": "More funding for every pupil in every school"
+            },
+            {
+                "policyTitle": "Healthcare Infrastructure",
+                "policyDescription": "40 new hospitals across the country"
+            },
+            {
+                "policyTitle": "Broadband",
+                "policyDescription": "Gigabit broadband for the whole country"
+            },
+            {
+                "policyTitle": "Economic Investment",
+                "policyDescription": "\u00a33.6 billion to help towns invest and attract new businesses"
+            }
+        ],
+        "mentions": {},
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "\u00a33.6 billion to help towns invest and attract new businesses",
+            "education": "More funding for every pupil in every school",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "\u00a333.9 billion extra for the NHS, 40 new hospitals across the country",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "20,000 extra police for safer streets",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "\u00a33.6 billion to help towns invest and attract new businesses",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 5,
+                    "examples": [
+                        "\u00a333.9 billion extra for the NHS",
+                        "20,000 extra police for safer streets",
+                        "More funding for every pupil in every school",
+                        "40 new hospitals across the country",
+                        "\u00a33.6 billion to help towns invest and attract new businesses"
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Let\u2019s get Brexit done. Let\u2019s get on with the country's priorities. LET\u2019S UNLEASH BRITAIN\u2019S POTENTIAL."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 4,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "\u00a33.6 billion to help towns invest and attract new businesses"
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "\u00a333.9 billion extra for the NHS",
+                        "20,000 extra police for safer streets",
+                        "More funding for every pupil in every school",
+                        "40 new hospitals across the country",
+                        "Gigabit broadband for the whole country"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

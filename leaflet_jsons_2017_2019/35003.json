@@ -1,0 +1,175 @@
+{
+    "leaflet": {
+        "candidateName": "Mark Griffin",
+        "candidateGender": "",
+        "constituency": "Newcastle Upon Tyne Central",
+        "politicalParty": "The Brexit Party",
+        "electionDate": "December 12th",
+        "messages": [
+            {
+                "title": "",
+                "content": "WITHOUT THE BREXIT PARTY THERE CAN BE NO REAL BREXIT. VOTE FOR THE BREXIT PARTY ON DECEMBER 12TH. CHANGE POLITICS FOR GOOD."
+            },
+            {
+                "title": "",
+                "content": "THERE ARE AROUND 130 SEATS THAT THE CONSERVATIVES HAVEN\u2019T WON IN AT LEAST 50 YEARS. ONLY THE BREXIT PARTY CAN BEAT CORBYN\u2019S LABOUR. LEAVERS, DON\u2019T WASTE YOUR VOTE. VOTE FOR THE BREXIT PARTY IN NEWCASTLE UPON TYNE CENTRAL ON DECEMBER 12TH."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Deliver Brexit",
+                "policyDescription": "The Brexit Party pledges to deliver Brexit as soon as possible."
+            },
+            {
+                "policyTitle": "A Clean-Break Brexit",
+                "policyDescription": "The Brexit Party calls for a clean-break Brexit, investing billions in local communities rather than Brussels."
+            },
+            {
+                "policyTitle": "Cut Immigration",
+                "policyDescription": "Introduce an Australian-style, points-based immigration system, and control immigration numbers."
+            },
+            {
+                "policyTitle": "Invest in public services",
+                "policyDescription": "Fund the NHS and improve institutions and communities."
+            },
+            {
+                "policyTitle": "Reform Politics for Good",
+                "policyDescription": "The Brexit Party promises significant reforms including abolishing the House of Lords."
+            }
+        ],
+        "mentions": {
+            "candidate": "Mark Griffin",
+            "otherPartyLeaderCandidate": "Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "THERE ARE AROUND 130 SEATS THAT THE CONSERVATIVES HAVEN\u2019T WON IN AT LEAST 50 YEARS."
+        },
+        "issues": {
+            "brexitEurope": "WITHOUT THE BREXIT PARTY THERE CAN BE NO REAL BREXIT.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Fund the NHS and improve institutions and communities.",
+            "immigration": "Introduce an Australian-style, points-based immigration system, and control immigration numbers.",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "investing billions in local communities rather than Brussels.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "83 Victoria Street, London SW1H 0HW",
+            "phone": "0800 414 8525",
+            "email": "",
+            "website": "www.thebrexitparty.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "THERE ARE AROUND 130 SEATS THAT THE CONSERVATIVES HAVEN\u2019T WON IN AT LEAST 50 YEARS."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "WITHOUT THE BREXIT PARTY THERE CAN BE NO REAL BREXIT.",
+                        "CHANGE POLITICS FOR GOOD.",
+                        "ONLY THE BREXIT PARTY CAN BEAT CORBYN\u2019S LABOUR."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "investing billions in local communities rather than Brussels."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "WITHOUT THE BREXIT PARTY THERE CAN BE NO REAL BREXIT.",
+                        "Introduce an Australian-style, points-based immigration system, and control immigration numbers.",
+                        "Fund the NHS and improve institutions and communities."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "ONLY THE BREXIT PARTY CAN BEAT CORBYN\u2019S LABOUR."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Corbyn"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

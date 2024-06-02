@@ -1,0 +1,172 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Brighton",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "8 June",
+        "messages": [
+            {
+                "title": "Our plan for Britain",
+                "content": "Many Brighton residents are switching to back the Liberal Democrats because they\u2019re the only party with a plan for our country. The Liberal Democrats are fighting against a hard Brexit. Whilst the Conservatives sound like UKIP and Labour fight amongst themselves."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "The Liberal Democrats are fighting against a hard Brexit and will keep the UK in the single market."
+            },
+            {
+                "policyTitle": "Public Say on Final Deal",
+                "policyDescription": "The Liberal Democrats will give the public, not just MPs, their say on the final Brexit deal."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The Liberal Democrats are fighting against a hard Brexit. We will fight to keep the UK in the single market. We will give the public, not just MPs, their say on the final deal.",
+            "defence": "",
+            "economy": "The Conservatives will take Britain out of the single market whatever the cost, putting the economy at risk.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07768 054074",
+            "email": "info@brightonliberal.org",
+            "website": "https://liberalbrighton.org/en",
+            "socialMedia": {
+                "facebook": "facebook.com/brightonliberal",
+                "twitter": "@liberalbrighton",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "\"We say: yes to the Single Market.\"",
+                "source": "Conservative Manifesto 2015",
+                "date": ""
+            },
+            {
+                "text": "\"What I am proposing cannot mean membership of the single market.\"",
+                "source": "Theresa May",
+                "date": "January 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "The Liberal Democrats are the only party united in fighting a hard Brexit. Join us."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "The Liberal Democrats are the only party with a plan for our country.",
+                        "The Conservative will take Britain out of the single market whatever the cost, putting the economy at risk."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Many Brighton residents are switching to back the Liberal Democrats because they\u2019re the only party with a plan for our country."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "The Liberal Democrats are fighting against a hard Brexit.",
+                        "The Conservative will take Britain out of the single market whatever the cost, putting the economy at risk."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "The Conservatives will take Britain out of the single market whatever the cost, putting the economy at risk.",
+                        "Whilst the Conservatives sound like UKIP and Labour fight amongst themselves."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "\"What I am proposing cannot mean membership of the single market.\" - Theresa May, January 2017"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Many Brighton residents are switching to back the Liberal Democrats.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Many Brighton residents are switching to back the Liberal Democrats."
+                ]
+            }
+        }
+    }
+}

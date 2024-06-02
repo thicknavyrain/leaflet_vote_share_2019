@@ -1,0 +1,159 @@
+{
+    "leaflet": {
+        "candidateName": "Martin Tod",
+        "candidateGender": "",
+        "constituency": "Winchester",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Martin Tod lives and works in the heart of Winchester with his wife Michaela. An active volunteer with local environmental and homelessness groups, Martin has helped raise thousands of pounds for local charities. Martin is currently campaigning for local NHS services - especially more ambulances in rural areas, for green jobs and action to tackle climate change."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS Services",
+                "policyDescription": "Campaigning for local NHS services - especially more ambulances in rural areas."
+            },
+            {
+                "policyTitle": "Green Jobs",
+                "policyDescription": "Campaigning for green jobs and action to tackle climate change."
+            }
+        ],
+        "mentions": {
+            "candidate": "Martin Tod",
+            "otherPartyLeaderCandidate": "Nick Clegg",
+            "partyLeader": "Nick Clegg",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "Support for fair pay and equipment for British troops.",
+            "economy": "",
+            "education": "",
+            "environment": "Campaigning for action to tackle climate change.",
+            "governance": "",
+            "government": "",
+            "health": "Campaigning for local NHS services - especially more ambulances in rural areas.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "An active volunteer with local environmental and homelessness groups.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.MartinTod.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Martin Tod"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Martin has helped raise thousands of pounds for local charities."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Martin Tod lives and works in the heart of Winchester with his wife Michaela.",
+                        "An active volunteer with local environmental and homelessness groups.",
+                        "Martin is currently campaigning for local NHS services - especially more ambulances in rural areas, for green jobs and action to tackle climate change."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Martin is currently campaigning for local NHS services - especially more ambulances in rural areas."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Martin is currently campaigning for green jobs and action to tackle climate change.",
+                        "Nick Clegg's Lib Dems want a better deal for our armed forces."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Martin Tod lives and works in the heart of Winchester with his wife Michaela.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Martin Tod lives and works in the heart of Winchester.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Martin Tod lives and works in the heart of Winchester."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Noel Matthews",
+        "candidateGender": "",
+        "constituency": "Blackpool South",
+        "politicalParty": "UK Independence Party (UKIP)",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "",
+                "content": "Dear Voter, Theresa may has called a snap general election which nobody wanted. She is gambling on gaining sufficient lobby fodder to dilute Brexit and give concessions to Brussels. Blackpool South certainly needs Labour out but deserves more than a Tory nodding dog and I therefore urge you to vote for me in this election. I believe in a thriving 52 weeks a year tourism economy, I welcome the jobs on offer in the fracking industry and I believe in REAL Brexit. Yours sincerely, Noel Matthews"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Tourism Economy",
+                "policyDescription": "I believe in a thriving 52 weeks a year tourism economy."
+            },
+            {
+                "policyTitle": "Fracking Industry",
+                "policyDescription": "I welcome the jobs on offer in the fracking industry."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "I believe in REAL Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "Noel Matthews",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Theresa may has called a snap general election which nobody wanted. She is gambling on gaining sufficient lobby fodder to dilute Brexit and give concessions to Brussels. I believe in REAL Brexit.",
+            "defence": "",
+            "economy": "I believe in a thriving 52 weeks a year tourism economy.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I welcome the jobs on offer in the fracking industry.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07487 683603",
+            "email": "blackpoolsouth@ukip.org",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Theresa may has called a snap general election which nobody wanted.",
+                        "She is gambling on gaining sufficient lobby fodder to dilute Brexit and give concessions to Brussels.",
+                        "I believe in a thriving 52 weeks a year tourism economy.",
+                        "I welcome the jobs on offer in the fracking industry and I believe in REAL Brexit."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "I believe in a thriving 52 weeks a year tourism economy."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Theresa may has called a snap general election which nobody wanted.",
+                        "I believe in REAL Brexit."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa may has called a snap general election which nobody wanted. She is gambling on gaining sufficient lobby fodder to dilute Brexit and give concessions to Brussels."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa may has called a snap general election which nobody wanted. She is gambling on gaining sufficient lobby fodder to dilute Brexit and give concessions to Brussels."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

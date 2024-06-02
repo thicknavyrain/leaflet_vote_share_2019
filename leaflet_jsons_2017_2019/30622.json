@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "Jane Hunt",
+        "candidateGender": "Female",
+        "constituency": "Nottingham South",
+        "politicalParty": "Conservative",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Theresa May",
+                "content": "Strong, Stable Leadership in the National Interest"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Making Brexit a success is central to our national interest."
+            },
+            {
+                "policyTitle": "Economic Security",
+                "policyDescription": "Providing economic security during the transition."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jane Hunt",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Making Brexit a success is central to our national interest.",
+            "defence": "Committed to strong defense policies.",
+            "economy": "Providing economic security during the transition.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Supporting local community initiatives and developments",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Local councilor",
+                "duration": "Several years",
+                "achievements": "Has worked on various community projects."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "(0115 945 4189)",
+            "email": "contact@janehunt4nottinghamsouth.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Rt. Hon Theresa May",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Jane Hunt with Theresa May"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Strong, Stable Leadership in the National Interest"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 0,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Supporting local community initiatives and developments"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Making Brexit a success is central to our national interest."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Endorsed by Rt. Hon Theresa May"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Think Jeremy Corbyn is prepared for Brexit Negotiations? Britexit Chaos."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Think Jeremy Corbyn is prepared for Brexit Negotiations? Britexit Chaos."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Presented as a local community supporter",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Supporting local community initiatives and developments"
+                ]
+            }
+        }
+    }
+}

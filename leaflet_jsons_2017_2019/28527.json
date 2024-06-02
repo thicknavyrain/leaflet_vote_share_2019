@@ -1,0 +1,188 @@
+{
+    "leaflet": {
+        "candidateName": "Henry Newman",
+        "candidateGender": "",
+        "constituency": "North Tyneside",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "He is backing Theresa May to get the best Brexit deal."
+            },
+            {
+                "policyTitle": "Local Jobs",
+                "policyDescription": "He will stand up for local jobs, including in fishing."
+            }
+        ],
+        "mentions": {
+            "candidate": "Henry worked on the campaign to Leave the EU. He will support Theresa May to get the best Brexit deal for North Tyneside.",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn's North Tyneside candidate campaigned against Brexit.",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Henry worked on the campaign to Leave the EU.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "He will stand up for local jobs, including in fishing.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "I will support Theresa May to get the best Brexit deal for North Tyneside. - Henry Newman",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Promoted by Edward Legard on behalf of Henry Newman, both of 18 Boston Court, Norfolk Street, North Shields, Tyne and Wear, NE30 1JQ",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "LIKE HIS PAGE AT FACEBOOK.COM/HENRYJNEWMAN",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Theresa May",
+                "endorsement": "Henry is backing Theresa May to get the best Brexit deal."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "I will support Theresa May to get the best Brexit deal for North Tyneside.",
+                "source": "Henry Newman",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Henry worked on the campaign to Leave the EU.",
+                        "He is backing Theresa May to get the best Brexit deal.",
+                        "He will stand up for local jobs, including in fishing."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "He will stand up for local jobs, including in fishing."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Henry worked on the campaign to Leave the EU.",
+                        "He is backing Theresa May to get the best Brexit deal."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I will support Theresa May to get the best Brexit deal for North Tyneside.",
+                    "issueRelated": "Brexit"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Henry is backing Theresa May to get the best Brexit deal."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn's North Tyneside candidate campaigned against Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

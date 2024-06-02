@@ -1,0 +1,180 @@
+{
+    "leaflet": {
+        "candidateName": "Fleur Anderson",
+        "candidateGender": "",
+        "constituency": "Putney",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Vote for",
+                "content": "Only Labour's Fleur Anderson can stop the Conservatives in Putney."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit and Remain in the EU",
+                "policyDescription": "This is a time to stand up and be counted. Vote for me and I will vote for a People's Vote and to stop Brexit."
+            },
+            {
+                "policyTitle": "Save the NHS",
+                "policyDescription": "After 9 years of Conservative-Lib Dem Austerity, our NHS is underfunded and under threat. Only Labour will protect our NHS."
+            },
+            {
+                "policyTitle": "Climate Action",
+                "policyDescription": "Climate change is a clear and present threat. I will fight to take urgent action to cut carbon emissions and clean up our air."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Build more social and affordable housing and stop no-fault evictions for renters."
+            }
+        ],
+        "mentions": {
+            "candidate": "Fleur Anderson",
+            "otherPartyLeaderCandidate": "Conservatives, Lib Dem",
+            "partyLeader": "",
+            "tacticalSituation": "Only a vote for Fleur Anderson will stop the Conservatives in Putney this time round."
+        },
+        "issues": {
+            "brexitEurope": "Vote for me and I will vote for a People's Vote and to stop Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Climate change is a clear and present threat. I will fight to take urgent action to cut carbon emissions and clean up our air.",
+            "governance": "",
+            "government": "",
+            "health": "After 9 years of Conservative-Lib Dem Austerity, our NHS is underfunded and under threat. Only Labour will protect our NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "local councilor",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "FREEPOST Putney Labour, 35 Felsham Road, SW15 1AY",
+            "phone": "",
+            "email": "fleuranderson@putneylabour.com",
+            "website": "www.FleurAnderson.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Fleur Anderson has led international development campaigns around the world and is active in local campaigns. As an active local councilor, she listens and takes action for residents."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "After 9 years of Conservative-Lib Dem Austerity, our NHS is underfunded and under threat.",
+                        "The 2017 General Election Result in Putney was very close."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Only Labour's Fleur Anderson can stop the Conservatives in Putney.",
+                        "This is a time to stand up and be counted.",
+                        "Climate change is a clear and present threat.",
+                        "Only Labour will protect our NHS.",
+                        "Build more social and affordable housing and stop no-fault evictions for renters."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 3,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Build more social and affordable housing and stop no-fault evictions for renters."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Vote for me and I will vote for a People's Vote and to stop Brexit.",
+                        "After 9 years of Conservative-Lib Dem Austerity, our NHS is underfunded and under threat. Only Labour will protect our NHS."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Fleur Anderson has led international development campaigns around the world and is active in local campaigns. As an active local councillor, she listens and takes action for residents.",
+                    "issueRelated": "international development"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "After 9 years of Conservative-Lib Dem Austerity, our NHS is underfunded and under threat."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "active local councilor",
+                "employment": "led international development campaigns",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "active local councilor, she listens and takes action for residents."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "leaflet": {
+        "candidateName": "Chris Leslie",
+        "candidateGender": "",
+        "constituency": "Nottingham East",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "",
+                "content": "Standing up for Nottingham East"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Educational Excellence",
+                "policyDescription": "Chris Leslie pledges to work towards high educational standards, making sure no child is left behind and every child is prepared for a good job."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Chris Leslie aims to save and protect the NHS from being sold off and privatized bit by bit."
+            },
+            {
+                "policyTitle": "Communication and Contact",
+                "policyDescription": "Chris Leslie promises to keep in touch with the community via regular newsletters and meetings."
+            }
+        ],
+        "mentions": {
+            "candidate": "Chris Leslie",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "A passion for educational excellence, preparing every child to succeed.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Time to save the NHS from being sold off and privatized bit by bit.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Chris Leslie pledges to you: A local voice for Nottingham get together.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Labour MP",
+                "duration": "Since 2010",
+                "achievements": "Chris Leslie has a history of fighting for Nottingham."
+            }
+        ],
+        "contactInformation": {
+            "address": "Chris Leslie, Labour, FREEPOST NATE 10747, Nottingham NG4 2BR",
+            "phone": "0115 955 4242",
+            "email": "chris@chrisleslie.org",
+            "website": "www.chrisleslie.org",
+            "socialMedia": {
+                "facebook": "facebook.com/ChrisLeslieLabour",
+                "twitter": "@ChrisLeslieMP",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Graham Allen",
+                "endorsement": "He's been a great local MP; why I am backing Chris."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "He's been a great local MP; why I am backing Chris.",
+                "source": "Graham Allen, Nottingham East MP",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Chris Leslie has been an MP since 2010."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "A passion for educational excellence.",
+                        "Time to save the NHS."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Chris Leslie pledges to you: A local voice for Nottingham get together."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "A passion for educational excellence.",
+                        "Time to save the NHS."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Graham Allen is backing Chris Leslie.",
+                    "issueRelated": "Endorsement"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "He's been a great local MP; why I am backing Chris."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "A local voice for Nottingham. Stop the Tory steamroller!"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Stop the Tory steamroller!"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Standing up for Nottingham East.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "A local voice for Nottingham."
+                ]
+            }
+        }
+    }
+}

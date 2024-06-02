@@ -1,0 +1,183 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Vote Labour to bring our country together again",
+                "content": "Boris Johnson's Tories are the biggest threat to Scotland's place in the UK. Labour has a plan to rebuild and transform Scotland, so that no one is held back and no community is neglected."
+            },
+            {
+                "title": "",
+                "content": "Vote Labour on Thursday 12 December to: Invest an additional \u00a3100 billion in Scotland\u2019s people, communities and public services. Provide an extra \u00a32 billion a year additional investment to rebuild Scotland's NHS, cut waiting times and solve the GP crisis. Boost family living standards with: a \u00a310 an hour minimum wage for all ages and a 5% pay rise for all public sector workers from April next year. Protect pensions and provide compensation for WASPI women. Kick start a Green Industrial Revolution to tackle the climate emergency and create high-skilled, high-wage jobs. End the SNP mismanagement of Scotland\u2019s public services: properly supporting our schools, hospitals and police."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Investment in Scotland",
+                "policyDescription": "Invest an additional \u00a3100 billion in Scotland\u2019s people, communities and public services."
+            },
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "Provide an extra \u00a32 billion a year additional investment to rebuild Scotland's NHS, cut waiting times and solve the GP crisis."
+            },
+            {
+                "policyTitle": "Family Living Standards",
+                "policyDescription": "Boost family living standards with: a \u00a310 an hour minimum wage for all ages and a 5% pay rise for all public sector workers from April next year."
+            },
+            {
+                "policyTitle": "Pension Protection",
+                "policyDescription": "Protect pensions and provide compensation for WASPI women."
+            },
+            {
+                "policyTitle": "Green Industrial Revolution",
+                "policyDescription": "Kick start a Green Industrial Revolution to tackle the climate emergency and create high-skilled, high-wage jobs."
+            },
+            {
+                "policyTitle": "Public Service Management",
+                "policyDescription": "End the SNP mismanagement of Scotland\u2019s public services: properly supporting our schools, hospitals and police."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Provide an extra \u00a32 billion a year additional investment to rebuild Scotland's NHS, cut waiting times and solve the GP crisis.",
+            "immigration": "",
+            "labourEmployment": "Boost family living standards with: a \u00a310 an hour minimum wage for all ages and a 5% pay rise for all public sector workers from April next year. Kick start a Green Industrial Revolution to tackle the climate emergency and create high-skilled, high-wage jobs.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Protect pensions and provide compensation for WASPI women.",
+            "community": [
+                {
+                    "content": "End the SNP mismanagement of Scotland\u2019s public services: properly supporting our schools, hospitals and police.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Invest an additional \u00a3100 billion in Scotland\u2019s people, communities and public services.",
+                        "Provide an extra \u00a32 billion a year additional investment to rebuild Scotland's NHS, cut waiting times and solve the GP crisis.",
+                        "a 5% pay rise for all public sector workers from April next year."
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "End the SNP mismanagement of Scotland\u2019s public services: properly supporting our schools, hospitals and police."
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "Invest an additional \u00a3100 billion in Scotland\u2019s people, communities and public services.",
+                        "Provide an extra \u00a32 billion a year additional investment to rebuild Scotland's NHS, cut waiting times and solve the GP crisis.",
+                        "Boost family living standards with: a \u00a310 an hour minimum wage for all ages and a 5% pay rise for all public sector workers from April next year.",
+                        "Protect pensions and provide compensation for WASPI women.",
+                        "Kick start a Green Industrial Revolution to tackle the climate emergency and create high-skilled, high-wage jobs."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "End the SNP mismanagement of Scotland\u2019s public services: properly supporting our schools, hospitals and police."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson's Tories are the biggest threat to Scotland's place in the UK."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson's Tories are the biggest threat to Scotland's place in the UK."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson's Tories are the biggest threat to Scotland's place in the UK."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

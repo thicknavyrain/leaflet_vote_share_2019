@@ -1,0 +1,193 @@
+{
+    "leaflet": {
+        "candidateName": "Jo Swinson",
+        "candidateGender": "Female",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Jo Swinson's Plan for Britain's Future",
+                "content": "Stop Brexit, tackle the climate emergency, give every child the best start in life, build a fair economy, transform our mental health service."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "Stop Brexit to build a brighter future."
+            },
+            {
+                "policyTitle": "Tackle the climate emergency",
+                "policyDescription": "Cut NHS waiting times, tackle the climate emergency, drive up performance in our schools."
+            },
+            {
+                "policyTitle": "Give every child the best start in life",
+                "policyDescription": "Recruit 20,000 more teachers and increase starting salaries for teachers."
+            },
+            {
+                "policyTitle": "Build a fair economy",
+                "policyDescription": "Transform our mental health service by treating mental health with the same urgency as physical health."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jo Swinson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Stop Brexit to build a brighter future.",
+            "defence": "",
+            "economy": "",
+            "education": "Recruit 20,000 more teachers and increase starting salaries.",
+            "environment": "Tackle the climate emergency.",
+            "governance": "",
+            "government": "",
+            "health": "Cut NHS waiting times, Transform our mental health service.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Recruit 20,000 more teachers and increase starting salaries.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "8-10 Great George Street, London, SW1P 3AE",
+            "phone": "",
+            "email": "",
+            "website": "www.LibDems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Gabriel Rozenberg, Former Conservative candidate",
+                "endorsement": "\"I have been impressed over the past year by the stellar performance from Jo Swinson and her team on Brexit and other issues.\""
+            },
+            {
+                "endorser": "Tanja Bueltmann, Former Liberal Democrat Employee",
+                "endorsement": "\"The party\u2019s strong principles in the national interest give me hope.\""
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Join the Liberal Democrats to build a brighter future."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Recruit 20,000 more teachers",
+                        "Increase starting salaries for teachers"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Stop Brexit to build a brighter future.",
+                        "Tackle the climate emergency.",
+                        "Transform our mental health service by treating mental health with the same urgency as physical health."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Cut NHS waiting times, transform our mental health service."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Stop Brexit to build a brighter future."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "\"I have been impressed over the past year by the stellar performance from Jo Swinson and her team on Brexit and other issues.\"",
+                    "issueRelated": "Brexit"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "\"I have been impressed over the past year by the stellar performance from Jo Swinson and her team on Brexit and other issues.\"",
+                    "\"The party\u2019s strong principles in the national interest give me hope.\""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Making a mess out of Brexit.",
+                        "Wants to negotiate his own Brexit deal."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Boris Johnson's Conservatives, making a mess out of Brexit.",
+                        "Jeremy Corbyn's Labour Party, wants to negotiate his own Brexit deal."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

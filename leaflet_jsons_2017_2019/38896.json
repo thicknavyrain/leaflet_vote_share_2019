@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "Jeff Smith",
+        "candidateGender": "",
+        "constituency": "South Manchester",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday December 12th",
+        "messages": [
+            {
+                "title": "Labour will rebuild Britain for the many not the few",
+                "content": "After 9 years of cuts from the Coalition and Tory Governments, it\u2019s time for real change in Britain. A Labour government will invest in our cash-strapped public services to support everyone in society."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Investment in our NHS, schools and police",
+                "policyDescription": "Labour promises to invest in critical public services."
+            },
+            {
+                "policyTitle": "A Final Say vote on Brexit",
+                "policyDescription": "Offering the option to remain in the EU."
+            },
+            {
+                "policyTitle": "A Green Industrial Strategy",
+                "policyDescription": "Tackling the climate crisis through sustainable industrial policies."
+            },
+            {
+                "policyTitle": "Decent Housing for all",
+                "policyDescription": "Ending homelessness and ensuring everyone has a place to live."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jeff Smith",
+            "otherPartyLeaderCandidate": "Jo Swinson",
+            "partyLeader": "",
+            "tacticalSituation": "Vote Lib Dem - get Tory - You can\u2019t trust the Lib Dems to stand up for working people. Lib Dem leader Jo Swinson helped the Conservatives slash public services as part of the coalition government. She voted with the Tories 849 times between 2010-2015; that\u2019s more times than 72 actual Tory MPs!"
+        },
+        "issues": {
+            "brexitEurope": "A Final Say vote on Brexit - with the option to remain",
+            "defence": "",
+            "economy": "",
+            "education": "Investment in our schools",
+            "environment": "A Green Industrial Strategy to tackle the climate crisis",
+            "governance": "",
+            "government": "",
+            "health": "Investment in our NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Investment in our police",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Jeff is always available to support local community groups and is a familiar face at local schools and community events.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07470 514816",
+            "email": "jeff@jeffsmith2019.org",
+            "website": "www.jeffsmith.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@JeffSmithetc",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Pauline Ancoats",
+                "endorsement": "Jeff has lived locally all his life and is committed to South Manchester. He is always available to support local community groups and is a familiar face at local schools and community events."
+            },
+            {
+                "endorser": "Paul Chidgey",
+                "endorsement": "As a former headteacher, and now school governor with him, the thing I see in Jeff and I enjoy working with him on most is his commitment to giving young people the very best start in life. Labour\u2019s National Education Service will make sure every young person has the best teaching possible from Sustrans to adulthood."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Labour supporters with Jeff Smith"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Jo Swinson voted with the Tories 849 times between 2010-2015; that\u2019s more times than 72 actual Tory MPs!"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Labour will rebuild Britain for the many not the few.",
+                        "It's time for real change in Britain."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Jeff is always available to support local community groups and is a familiar face at local schools and community events."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Labour will invest in our cash-strapped public services to support everyone in society.",
+                        "Investment in our NHS, schools and police."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "Jeff has lived locally all his life and is committed to South Manchester.",
+                    "The thing I see in Jeff is his commitment to giving young people the very best start in life."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "You can\u2019t trust the Lib Dems to stand up for working people."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Lib Dem leader Jo Swinson helped the Conservatives slash public services as part of the coalition government."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jo Swinson voted with the Tories 849 times between 2010-2015; that\u2019s more times than 72 actual Tory MPs!"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Jeff has lived locally all his life and is committed to South Manchester.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Jeff has lived locally all his life and is committed to South Manchester."
+                ]
+            }
+        }
+    }
+}

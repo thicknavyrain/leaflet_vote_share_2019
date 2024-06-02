@@ -1,0 +1,208 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Don't let Jeremy Corbyn ignore our EU referendum vote"
+            },
+            {
+                "title": "",
+                "content": "Don't risk Jeremy Corbyn negotiating Brexit for you"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Jeremy Corbyn in charge of negotiations would risk greater immigration and weaker controls on immigration."
+            },
+            {
+                "policyTitle": "Defence",
+                "policyDescription": "Citing past statements suggesting Jeremy Corbyn would abolish the army."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Labour bid to sabotage Brexit. Jeremy Corbyn in charge of negotiations. Keep Europe in control. Reject the British people\u2019s EU referendum vote.",
+            "defence": "Corbyn: Abolish the army.",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "Sky-high immigration would continue for years under Jeremy Corbyn.",
+            "labourEmployment": "",
+            "lawCrime": "Jeremy Corbyn 'bragged about blocking terror laws'.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Labour bid to sabotage Brexit",
+                "source": "Daily Mail",
+                "date": "26 March 2017"
+            },
+            {
+                "text": "Labour plots Brexit deal with other parties if Tories don\u2019t win election majority",
+                "source": "Mirror",
+                "date": "20 April 2017"
+            },
+            {
+                "text": "Jeremy Corbyn sparks fury by snubbing national anthem",
+                "source": "Daily Star",
+                "date": "15 September 2015"
+            },
+            {
+                "text": "Jeremy Corbyn 'bragged about blocking terror laws'",
+                "source": "The Sun",
+                "date": "25 May 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Sky-high immigration would continue for years",
+                        "Labour bid to sabotage Brexit",
+                        "Jeremy Corbyn 'bragged about blocking terror laws'"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Keep Europe in control",
+                        "Corbyn: Abolish the army",
+                        "Jeremy Corbyn sparks fury by snubbing national anthem"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Labour bid to sabotage Brexit",
+                        "Jeremy Corbyn 'bragged about blocking terror laws'",
+                        "Jeremy Corbyn sparks fury by snubbing national anthem"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "Labour bid to sabotage Brexit",
+                        "Corbyn: Abolish the army",
+                        "Jeremy Corbyn 'bragged about blocking terror laws'"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Labour bid to sabotage Brexit",
+                        "Sky-high immigration would continue for years under Jeremy Corbyn"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

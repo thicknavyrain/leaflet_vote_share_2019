@@ -1,0 +1,209 @@
+{
+    "leaflet": {
+        "candidateName": "John Stevenson",
+        "candidateGender": "",
+        "constituency": "Carlisle",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "",
+                "content": "Your local vote will decide the next Prime Minister"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get Brexit done with our new deal"
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "\u00a333.9 billion extra for the NHS"
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "More funding for every pupil in every school"
+            },
+            {
+                "policyTitle": "Law and Order",
+                "policyDescription": "20,000 extra police for safer streets"
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "\u00a33.6 billion to help towns invest and attract new businesses"
+            },
+            {
+                "policyTitle": "Infrastructure",
+                "policyDescription": "Gigabit broadband for the whole country"
+            }
+        ],
+        "mentions": {
+            "candidate": "John Stevenson",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn proposed by Nicola Sturgeon",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "Polls teeter between hung parliament and slim Tory majority"
+        },
+        "issues": {
+            "brexitEurope": "Brexit done with a deal",
+            "defence": "",
+            "economy": "\u00a33.6 billion to help towns invest and attract new businesses",
+            "education": "More funding for every pupil in every school",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "\u00a333.9 billion extra for the NHS, 40 new hospitals across the country",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "20,000 extra police for safer streets",
+            "transport": "Better transport for the North",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "John Curtice",
+                "endorsement": "Polls teeter between hung parliament and slim Tory majority"
+            }
+        ],
+        "quotes": [
+            {
+                "text": "This election will be close. YOUR LOCAL VOTE will decide it.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Boris Johnson image, Jeremy Corbyn image, and various campaign related images"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 6,
+                    "examples": [
+                        "\u00a333.9 billion extra for the NHS",
+                        "20,000 extra police for safer streets",
+                        "40 new hospitals across the country",
+                        "More funding for every pupil in every school",
+                        "\u00a33.6 billion to help towns invest and attract new businesses",
+                        "Gigabit broadband for the whole country"
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Brexit done with a deal",
+                        "This election will be close.",
+                        "Your local vote will decide it.",
+                        "Polls teeter between hung parliament and slim Tory majority"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 5,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Gigabit broadband for the whole country",
+                        "Better transport for the North"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "\u00a333.9 billion extra for the NHS",
+                        "40 new hospitals across the country"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "John Curtice: Polls teeter between hung parliament and slim Tory majority"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 4,
+                    "examples": [
+                        "Jeremy Corbyn proposed by Nicola Sturgeon",
+                        "Five years of arguing about Brexit",
+                        "Another referendum to break up Britain",
+                        "No action on priorities"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn proposed by Nicola Sturgeon"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

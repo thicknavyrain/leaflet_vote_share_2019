@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Your choice in this election",
+                "content": "Your vote can change the direction of the country."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Oppose the Tories\u2019 extreme Brexit",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Give YOU the final say on Brexit deal",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "1p on Income Tax to save the NHS",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Theresa May, Nigel Farage, Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "The Conservatives can\u2019t win anyway in places like this"
+        },
+        "issues": {
+            "brexitEurope": "Oppose the Tories\u2019 extreme Brexit",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "1p on Income Tax to save the NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "8-10 Great George Street, London, SW1P 3AE",
+            "phone": "",
+            "email": "",
+            "website": "LibDems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Jeremy Corbyn has betrayed us over Brexit. He is unfit to be called leader of the opposition.",
+                "source": "The Guardian",
+                "date": "19 February 2017"
+            },
+            {
+                "text": "The rhetoric of some Labour MPs in private could be mistaken for UKIP.",
+                "source": "New Statesman",
+                "date": "30 April 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn has betrayed us over Brexit. He is unfit to be called leader of the opposition.",
+                        "The rhetoric of some Labour MPs in private could be mistaken for UKIP."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives can\u2019t win anyway in places like this"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Oppose the Tories\u2019 extreme Brexit",
+                        "1p on Income Tax to save the NHS"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn has betrayed us over Brexit. He is unfit to be called leader of the opposition.",
+                        "The rhetoric of some Labour MPs in private could be mistaken for UKIP."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 4,
+                    "examples": [
+                        "Theresa May - UKIP",
+                        "Nigel Farage - UKIP",
+                        "Jeremy Corbyn - UKIP",
+                        "The rhetoric of some Labour MPs in private could be mistaken for UKIP."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

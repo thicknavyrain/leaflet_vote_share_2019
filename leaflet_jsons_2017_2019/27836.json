@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "Tony Miklinski",
+        "candidateGender": "",
+        "constituency": "North East Fife",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 8 June 2017",
+        "messages": [
+            {
+                "title": "Only Tony Miklinski will stand firm against a second referendum.",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Second Independence Referendum",
+                "policyDescription": "Tony Miklinski will stand firm against a second referendum."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "A resolute, capable leader with experience in handling Brexit negotiations to achieve the best for Britain."
+            }
+        ],
+        "mentions": {
+            "candidate": "Tony Miklinski",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Ruth Davidson",
+            "tacticalSituation": "Many Unionists in North East Fife chose to vote tactically last time."
+        },
+        "issues": {
+            "brexitEurope": "A resolute, capable leader with experience in handling complex negotiations to achieve the best for Britain. You have a choice: a chaotic coalition of Tim Farron, Nicola Sturgeon and Jeremy Corbyn; or Theresa May.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "The SNP would dismantle our precious Union, leaving Scotland hopelessly divided, isolated and stony broke for generations to come. In North East Fife, you get who you vote for, and the Lib Dems haven\u2019t earned it.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Born and raised in Dundee, joined the Royal Navy, served in NATO HQ, MOD, Dundee's Defence Director of Training and Education, elected as Councillor for Cupar Ward.",
+        "politicalExperience": [
+            {
+                "role": "Councillor for Cupar Ward",
+                "duration": "",
+                "achievements": ""
+            },
+            {
+                "role": "Served in NATO HQ and MOD",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Haig House, Balgonie Road, Markinch, Fife KY7 6AQ",
+            "phone": "01592 760251",
+            "email": "",
+            "website": "tony.miklinski@fifeconservatives.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Tony with Ruth Davidson MSP"
+                },
+                {
+                    "caption": "Tony with Mid Scotland and Fife MSP Murdo Fraser"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "In North East Fife, you get who you vote for, and the Lib Dems haven\u2019t earned it.",
+                        "Many Unionists in North East Fife chose to vote tactically last time."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Tony Miklinski will stand firm against a second referendum.",
+                        "The SNP would dismantle our precious Union, leaving Scotland hopelessly divided, isolated and stony broke for generations to come.",
+                        "A resolute, capable leader with experience in handling complex negotiations to achieve the best for Britain.",
+                        "You have a choice: a chaotic coalition of Tim Farron, Nicola Sturgeon and Jeremy Corbyn; or Theresa May."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 4,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Many Unionists in North East Fife chose to vote tactically last time."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Tony Miklinski will stand firm against a second referendum.",
+                        "A resolute, capable leader with experience in handling complex negotiations to achieve the best for Britain."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Born and raised in Dundee, joined the Royal Navy, served in NATO HQ, MOD, Dundee's Defence Director of Training and Education, elected as Councillor for Cupar Ward.",
+                    "issueRelated": "Defence"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The SNP would dismantle our precious Union, leaving Scotland hopelessly divided, isolated and stony broke for generations to come."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "You have a choice: a chaotic coalition of Tim Farron, Nicola Sturgeon and Jeremy Corbyn; or Theresa May. "
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Born and raised in Dundee",
+                "employment": "Joined the Royal Navy, served in NATO HQ, MOD, Dundee's Defence Director of Training and Education",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Born and raised in Dundee"
+                ]
+            }
+        }
+    }
+}

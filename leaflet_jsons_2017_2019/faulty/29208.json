@@ -1,0 +1,150 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Michael Deem",
+    "candidateGender": "",
+    "constituency": "Cardiff West",
+    "politicalParty": "Plaid Cymru",
+    "electionDate": "June the 8th",
+    "messages": [
+      {
+        "title": "Dear neighbour",
+        "content": "Cardiff West deserves a Westminster MP who will stand up for us all. Kevin Brennan has been missing in action far too often; he did very little on the Local Development Plan and its disastrous consequences and has played no part in local campaigns like re-open Waungron. Wales’ biggest challenge now is Brexit, yet our Cardiff West MP has been absent from an astonishing 6 out of 7 key votes on Brexit. Since 2010 we have seen a sea change in politics in Cardiff West. The Conservatives have slipped to a poor third in the last two elections. The 2017 Conservative candidate doesn’t even live in the constituency and last stood in Bethnal Green and Bow.... in London! Only the Party of Wales can challenge Labour here."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "MP Voting Record",
+        "policyDescription": "MP Kevin Brennan has missed key votes on Brexit, preventing violence against women, investigating the Iraq war, raising tuition fees, voted for fracking, and the Snoopers Charter."
+      }
+    ],
+    "mentions": {
+      "candidate": "",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "",
+      "tacticalSituation": "The local government and Assembly election results show Plaid Cymru neck and neck with the Labour party going into this campaign."
+    },
+    "issues": {
+      "brexitEurope": "Missed 6 out of 7 key votes on Brexit.",
+      "defence": "",
+      "economy": "",
+      "education": "Voted to raise tuition fees.",
+      "environment": "Voted for fracking.",
+      "governance": "Voted for the Snoopers Charter.",
+      "government": "",
+      "health": "",
+      "immigration": "",
+      "labourEmployment": "",
+      "lawCrime": "",
+      "transport": "",
+      "socialWelfare": "",
+      "community": [
+        {
+          "content": "Kevin Brennan did very little on the Local Development Plan and its disastrous consequences. We are still campaigning hard against the LDP and its effects.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "Since last May I have met hundreds of you through our casework and you know that we always do the very best we can. As your MP I will always put the interests of our communities first. I pledge to knock on every door in the constituency over a full parliamentary term; you will see me. Crucially, I will turn up to vote.",
+    "politicalExperience": [
+      {
+        "role": "Community Councillor",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "Cardiff Plaid 36 Caerau Lane, Cardiff, CF5 5HQ",
+      "phone": "029 2047 2272",
+      "email": "michael.deem@cardiffplaid.org",
+      "website": "cardiff.partyof.wales",
+      "socialMedia": {
+        "facebook": "@CardiffPlaid",
+        "twitter": "@CardiffPlaid",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "",
+    "analysis": {
+      "statementAnalysis": {
+        "quantitative": {
+          "count": 2,
+          "examples": ["Missed 6 out of 7 key votes on Brexit.", "Voted 12 times to stop investigations into the Iraq war."]
+        },
+        "qualitative": {
+          "count": 4,
+          "examples": ["Cardiff West deserves a Westminster MP who will stand up for us all.", "We are still campaigning hard against the LDP and its effects.", "I will always put the interests of our communities first.", "I will turn up to vote."]
+        }
+      },
+      "photoAnalysis": {
+        "localPlaces": 0,
+        "people": 1,
+        "candidateAlone": 1,
+        "candidateWithOthers": 0
+      },
+      "issueFocus": {
+        "local": {
+          "count": 3,
+          "examples": ["Local Development Plan and its disastrous consequences.", "We are still campaigning hard against the LDP and its effects.", "Our Cardiff West MP has been absent."]
+        },
+        "national": {
+          "count": 4,
+          "examples": ["Missed 6 out of 7 key votes on Brexit.", "Voted 12 times to stop investigations into the Iraq war.", "Voted to raise tuition fees.", "Voted for fracking."]
+        }
+      },
+      "personalStories": [
+        {
+          "story": "Since last May I have met hundreds of you through our casework and you know that we always do the very best we can.",
+          "issueRelated": "Local Development Plan",
+        }
+      ],
+      "endorsementsUsed": {
+        "count": 0,
+        "examples": []
+      },
+      "negativeMessaging": {
+        "localIssues": {
+          "count": 1,
+          "examples": ["Kevin Brennan did very little on the Local Development Plan and its disastrous consequences."]
+        },
+        "nationalIssues": {
+          "count": 2,
+          "examples": ["Missed 6 out of 7 key votes on Brexit.", "Voted for fracking."]
+        },
+        "leaderOfOpponentsParty": {
+          "count": 0,
+          "examples": []
+        },
+        "oppositeCandidateNoName": {
+          "count": 1,
+          "examples": ["The 2017 Conservative candidate doesn’t even live in the constituency and last stood in Bethnal Green and Bow.... in London!"]
+        },
+        "oppositeCandidateWithName": {
+          "count": 2,
+          "examples": ["Kevin Brennan did very little on the Local Development Plan and its disastrous consequences.", "Kevin Brennan has been missing in action far too often."]
+        }
+      },
+      "nonPolicyAttributes": {
+        "localness": "I will knock on every door in the constituency over a full parliamentary term.",
+        "employment": "",
+        "education": "",
+        "family": ""
+      },
+      "localCandidate": {
+        "isLocal": true,
+        "examples": ["I will knock on every door in the constituency over a full parliamentary term.", "I have met hundreds of you through our casework."]
+      }
+    }
+  }
+}
+```

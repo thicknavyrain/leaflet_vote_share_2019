@@ -1,0 +1,195 @@
+{
+    "leaflet": {
+        "candidateName": "Chi Onwurah",
+        "candidateGender": "",
+        "constituency": "Newcastle upon Tyne Central",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "",
+                "content": "A decade of cuts have damaged not only Newcastle's economy, but our communities and public services too. Only Labour can fix our broken system."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Housing for All",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Our NHS is not for sale",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Fighting Fair Pay",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Green Industrial Revolution",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Brighter Future for our Young People",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Chi Onwurah",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Green Industrial Revolution",
+            "governance": "",
+            "government": "",
+            "health": "Our NHS is not for sale",
+            "immigration": "",
+            "labourEmployment": "Fighting Fair Pay",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "As an engineer I know the climate emergency needs to provide green jobs, homes, and a brighter future.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Labour Central, Kings Manor, Newcastle upon Tyne, NE1 6PA",
+            "phone": "0191 691 1368",
+            "email": "Chi@NewcastleChi.org",
+            "website": "",
+            "socialMedia": {
+                "facebook": "facebook.com/NewcastleChi",
+                "twitter": "twitter.com/ChiOnwurah",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Mrs Blakeway",
+                "endorsement": "I'm backing Chi because she's a local person and a strong national voice. She represents Newcastle very well in Westminster and cares for the North East."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                },
+                {
+                    "caption": ""
+                },
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "A decade of cuts have damaged not only Newcastle's economy, but our communities and public services too. Only Labour can fix our broken system."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 2,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "provides great homes and a brighter future."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "housing for all",
+                        "our NHS is not for sale",
+                        "fighting fair pay"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "I'm backing Chi because she's a local person and a strong national voice. She represents Newcastle very well in Westminster and cares for the North East."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "A decade of cuts have damaged not only Newcastle's economy, but our communities and public services too. Only Labour can fix our broken system."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "provides great homes and a brighter future.",
+                    "I'm backing Chi because she's a local person and a strong national voice."
+                ]
+            }
+        }
+    }
+}

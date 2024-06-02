@@ -1,0 +1,191 @@
+{
+    "leaflet": {
+        "candidateName": "Thangam Debbonaire",
+        "candidateGender": "",
+        "constituency": "Bristol West",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "The Progressive Choice for Bristol West",
+                "content": "Vote Thangam Debbonaire. Say no to 'Hard Brexit'. Thangam has worked hard to represent Bristol West, fought for jobs, and the environment. She stood up for refugee rights, campaigned for clean air, and supported Bristol's schools."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Thangam voted against triggering Article 50 and argues against 'Hard Brexit'."
+            },
+            {
+                "policyTitle": "Schools",
+                "policyDescription": "Thangam has visited schools, addressed concerns of crowded classrooms and teacher shortages."
+            },
+            {
+                "policyTitle": "Refugee Rights",
+                "policyDescription": "Leading public inquiry into refugees in the UK. Advocated in parliament for better treatment of refugees."
+            },
+            {
+                "policyTitle": "Clean Air",
+                "policyDescription": "Thangam campaigned for a Clean Air Zone in Bristol to tackle air pollution."
+            },
+            {
+                "policyTitle": "Other Priorities",
+                "policyDescription": "Letting agency fees, compulsory PSHE, rail electrification, autism-friendly Bristol."
+            }
+        ],
+        "mentions": {
+            "candidate": "Thangam Debbonaire",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Say no to 'Hard Brexit'. Thangam voted against triggering Article 50 in parliament.",
+            "defence": "",
+            "economy": "",
+            "education": "Thangam has visited schools across Bristol West, focusing on crowded classrooms and teacher shortages.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "PRIORITY: rail electrification - Plans to improve the rail network between Bristol and London.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Letting agency fees - campaign to stop letting fees; compulsory PSHE; tackling air pollution; autism-friendly Bristol.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Thangam says 'I have always stood up for what I believe in' and showed commitment to represent Bristol in Parliament with passion and experience.",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "Since 2015",
+                "achievements": "Fought for job and environment issues; stood up for refugee rights; campaigned for clean air."
+            }
+        ],
+        "contactInformation": {
+            "address": "4 Emery Road, Bristol, BS4 5PF",
+            "phone": "07756 531 735",
+            "email": "thangam.debbonaire@labour.org.uk",
+            "website": "www.debbonaire.co.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/debbonaire",
+                "twitter": "@thangammp",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "As your MP, I have always stood up for what I believe in.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Thangam with refugees"
+                },
+                {
+                    "caption": "Thangam visiting a local school"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Since we elected Thangam in 2015..."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I have always stood up for what I believe in.",
+                        "Thangam has shown commitment to giving a voice to Bristolians.",
+                        "Theresa May has called a last-minute General Election."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "rail electrification",
+                        "clean air deal",
+                        "supporting Bristol's schools"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Article 50/Brexit"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Thangam has visited schools and heard concerns from teachers and parents.",
+                    "issueRelated": "education"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "'Hard Brexit'"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May has called a last-minute General Election."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

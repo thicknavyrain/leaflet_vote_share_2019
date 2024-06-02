@@ -1,0 +1,180 @@
+{
+    "leaflet": {
+        "candidateName": "Layla Moran",
+        "candidateGender": "",
+        "constituency": "Oxford West & Abingdon",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "This election is our chance to send a message about the need to invest in our local NHS."
+            },
+            {
+                "title": "",
+                "content": "If elected as your new MP, I will fight hard for better funding, and I'm delighted to stand on the Lib Dem platform of investing in our NHS."
+            },
+            {
+                "title": "PS",
+                "content": "It's between me and the Conservatives here. A hard-working Lib Dem who will stand up for investment in our local NHS, or more Conservative broken promises and an MP who just toes the Conservative line."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Investment in NHS",
+                "policyDescription": "Campaign to ensure no loss of beds at Abingdon Community Hospital and secure better funding for local NHS services."
+            },
+            {
+                "policyTitle": "Income Tax Increase for NHS and Social Care",
+                "policyDescription": "The Liberal Democrats will put 1p on Income Tax to raise an extra \u00a36 billion a year for our NHS and social care."
+            }
+        ],
+        "mentions": {
+            "candidate": "Layla Moran",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "Only the Lib Dems can beat the Conservatives across Oxford West & Abingdon constituency."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Our chance to send a message about the need to invest in our local NHS. NHS services at Abingdon Community Hospital are in serious trouble.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "The Liberal Democrats will put 1p on Income Tax to raise an extra \u00a36 billion a year for our NHS and social care.",
+            "community": [
+                {
+                    "content": "The so-called 'STP' process has already led to proposals to axe 200 acute beds in Oxford and to a major down-grading of services at the Horton Hospital in Banbury. I wrote to the Chief Executive of the Oxfordshire Clinical Commissioning Group to ask for an assurance that beds would not go here in Abingdon. He could not give me that assurance.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "c/o Liberal Democrats, 27 Park End St., Oxford, OX1 1HU.",
+            "phone": "",
+            "email": "layla.moran@oxwablibdems.org.uk",
+            "website": "www.laylamoran.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "The Liberal Democrats will put 1p on Income Tax to raise an extra \u00a36 billion a year for our NHS and social care."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "If elected as your new MP, I will fight hard for better funding.",
+                        "I'm delighted to stand on the Lib Dem platform of investing in our NHS.",
+                        "NHS services at Abingdon Community Hospital are in serious trouble.",
+                        "The Conservatives have broken their promise to ensure that the NHS budget is secure.",
+                        "It's between me and the Conservatives here."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 5,
+                    "examples": [
+                        "Our chance to send a message about the need to invest in our local NHS.",
+                        "But local NHS services are in serious trouble.",
+                        "The future of services at Abingdon Community Hospital is once again under threat.",
+                        "The so-called 'STP' process has already led to proposals to axe 200 acute beds in Oxford and to a major down-grading of services at the Horton Hospital in Banbury.",
+                        "I wrote to the Chief Executive of the Oxfordshire Clinical Commissioning Group to ask for an assurance that beds would not go here in Abingdon. He could not give me that assurance."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "The Liberal Democrats will put 1p on Income Tax to raise an extra \u00a36 billion a year for our NHS and social care.",
+                        "The Conservatives have broken their promise to ensure that the NHS budget is secure."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The so-called 'STP' process has already led to proposals to axe 200 acute beds in Oxford and to a major down-grading of services at the Horton Hospital in Banbury."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives have broken their promise to ensure that the NHS budget is secure."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "It's between me and the Conservatives here."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

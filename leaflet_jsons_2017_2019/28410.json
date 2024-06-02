@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Lib Dems",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "THERESA MAY'S NHS CRISIS",
+                "content": "Waiting times at record highs\nKey services under strain\nFurther massive cuts planned"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS Crisis",
+                "policyDescription": "Lib Dems promise to address waiting times, key services under strain, and prevent further cuts."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Waiting times at record highs, Key services under strain, Further massive cuts planned. Cuts have left NHS on the brink of collapse. Major alerts in hospitals. Secret plan for NHS cuts. NHS cuts blamed for 30,000 deaths.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Cuts have left NHS on the brink of collapse says shocking report.",
+                "source": "The Mirror",
+                "date": "13 Oct 2016"
+            },
+            {
+                "text": "More than four in 10 hospitals in England declared a major alert. Data from NHS England shows the crisis is growing - and NHS bosses warn the flu peak has not yet hit.",
+                "source": "ITV News",
+                "date": "13 Jan 2017"
+            },
+            {
+                "text": "Secret plan for \u00a322billion of NHS cuts could force A&Es, hospitals and maternity units to shut.",
+                "source": "The Mirror",
+                "date": "21 Nov 2016"
+            },
+            {
+                "text": "NHS cuts blamed for 30,000 deaths in new study.",
+                "source": "The Independent",
+                "date": "17 Feb 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "THERESA MAY'S NHS CRISIS"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "More than four in 10 hospitals in England declared a major alert. Data from NHS England shows the crisis is growing."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Cuts have left NHS on the brink of collapse says shocking report.",
+                        "Secret plan for \u00a322billion of NHS cuts could force A&Es, hospitals and maternity units to shut.",
+                        "NHS cuts blamed for 30,000 deaths in new study.",
+                        "Waiting times at record highs\nKey services under strain\nFurther massive cuts planned."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": []
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May's NHS Crisis"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 6,
+                    "examples": [
+                        "Waiting times at record highs",
+                        "Key services under strain",
+                        "Further massive cuts planned",
+                        "Cuts have left NHS on the brink of collapse says shocking report.",
+                        "Secret plan for \u00a322billion of NHS cuts could force A&Es, hospitals and maternity units to shut.",
+                        "NHS cuts blamed for 30,000 deaths in new study."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

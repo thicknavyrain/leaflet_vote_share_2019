@@ -1,0 +1,176 @@
+{
+    "leaflet": {
+        "candidateName": "Graham Cockarill",
+        "candidateGender": "Male",
+        "constituency": "North East Hampshire",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Building a brighter future for North East Hampshire",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Save our NHS",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Transform our mental health services",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Build a brighter economic future",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Give every child the best start",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Graham Cockarill",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": "Jeremy Corbyn's Labour can't win here\nLib Dems CAN WIN for YOU"
+        },
+        "issues": {
+            "brexitEurope": "Stop Brexit",
+            "defence": "",
+            "economy": "Build a brighter economic future",
+            "education": "Give every child the best start",
+            "environment": "Tackle climate change and achieve net-zero carbon emissions by 2050",
+            "governance": "",
+            "government": "",
+            "health": "Save our NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "Graham Cockarill: A strong voice for our area.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.libdems.org.uk/plan",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "By stopping Brexit, we can put \u00a350 billion Remain Bonus to work repairing our country."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Decent, moderate people are moving to the Lib Dems in their droves.",
+                        "Decent people are backing the Liberal Democrats because we are both radical and moderate."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 3,
+                "candidateAlone": 2,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Graham Cockarill: A strong voice for our area."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Stop Brexit"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson can't be trusted"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn's Labour can't win here"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Graham Cockarill: A strong voice for our area.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Graham Cockarill: A strong voice for our area."
+                ]
+            }
+        }
+    }
+}

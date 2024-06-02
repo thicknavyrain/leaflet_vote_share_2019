@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS and Social Care",
+                "policyDescription": "For enough staff to keep patients safe and to end Tory hospital closures."
+            },
+            {
+                "policyTitle": "A&E Waiting Times",
+                "policyDescription": "Over 1.8 million people had to wait 4 hours or more in A&E last year."
+            },
+            {
+                "policyTitle": "GP and Waiting Lists",
+                "policyDescription": "It's got harder to see your GP and waiting lists have soared."
+            },
+            {
+                "policyTitle": "Social Care Budget Cuts",
+                "policyDescription": "\u00a34.6 billion was cut from social care budgets in the 2010-2015 Parliament, affecting care for the elderly and disabled."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Tories",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "For enough staff to keep patients safe and to end Tory hospital closures.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "\u00a34.6 billion was cut from social care budgets in the 2010-2015 Parliament, affecting care for the elderly and disabled.",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Over 1.8 million people had to wait 4 hours or more in A&E last year."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "For enough staff to keep patients safe and to end Tory hospital closures.",
+                        "It's got harder to see your GP and waiting lists have soared.",
+                        "\u00a34.6 billion was cut from social care budgets in the 2010-2015 Parliament, affecting care for the elderly and disabled."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "For enough staff to keep patients safe and to end Tory hospital closures.",
+                        "Over 1.8 million people had to wait 4 hours or more in A&E last year.",
+                        "It's got harder to see your GP and waiting lists have soared.",
+                        "\u00a34.6 billion was cut from social care budgets in the 2010-2015 Parliament, affecting care for the elderly and disabled."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Under the Tories the NHS and social care are in crisis."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

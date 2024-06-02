@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "Andy Livsey",
+        "candidateGender": "",
+        "constituency": "Wallasey and Moreton",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Dear resident",
+                "content": "I'm not a career politician. I'm a dad of four who has lived in the real world, I worked as a builder and, last year, I helped to run the Vote Leave campaign. I am Theresa May's Conservative candidate here in the Wallasey Constituency and I am writing to you to ask for your support at the election on Thursday 8th June."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Increasing NHS spending by a minimum of \u00a38 billion",
+                "policyDescription": "Since the election campaign began, much of the focus has been on the choice between Theresa May or Jeremy Corbyn to be our country\u2019s Prime Minister as Brexit negotiations get underway."
+            },
+            {
+                "policyTitle": "Requiring non-EU migrants to pay more to use our NHS",
+                "policyDescription": "79% of all voters backed this policy too. Andy Livsey needs your vote to make it happen."
+            },
+            {
+                "policyTitle": "Increasing the National Living Wage to 60% of earnings",
+                "policyDescription": "79% of all voters backed this policy too. Andy Livsey needs your vote to make it happen."
+            },
+            {
+                "policyTitle": "Reducing net migration into the UK to the tens of thousands",
+                "policyDescription": "58% of all voters, including Labour voters, backed this policy. Andy Livsey needs your vote to make it happen."
+            }
+        ],
+        "mentions": {
+            "candidate": "Andy Livsey",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "If elected as your new MP on Thursday 8th June; I will work with Theresa May to make a success of Brexit so that Britain will, once again, be free to control its own destiny. At the same time, we will be free to pursue trade with European markets, and secure new trade agreements with other countries.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "I am also committed to improving our NHS, schools and public services. It\u2019s only by having a strong and stable economy that we will generate the money needed to pay for this investment.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I am also committed to improving our NHS, schools and public services. It\u2019s only by having a strong and stable economy that we will generate the money needed to pay for this investment.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "6918046",
+            "email": "office@wallaseyconservatives.com",
+            "website": "www.conservatives.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": []
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "I'm not a career politician. I'm a dad of four who has lived in the real world, I worked as a builder and, last year, I helped to run the Vote Leave campaign."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "If elected as your new MP on Thursday 8th June; I will work with Theresa May to make a success of Brexit so that Britain will, once again, be free to control its own destiny. At the same time, we will be free to pursue trade with European markets, and secure new trade agreements with other countries."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I\u2019m a dad of four who has lived in the real world, I worked as a builder and, last year, I helped to run the Vote Leave campaign.",
+                    "issueRelated": "brexitEurope"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May\u2019s Conservatives can be relied upon to deliver Brexit and to deliver it with a good outcome for all the people of Wallasey and the UK."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn can\u2019t become Prime Minister."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "builder",
+                "education": "",
+                "family": "dad of four"
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

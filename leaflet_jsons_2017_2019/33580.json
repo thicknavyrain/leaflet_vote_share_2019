@@ -1,0 +1,200 @@
+{
+    "leaflet": {
+        "candidateName": "David Chalmers",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "David Chalmers is not your usual career politician. Winner of Queen\u2019s Award for Enterprise in 2002. Successfully managed commercial operations of Economist Group in Asia Pacific for 10 years. Co-founded Kaleidoscope Trust. Lives in Appledore. Chairs Finance Committee on Northam Town Council. Governor of Petroc College. Chair of Local Diversity Charity \u2013 Sunrise."
+            },
+            {
+                "title": "",
+                "content": "This election will be the most important in a generation. Johnson\u2019s Deal will lead to the break up of the United Kingdom. I will fight for fairer funding for schools and colleges in our area and more money for the NHS and social care. I will seek greater investment in our transport infrastructure and more affordable homes for our young people. I will ensure we tackle the climate emergency and will work tirelessly to give our local businesses and farmers the support and opportunities they need to take advantage of a forward-looking and progressive Britain."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Education",
+                "policyDescription": "I will fight for fairer funding for schools and colleges in our area."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "More money for the NHS and social care."
+            },
+            {
+                "policyTitle": "Transport",
+                "policyDescription": "I will seek greater investment in our transport infrastructure."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "More affordable homes for our young people."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "I will ensure we tackle the climate emergency."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Chalmers",
+            "otherPartyLeaderCandidate": "Johnson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Johnson\u2019s Deal will lead to the break up of the United Kingdom.",
+            "defence": "",
+            "economy": "",
+            "education": "I will fight for fairer funding for schools and colleges in our area.",
+            "environment": "I will ensure we tackle the climate emergency.",
+            "governance": "",
+            "government": "",
+            "health": "More money for the NHS and social care.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "I will seek greater investment in our transport infrastructure.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "More affordable homes for our young people.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Chairs Finance Committee on Northam Town Council",
+                "duration": "",
+                "achievements": ""
+            },
+            {
+                "role": "Governor of Petroc College",
+                "duration": "",
+                "achievements": ""
+            },
+            {
+                "role": "Chair of Local Diversity Charity \u2013 Sunrise",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.davidchalmers.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@chalmersdavidn",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "David Chalmers (Experience, passion and determination)"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Winner of Queen\u2019s Award for Enterprise in 2002.",
+                        "Johnson\u2019s Deal will lead to the break up of the United Kingdom.",
+                        "David Chalmers is not your usual career politician."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "I will fight for fairer funding for schools and colleges in our area.",
+                        "More money for the NHS and social care.",
+                        "I will seek greater investment in our transport infrastructure.",
+                        "More affordable homes for our young people."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Johnson\u2019s Deal will lead to the break up of the United Kingdom."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Johnson\u2019s Deal will lead to the break up of the United Kingdom."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Johnson\u2019s Deal will lead to the break up of the United Kingdom."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Lives in Appledore.",
+                "employment": "Successfully managed commercial operations of Economist Group in Asia Pacific for 10 years.",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Lives in Appledore."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "leaflet": {
+        "candidateName": "Andy Brown",
+        "candidateGender": "",
+        "constituency": "Skipton and Ripon",
+        "politicalParty": "Green Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Stand up for what matters",
+                "content": "For enhancing and improving the environment, For a properly funded public health service that you can rely on, For building homes people need, For modern hi-tech green businesses and jobs that pay a living wage, For world class education for all children, For a fairer welfare system that supports those who cannot earn enough to live on, For traditional British values of tolerance, For a secure and sustainable future"
+            },
+            {
+                "title": "Before you vote",
+                "content": "Please ask yourself: Is it good for our country to be run by one political party with a large majority, so that they can ignore other interests and views?"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Enhancing and improving the environment",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Properly funded public health service",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Building homes people need",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Modern hi-tech green businesses and jobs that pay a living wage",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "World class education for all children",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Fairer welfare system",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Traditional British values of tolerance",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Secure and sustainable future",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Andy Brown",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "Skipton & Ripon is a safe Conservative seat. Tactical voting is not important here. So you can vote for a candidate or party who you think will send a strong message to the new government about the kind of future you want for Britain."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Enhancing and improving the environment",
+            "governance": "",
+            "government": "",
+            "health": "Properly funded public health service",
+            "immigration": "",
+            "labourEmployment": "Modern hi-tech green businesses and jobs that pay a living wage",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Fairer welfare system",
+            "community": [
+                {
+                    "content": "Building homes people need",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "https://www.greenparty.org.uk/we-stand-for/",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "In 2015 when he stood in Skipton and Ripon in the last general election, over 3,000 people chose to vote for Andy Brown."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Vote for a Green MP for Skipton and Ripon"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Building homes people need"
+                    ]
+                },
+                "national": {
+                    "count": 6,
+                    "examples": [
+                        "Enhancing and improving the environment",
+                        "Properly funded public health service",
+                        "Modern hi-tech green businesses and jobs that pay a living wage",
+                        "World class education for all children",
+                        "Fairer welfare system",
+                        "Traditional British values of tolerance",
+                        "Secure and sustainable future"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

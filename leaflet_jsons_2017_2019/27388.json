@@ -1,0 +1,186 @@
+{
+    "leaflet": {
+        "candidateName": "Rosie Duffield",
+        "candidateGender": "",
+        "constituency": "Canterbury",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "Standing Up For You",
+                "content": "Vote Rosie Duffield, Labour candidate for Canterbury."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Supporting a Fair and Transparent Brexit",
+                "policyDescription": "As your MP, I will ensure the rights of workers, students, and businesses are protected."
+            },
+            {
+                "policyTitle": "Cleaning Up the Tory Housing Shambles",
+                "policyDescription": "Labour will end insecurity for private renters and kick start the biggest house building program."
+            },
+            {
+                "policyTitle": "Securing our Environment and Economy",
+                "policyDescription": "Labour will create an economy that works for all, invest in green technology and ensure fair pay and working conditions."
+            },
+            {
+                "policyTitle": "Taking Back Our NHS",
+                "policyDescription": "Labour will ensure sustainable funding for our NHS and health services."
+            }
+        ],
+        "mentions": {
+            "candidate": "Labour candidate for Canterbury, Rosie Duffield",
+            "otherPartyLeaderCandidate": "Tory Housing Shambles",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Supporting a Fair and Transparent Brexit.",
+            "defence": "",
+            "economy": "Labour will create an economy that works for all, invest in green technology and ensure fair pay and working conditions.",
+            "education": "",
+            "environment": "Labour will create an economy that works for all, invest in green technology.",
+            "governance": "",
+            "government": "Labour will end insecurity for private renters.",
+            "health": "Labour will ensure sustainable funding for our NHS and health services.",
+            "immigration": "",
+            "labourEmployment": "Labour will ensure fair pay and working conditions.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Labour will end insecurity for private renters.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "As a single mum and lifelong campaigner, I am standing to be your Labour MP for Canterbury and Whitstable.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "12 Belmont Road, Whitstable, CT5 1QP",
+            "phone": "07826 515616",
+            "email": "rosie.duffield@canterburylabour.org.uk",
+            "website": "www.canterburylabour.org.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/rosie.duffieldlabour",
+                "twitter": "@RosieDuffield1",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Standing Up For You"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Vote Thursday 8 June"
+                    ]
+                },
+                "qualitative": {
+                    "count": 9,
+                    "examples": [
+                        "Standing Up For You",
+                        "Labour candidate for Canterbury",
+                        "Labour will create an economy that works for all",
+                        "Labour will end insecurity for private renters",
+                        "Labour will ensure sustainable funding for our NHS and health services",
+                        "Supporting a Fair and Transparent Brexit",
+                        "As your MP, I will ensure the rights of workers, students, and businesses are protected",
+                        "Labour will end insecurity for private renters and kick start the biggest house building program"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 3,
+                "people": 4,
+                "candidateAlone": 2,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Labour will end insecurity for private renters."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Labour will create an economy that works for all, invest in green technology and ensure fair pay and working conditions.",
+                        "Labour will create an economy that works for all, invest in green technology.",
+                        "Labour will ensure sustainable funding for our NHS and health services.",
+                        "Supporting a Fair and Transparent Brexit."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "As a single mum and lifelong campaigner, I am standing to be your Labour MP for Canterbury and Whitstable.",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Cleaning Up the Tory Housing Shambles"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": "As a single mum and lifelong campaigner, I am standing to be your Labour MP for Canterbury and Whitstable."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "As a single mum and lifelong campaigner, I am standing to be your Labour MP for Canterbury and Whitstable."
+                ]
+            }
+        }
+    }
+}

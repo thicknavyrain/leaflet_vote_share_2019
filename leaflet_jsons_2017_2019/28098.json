@@ -1,0 +1,190 @@
+{
+    "leaflet": {
+        "candidateName": "Morwen Millson",
+        "candidateGender": "",
+        "constituency": "Horsham",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Fighting a Hard Brexit",
+                "content": "Liberal Democrats are the only party that has always fought for Britain\u2019s membership of the European Union, and that\u2019s why we are fighting for you to have your say on the final Brexit deal."
+            },
+            {
+                "title": "Standing up for the NHS",
+                "content": "The NHS and Social Care have been driven into the ground by the Tories\u2019 cuts. We will invest \u00a36bn more to support these vital services, ensuring everyone receives the care they need."
+            },
+            {
+                "title": "Opposing School Cuts",
+                "content": "Local schools are under threat from a Conservative Party that has stopped listening. Schools in West Sussex face massive cuts in funding, short-changing our children and harming their education."
+            },
+            {
+                "title": "Improving Rail Services",
+                "content": "Families across West Sussex have suffered disruption from the poor service provided by Southern Rail. Morwen will fight for the contract to be removed from Govia so that there is a reliable network."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fighting a Hard Brexit",
+                "policyDescription": "Liberal Democrats are fighting for Britain\u2019s membership of the European Union and for you to have your say on the final Brexit deal."
+            },
+            {
+                "policyTitle": "Standing up for the NHS",
+                "policyDescription": "We will invest \u00a36bn more to support the NHS and Social Care, ensuring everyone receives the care they need."
+            },
+            {
+                "policyTitle": "Opposing School Cuts",
+                "policyDescription": "Local schools face massive cuts in funding from the Conservative Party, which harms children's education."
+            },
+            {
+                "policyTitle": "Improving Rail Services",
+                "policyDescription": "Morwen will fight for the contract to be removed from Govia and to establish a reliable rail network."
+            }
+        ],
+        "mentions": {
+            "candidate": "Morwen Millson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Liberal Democrats are the only party that has always fought for Britain\u2019s membership of the European Union",
+            "defence": "",
+            "economy": "",
+            "education": "Schools in West Sussex face massive cuts in funding",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "We will invest \u00a36bn more to support the NHS and Social Care, ensuring everyone receives the care they need.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Families across West Sussex have suffered disruption from the poor service provided by Southern Rail.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Schools in West Sussex face massive cuts in funding, short-changing our children and harming their education.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.libdems.org.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/HorshamLibDems",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "We will invest \u00a36bn more to support these vital services."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Liberal Democrats are the only party that has always fought for Britain\u2019s membership of the European Union.",
+                        "The NHS and Social Care have been driven into the ground by the Tories\u2019 cuts.",
+                        "Local schools are under threat from a Conservative Party that has stopped listening.",
+                        "Schools in West Sussex face massive cuts in funding, short-changing our children and harming their education.",
+                        "Families across West Sussex have suffered disruption from the poor service provided by Southern Rail."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Schools in West Sussex face massive cuts in funding.",
+                        "Families across West Sussex have suffered disruption from the poor service provided by Southern Rail.",
+                        "Morwen will fight for the contract to be removed from Govia so that there is a reliable network."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Liberal Democrats are the only party that has always fought for Britain\u2019s membership of the European Union.",
+                        "The NHS and Social Care have been driven into the ground by the Tories\u2019 cuts."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Schools in West Sussex face massive cuts in funding, short-changing our children and harming their education."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The NHS and Social Care have been driven into the ground by the Tories\u2019 cuts."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

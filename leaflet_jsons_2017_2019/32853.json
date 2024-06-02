@@ -1,0 +1,184 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Cheltenham",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "From the analysis I've done, the data gives us a good idea of the choice people face on Thursday 12th December."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "With the Green Party standing aside to support the Liberal Democrat candidates in many areas, it is pretty clear how many people don't want the Conservatives to win are now backing.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I take polls seriously, having earned my living by cutting through the spin to see what the data really says. I set up Britain's first political betting website in 2004 and have spent the past 15 years analysing what voters are saying.",
+        "politicalExperience": [
+            {
+                "role": "Polling and Elections Expert",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Mike Smithson",
+                "endorsement": "From the analysis I've done, the data gives us a good idea of the choice people face on Thursday 12th December."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "You know from previous elections that a vote for anyone other than the Liberal Democrats can end up with a Conservative MP.",
+                "source": "Mike Smithson",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Tactical website from Best for Britain, www.getvoting.org, shows that nearly 200 seats across the UK could be decided by Labour supporters voting tactically for the Liberal Democrats.",
+                        "The Liberal Democrats have the best chance to win seats from the Conservatives, keeping them from a majority. But only if enough Labour supporters back the Liberal Democrats this time."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Whether the Conservative or the Liberal Democrat wins will come down to how many Labour supporters lend their vote to the Liberal Democrats.",
+                        "The election in Cheltenham is between the Conservatives and the Liberal Democrats."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "With the Green Party standing aside to support the Liberal Democrat candidates in many areas, it is pretty clear how many people don't want the Conservatives to win are now backing."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Tactical website from Best for Britain, www.getvoting.org, shows that nearly 200 seats across the UK could be decided by Labour supporters voting tactically for the Liberal Democrats.",
+                        "The Liberal Democrats have the best chance to win seats from the Conservatives, keeping them from a majority. But only if enough Labour supporters back the Liberal Democrats this time."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I take polls seriously, having earned my living by cutting through the spin to see what the data really says. I set up Britain's first political betting website in 2004 and have spent the past 15 years analysing what voters are saying.",
+                    "issueRelated": "Industry Growth/Revitalisation"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "From the analysis I've done, the data gives us a good idea of the choice people face on Thursday 12th December."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

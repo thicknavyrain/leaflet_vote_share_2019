@@ -1,0 +1,173 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Vauxhall",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Why is UKIP backing Labour's Kate Hoey in Vauxhall?",
+                "content": "We (UKIP) are telling people in seats like Kate Hoey\u2019s to go out and vote Labour."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Kate Hoey",
+            "otherPartyLeaderCandidate": "Nigel Farage, Paul Nuttall",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "These are people who are true and real Brexiteers",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Is it because she gave assurances to UKIP members in Lambeth that she would continue to fight for them if elected as your MP?",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP for Vauxhall",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Nigel Farage",
+                "endorsement": "Supports Kate Hoey"
+            }
+        ],
+        "quotes": [
+            {
+                "text": "We (UKIP) are telling people in seats like Kate Hoey\u2019s to go out and vote Labour.",
+                "source": "Paul Nuttall",
+                "date": "May 10, 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "She voted with UKIP 19 times on Article 50, and only 5 times with Jeremy Corbyn"
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "We (UKIP) are telling people in seats like Kate Hoey\u2019s to go out and vote Labour."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Is it because she gave assurances to UKIP members in Lambeth that she would continue to fight for them if elected as your MP?"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "These are people who are true and real Brexiteers"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Nigel Farage supports Kate Hoey"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Is it because UKIP say she gave assurances to UKIP members in Lambeth that she would continue to fight for them if elected as your MP?"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Is it because UKIP donated \u00a318,500 to UKIP during the referendum?",
+                        "Is it because, like Nigel Farage, Kate Hoey supports fox hunting and wants to repeal the hunting ban?"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "These are people who are true and real Brexiteers - Nigel Farage"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Vauxhall"
+                ]
+            }
+        }
+    }
+}

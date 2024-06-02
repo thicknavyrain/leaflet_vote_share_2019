@@ -1,0 +1,178 @@
+{
+    "leaflet": {
+        "candidateName": "Simon Hughes",
+        "candidateGender": "",
+        "constituency": "Bermondsey and Old Southwark",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Bring Back Simon",
+                "content": "Simon served as our MP for 32 years. He worked tirelessly for local people and fought for liberal values."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Affordable Housing",
+                "policyDescription": "Simon will fight for genuinely affordable housing."
+            },
+            {
+                "policyTitle": "Local Jobs and Services",
+                "policyDescription": "Simon will fight for local jobs and services."
+            },
+            {
+                "policyTitle": "Final Say on Brexit Deal",
+                "policyDescription": "Simon will fight for people to have the final say on the final Brexit deal negotiated by the Government."
+            }
+        ],
+        "mentions": {
+            "candidate": "Simon Hughes",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "Two years ago, many people in Bermondsey and Old Southwark were saddened to see a Labour MP elected. On 8th June we have a chance to bring Simon back."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Simon led the campaign to save Guy\u2019s Hospital. He won the fight for Bermondsey and Southwark stations on the Jubilee Line. He has kept fighting for genuinely affordable homes, not luxury flats for overseas investors. And he helped thousands of individual residents, instead of worrying about internal political party battles.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "32 years",
+                "achievements": "Led the campaign to save Guy\u2019s Hospital. Won the fight for Bermondsey and Southwark stations on the Jubilee Line. Fought for genuinely affordable homes."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "(020) 7237 8444",
+            "email": "simon@simonhughes.org.uk",
+            "website": "www.SimonHughes.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@SimonHughes",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Simon served as our MP for 32 years. He worked tirelessly for local people and fought for liberal values."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Simon led the campaign to save Guy\u2019s Hospital. He won the fight for Bermondsey and Southwark stations on the Jubilee Line. He has kept fighting for genuinely affordable homes, not luxury flats for overseas investors. And he helped thousands of individual residents, instead of worrying about internal political party battles."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Simon will fight for people to have the final say on the final Brexit deal negotiated by the Government."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Simon led the campaign to save Guy\u2019s Hospital. He won the fight for Bermondsey and Southwark stations on the Jubilee Line. He has kept fighting for genuinely affordable homes, not luxury flats for overseas investors. And he helped thousands of individual residents, instead of worrying about internal political party battles.",
+                    "issueRelated": "Health, Transportation, Housing"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Simon will fight for people to have the final say on the final Brexit deal negotiated by the Government."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "He worked tirelessly for local people and fought for liberal values."
+                ]
+            }
+        }
+    }
+}

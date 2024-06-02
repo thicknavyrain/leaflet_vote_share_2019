@@ -1,0 +1,185 @@
+{
+    "leaflet": {
+        "candidateName": "Wera Hobhouse",
+        "candidateGender": "female",
+        "constituency": "Bath",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Fighting a Tory Hard Brexit",
+                "content": "Delivered FREE to homes across Bath, Special Report: Lib Dems challenging the Tories in Bath. Pro-EU campaigner, Wera Hobhouse, is likely to be the main challenger to incumbent Conservative MP Ben Howlett."
+            },
+            {
+                "title": "Only the Lib Dems Can beat the Tories in Bath",
+                "content": "As the election approaches, Wera Hobhouse aims to deliver a decisive win for the Liberal Democrats in Bath."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "EU/Brexit",
+                "policyDescription": "Fighting a Tory Hard Brexit"
+            }
+        ],
+        "mentions": {
+            "candidate": "Wera Hobhouse",
+            "otherPartyLeaderCandidate": "Ben Howlett",
+            "partyLeader": "",
+            "tacticalSituation": "It's Lib Dem or Conservative"
+        },
+        "issues": {
+            "brexitEurope": "Fighting a Tory Hard Brexit",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "31 James St W, Bath, BA1 2BT",
+            "phone": "",
+            "email": "",
+            "website": "www.bathlibdems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Fighting a Tory Hard Brexit"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Hard Brexit"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Incumbent Conservative MP Ben Howlett"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

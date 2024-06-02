@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "candidateGender": "Female",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Strong and Stable Leadership",
+                "content": "The best possible deal from Brexit. A growing economy to secure our future."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Getting on with the job and making Brexit work is vital."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "A growing economy to secure our future."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "Your choice at this election: Strong, stable leadership for the United Kingdom or a coalition of chaos with Jeremy Corbyn."
+        },
+        "issues": {
+            "brexitEurope": "Getting on with the job and making Brexit work is vital.",
+            "defence": "",
+            "economy": "A growing economy to secure our future.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Promoted by John McClelland on behalf of the Conservative Party both at 4 Matthew Parker Street, London, SWIP 9HQ. Printed by Paragon CC, Park Mill, Clayton West, HD8 9QQ.",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Some people argue Jeremy Corbyn as Prime Minister is not going to happen, but in the days of shock elections and Brexit polls we have consistently got it wrong.",
+                "source": "",
+                "date": ""
+            },
+            {
+                "text": "If I lose just six seats, Jeremy Corbyn will be sitting down to negotiate with the presidents, prime ministers, and chancellors of Europe.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "If I lose just six seats, Jeremy Corbyn will be sitting down to negotiate with the presidents, prime ministers, and chancellors of Europe."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Strong, stable leadership for the United Kingdom.",
+                        "A coalition of chaos with Jeremy Corbyn.",
+                        "Getting on with the job and making Brexit work is vital."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Strong and stable leadership.",
+                        "A coalition of chaos with Jeremy Corbyn."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn.",
+                        "Some people argue Jeremy Corbyn as Prime Minister is not going to happen, but in the days of shock elections and Brexit polls we have consistently got it wrong."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn",
+                        "Nicola Sturgeon accused of conspiring with Jeremy Corbyn to bring forward IndyRef2."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

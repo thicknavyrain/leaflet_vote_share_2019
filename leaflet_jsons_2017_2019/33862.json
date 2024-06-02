@@ -1,0 +1,169 @@
+{
+    "leaflet": {
+        "candidateName": "Sarah Bool",
+        "candidateGender": "",
+        "constituency": "Vauxhall",
+        "politicalParty": "",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "My priorities for Vauxhall",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "HOUSING",
+                "policyDescription": "Deliver more affordable housing. Residents need greater help to buy their own home and those renting need more protection. Importantly, local authority housing needs better maintenance - I have pushed for this in Union Grove and the Kennington Estate."
+            },
+            {
+                "policyTitle": "SAFER STREETS",
+                "policyDescription": "Work with police, community organisations, charities and schools to promote the wellbeing of our younger people, steering them away from crime. Taking a zero tolerance approach to gang activity and anti-social behaviour with 1400 more police on the beat in London."
+            },
+            {
+                "policyTitle": "ENVIRONMENT",
+                "policyDescription": "Make Vauxhall and London a cleaner, healthier place to live and work. Since 2010 under the Conservatives, greenhouse gases have been reduced by a quarter. We want to do more, including increasing the number of electric vehicles and meeting our net zero target."
+            }
+        ],
+        "mentions": {
+            "candidate": "Sarah Bool",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Make Vauxhall and London a cleaner, healthier place to live and work. Since 2010 under the Conservatives, greenhouse gases have been reduced by a quarter. We want to do more, including increasing the number of electric vehicles and meeting our net zero target.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Deliver more affordable housing. Residents need greater help to buy their own home and those renting need more protection. Importantly, local authority housing needs better maintenance - I have pushed for this in Union Grove and the Kennington Estate.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Taking a zero tolerance approach to gang activity and anti-social behaviour with 1400 more police on the beat in London.",
+                        "Since 2010 under the Conservatives, greenhouse gases have been reduced by a quarter."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Make Vauxhall and London a cleaner, healthier place to live and work."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Deliver more affordable housing. Residents need greater help to buy their own home and those renting need more protection.",
+                        "Work with police, community organisations, charities and schools to promote the wellbeing of our younger people, steering them away from crime."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Since 2010 under the Conservatives, greenhouse gases have been reduced by a quarter. We want to do more, including increasing the number of electric vehicles and meeting our net zero target."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

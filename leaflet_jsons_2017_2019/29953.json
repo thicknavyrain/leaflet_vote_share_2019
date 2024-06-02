@@ -1,0 +1,164 @@
+{
+    "leaflet": {
+        "candidateName": "Joe Otten",
+        "candidateGender": "",
+        "constituency": "Sheffield Heeley",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "Thursday June 8th 2017",
+        "messages": [
+            {
+                "title": "",
+                "content": "Our country needs a strong opposition"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Retaining access to the Single Market",
+                "policyDescription": "56% of Sheffield's exports go to Europe. That's why we believe that by retaining access to the Single Market, we can help protect local jobs and investment."
+            },
+            {
+                "policyTitle": "Standing up for the NHS",
+                "policyDescription": "We know we need additional investment in our health and care services as a matter of urgency. The Liberal Democrats would give them the funds they need."
+            },
+            {
+                "policyTitle": "Opposing school cuts",
+                "policyDescription": "Local schools are under threat from a Conservative Party that has stopped listening to local people in Sheffield. Schools in Sheffield are set to lose \u00a327m from their budgets."
+            }
+        ],
+        "mentions": {
+            "candidate": "Joe Otten",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Retaining access to the Single Market",
+            "defence": "",
+            "economy": "",
+            "education": "Opposing school cuts\nLocal schools are under threat from a Conservative Party that has stopped listening to local people in Sheffield. Schools in Sheffield are set to lose \u00a327m from their budgets.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Standing up for the NHS\nWe know we need additional investment in our health and care services as a matter of urgency. The Liberal Democrats would give them the funds they need.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Omega Court, 360 Cemetery Road, Sheffield, S11 8FT",
+            "phone": "",
+            "email": "",
+            "website": "libdems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "56% of Sheffield's exports go to Europe.",
+                        "Schools in Sheffield are set to lose \u00a327m from their budgets."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Our country needs a strong opposition"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 6,
+                "candidateAlone": 0,
+                "candidateWithOthers": 6
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Schools in Sheffield are set to lose \u00a327m from their budgets."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Retaining access to the Single Market",
+                        "Standing up for the NHS",
+                        "Opposing school cuts"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Local schools are under threat from a Conservative Party that has stopped listening to local people in Sheffield."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "Malcolm Jones",
+        "candidateGender": "",
+        "constituency": "Eastleigh",
+        "politicalParty": "UKIP",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Dear Voter",
+                "content": "I was born in Eastleigh and have lived here all my life. I have fought against mass housing developments and traffic congestion. I will campaign for a controlled, fair Brexit exit to make sure we finish the job the voters asked for in Eastleigh."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Immigration Control",
+                "policyDescription": "Net migration to the UK needs to be controlled, with 256k in 2015, 209k in 2016, 205k in 2017, 314k in 2018, and 313k in 2019."
+            },
+            {
+                "policyTitle": "National Security",
+                "policyDescription": "Our national security is undermined by policies that sell us out to the EU. UKIP will fight to get the best deal for Britain."
+            },
+            {
+                "policyTitle": "Economic Control",
+                "policyDescription": "Your money on foreign aid should be better utilized, and public services such as the NHS and police should be funded by it instead."
+            }
+        ],
+        "mentions": {
+            "candidate": "Malcolm Jones",
+            "otherPartyLeaderCandidate": "Theresa",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Your money on foreign aid should be better utilized, and public services such as the NHS and police should be funded by it instead.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "Net migration to the UK needs to be controlled, with 256k in 2015, 209k in 2016, 205k in 2017, 314k in 2018, and 313k in 2019.",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I have fought against mass housing developments and traffic congestion.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I was born in Eastleigh and have lived here all my life. I have fought against mass housing developments and traffic congestion. I will campaign for a controlled, fair Brexit exit to make sure we finish the job the voters asked for in Eastleigh.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Net migration to the UK needs to be controlled, with 256k in 2015, 209k in 2016, 205k in 2017, 314k in 2018, and 313k in 2019.",
+                        "Net migration to the UK needs to be controlled, with 256k in 2015, 209k in 2016, 205k in 2017, 314k in 2018, and 313k in 2019."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "I will campaign for a controlled, fair Brexit exit to make sure we finish the job the voters asked for in Eastleigh."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "I have fought against mass housing developments and traffic congestion."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Your money on foreign aid should be better utilized, and public services such as the NHS and police should be funded by it instead.",
+                        "Our national security is undermined by policies that sell us out to the EU. UKIP will fight to get the best deal for Britain."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I was born in Eastleigh and have lived here all my life.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Our national security is undermined by policies that sell us out to the EU. UKIP will fight to get the best deal for Britain."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Don't trust Theresa."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I was born in Eastleigh and have lived here all my life.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I was born in Eastleigh and have lived here all my life."
+                ]
+            }
+        }
+    }
+}

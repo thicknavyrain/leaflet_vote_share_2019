@@ -1,0 +1,198 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Getting Brexit Done Means",
+                "content": "An extra \u00a333.9 billion for the NHS"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "An extra \u00a333.9 billion for the NHS"
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Brexit done with a deal"
+            },
+            {
+                "policyTitle": "Police",
+                "policyDescription": "20,000 extra police officers"
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "More funding for every pupil in every school"
+            },
+            {
+                "policyTitle": "Transport",
+                "policyDescription": "Better broadband and better transport"
+            },
+            {
+                "policyTitle": "Living Wage",
+                "policyDescription": "Higher National Living Wage"
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Nicola Sturgeon, Jo Swinson",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "Use your vote to get a majority"
+        },
+        "issues": {
+            "brexitEurope": "Brexit done with a deal",
+            "defence": "",
+            "economy": "Our economy has grown for nine years in a row",
+            "education": "More funding for every pupil in every school, \u00a314 billion extra for schools",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "An extra \u00a333.9 billion for the NHS, 50 million extra GP surgery appointments",
+            "immigration": "",
+            "labourEmployment": "Higher National Living Wage",
+            "lawCrime": "20,000 more police",
+            "transport": "Better broadband and better transport",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "No town left behind, protected bus passes and allowance",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 6,
+                    "examples": [
+                        "An extra \u00a333.9 billion for the NHS",
+                        "50 million extra GP surgery appointments",
+                        "Our economy has grown for nine years in a row",
+                        "20,000 extra police officers",
+                        "\u00a314 billion extra for schools",
+                        "Last time, the conservatives were just nine seats short of a majority"
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Let's get Brexit done",
+                        "No more delays: No more gridlock",
+                        "Better broadband and better transport",
+                        "More money to invest in priorities"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 4,
+                "candidateAlone": 0,
+                "candidateWithOthers": 4
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "No town left behind",
+                        "Better broadband and better transport"
+                    ]
+                },
+                "national": {
+                    "count": 6,
+                    "examples": [
+                        "An extra \u00a333.9 billion for the NHS",
+                        "50 million extra GP surgery appointments",
+                        "Brexit done with a deal",
+                        "Higher National Living Wage",
+                        "20,000 more police",
+                        "\u00a314 billion extra for schools"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "With the extra support, GP surgeries will be able to...",
+                    "issueRelated": "Health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Want to get Brexit out of the way?"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Nicola Sturgeon"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

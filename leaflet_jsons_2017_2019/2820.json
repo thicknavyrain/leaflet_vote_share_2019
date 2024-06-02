@@ -1,0 +1,195 @@
+{
+    "leaflet": {
+        "candidateName": "Martin Horwood",
+        "candidateGender": "male",
+        "constituency": "Cheltenham",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Lower taxes for local families",
+                "content": "Lower taxes for local families says Martin Horwood MP."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "More NHS cuts on the way warns MP Martin Horwood. NHS in Gloucestershire is facing real cuts in vital services."
+            },
+            {
+                "policyTitle": "Flood Action",
+                "policyDescription": "Horwood fights in Parliament for town floods action. Highlighting the need for action from the government to support flood-stricken areas."
+            },
+            {
+                "policyTitle": "Fairer Deal for Troops",
+                "policyDescription": "Join Horwood\u2019s fairer deal for our troops campaign. Campaigning for better conditions and support for British troops."
+            }
+        ],
+        "mentions": {
+            "candidate": "Martin Horwood",
+            "otherPartyLeaderCandidate": "Conservative Council",
+            "partyLeader": "Nick Clegg",
+            "tacticalSituation": "Race to be the next MP for our area is still a close fight between current Cheltenham MP Martin Horwood and the Conservative candidate."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "Join Horwood\u2019s fairer deal for our troops campaign. Campaigning for better conditions and support for British troops.",
+            "economy": "Lower taxes for local families says Martin Horwood MP.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "More NHS cuts on the way warns MP Martin Horwood. NHS in Gloucestershire is facing real cuts in vital services.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Bus services under threat from Conservative Council.",
+            "socialWelfare": "Health charities get festive boost from MP Martin.",
+            "community": [
+                {
+                    "content": "Countryside victory closer say campaigners. Lower taxes for local families says Martin Horwood MP. Bus services under threat from Conservative Council. Health charities get festive boost from MP Martin.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "Since 2005",
+                "achievements": "Highlighted the flooding risk in Cheltenham."
+            }
+        ],
+        "contactInformation": {
+            "address": "FREEPOST RRSC-RTET-KBSH, 16 Hewlett Road, Cheltenham, GL52 6AA",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Top Tory Councillor",
+                "endorsement": "Top Tory Councillor joins Lib Dems."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "The NHS in Gloucestershire is facing real cuts in vital services.",
+                "source": "MP Martin Horwood",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Martin Horwood MP with new Lib Dem recruit Cllr Klara Sudbury."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "The NHS in Gloucestershire is facing real cuts in vital services."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Lower taxes for local families says Martin Horwood MP.",
+                        "Horwood fights in Parliament for town floods action."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 6,
+                "candidateAlone": 1,
+                "candidateWithOthers": 5
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "Bus services under threat from Conservative Council.",
+                        "Health charities get festive boost from MP Martin.",
+                        "Horwood fights in Parliament for town floods action.",
+                        "Countryside victory closer say campaigners."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "More NHS cuts on the way warns MP Martin Horwood.",
+                        "Join Horwood\u2019s fairer deal for our troops campaign."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Health charities get festive boost from MP Martin.",
+                    "issueRelated": "socialWelfare"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Top Tory Councillor joins Lib Dems."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Bus services under threat from Conservative Council."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "More NHS cuts on the way warns MP Martin Horwood.",
+                        "Countryside victory closer say campaigners."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "MP for our area.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Martin Horwood MP for our area."
+                ]
+            }
+        }
+    }
+}

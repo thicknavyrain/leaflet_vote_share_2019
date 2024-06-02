@@ -1,0 +1,166 @@
+{
+    "leaflet": {
+        "candidateName": "Tad Jones",
+        "candidateGender": "",
+        "constituency": "Nottingham North",
+        "politicalParty": "Lib Dems",
+        "electionDate": "June 8th 2017",
+        "messages": [
+            {
+                "title": "Our Country Needs A Strong Opposition",
+                "content": "Fighting against Hard Brexit, Standing up for the NHS, Opposing school cuts"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fighting against Hard Brexit",
+                "policyDescription": "Liberal Democrats have always fought for Britain\u2019s membership of the European Union, and are fighting for you to have your say on the final Brexit deal."
+            },
+            {
+                "policyTitle": "Standing up for the NHS",
+                "policyDescription": "We need additional investment in health and care services as a matter of urgency. The Liberal Democrats would give it the funds it needs."
+            },
+            {
+                "policyTitle": "Opposing school cuts",
+                "policyDescription": "Local schools are under threat from a Conservative Party that has stopped listening to local people in our area. Schools in Nottingham are set to lose more than \u00a326 million from their budgets."
+            }
+        ],
+        "mentions": {
+            "candidate": "Tad Jones",
+            "otherPartyLeaderCandidate": "Conservative Party",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Liberal Democrats are the only party that has always fought for Britain\u2019s membership of the European Union.",
+            "defence": "",
+            "economy": "",
+            "education": "Opposing school cuts, Schools in Nottingham are set to lose more than \u00a326 million from their budgets.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "We need additional investment in health and care services as a matter of urgency. The Liberal Democrats would give it the funds it needs.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Local schools are under threat from a Conservative Party that has stopped listening to local people in our area.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Tad Jones is the Liberal Democrats\u2019 candidate for Nottingham North. Tad is committed to being your strong voice in Parliament, fighting against hard Brexit, standing up for the NHS, and opposing school cuts.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "86 Ranelagh Grove, Nottingham NG8 1HJ",
+            "phone": "",
+            "email": "",
+            "website": "www.libdems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Change the direction of the country on Thursday June 8th 2017"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Schools in Nottingham are set to lose more than \u00a326 million from their budgets."
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "Our country needs a strong opposition.",
+                        "We need additional investment in health and care services.",
+                        "Local schools are under threat from a Conservative Party that has stopped listening to local people in our area.",
+                        "We are fighting for you to have your say on the final Brexit deal.",
+                        "Fighting against Hard Brexit.",
+                        "Standing up for the NHS."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Standing up for the NHS",
+                        "Opposing school cuts",
+                        "Local schools are under threat from a Conservative Party."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Fighting against Hard Brexit"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Local schools are under threat from a Conservative Party that has stopped listening to local people in our area."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Liberal Democrats are the only party that has always fought for Britain\u2019s membership of the European Union."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Tad Jones is the Liberal Democrats\u2019 candidate for Nottingham North."
+                ]
+            }
+        }
+    }
+}

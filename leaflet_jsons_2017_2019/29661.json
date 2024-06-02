@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "Alex Sobel",
+        "candidateGender": "",
+        "constituency": "Leeds North West",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Alex would like to hear from you"
+            },
+            {
+                "title": "",
+                "content": "Speaking up for YOU"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Investing in our communities",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Protecting our NHS",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Standing up for you on the big issues",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Alex Sobel",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Protecting our NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Investing in our communities",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Freepost RLIB-EXKL-ESKU, Philip Coyne Labour Rooms, Nelson Street, Otley, LS21 1EZ",
+            "phone": "",
+            "email": "alex_sobel@hotmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "Alex Sobel for Leeds North West",
+                "twitter": "@alexsobel",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Investing in our communities",
+                        "Protecting our NHS",
+                        "Standing up for you on the big issues"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Investing in our communities"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Protecting our NHS"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

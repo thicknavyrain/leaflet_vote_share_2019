@@ -1,0 +1,212 @@
+{
+    "leaflet": {
+        "candidateName": "Cat Smith",
+        "candidateGender": "",
+        "constituency": "Lancaster",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Scrap Universal Credit",
+                "content": "Universal Credit is failing. Labour will scrap it and implement a social security system that supports people out of poverty and makes work pay."
+            },
+            {
+                "title": "A fair deal for renters",
+                "content": "Labour will introduce rent controls, secure tenancies, and a charter of renters' rights, giving tenants the protections they need."
+            },
+            {
+                "title": "Loving our High Streets",
+                "content": "Labour will rejuvenate high streets with free wi-fi, lending for small businesses, and support for local shops."
+            },
+            {
+                "title": "Defend & extend our NHS",
+                "content": "Labour will defend our NHS and extend its services, including free personal care for the elderly."
+            },
+            {
+                "title": "Put it to the people",
+                "content": "Labour will give the people the final say on Brexit, with a vote between Remain and a fair Leave option."
+            },
+            {
+                "title": "Cat demands action on The Climate Emergency",
+                "content": "Labour aims to tackle the climate emergency by planting a million trees, funding public transport, and committing to net zero emissions by 2030."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Scrap Universal Credit",
+                "policyDescription": "Labour will scrap Universal Credit and implement a supportive social security system that helps people out of poverty and ensures work pays."
+            },
+            {
+                "policyTitle": "A fair deal for renters",
+                "policyDescription": "Labour will implement rent controls, secure tenancies, and a renters' rights charter for tenant protection."
+            },
+            {
+                "policyTitle": "Loving our High Streets",
+                "policyDescription": "Labour will rejuvenate high streets with initiatives like free wi-fi, small business loans, and local shop support."
+            },
+            {
+                "policyTitle": "Defend & extend our NHS",
+                "policyDescription": "Labour will protect and expand NHS services, including free personal care for the elderly."
+            },
+            {
+                "policyTitle": "Put it to the people",
+                "policyDescription": "Labour will offer a public vote on Brexit with options to remain or a defined leave option."
+            },
+            {
+                "policyTitle": "The Climate Emergency",
+                "policyDescription": "Labour will address the climate crisis by planting trees, investing in public transport, and pursuing carbon neutrality by 2030."
+            }
+        ],
+        "mentions": {
+            "candidate": "Cat Smith",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Labour will put the Brexit decision back to the people for a final vote between Remain and a defined Leave option.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Labour will address climate change by planting a million trees and aiming for net zero emissions by 2030.",
+            "governance": "",
+            "government": "",
+            "health": "Labour will defend and extend the NHS, including providing free personal care for the elderly.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Labour will fund public transport to help reduce carbon emissions.",
+            "socialWelfare": "Labour will introduce rent controls, secure tenancies, and a charter of renters' rights.",
+            "community": [
+                {
+                    "content": "Labour will rejuvenate high streets with free wi-fi, loans for small businesses, and support for local shops.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "47 Scotforth Rd, LA1 4SA",
+            "phone": "01524 566 551",
+            "email": "cat.smith.mp@parliament.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "facebook.com/CatSmithMP",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Cat Smith with supporters"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Labour aims to address climate change by planting a million trees.",
+                        "Labour commits to net zero emissions by 2030."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Universal Credit is failing.",
+                        "A vote between Remain and a fair Leave option.",
+                        "Labour will introduce rent controls, secure tenancies, and a charter of renters' rights, giving tenants the protections they need.",
+                        "Labour will rejuvenate high streets with free wi-fi, lending for small businesses, and support for local shops."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Labour will rejuvenate high streets with free wi-fi, lending for small businesses, and support for local shops.",
+                        "Labour will introduce rent controls, secure tenancies, and a charter of renters' rights.",
+                        "Labour will defend and extend the NHS, including providing free personal care for the elderly."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Labour will give the people the final say on Brexit, with a vote between Remain and a fair Leave option.",
+                        "Labour aims to tackle the climate emergency by planting a million trees, funding public transport, and committing to net zero emissions by 2030.",
+                        "Universal Credit is failing. Labour will scrap it and implement a social security system that supports people out of poverty and makes work pay."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Labour Member holding a sign advocating for 'NO Rent'.",
+                    "issueRelated": "socialWelfare"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

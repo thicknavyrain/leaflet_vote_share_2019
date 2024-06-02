@@ -1,0 +1,178 @@
+{
+    "leaflet": {
+        "candidateName": "Nick Clegg",
+        "candidateGender": "",
+        "constituency": "Sheffield Hallam",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "OUR CHANCE FOR CHANGE",
+                "content": "Only the Lib Dems can provide the strong opposition Britain needs. Only a vote for the Liberal Democrats will deliver a strong opposition to the Tories on the NHS, schools and jobs. Jeremy Corbyn's Labour Party are too busy fighting among themselves to stand up for you."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "A vote for the Liberal Democrats will deliver a strong opposition to Tory cuts to schools and the NHS."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "The Conservative Government plans huge cuts to school budgets, threatening the future of young people across the country."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "A vote for Nick Clegg will ensure a Liberal Democrat MP who is not afraid to stick to their principles on Europe."
+            }
+        ],
+        "mentions": {
+            "candidate": "Nick Clegg",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "If you want an open, tolerant and united Britain, vote Lib Dem on 8th June."
+        },
+        "issues": {
+            "brexitEurope": "Vote for Nick Clegg who is not afraid to stick to their principles on Europe.",
+            "defence": "",
+            "economy": "",
+            "education": "The Conservative Government plans huge cuts to school budgets, threatening the future of young people across the country.",
+            "environment": "",
+            "governance": "",
+            "government": "Only the Lib Dems can stand up to the Tories and change the direction of our country.",
+            "health": "Vote for the Liberal Democrats for strong opposition to Tory cuts to schools and the NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "If you are unhappy with the way things are going on Brexit and on the NHS, then this is your moment. The choice could not be clearer. A Labour vote will mean more of the same.",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "12 years",
+                "achievements": "Has a strong track record of getting things done in the community as well as in Parliament."
+            }
+        ],
+        "contactInformation": {
+            "address": "Liberal Democrats, FREEPOST RSYK-HKSY-EJGE, London, SW1P 3AE",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Tim Farron's Lib Dems are the real opposition, fighting Tory cuts to schools and the NHS."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Lib Dem MPs will stand up for you, fight the Government and change Britain's future for the better."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Only a vote for the Liberal Democrats will deliver a strong opposition to the Tories on the NHS, schools and jobs.",
+                        "Jeremy Corbyn's Labour Party are too busy fighting among themselves to stand up for you."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "Vote for the Liberal Democrats for strong opposition to Tory cuts to schools and the NHS.",
+                        "A vote for Nick Clegg will ensure a Liberal Democrat MP who is not afraid to stick to their principles on Europe.",
+                        "The Conservative Government plans huge cuts to school budgets, threatening the future of young people across the country.",
+                        "If you want an open, tolerant and united Britain, vote Lib Dem on 8th June.",
+                        "Only the Lib Dems can stand up to the Tories and change the direction of our country."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Only the Lib Dems can provide the strong opposition Britain needs. Only a vote for the Liberal Democrats will deliver a strong opposition to the Tories on the NHS, schools, and jobs."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn's Labour Party are too busy fighting among themselves to stand up for you."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Has a strong track record of getting things done in the community as well as in Parliament."
+                ]
+            }
+        }
+    }
+}

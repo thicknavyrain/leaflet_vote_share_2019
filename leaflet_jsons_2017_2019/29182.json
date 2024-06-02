@@ -1,0 +1,181 @@
+{
+    "leaflet": {
+        "candidateName": "Liz Hazell",
+        "candidateGender": "",
+        "constituency": "Walsall North",
+        "politicalParty": "UKIP",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Dear Voter",
+                "content": "Walsall is my home, not just a name on a map. We should stand tall and proud, not be starved of funding and resources. I will represent YOU in Westminster, NOT Westminster in Walsall North."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Care for the Vulnerable",
+                "policyDescription": "Increase spending on Care for the Vulnerable"
+            },
+            {
+                "policyTitle": "VAT on Utility Bills",
+                "policyDescription": "Scrap VAT on utility bills"
+            },
+            {
+                "policyTitle": "Police Recruitment",
+                "policyDescription": "Recruit 20,000 police officers"
+            },
+            {
+                "policyTitle": "Support for Small Businesses and Apprenticeships",
+                "policyDescription": "Support small, local businesses and Apprenticeships"
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Real Brexit means UKIP"
+            }
+        ],
+        "mentions": {
+            "candidate": "Liz Hazell",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Real Brexit means UKIP",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Increase spending on Care for the Vulnerable",
+            "immigration": "",
+            "labourEmployment": "Support small, local businesses and Apprenticeships",
+            "lawCrime": "Recruit 20,000 police officers",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Walsall is my home, not just a name on a map. We should stand tall and proud, not be starved of funding and resources.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Walsall is my home, not just a name on a map. We should stand tall and proud, not be starved of funding and resources. I will represent YOU in Westminster, NOT Westminster in Walsall North.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07753320378",
+            "email": "lizhazell.walsallnorth@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Recruit 20,000 police officers"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Walsall is my home, not just a name on a map. We should stand tall and proud, not be starved of funding and resources.",
+                        "Real Brexit means UKIP"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "We should stand tall and proud, not be starved of funding and resources."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Real Brexit means UKIP"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Walsall is my home, not just a name on a map.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Walsall is my home, not just a name on a map.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Walsall is my home, not just a name on a map."
+                ]
+            }
+        }
+    }
+}

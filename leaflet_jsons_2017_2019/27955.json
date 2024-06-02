@@ -1,0 +1,175 @@
+{
+    "leaflet": {
+        "candidateName": "Sean Woodcock",
+        "candidateGender": "",
+        "constituency": "Banbury & Bicester",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "Vote Labour",
+                "content": "For Banbury & Bicester for the many, for you."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Making Brexit Work",
+                "policyDescription": "The best Brexit deal for jobs and living standards, building a lasting new relationship with Europe."
+            },
+            {
+                "policyTitle": "Education for All",
+                "policyDescription": "Offering the opportunities of free education for all children and putting children first."
+            },
+            {
+                "policyTitle": "Communities of Care",
+                "policyDescription": "Proper funding for our health and social care system and a brand new NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "Sean Woodcock",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The best Brexit deal for jobs and living standards, building a lasting new relationship with Europe.",
+            "defence": "",
+            "economy": "",
+            "education": "Offering the opportunities of free education for all children and putting children first.",
+            "environment": "",
+            "governance": "",
+            "government": "Proper funding for our health and social care system.",
+            "health": "Proper funding for our health and social care system and a brand new NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Proper funding for our health and social care system and a brand new NHS.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Local Councillor",
+                "duration": "",
+                "achievements": "Backing local priorities."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.banburylabour.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "For Banbury & Bicester for the many, for you."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "The best Brexit deal for jobs and living standards, building a lasting new relationship with Europe.",
+                        "Offering the opportunities of free education for all children and putting children first.",
+                        "Proper funding for our health and social care system and a brand new NHS."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Sean Woodcock standing at Banbury & Bicester."
+                ]
+            }
+        }
+    }
+}

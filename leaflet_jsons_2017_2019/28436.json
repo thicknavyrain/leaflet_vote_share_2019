@@ -1,0 +1,166 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "candidateGender": "female",
+        "constituency": "",
+        "politicalParty": "Conservative Party",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Stability for Brexit and Beyond",
+                "content": "Prime Minister Theresa May asks country for support to strengthen hand in Brexit negotiations and to lock in Britain\u2019s economic progress."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Getting on with the job of securing the best possible deal from Brexit. Take back control of borders, laws, and money. Sign new trade deals around the world with new friends and old partners. Ensure we leave in a smooth and orderly way."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Focus on creating well-paid jobs, affordable housing, good school places, and a strong economy funding a strong NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn, Nicola Sturgeon, Liberal Democrats",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "Your vote is a choice between stability and strong leadership with Theresa May or chaos with a coalition of Labour\u2019s Jeremy Corbyn, Liberal Democrats, or SNP."
+        },
+        "issues": {
+            "brexitEurope": "Getting on with the job of securing the best possible deal from Brexit. Take back control of borders, laws, and money. Sign new trade deals. Ensure a smooth and orderly way out of the EU.",
+            "defence": "",
+            "economy": "Focus on creating well-paid jobs, affordable housing, good school places for every child, and a strong economy funding a strong NHS.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "Take back control of borders.",
+            "labourEmployment": "Create well-paid jobs.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "conservatives.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "We need to show unity as negotiations start, but Westminster is divided. Labour, the Lib Dems and the SNP are already seeking to disrupt our negotiations.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May campaigning with supporters"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "We need to show unity as negotiations start, but Westminster is divided.",
+                        "Creating well-paid jobs, affordable housing, good school places, and a strong economy funding a strong NHS."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Your vote is a choice between stability and strong leadership with Theresa May or chaos with a coalition of Labour\u2019s Jeremy Corbyn, Liberal Democrats, or SNP.",
+                        "Labour, the Lib Dems and the SNP are already seeking to disrupt our negotiations."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "This coalition of chaos propping up Jeremy Corbyn."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Labour\u2019s Jeremy Corbyn, Liberal Democrats, or SNP."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

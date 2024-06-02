@@ -1,0 +1,175 @@
+{
+    "leaflet": {
+        "candidateName": "Rosa Bolger",
+        "candidateGender": "",
+        "constituency": "Witney",
+        "politicalParty": "Labour & Co-operative",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "Your Local Campaigning Voice for Witney",
+                "content": "\"I'm a West Oxfordshire District Councillor and the first woman Leader of Witney Town Council. I led the Save Cogges Surgery campaign. I support Remain and want to give YOU the final say. I am actively working on tackling the climate emergency.\""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Support Remain",
+                "policyDescription": "Wants to give the final say to the public."
+            },
+            {
+                "policyTitle": "Climate Emergency",
+                "policyDescription": "Actively working on tackling the climate emergency."
+            }
+        ],
+        "mentions": {
+            "candidate": "Rosa Bolger",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "I support Remain and want to give YOU the final say.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "I am actively working on tackling the climate emergency.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I led the Save Cogges Surgery campaign.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "West Oxfordshire District Councillor",
+                "duration": "",
+                "achievements": "The first woman Leader of Witney Town Council."
+            }
+        ],
+        "contactInformation": {
+            "address": "21 Cornfield Gardens, Witney OX28 4DF",
+            "phone": "07811 930523",
+            "email": "rosa4witney@gmail.com",
+            "website": "www.witneylabour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@rosabolger",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "\"I'm a West Oxfordshire District Councillor and the first woman Leader of Witney Town Council.\", \"I led the Save Cogges Surgery campaign.\", \"I support Remain and want to give YOU the final say.\", \"I am actively working on tackling the climate emergency.\""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 2,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "I led the Save Cogges Surgery campaign."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "I support Remain and want to give YOU the final say.",
+                        "I am actively working on tackling the climate emergency."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I'm a West Oxfordshire District Councillor and the first woman Leader of Witney Town Council.",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I'm a West Oxfordshire District Councillor and the first woman Leader of Witney Town Council.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I'm a West Oxfordshire District Councillor and the first woman Leader of Witney Town Council."
+                ]
+            }
+        }
+    }
+}

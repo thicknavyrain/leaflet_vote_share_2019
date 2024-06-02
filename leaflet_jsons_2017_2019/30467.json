@@ -1,0 +1,184 @@
+{
+    "leaflet": {
+        "candidateName": "Olivia Bailey",
+        "candidateGender": "",
+        "constituency": "Reading West",
+        "politicalParty": "Labour Party",
+        "electionDate": "General Election 2017",
+        "messages": [
+            {
+                "title": "Selected for Reading West",
+                "content": "Into Battle is delighted to announce that Olivia Bailey has been selected to stand as the Parliamentary Candidate for Reading West. Olivia was born at the Royal Berks, and grew up in Berkshire. She has got a strong track record running campaigns and research on the national stage, and hopes to be a community-focused MP like Martin Salter before her."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "I will fight Tory cuts to local schools",
+                "policyDescription": "Labour will keep class sizes down, drive up standards and reintroduce the EMA for pupils from lower income households."
+            },
+            {
+                "policyTitle": "I will stand up for our struggling NHS",
+                "policyDescription": "Labour will fight to improve local GP services like Circuit Lane Surgery and back overstretched staff. Labour will always give the NHS the money it needs."
+            },
+            {
+                "policyTitle": "I will fight Tory plans for a reckless Brexit",
+                "policyDescription": "Labour will put jobs, rights and prosperity first in the Brexit negotiations. Labour will also guarantee the right of EU nationals to remain in the UK, and secure fairer controls on immigration."
+            },
+            {
+                "policyTitle": "I will demand affordable homes",
+                "policyDescription": "Labour will build a million new homes and introduce tough new controls on unscrupulous private landlords."
+            }
+        ],
+        "mentions": {
+            "candidate": "Olivia Bailey",
+            "otherPartyLeaderCandidate": "Tories",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "I will fight Tory plans for a reckless Brexit",
+            "defence": "",
+            "economy": "",
+            "education": "I will fight Tory cuts to local schools",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "I will stand up for our struggling NHS",
+            "immigration": "Labour will also guarantee the right of EU nationals to remain in the UK, and secure fairer controls on immigration.",
+            "labourEmployment": "Labour will put jobs, rights and prosperity first in the Brexit negotiations.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Labour will build a million new homes and introduce tough new controls on unscrupulous private landlords.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Running campaigns and research on the national stage",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "Battle Labour Party",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Olivia Bailey"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Olivia was born at the Royal Berks, and grew up in Berkshire.",
+                        "She has got a strong track record running campaigns and research on the national stage.",
+                        "They have savagely cut funding for local services, schools and hospitals",
+                        "I will fight Tory plans for a reckless Brexit",
+                        "I will be on the side of the many"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "I will fight Tory cuts to local schools",
+                        "I will stand up for our struggling NHS"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "I will fight Tory plans for a reckless Brexit",
+                        "Labour will keep class sizes down, drive up standards and reintroduce the EMA for pupils from lower income households.",
+                        "Labour will build a million new homes and introduce tough new controls on unscrupulous private landlords."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "They have savagely cut funding for local services, schools and hospitals"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "They want a blank cheque for a reckless Brexit"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Only a vote for Labour can stop the Tories in their tracks."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Olivia was born at the Royal Berks, and grew up in Berkshire.",
+                "employment": "Strong track record running campaigns and research on the national stage",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Olivia was born at the Royal Berks, and grew up in Berkshire."
+                ]
+            }
+        }
+    }
+}

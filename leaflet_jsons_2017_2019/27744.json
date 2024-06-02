@@ -1,0 +1,156 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": "Theresa May and the Conservatives are committed to ensuring our social care system provides proper care and protection for all those who need it, especially older people."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Social Care",
+                "policyDescription": "Ensuring no one has to sell their home to pay for care, putting an absolute limit on what people have to pay for care, protecting life savings, introducing new protections for carers, guaranteeing a double-lock for pensions, protecting pensioner benefits, and continuing to provide the Winter Fuel Payment for the poorest pensioners."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Ensuring no one has to sell their home to pay for care, putting an absolute limit on what people have to pay for care, protecting life savings, introducing new protections for carers, guaranteeing a double-lock for pensions, protecting pensioner benefits, and continuing to provide the Winter Fuel Payment for the poorest pensioners.",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "No one will ever have to sell their home in their lifetime to pay for care.",
+                        "We will protect your life savings so that you can pass on at least \u00a3100,000 to your family."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "So back Theresa May and her team on 8th June.",
+                        "Theresa May and the Conservatives are committed to ensuring our social care system provides proper care and protection for all those who need it, especially older people."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Ensuring no one has to sell their home to pay for care, putting an absolute limit on what people have to pay for care, protecting life savings, introducing new protections for carers, guaranteeing a double-lock for pensions, protecting pensioner benefits, and continuing to provide the Winter Fuel Payment for the poorest pensioners."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,201 @@
+{
+    "leaflet": {
+        "candidateName": "Alex Sobel",
+        "candidateGender": "",
+        "constituency": "Leeds North West",
+        "politicalParty": "Labour",
+        "electionDate": "12th December",
+        "messages": [
+            {
+                "title": "",
+                "content": "\"I'm incredibly proud to have been reselected as your Labour candidate for Leeds North West. After two years representing you in Parliament, I promise to continue the fight for the people of North West Leeds and our local area and I hope that you give me the opportunity to do so again.\""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protecting the Environment",
+                "policyDescription": "Alex has a long record as an environmental campaigner and has received awards for environmentalism."
+            },
+            {
+                "policyTitle": "Reversing Cuts to Vital Services",
+                "policyDescription": "Alex is committed to protecting local schools and the NHS, and fighting against cuts to these and other services."
+            },
+            {
+                "policyTitle": "A Community-led Plan for Transport",
+                "policyDescription": "A healthy city requires a healthy, robust transport system with congestion and poor air quality tackled."
+            }
+        ],
+        "mentions": {
+            "candidate": "Alex Sobel",
+            "otherPartyLeaderCandidate": "Lib Dem Leader Jo Swinson",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Alex has a long record as an environmental campaigner and continues to champion environmental issues.",
+            "governance": "",
+            "government": "",
+            "health": "Protecting local health services and the NHS, reversing cuts are key priorities.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Alex has a detailed Transport Strategy for Leeds. For more information visit alexsobel.co.uk/transportplan.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Improving services for his community, supporting investment in areas such as affordable housing.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "alexsobel.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "\"I'm incredibly proud to have been reselected as your Labour candidate for Leeds North West. After two years representing you in Parliament, I promise to continue the fight for the people of North West Leeds and our local area and I hope that you give me the opportunity to do so again.\"",
+                "source": "Alex Sobel",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Will do the future\u2019s not as local MP"
+                },
+                {
+                    "caption": "His community dining in Yeadon"
+                },
+                {
+                    "caption": "Pulling pints for his enemies"
+                },
+                {
+                    "caption": "Campaigning for Climate the local library banquet"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "\"I'm incredibly proud to have been reselected as your Labour candidate for Leeds North West. After two years representing you in Parliament, I promise to continue the fight for the people of North West Leeds and our local area and I hope that you give me the opportunity to do so again.\""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 4,
+                "candidateAlone": 1,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Protecting local health services and the NHS, reversing cuts are key priorities.",
+                        "Improving services for his community, supporting investment in areas such as affordable housing.",
+                        "Detailed Transport Strategy for Leeds - alexsobel.co.uk/transportplan."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Protecting local health services and the NHS, reversing cuts are key priorities.",
+                        "Championing environmental issues on a long-term scale."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Alex's community dining in Yeadon.",
+                    "issueRelated": "Community Development"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Lib Dem Leader Jo Swinson voted to hike tution fees and is supported by research PR and companies pushing to privatise the NHS."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Lib Dem Leader Jo Swinson voted to hike tution fees and is supported by research PR and companies pushing to privatise the NHS."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "\"I'm incredibly proud to have been reselected as your Labour candidate for Leeds North West.\""
+                ]
+            }
+        }
+    }
+}

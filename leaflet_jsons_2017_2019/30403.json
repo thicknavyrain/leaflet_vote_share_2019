@@ -1,0 +1,176 @@
+{
+    "leaflet": {
+        "candidateName": "Dr Ian Duncan",
+        "candidateGender": "",
+        "constituency": "Perth and North Perthshire",
+        "politicalParty": "Scottish Conservative and Unionist",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Tory Revival on Course to Foil Independence",
+                "content": "Tory Revival on Course to Foil Independence. Sunday Times Scotland, 23 April 2017."
+            },
+            {
+                "title": "Your Scottish Conservative and Unionist Candidate for Perth and North Perthshire",
+                "content": "You have my guarantee that the Scottish Conservatives will oppose the SNP every step of the way."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stand firm against the SNP's plans for another divisive independence referendum",
+                "policyDescription": "Commitment to opposing another referendum on independence."
+            },
+            {
+                "policyTitle": "Campaign to rejuvenate Perth city centre",
+                "policyDescription": "Plans to improve and revitalize Perth city centre."
+            },
+            {
+                "policyTitle": "Work to improve broadband and mobile connectivity in rural Perthshire",
+                "policyDescription": "Improving broadband and mobile connectivity in rural areas."
+            },
+            {
+                "policyTitle": "Fight to strengthen our transport network including better rail links",
+                "policyDescription": "Strengthening the transport network with better rail links."
+            },
+            {
+                "policyTitle": "Ensure that Perthshire has a strong voice at the heart of Government",
+                "policyDescription": "Making sure Perthshire is well represented in government."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ian Duncan",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Ruth Davidson",
+            "tacticalSituation": "Only Ruth Davidson's Conservatives can take on the SNP here. Con 39%, SNP 34.4%, Lab 6.4%, LibDem 13.8%"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "Ensure that Perthshire has a strong voice at the heart of Government.",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Fight to strengthen our transport network including better rail links",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Campaign to rejuvenate Perth city centre.",
+                    "yimbyNimby": "YIMBY"
+                },
+                {
+                    "content": "Work to improve broadband and mobile connectivity in rural Perthshire.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "01738 553990",
+            "email": "ianduncan4pnp@gmail.com",
+            "website": "www.ianduncan4pnp.com",
+            "socialMedia": {
+                "facebook": "facebook.com/ianduncan4pnp",
+                "twitter": "twitter.com/ianduncan4pnp",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Ian Duncan, your candidate for Perth and North Perthshire."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Only Ruth Davidson's Conservatives can take on the SNP here. Con 39%, SNP 34.4%, Lab 6.4%, LibDem 13.8%"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Tory Revival on Course to Foil Independence",
+                        "You have my guarantee that the Scottish Conservatives will oppose the SNP every step of the way.",
+                        "Stand firm against the SNP's plans for another divisive independence referendum."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "Campaign to rejuvenate Perth city centre.",
+                        "Work to improve broadband and mobile connectivity in rural Perthshire.",
+                        "Fight to strengthen our transport network including better rail links.",
+                        "Ensure that Perthshire has a strong voice at the heart of Government."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Stand firm against the SNP's plans for another divisive independence referendum."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Stand firm against the SNP's plans for another divisive independence referendum."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

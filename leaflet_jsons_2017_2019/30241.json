@@ -1,0 +1,184 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "candidateGender": "Female",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "THERESA MAY'S PLAN FOR A STRONGER BRITAIN",
+                "content": "With a strong hand in Brexit negotiations, Theresa May can guarantee our economic security and deliver her plan that will:\n\n- Secure the best deal from Brexit to control our laws, borders and money.\n- Strike new trade deals for our goods and services with new friends and old partners around the world.\n- Back those who want to work hard, by helping businesses create more and better-paid jobs - with new rights and protections for workers.\n- Help more people have a home of their own by building more affordable houses.\n- Tackle the cost of living by capping rip-off energy tariffs and keeping taxes low.\n- Make sure every child gets the best start in life by increasing school funding every year, and provide real technical education for young people.\n- Increase the NHS's budget every year to ensure every family has the care they need, and we can pay for and provide care for the elderly.\n- Provide security for children online and ensure our personal data is protected in the digital age.\n- Protect our national security and defences by fighting terrorism and taking effective action against extremists."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Best Brexit deal and economic security",
+                "policyDescription": "Secure the best deal from Brexit to control our laws, borders and money. Strike new trade deals for our goods and services with new friends and old partners around the world."
+            },
+            {
+                "policyTitle": "Job creation and worker protections",
+                "policyDescription": "Back those who want to work hard, by helping businesses create more and better-paid jobs - with new rights and protections for workers."
+            },
+            {
+                "policyTitle": "Affordable housing",
+                "policyDescription": "Help more people have a home of their own by building more affordable houses."
+            },
+            {
+                "policyTitle": "Tackling the cost of living",
+                "policyDescription": "Tackle the cost of living by capping rip-off energy tariffs and keeping taxes low."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Make sure every child gets the best start in life by increasing school funding every year, and provide real technical education for young people."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Increase the NHS's budget every year to ensure every family has the care they need, and we can pay for and provide care for the elderly."
+            },
+            {
+                "policyTitle": "Online security and data protection",
+                "policyDescription": "Provide security for children online and ensure our personal data is protected in the digital age."
+            },
+            {
+                "policyTitle": "National security",
+                "policyDescription": "Protect our national security and defences by fighting terrorism and taking effective action against extremists."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Secure the best deal from Brexit to control our laws, borders and money.",
+            "defence": "Protect our national security and defences by fighting terrorism and taking effective action against extremists.",
+            "economy": "Secure the best deal from Brexit to control our laws, borders and money. Strike new trade deals for our goods and services with new friends and old partners around the world. Tackle the cost of living by capping rip-off energy tariffs and keeping taxes low.",
+            "education": "Make sure every child gets the best start in life by increasing school funding every year, and provide real technical education for young people.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Increase the NHS's budget every year to ensure every family has the care they need, and we can pay for and provide care for the elderly.",
+            "immigration": "",
+            "labourEmployment": "Back those who want to work hard, by helping businesses create more and better-paid jobs - with new rights and protections for workers.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Help more people have a home of their own by building more affordable houses.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": []
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Increase the NHS's budget every year.",
+                        "Make sure every child gets the best start in life by increasing school funding every year."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Protect our national security and defences by fighting terrorism and taking effective action against extremists."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Help more people have a home of their own by building more affordable houses."
+                    ]
+                },
+                "national": {
+                    "count": 8,
+                    "examples": [
+                        "Secure the best deal from Brexit to control our laws, borders and money.",
+                        "Strike new trade deals for our goods and services with new friends and old partners around the world.",
+                        "Back those who want to work hard, by helping businesses create more and better-paid jobs - with new rights and protections for workers.",
+                        "Tackle the cost of living by capping rip-off energy tariffs and keeping taxes low.",
+                        "Make sure every child gets the best start in life by increasing school funding every year, and provide real technical education for young people.",
+                        "Increase the NHS's budget every year to ensure every family has the care they need, and we can pay for and provide care for the elderly.",
+                        "Provide security for children online and ensure our personal data is protected in the digital age.",
+                        "Protect our national security and defences by fighting terrorism and taking effective action against extremists."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Chaotic, uncertain Brexit.",
+                        "Labour propped up by the SNP and minor parties."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn as Prime Minister."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn as Prime Minister."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

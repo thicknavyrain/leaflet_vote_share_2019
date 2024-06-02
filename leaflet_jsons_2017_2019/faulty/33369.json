@@ -1,0 +1,206 @@
+{
+    "leaflet": {
+        "candidateName": "Robin Millar",
+        "candidateGender": "",
+        "constituency": "Aberconwy",
+        "politicalParty": "Welsh Conservatives",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "",
+                "content": "Your local vote will decide the next Prime Minister. This election will be close. YOUR LOCAL VOTE will decide it."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "More funding available for schools across Wales",
+                "policyDescription": "Commitment to increasing funding for schools in Wales."
+            },
+            {
+                "policyTitle": "Extra 12 Billion for Welsh NHS",
+                "policyDescription": "A promise to allocate \u00a312 billion for the Welsh NHS."
+            },
+            {
+                "policyTitle": "20,000 extra police for safer streets",
+                "policyDescription": "Plan to recruit an additional 20,000 police officers."
+            },
+            {
+                "policyTitle": "\u00a3700 million to deliver Growth Deals across Wales",
+                "policyDescription": "Funding for economic growth and development across Wales."
+            },
+            {
+                "policyTitle": "\u00a31.2 billion extra in our Welsh NHS",
+                "policyDescription": "Additional \u00a31.2 billion funding for the NHS in Wales."
+            },
+            {
+                "policyTitle": "Cutting income tax for 32 million people",
+                "policyDescription": "Propose tax cuts for 32 million people."
+            },
+            {
+                "policyTitle": "Gigabit broadband for the whole country",
+                "policyDescription": "Broadband internet to be made available across the country."
+            }
+        ],
+        "mentions": {
+            "candidate": "Robin Millar",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn propped up by Nicola Sturgeon",
+            "partyLeader": "",
+            "tacticalSituation": "This election will be close."
+        },
+        "issues": {
+            "brexitEurope": [
+                "Brexit done with a deal."
+            ],
+            "defence": "",
+            "economy": [
+                "Cutting income tax for 32 million people.",
+                "\u00a3700 million to deliver Growth Deals across Wales."
+            ],
+            "education": [
+                "More funding available for schools across Wales."
+            ],
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": [
+                "\u00a312 billion for the Welsh NHS.",
+                "\u00a31.2 billion extra in our Welsh NHS."
+            ],
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": [
+                "20,000 extra police for safer streets."
+            ],
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "John Curtice",
+                "endorsement": "Polls teeter between hung parliament and slim Tory majority."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 4,
+                    "examples": [
+                        "\u00a312 billion for the Welsh NHS.",
+                        "20,000 extra police for safer streets.",
+                        "Cutting income tax for 32 million people.",
+                        "\u00a3700 million to deliver Growth Deals across Wales."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Your local vote will decide the next Prime Minister.",
+                        "This election will be close."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "More funding available for schools across Wales.",
+                        "\u00a3700 million to deliver Growth Deals across Wales."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Cutting income tax for 32 million people.",
+                        "20,000 extra police for safer streets.",
+                        "Gigabit broadband for the whole country."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "John Curtice: Polls teeter between hung parliament and slim Tory majority."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn propped up by Nicola Sturgeon.",
+                        "No action on our priorities."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn propped up by Nicola Sturgeon."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

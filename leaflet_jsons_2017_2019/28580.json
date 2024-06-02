@@ -1,0 +1,202 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "candidateGender": "female",
+        "constituency": "",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "STABILITY FOR BREXIT AND BEYOND",
+                "content": "Prime Minister Theresa May asks country for support to strengthen hand in Brexit negotiations and to lock in Britain\u2019s economic progress."
+            },
+            {
+                "title": "LET'S GET ON WITH THE JOB: WHY EVERY VOTE WILL COUNT",
+                "content": "It is cast for me and my team of Conservatives will vote for strong and stable leadership to see us through and beyond Brexit."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Stability for Brexit and beyond - Strengthening Britain's hand in Brexit negotiations."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Locking in economic progress for the future."
+            },
+            {
+                "policyTitle": "Immigration & Law",
+                "policyDescription": "Taking back control of our borders, our laws and our money."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Stability for Brexit and beyond.",
+            "defence": "",
+            "economy": "Locking in our economic progress so it can benefit the British people for the future",
+            "education": "A good school place for every child",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "A strong economy paying for a strong NHS",
+            "immigration": "Take back control of our borders",
+            "labourEmployment": "",
+            "lawCrime": "Take back control of our laws and our money",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Provide as much certainty as possible at every stage of the process.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "The only way you can ensure we have the strong and stable leadership to get this right is by backing me and voting for my Conservative candidate in your local area.",
+        "politicalExperience": [
+            {
+                "role": "Prime Minister",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Promoted by Sir Patrick McLoughlin on behalf of the Conservative Party, both at 4 Matthew Parker Street, London, SW1H 9HQ.",
+            "phone": "",
+            "email": "",
+            "website": "conservatives.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Every vote that is cast for me and my team of Conservatives will vote for strong and stable leadership to see us through and beyond Brexit.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May and supporters with 'Strong and Stable Leadership'"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Accused of plotting to make Jeremy Corbyn PM in return for IndyRef2 (telegraph.co.uk 20th April 2017)",
+                        "Labour plots Brexit deal with other parties if Tories don't win election majority (Mirror, 20th April 2017)",
+                        "In stunning upset, billionaire candidate scores shock White House victory (BBC, 5th November 2016)"
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Strong and stable leadership",
+                        "A good school place for every child",
+                        "A strong economy paying for a strong NHS",
+                        "Provide as much certainty as possible at every stage of the process"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Take back control of our borders",
+                        "Take back control of our laws and our money",
+                        "Sign new trade deals around the world with new friends and old partners"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Theresa May explaining why a vote is being held in five years.",
+                    "issueRelated": "Brexit, Leadership"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Labour plots Brexit deal with other parties if Tories don't win election majority",
+                        "Labour, the Lib Dems and the SNP disrupting Brexit negotiation."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn",
+                        "Jeremy Corbyn"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Labour Leader Jeremy Corbyn"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

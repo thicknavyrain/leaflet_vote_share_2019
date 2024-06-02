@@ -1,0 +1,200 @@
+{
+    "leaflet": {
+        "candidateName": "Paul Duffy",
+        "candidateGender": "",
+        "constituency": "Congleton",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "The Lib Dems Are Winning",
+                "content": "The Liberal Democrats have continued to grow following their stunning success at the local and European elections in May. Recent polls show support for the Liberal Democrats is now at record levels and Jo Swinson is the most popular party leader. MPs from Labour and the Conservatives are joining the Lib Dems, fed up with the broken politics the two old parties represent."
+            },
+            {
+                "title": "Demand Better For Britain",
+                "content": "Sign up here to support a Liberal Democrat government to deliver a brighter future for our country."
+            },
+            {
+                "title": "We Have A Clear Choice",
+                "content": "The Conservatives want to force through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom. Who knows where Jeremy Corbyn stands on Brexit? Labour now say they want to negotiate their own Brexit deal. A Liberal Democrat government led by Jo Swinson will stop Brexit on day one and get on with the job of improving people\u2019s lives."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Rebuild Our Economy",
+                "policyDescription": "The Liberal Democrats will build an economy that works for everyone."
+            },
+            {
+                "policyTitle": "Invest In Our NHS & Schools",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Tackle The Climate Emergency",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Paul Duffy",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The Conservatives want to force through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom. Who knows where Jeremy Corbyn stands on Brexit? Labour now say they want to negotiate their own Brexit deal.",
+            "defence": "",
+            "economy": "Recent polls show support for the Liberal Democrats is now at record levels. The Liberal Democrats will build an economy that works for everyone.",
+            "education": "",
+            "environment": "Tackle The Climate Emergency",
+            "governance": "",
+            "government": "",
+            "health": "Invest In Our NHS & Schools",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "Britain today is less fair than ever. People who work hard and play by the rules should be able to get on in life, but our failing politics means more and more people can't.",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "33 Rushton Drive, Middlewich, CW10 0NJ",
+            "phone": "",
+            "email": "",
+            "website": "www.congletonlibdems.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Jo Swinson",
+                "endorsement": "Jo Swinson will stop Brexit on day one and get on with the job of improving people\u2019s lives."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Recent polls show support for the Liberal Democrats is now at record levels.",
+                        "Jo Swinson is the most popular party leader."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "The Liberal Democrats have continued to grow following their stunning success at the local and European elections in May.",
+                        "MPs from Labour and the Conservatives are joining the Lib Dems, fed up with the broken politics the two old parties represent.",
+                        "A Liberal Democrat government led by Jo Swinson will stop Brexit on day one and get on with the job of improving people\u2019s lives.",
+                        "People who work hard and play by the rules should be able to get on in life, but our failing politics means more and more people can't.",
+                        "Britain today is less fair than ever."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "The Conservatives want to force through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom.",
+                        "Labour now say they want to negotiate their own Brexit deal.",
+                        "A Liberal Democrat government led by Jo Swinson will stop Brexit on day one and get on with the job of improving people\u2019s lives.",
+                        "The Liberal Democrats will build an economy that works for everyone."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Jo was Britain\u2019s youngest MP when she defeated Labour to win her seat in 2005. As a Business Minister between 2012-2015, she successfully introduced shared parental leave and clamped down on unscrupulous payday loan lenders.",
+                    "issueRelated": "labourEmployment"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Jo Swinson will stop Brexit on day one and get on with the job of improving people\u2019s lives."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "The Conservatives want to force through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom.",
+                        "Labour now say they want to negotiate their own Brexit deal."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Who knows where Jeremy Corbyn stands on Brexit?"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "Jo Swinson introduced shared parental leave and clamped down on unscrupulous payday loan lenders.",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

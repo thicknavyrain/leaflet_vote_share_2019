@@ -1,0 +1,185 @@
+{
+    "leaflet": {
+        "candidateName": "Robin Bennett",
+        "candidateGender": "",
+        "constituency": "Henley",
+        "politicalParty": "Green Party",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Robin says...",
+                "content": "I live locally with my wife and children, work as a musician and run a renewable-powered festival called Wood."
+            },
+            {
+                "title": "",
+                "content": "To shape an economy for everyone, to build affordable homes and provide properly funded public services. And to put a citizens' democracy and values through our politics."
+            },
+            {
+                "title": "",
+                "content": "If you agree with us, stand with us. The Conservatives think they have this election sewn up, but it's in your hands. Stand with us for housing, our NHS, our environment, for truth. We stand up for what matters. Vote Green Party on 8th June."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "To shape an economy for everyone."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "To build affordable homes and provide properly funded public services."
+            },
+            {
+                "policyTitle": "Democracy",
+                "policyDescription": "To put a citizens' democracy and values through our politics."
+            }
+        ],
+        "mentions": {
+            "candidate": "Robin Bennett",
+            "otherPartyLeaderCandidate": "The Conservatives think they have this election sewn up, but it's in your hands.",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "I feel very strongly about Brexit and its ramifications for young people, our environment, and the tone of our country. Every Green vote strengthens our hand in seeking a hard Brexit: reining in laws that protect our children and the natural world.",
+            "defence": "",
+            "economy": "To shape an economy for everyone.",
+            "education": "",
+            "environment": "Protect our environment.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I live locally with my wife and children, work as a musician and run a renewable-powered festival called Wood.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Every Green vote on 8th June will help make that vision a reality.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "southeast@greenparty.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "www.facebook.com/southeastgreens",
+                "twitter": "twitter.com/southeastgreens",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Your Green Party Candidate Robin Bennett, Green Party for the common good, stand up for what matters."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "I live locally with my wife and children, work as a musician and run a renewable-powered festival called Wood.",
+                        "I feel very strongly about Brexit and its ramifications for young people, our environment, and the tone of our country.",
+                        "To shape an economy for everyone.",
+                        "To build affordable homes and provide properly funded public services.",
+                        "To put a citizens' democracy and values through our politics.",
+                        "Every Green vote on 8th June will help make that vision a reality."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "I live locally with my wife and children, work as a musician and run a renewable-powered festival called Wood."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "To shape an economy for everyone."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I live locally with my wife and children, work as a musician and run a renewable-powered festival called Wood.",
+                    "issueRelated": "community development"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives think they have this election sewn up, but it's in your hands."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I live locally with my wife and children, work as a musician and run a renewable-powered festival called Wood.",
+                "employment": "I work as a musician.",
+                "education": "",
+                "family": "I live locally with my wife and children."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I live locally with my wife and children, work as a musician and run a renewable-powered festival called Wood."
+                ]
+            }
+        }
+    }
+}

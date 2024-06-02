@@ -1,0 +1,195 @@
+{
+    "leaflet": {
+        "candidateName": "Richard Benwell",
+        "candidateGender": "",
+        "constituency": "Wantage",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "We Deserve Better Than This Brexit Mess",
+                "content": "\"Millions of Tories will now vote Lib Dem because of Brexit\" - Former Conservative MP Michael Heseltine"
+            },
+            {
+                "title": "Stop Damaging Development",
+                "content": "New housing needs to be lower carbon and affordable... We let down future generations if new housing isn\u2019t built to the highest green standards."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "Oppose Brexit to build a future that will restore the country\u2019s leadership and prosperity."
+            },
+            {
+                "policyTitle": "Protect Community Hospitals",
+                "policyDescription": "Save our community hospitals and ensure local NHS funding."
+            },
+            {
+                "policyTitle": "Environmental Protection",
+                "policyDescription": "Stronger laws to stop climate change, promote sustainability, and protect the natural world."
+            }
+        ],
+        "mentions": {
+            "candidate": "Richard Benwell",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": "Labour can't win here"
+        },
+        "issues": {
+            "brexitEurope": "We deserve better than this Brexit mess.",
+            "defence": "",
+            "economy": "Liberal Democrats will build an economy that works for everyone, not just the privileged few.",
+            "education": "",
+            "environment": "Tackle the climate emergency.",
+            "governance": "",
+            "government": "",
+            "health": "Invest in schools and our NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Stop damaging development. New housing needs to be lower carbon and affordable.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Campaigner",
+                "duration": "",
+                "achievements": "Experience, passion, and determination. Leading environmentalist and campaigner with many years fighting for nature, wildlife, and green development."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "libdems.org.uk/plan",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Former Conservative MP Michael Heseltine",
+                "endorsement": "\"Millions of Tories will now vote Lib Dem because of Brexit\""
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Vote for a brighter future with the Liberal Democrats"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Residents showed their opposition to new developments across the Wantage constituency when they voted most Conservative Councillors out in last May\u2019s local elections.",
+                        "Result here at the 2019 Euro Election: Con 9%, Brexit 33%, LibDem 38%"
+                    ]
+                },
+                "qualitative": {
+                    "count": 7,
+                    "examples": [
+                        "We let down future generations if new housing isn\u2019t built to the highest green standards.",
+                        "Leading environmentalist and campaigner.",
+                        "Good quality, low-carbon, affordable housing.",
+                        "Stronger laws to stop climate change, promote sustainability, and protect the natural world.",
+                        "Labour cannot win here.",
+                        "Forcing an unsustainable development at Chalgrove.",
+                        "Taking action to build a future that works for everyone."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 6,
+                "candidateAlone": 2,
+                "candidateWithOthers": 4
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 5,
+                    "examples": [
+                        "Save our community hospitals.",
+                        "Stop damaging development.",
+                        "Help our market towns thrive.",
+                        "Local Lib Dem Richard Benwell",
+                        "Residents showed their opposition to new developments across the Wantage constituency when they voted most Conservative Councillors out in last May\u2019s local elections."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "We deserve better than this Brexit mess.",
+                        "Millions of Tories will now vote Lib Dem because of Brexit.",
+                        "Liberal Democrats will build an economy that works for everyone, not just the privileged few.",
+                        "Tackle the climate emergency."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "\"Millions of Tories will now vote Lib Dem because of Brexit\" - Former Conservative MP Michael Heseltine"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Stop damaging development."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "We deserve better than this Brexit mess.",
+                        "Tackle the climate emergency."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson leads most unpopular new government in 40 years."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "The only way to stop the Tories and beat Boris Johnson is to vote Liberal Democrat here."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Sign up to be among the first to see our full Plan for the Future at libdems.org.uk/plan",
+                "employment": "Leading environmentalist and campaigner",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Local Lib Dem Richard Benwell"
+                ]
+            }
+        }
+    }
+}

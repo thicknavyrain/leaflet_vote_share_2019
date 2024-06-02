@@ -1,0 +1,168 @@
+{
+    "leaflet": {
+        "candidateName": "Elizabeth Riches",
+        "candidateGender": "",
+        "constituency": "North East Fife",
+        "politicalParty": "Scottish Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Champion for our Communities",
+                "content": "Elizabeth Riches will fight the Tories' extreme Brexit and be a champion for our communities."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Pro-Europe Stance",
+                "policyDescription": "Elizabeth will be a pro-Europe MP, fighting to stop the Tories forcing us out of Europe under the worst conditions."
+            },
+            {
+                "policyTitle": "Investment in Education and Mental Health",
+                "policyDescription": "Elizabeth will campaign for investment in education and mental health."
+            }
+        ],
+        "mentions": {
+            "candidate": "Elizabeth Riches",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "North East Fife, a constituency where the Tory analysis showed the Liberal Democrats as runaway leaders in last Thursday's (Council election) voting."
+        },
+        "issues": {
+            "brexitEurope": "Elizabeth will be a pro-Europe MP, fighting to stop the Tories forcing us out of Europe under the worst conditions.",
+            "defence": "",
+            "economy": "",
+            "education": "Elizabeth will campaign for investment in education.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Elizabeth will campaign for investment in mental health.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Elizabeth Riches has a long record of fighting and delivering for people in North East Fife.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Only the Lib Dems can stop a hard Brexit",
+                "source": "The Times",
+                "date": "4th April 2017"
+            },
+            {
+                "text": "The Liberal Democrats could be the big winners.",
+                "source": "The Times",
+                "date": "21st March 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "North East Fife, a constituency where the Tory analysis showed the Liberal Democrats as runaway leaders in last Thursday's (Council election) voting."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Elizabeth has a long record of fighting and delivering for people in North East Fife.",
+                        "Elizabeth will campaign for investment in education and mental health."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 1,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Elizabeth Riches has a long record of fighting and delivering for people in North East Fife."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Elizabeth will be a pro-Europe MP, fighting to stop the Tories forcing us out of Europe under the worst conditions.",
+                        "Elizabeth will campaign for investment in education and mental health."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Elizabeth will be a pro-Europe MP, fighting to stop the Tories forcing us out of Europe under the worst conditions."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Elizabeth Riches will fight the Tories' extreme Brexit and be a champion for our communities."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Elizabeth has a long record of fighting and delivering for people in North East Fife.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Elizabeth has a long record of fighting and delivering for people in North East Fife."
+                ]
+            }
+        }
+    }
+}

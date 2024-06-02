@@ -1,0 +1,196 @@
+{
+    "leaflet": {
+        "candidateName": "Pauline Latham",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Only Conservatives Can Get Brexit Done",
+                "content": "We promise to end the uncertainty shrouding the country and lead us all to a great future outside of the EU."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Only Conservatives can get Brexit done. We promise to end the uncertainty shrouding the country and lead us all to a great future outside of the EU."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Fighting for the future of the NHS. Conservatives believe in supporting the NHS and investing in necessary infrastructure and resources."
+            },
+            {
+                "policyTitle": "Children and Education",
+                "policyDescription": "Giving children the best start. Policies are aimed at giving every child the best start in life, focusing on education and support for families."
+            }
+        ],
+        "mentions": {
+            "candidate": "Pauline Latham",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Only Conservatives can get Brexit done. We promise to end the uncertainty shrouding the country and lead us all to a great future outside of the EU.",
+            "defence": "",
+            "economy": "",
+            "education": "Giving children the best start. Policies are aimed at giving every child the best start in life, focusing on education and support for families.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Fighting for the future of the NHS. Conservatives believe in supporting the NHS and investing in necessary infrastructure and resources.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.paulinedatham.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Pauline Latham with a constituent."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "Only Conservatives can get Brexit done.",
+                        "We promise to end the uncertainty shrouding the country and lead us all to a great future outside of the EU.",
+                        "Fighting for the future of the NHS.",
+                        "Conservatives believe in supporting the NHS and investing in necessary infrastructure and resources.",
+                        "Giving children the best start.",
+                        "Policies are aimed at giving every child the best start in life, focusing on education and support for families."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Only Conservatives can get Brexit done.",
+                        "Fighting for the future of the NHS.",
+                        "Giving children the best start."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

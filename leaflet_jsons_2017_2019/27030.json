@@ -1,0 +1,166 @@
+{
+    "leaflet": {
+        "candidateName": "Frank Hindle",
+        "candidateGender": "",
+        "constituency": "Gateshead",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "Thursday June 8th 2017",
+        "messages": [
+            {
+                "title": "Frank Hindle",
+                "content": "A strong voice for Gateshead"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fighting against Hard Brexit",
+                "policyDescription": "Liberal Democrats will give you the final say on any Brexit deal."
+            },
+            {
+                "policyTitle": "Standing up for the NHS",
+                "policyDescription": "We need additional investment to provide the services it needs."
+            },
+            {
+                "policyTitle": "Opposing school cuts",
+                "policyDescription": "We will fight to reverse these cuts."
+            }
+        ],
+        "mentions": {
+            "candidate": "Frank Hindle",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The Conservative Party is now the party of extreme hard Brexit. Theresa May is determined to take Britain out of the single market.",
+            "defence": "",
+            "economy": "",
+            "education": "Opposing school cuts",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Standing up for the NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "FREEPOST RTLH-YRLJ-XUJK, Gateshead Liberal Democrats, Gateshead NE9 5YX",
+            "phone": "",
+            "email": "",
+            "website": "www.frankhindle.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Frank Hindle and Tim Farron's Liberal Democrats."
+                },
+                {
+                    "caption": "Frank Hindle"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservative Party is now the party of extreme hard Brexit."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservative Party is now the party of extreme hard Brexit."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "The Conservative Party is now the party of extreme hard Brexit.",
+                        "Jeremy Corbyn's Labour are backing the Conservative plan."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn's Labour are backing the Conservative plan."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn's Labour are backing the Conservative plan."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "STOP THE TORIES TODAY",
+                "content": "Say 'NO' to:\n- The \u2018Dementia Tax\u2019 that punishes the elderly and the sick\n- Cuts to schools that mean less teachers and bigger classes\n- More privatisation of the NHS and healthcare in crisis"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Dementia Tax",
+                "policyDescription": "Say 'NO' to the \u2018Dementia Tax\u2019 that punishes the elderly and the sick."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Say 'NO' to cuts to schools that mean less teachers and bigger classes."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Say 'NO' to more privatisation of the NHS and healthcare in crisis."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Tories",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Cuts to schools that mean less teachers and bigger classes.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "More privatisation of the NHS and healthcare in crisis.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "STOP THE TORIES TODAY"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "The \u2018Dementia Tax\u2019 that punishes the elderly and the sick",
+                        "Cuts to schools that mean less teachers and bigger classes",
+                        "More privatisation of the NHS and healthcare in crisis"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "The \u2018Dementia Tax\u2019 that punishes the elderly and the sick",
+                        "Cuts to schools that mean less teachers and bigger classes",
+                        "More privatisation of the NHS and healthcare in crisis"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "The \u2018Dementia Tax\u2019 that punishes the elderly and the sick",
+                        "Cuts to schools that mean less teachers and bigger classes",
+                        "More privatisation of the NHS and healthcare in crisis"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Stop the Tories today"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

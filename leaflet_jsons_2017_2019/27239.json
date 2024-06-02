@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "Robert Wood",
+        "candidateGender": "",
+        "constituency": "Yeovil",
+        "politicalParty": "Green Party",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Robert Says...",
+                "content": "I have lived in or near Yeovil all my life. I have put myself forward as a candidate as I am concerned that the area is not being represented properly in Westminster. Like many others, I think the cuts to our schools, hospitals and social care are causing real pressure and hardship. We should be investing in these vital services. This is why we pay our taxes: so that everyone can have the health and social care they need, so that all our children and young people can receive a quality education and achieve their maximum potential. There are other parties who will say 'Don't waste your vote.' For me, a wasted vote is when you use it to vote for someone or something you don't want or truly believe in. If you believe in protecting the environment for our children, fighting for our NHS, and want a fairer and more just society, please don't waste your vote: Vote Green Party on June 8th."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Invest in schools to ensure quality education for all children and young people."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "Invest in health and social care services to meet the needs of everyone."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Protect the environment and build sustainable homes while providing properly funded public services."
+            }
+        ],
+        "mentions": {
+            "candidate": "Robert Wood",
+            "otherPartyLeaderCandidate": "the Conservatives",
+            "partyLeader": "",
+            "tacticalSituation": "The Conservatives think they have this election sewn up."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Cuts to schools causing pressure and hardship.",
+            "environment": "Protecting the environment for children, building affordable homes, preserving a safe environment.",
+            "governance": "",
+            "government": "",
+            "health": "Cuts to hospitals causing pressure and hardship. Fighting for the NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Cuts to social care causing pressure and hardship.",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "I have lived in or near Yeovil all my life.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Green Party, Cherry Tree Cottage, Hardington Mandeville, Yeovil, BA22 9PQ",
+            "phone": "",
+            "email": "greenyeovilnv@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "ssgreenparty",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Robert Wood"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "I have lived in or near Yeovil all my life.",
+                        "I am concerned that the area is not being represented properly in Westminster.",
+                        "Like many others, I think the cuts to our schools, hospitals and social care are causing real pressure and hardship.",
+                        "Vote Green Party on June 8th."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "This is why we pay our taxes: so that everyone can have the health and social care they need, so that all our children and young people can receive a quality education and achieve their maximum potential."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "The Green Party offers a different kind of politics.",
+                        "Only the Green Party has the vision to deliver an alternative future for our country, and our place in the world.",
+                        "Every Green vote on 8th June will help make that vision a reality."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I have lived in or near Yeovil all my life.",
+                    "issueRelated": "localness"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "The Conservatives think they have this election sewn up.",
+                        "There are other parties who will say 'Don't waste your vote.' For me, a wasted vote is when you use it to vote for someone or something you don't want or truly believe in."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 2,
+                    "examples": [
+                        "The Conservatives think they have this election sewn up.",
+                        "There are other parties who will say 'Don't waste your vote.' For me, a wasted vote is when you use it to vote for someone or something you don't want or truly believe in."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I have lived in or near Yeovil all my life.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I have lived in or near Yeovil all my life."
+                ]
+            }
+        }
+    }
+}

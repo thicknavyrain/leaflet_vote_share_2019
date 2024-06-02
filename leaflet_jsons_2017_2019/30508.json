@@ -1,0 +1,173 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Westhoughton North and Chew Moor",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "WESTHOUGHTON BYPASS PROPOSED",
+                "content": "Plans have been laid before Bolton Council for a feasibility study into a new Westhoughton Bypass. This is something residents have been requesting for many years to relieve the heavy traffic clogging up the area around Chequerbent and down Park Road. We are seeking your views as local residents as to what you think of this idea."
+            },
+            {
+                "title": "WESTHOUGHTON TOWN HALL",
+                "content": "As part of the budget process, \u00a32.5 million was allocated to the refurbishment of the Town Hall. The initial stages were completed under the last administration. We did however put forward an alternative investment proposal that would not have involved the spending of this \u00a31 million at this time."
+            },
+            {
+                "title": "MORE COUNCIL TAX RISES ON THE WAY",
+                "content": "The Labour Party in Bolton passed a budget in February to increase Council Tax by 4.8%. Three times higher than the rate in 1998. Council Tax has doubled in the past twenty years to a whopping 32%."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Westhoughton Bypass",
+                "policyDescription": "Feasibility study into a new bypass to relieve heavy traffic in Westhoughton."
+            },
+            {
+                "policyTitle": "Westhoughton Town Hall",
+                "policyDescription": "Refurbishment of Town Hall with an alternative investment proposal."
+            },
+            {
+                "policyTitle": "Council Tax",
+                "policyDescription": "Opposing the Labour Party's budget increase in Council Tax by 4.8%."
+            }
+        ],
+        "mentions": {
+            "candidate": "Cllr Morgan Cox with Chris Green MP",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Protecting our Greenbelt",
+            "governance": "",
+            "government": "More Council Tax Rises On The Way",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Westhoughton Bypass",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Refurbishment of the Town Hall",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "chris@chris-green.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Cllr Morgan Cox with Chris Green MP at the Chequerbent Roundabout"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "\u00a32.5 million was allocated for the refurbishment of the Town Hall.",
+                        "Council Tax increase by 4.8%.",
+                        "Council Tax has doubled in the past twenty years to a whopping 32%."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "This is something residents have been requesting for many years.",
+                        "This proposal has to be said may well be a double edged sword.",
+                        "They have no strategy or plans to improve our road."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 5,
+                "candidateAlone": 0,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Westhoughton Bypass",
+                        "Westhoughton Town Hall",
+                        "Council Tax"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Labour Party in Bolton passed a budget in February to increase Council Tax by 4.8%"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn Watch"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

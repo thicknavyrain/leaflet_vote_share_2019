@@ -1,0 +1,216 @@
+{
+    "leaflet": {
+        "candidateName": "Amanda Solloway",
+        "candidateGender": "",
+        "constituency": "Derby North",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": "Standing with Theresa May"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Leadership",
+                "policyDescription": "Provide strong and stable leadership for our country."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Get the best Brexit deal possible to deliver economic security for our future."
+            },
+            {
+                "policyTitle": "Family Support",
+                "policyDescription": "Always stand up for you and your family."
+            },
+            {
+                "policyTitle": "Standards in Schools",
+                "policyDescription": "Work to drive up standards in local schools."
+            },
+            {
+                "policyTitle": "Crime and Anti-social Behaviour",
+                "policyDescription": "Tackle crime and anti-social behaviour."
+            },
+            {
+                "policyTitle": "Community Work",
+                "policyDescription": "Continue to work here in Derby North and be your voice in Westminster."
+            }
+        ],
+        "mentions": {
+            "candidate": "Amanda Solloway",
+            "otherPartyLeaderCandidate": {
+                "content": "",
+                "source": "",
+                "date": ""
+            },
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": {
+                "content": "Get the best Brexit deal possible to deliver economic security for our future.",
+                "examples": [
+                    "Backing the Prime Minister's plan to make a success of Brexit so our local economy can continue to prosper."
+                ]
+            },
+            "defence": "",
+            "economy": "",
+            "education": {
+                "content": "Work to drive up standards in local schools.",
+                "examples": [
+                    "Standards in local schools."
+                ]
+            },
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": {
+                "content": "",
+                "examples": []
+            },
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": {
+                "content": "Tackle crime and anti-social behaviour.",
+                "examples": [
+                    "Anti-social behaviour."
+                ]
+            },
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Continue to work here in Derby North as well as being your voice in Westminster.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "2b Chippets Street, Spondon, Derby DE21 7JP",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Theresa May",
+                "endorsement": "Give me and my candidate your vote on Thursday 8th June and I will provide strong and stable leadership for our country."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Give me and my candidate your vote on Thursday 8th June and I will provide strong and stable leadership for our country.",
+                "source": "Theresa May",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Amanda Solloway standing with Theresa May."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": []
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Provide strong and stable leadership for our country.",
+                        "Always stand up for you and your family.",
+                        "Continue to work here in Derby North and be your voice in Westminster."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Work to drive up standards in local schools.",
+                        "Continue to work here in Derby North and be your voice in Westminster."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Provide strong and stable leadership for our country.",
+                        "Get the best Brexit deal possible to deliver economic security for our future.",
+                        "Always stand up for you and your family."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Amanda Solloway standing with Theresa May.",
+                    "issueRelated": "Leadership"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Theresa May endorses Amanda Solloway."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Continue to work here in Derby North.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Continue to work here in Derby North."
+                ]
+            }
+        }
+    }
+}

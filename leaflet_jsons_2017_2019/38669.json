@@ -1,0 +1,188 @@
+{
+    "leaflet": {
+        "candidateName": "David Watts",
+        "candidateGender": "",
+        "constituency": "Newark and Southwell",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "November 2019",
+        "messages": [
+            {
+                "title": "The choice in Newark will be between Remain or Leave",
+                "content": "The Lib Dems have led the fight locally and nationally against Brexit"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "A Lib Dem majority Government would revoke Article 50 and stop Brexit. Shutting down Parliament was undemocratic. Trying to force through a sham deal without scrutiny sidelined Parliament. Revoking Brexit will be catastrophic for the NHS, jobs and public services."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Tackling climate change is more urgent than stopping Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Watts, Parliamentary candidate for Newark, said: \u2018Use your vote to stop Brexit. Vote Liberal Democrat.\u2019",
+            "otherPartyLeaderCandidate": "Prime Minister Boris Johnson backed by Nigel Farage and Jacob Rees-Mogg.",
+            "partyLeader": "Jo Swinson and David Watts",
+            "tacticalSituation": "In the EU elections the Lib Dems polled double the Labour vote in Newark and Sherwood."
+        },
+        "issues": {
+            "brexitEurope": "Prime Minister Boris Johnson backed by Nigel Farage and Jacob Rees-Mogg want to do an ideal Brexit costing this country. Revoking Brexit will be catastrophic for the NHS, jobs and public services.",
+            "defence": "",
+            "economy": "We want Britain to remain in the EU because it's best for our economy.",
+            "education": "",
+            "environment": "It's best for our economy, fighting climate change, protecting our rights and public services.",
+            "governance": "",
+            "government": "",
+            "health": "Revoking Brexit will be catastrophic for the NHS.",
+            "immigration": "",
+            "labourEmployment": "In Newark the Liberal Democrats are the strongest Remain party and the best placed to stop Brexit.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Parliamentary candidate for Newark",
+                "duration": "",
+                "achievements": "I've led opposition to Brexit for over three years."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.newarklibdems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "The EU elections",
+                "endorsement": "The Lib Dems polled double the Labour vote in Newark and Sherwood."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Use your vote to stop Brexit. Vote Liberal Democrat.",
+                "source": "David Watts",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Jo Swinson and David Watts"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "In the EU elections the Lib Dems polled double the Labour vote in Newark and Sherwood."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "The Lib Dems have led the fight locally and nationally against Brexit",
+                        "Revoking Brexit will be catastrophic for the NHS, jobs and public services.",
+                        "We want Britain to remain in the EU because it's best for our economy.",
+                        "Prime Minister Boris Johnson backed by Nigel Farage and Jacob Rees-Mogg."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "The Lib Dems have led the fight locally and nationally against Brexit."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Revoking Brexit will be catastrophic for the NHS, jobs and public services."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I've led opposition to Brexit for over three years.",
+                    "issueRelated": "Brexit"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "In the EU elections the Lib Dems polled double the Labour vote in Newark and Sherwood."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Revoking Brexit will be catastrophic for the NHS, jobs and public services."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Prime Minister Boris Johnson backed by Nigel Farage and Jacob Rees-Mogg."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

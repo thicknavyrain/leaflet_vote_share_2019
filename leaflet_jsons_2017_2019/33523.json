@@ -1,0 +1,172 @@
+{
+    "leaflet": {
+        "candidateName": "Lee Dillon",
+        "candidateGender": "",
+        "constituency": "Newbury and West Berkshire",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Focus",
+                "content": "The choice is clear for Newbury and West Berkshire. If Farage and Banks can back the Tories, can you?"
+            },
+            {
+                "title": "",
+                "content": "\"On the doorstep, people are telling me that politics is in a mess - they don't know who to trust and that our country has become a laughing-stock. The government has failed them, their country, and stolen their future.\""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "You care about the environment and want to tackle the climate emergency."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "You want to see greater investment in the NHS, mental health services and social care."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "You want investment in education for your children."
+            }
+        ],
+        "mentions": {
+            "candidate": "Lee Dillon, Parliamentary Candidate for Newbury and West Berkshire",
+            "otherPartyLeaderCandidate": "Nigel Farage and Aaron Banks",
+            "partyLeader": "",
+            "tacticalSituation": "West Berkshire voted to remain in the EU. All Pro-EU alliance groups are backing Lee."
+        },
+        "issues": {
+            "brexitEurope": "West Berkshire voted to remain in the EU. All Pro-EU alliance groups are backing Lee.",
+            "defence": "",
+            "economy": "",
+            "education": "You want investment in education for your children.",
+            "environment": "You care about the environment and want to tackle the climate emergency.",
+            "governance": "",
+            "government": "",
+            "health": "You want to see greater investment in the NHS, mental health services and social care.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.leedillon.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@leejrdillon",
+                "instagram": "@CllrLeeDillon",
+                "linkedin": "@lrjdillon"
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Lee Dillon"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "\"On the doorstep, people are telling me that politics is in a mess - they don't know who to trust and that our country has become a laughing-stock. The government has failed them, their country, and stolen their future.\"",
+                        "You care about the environment and want to tackle the climate emergency."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "They want to know why Nigel Farage and Aaron Banks, who bank-rolled the corrupt Vote Leave campaign and now promote the LeaveAlliance, are able to shape the Conservative party in their own image."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "On the doorstep, people are telling me that politics is in a mess - they don't know who to trust and that our country has become a laughing-stock."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

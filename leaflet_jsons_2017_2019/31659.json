@@ -1,0 +1,193 @@
+{
+    "leaflet": {
+        "candidateName": "Rod Cantrell",
+        "candidateGender": "",
+        "constituency": "Cambridge",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Dear Friend,\nI love living in Cambridge. It's been my home for over 30 years... [text truncated for brevity]"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stopping Brexit",
+                "policyDescription": "Stopping Brexit is the number one priority."
+            },
+            {
+                "policyTitle": "Climate Crisis",
+                "policyDescription": "Combat the climate crisis."
+            },
+            {
+                "policyTitle": "NHS and Schools",
+                "policyDescription": "We must rescue our NHS and invest in our schools."
+            }
+        ],
+        "mentions": {
+            "candidate": "Rod Cantrell",
+            "otherPartyLeaderCandidate": "residents tell me that they cannot vote for a Labour MP whose party leader refuses to back Remain.",
+            "partyLeader": "",
+            "tacticalSituation": "The polls show that I can win here in Cambridge, but we all know elections are unpredictable so every vote will count."
+        },
+        "issues": {
+            "brexitEurope": "Stopping Brexit is the number one priority.\n...make sure that in Westminster, you have an MP whose whole party stands resolutely for Remain.",
+            "defence": "",
+            "economy": "",
+            "education": "We must rescue our NHS and invest in our schools.",
+            "environment": "We must combat the climate crisis.",
+            "governance": "",
+            "government": "",
+            "health": "We must rescue our NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "I will fight for both our rail.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "We've made lots of memories here, like trips with the kids to Midsummer Fair or watching the Christmas lights being switched on in the Market Square",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "The polls show that I can win here in Cambridge, but we all know elections are unpredictable so every vote will count."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Stopping Brexit is my number one priority.",
+                        "We must rescue our NHS and invest in our schools.",
+                        "We must combat the climate crisis."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "I will fight for both our rail."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Stopping Brexit is my number one priority.",
+                        "We must rescue our NHS and invest in our schools.",
+                        "We must combat the climate crisis."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "We've made lots of memories here, like trips with the kids to Midsummer Fair or watching the Christmas lights being switched on in the Market Square.",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "residents tell me that they cannot vote for a Labour MP whose party leader refuses to back Remain."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "residents tell me that they cannot vote for a Labour MP whose party leader refuses to back Remain."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "residents tell me that they cannot vote for a Labour MP whose party leader refuses to back Remain."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I love living in Cambridge. It's been my home for over 30 years... [text truncated for brevity]",
+                "employment": "",
+                "education": "",
+                "family": "It's where my wife, Eilis, and I first met and chose to put down roots."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I love living in Cambridge. It's been my home for over 30 years.\nIt's where my wife, Eilis, and I first met and chose to put down roots."
+                ]
+            }
+        }
+    }
+}

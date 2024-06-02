@@ -1,0 +1,155 @@
+{
+    "leaflet": {
+        "candidateName": "Tony Miklinski",
+        "constituency": "North East Fife",
+        "politicalParty": "Scottish Conservative and Unionist Party",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "A MESSAGE FROM RUTH DAVIDSON",
+                "content": "Only one vote on Thursday 8th June can beat the SNP in North East Fife and stop the threat of a second independence referendum \u2013 a vote for the Scottish Conservative and Unionist Party."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop second independence referendum",
+                "policyDescription": "A vote for the Scottish Conservative and Unionist Party will stop the threat of a second independence referendum."
+            }
+        ],
+        "mentions": {
+            "candidate": "Tony Miklinski",
+            "otherPartyLeaderCandidate": "SNP",
+            "partyLeader": "Nicola Sturgeon",
+            "tacticalSituation": "Only one vote on Thursday 8th June can beat the SNP in North East Fife and stop the threat of a second independence referendum."
+        },
+        "issues": {
+            "government": "A vote for the Scottish Conservative and Unionist Party will stop the threat of a second independence referendum.",
+            "governance": "Your vote won\u2019t just decide who represents the people of North East Fife in Parliament, it will also be an opportunity to send the clearest message possible to Nicola Sturgeon and the SNP that we don\u2019t want another independence referendum.",
+            "community": [
+                {
+                    "content": "In communities the length of Scotland, Scottish Conservatives were elected to serve local people and stand up to the SNP.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "contactInformation": {
+            "address": "Promoted by G. Caroll, on behalf of T. Miklinski, both of Haig House, Balgonie Road, Markinch, Fife KY7 6AQ. Printed by Hill & Hay Ltd, 58 Rogart Street, Glasgow G40 2AA."
+        },
+        "endorsements": [
+            {
+                "endorser": "Ruth Davidson",
+                "endorsement": "I'm asking you to vote for my candidate, Tony Miklinski."
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Ruth Davidson in support of Tony Miklinski"
+                }
+            ]
+        },
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "The latest Scottish opinion polls are clear (Sunday Times Scotland, 23 April 2016): SNP 44%, Con 33%, Lab 13%, Lib Dem 5%."
+                    ]
+                },
+                "qualitative": {
+                    "count": 8,
+                    "examples": [
+                        "Only one vote on Thursday 8th June can beat the SNP in North East Fife and stop the threat of a second independence referendum.",
+                        "Don\u2019t take my word for it, just look at the results of the Scottish Council elections earlier this month.",
+                        "We won\u2019t let you down.",
+                        "It\u2019s because the stakes are now so high.",
+                        "3 things to remember before you vote on Thursday 8th June.",
+                        "Scottish politics has changed in the last year.",
+                        "8th June is our opportunity to fight back against the SNP.",
+                        "All the polls and pundits are clear. It\u2019s the Scottish Conservatives who can beat the SNP here."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "In communities the length of Scotland, Scottish Conservatives were elected to serve local people and stand up to the SNP."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "stop the threat of a second independence referendum",
+                        "send the clearest message possible to Nicola Sturgeon and the SNP that we don\u2019t want another independence referendum"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "And it\u2019s because the stakes are now so high that I\u2019m asking you to vote Scottish Conservative at the General Election on 8th June.",
+                    "issueRelated": "government"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Ruth Davidson in support of Tony Miklinski."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "If she gets her way, the years ahead will be filled with all the uncertainty and division that most people just want to put behind us.",
+                        "I know that many people will be voting early by post, and if you are one of them I am asking you to vote for my candidate, Tony Miklinski.",
+                        "Nicola Sturgeon says another independence referendum is \u2018at the heart\u2019 of the General Election on 8th June."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Nicola Sturgeon."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "If she gets her way, the years ahead will be filled with all the uncertainty and division that most people just want to put behind us."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Your vote won\u2019t just decide who represents the people of North East Fife in Parliament."
+                ]
+            }
+        }
+    }
+}

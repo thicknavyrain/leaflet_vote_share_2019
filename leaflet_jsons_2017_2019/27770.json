@@ -1,0 +1,186 @@
+{
+    "leaflet": {
+        "candidateName": "Anna McMorrin",
+        "candidateGender": "",
+        "constituency": "Cardiff North",
+        "politicalParty": "Welsh Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "FIGHTING FOR OUR FUTURE",
+                "content": "This is an election like no other. People are angry at the Tory cuts and being ignored by a Tory Government that has no regard for the people of Cardiff and Wales. We have repeatedly seen them trying to block Welsh Labour\u2019s extra funding for our schools and NHS."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Preventing Tory Cuts",
+                "policyDescription": "Repeated opposition to Tory Government cutting funding for Welsh schools and NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "As your Welsh Labour MP for Cardiff North, I will stand up for Cardiff and Wales.",
+            "otherPartyLeaderCandidate": "Craig Williams",
+            "partyLeader": "",
+            "tacticalSituation": "ONLY WELSH LABOUR CAN STAND UP TO THE TORIES"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Welsh Labour\u2019s extra funding for our schools.",
+            "environment": "",
+            "governance": "",
+            "government": "We have had enough of this regressive Tory Government cutting our public services.",
+            "health": "Welsh Labour\u2019s extra funding for our NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Standing up for Cardiff North.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Candidate",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Labour Government of Wales",
+                "endorsement": "Working alongside the Welsh Labour Government in Wales."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "This is an election like no other.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Anna McMorrin with Welsh Labour Leader."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Craig Williams voted to cut \u00a31 billion funding for Wales."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "This is an election like no other.",
+                        "We need change."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 2,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Standing up for Cardiff North."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Prevent Tory Government from cutting funding.",
+                        "Welsh Labour\u2019s commitment to schools.",
+                        "Welsh Labour\u2019s commitment to NHS."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Working alongside the Welsh Labour Government in Wales."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "FIGHTING FOR OUR FUTURE.",
+                        "We have had enough of this regressive Tory Government cutting our public services.",
+                        "They have repeatedly tried to block Welsh Labour\u2019s funding for schools and NHS."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Craig Williams voted to cut \u00a31 billion funding for Wales."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "A strong voice for Cardiff North.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "A strong voice for Cardiff North."
+                ]
+            }
+        }
+    }
+}

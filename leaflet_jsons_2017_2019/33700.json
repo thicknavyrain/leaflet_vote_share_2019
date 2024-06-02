@@ -1,0 +1,230 @@
+{
+    "leaflet": {
+        "candidateName": "Aaron Bell",
+        "candidateGender": "",
+        "constituency": "Newcastle-under-Lyme",
+        "politicalParty": "Conservative Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "A prescription for a stronger NHS",
+                "content": "With a majority government that can get Brexit done, we can take back control of our borders. That means we can introduce an Australian-style points-based immigration system. Taking pressure off our public services."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "New NHS visa for the world's best doctors and nurses",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "50 million extra GP surgery appointments",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "6,000 more doctors",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "\u00a333.9 billion extra in funding",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "300 new MRI machines, CT scanners and breast-screening machines",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "50,000 more nurses",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "40 new hospitals and 20 hospital upgrades",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Clamp down on health tourism",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Aaron Bell",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "With Brexit done, we can take back control of our borders.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "A prescription for a stronger NHS",
+            "immigration": "Australian-style points-based immigration system.",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "A new NHS visa for the world's best doctors and nurses",
+                "source": "",
+                "date": ""
+            },
+            {
+                "text": "50 million extra GP surgery appointments",
+                "source": "",
+                "date": ""
+            },
+            {
+                "text": "6,000 more doctors",
+                "source": "",
+                "date": ""
+            },
+            {
+                "text": "\u00a333.9 billion extra in funding",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 5,
+                    "examples": [
+                        "50 million extra GP surgery appointments",
+                        "6,000 more doctors",
+                        "\u00a333.9 billion extra in funding",
+                        "300 new MRI machines, CT scanners and breast-screening machines",
+                        "50,000 more nurses"
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Taking pressure off our public services."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "With a majority government that can get Brexit done, we can take back control of our borders.",
+                        "A prescription for a stronger NHS",
+                        "An immigration system that takes pressure off our NHS"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Our public services can't afford Jeremy Corbyn's economic policies"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Nancy Platts has repeatedly voted against measures to stop hospital closures."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "leaflet": {
+        "candidateName": "John Leech",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "I'm just a normal mum, I live just down the road, but I really want to share my story. Mikey, my boy in the picture, was born in March 2012. From the moment I went into labour it was clear there was something wrong. By the time he was three days old, Mike had been diagnosed with Congenital Cytomegalovirus. He was treated with chemotherapy drugs for the first months of his life in an attempt to reduce the harm, including saving his hearing."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "John Leech",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "He\u2019d been made aware of a specialist treatment, with 100% success in getting kids like Mike to feed orally. However, treatment wasn\u2019t available on the NHS. It was a complicated process to apply for, even my GP didn\u2019t know how to do it.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Mikey's first day! 01/07/15"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "He was treated with chemotherapy drugs for the first months of his life in an attempt to reduce the harm, including saving his hearing."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Every professional I tried he just wouldn\u2019t take. The local health team just told me to get on with it but he wasn\u2019t tolerant of me just poking him with food, hoping that finally he\u2019d take some."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "He\u2019d been made aware of a specialist treatment, with 100% success in getting kids like Mike to feed orally. However, treatment wasn\u2019t available on the NHS."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I'm just a normal mum, I live just down the road, but I really want to share my story. Mikey, my boy in the picture, was born in March 2012. From the moment I went into labour it was clear there was something wrong. By the time he was three days old, Mike had been diagnosed with Congenital Cytomegalovirus. He was treated with chemotherapy drugs for the first months of his life in an attempt to reduce the harm, including saving his hearing.",
+                    "issueRelated": "health"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "He\u2019d been made aware of a specialist treatment, with 100% success in getting kids like Mike to feed orally. However, treatment wasn\u2019t available on the NHS."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I'm writing to you because I want everyone to know what John did for us."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "leaflet": {
+        "candidateName": "LAURA FARRIS",
+        "candidateGender": "",
+        "constituency": "Leyton & Wanstead",
+        "politicalParty": "Conservatives",
+        "electionDate": "THURSDAY 8th JUNE",
+        "messages": [
+            {
+                "title": "",
+                "content": "An independently minded MP with a track record of tackling injustice and standing up for aspiring working people."
+            },
+            {
+                "title": "",
+                "content": "A working mum of two young kids with a particular focus on education and good quality, affordable child care."
+            },
+            {
+                "title": "",
+                "content": "Committed to defending local services, championing local businesses and keeping taxes fair."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Education and Child Care",
+                "policyDescription": "Focus on education and good quality, affordable child care."
+            },
+            {
+                "policyTitle": "Local Services and Businesses",
+                "policyDescription": "Committed to defending local services and championing local businesses."
+            },
+            {
+                "policyTitle": "Taxation",
+                "policyDescription": "Committed to keeping taxes fair."
+            }
+        ],
+        "mentions": {
+            "candidate": "LAURA FARRIS",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "THERESA MAY",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Focus on education and good quality, affordable child care.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Committed to defending local services, championing local businesses and keeping taxes fair.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "An independently minded MP with a track record of tackling injustice and standing up for aspiring working people.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "An independently minded MP with a track record of tackling injustice and standing up for aspiring working people.",
+                        "A working mum of two young kids with a particular focus on education and good quality, affordable child care.",
+                        "Committed to defending local services, championing local businesses and keeping taxes fair."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Committed to defending local services, championing local businesses and keeping taxes fair.",
+                        "An independently minded MP with a track record of tackling injustice and standing up for aspiring working people."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "A working mum of two young kids with a particular focus on education and good quality, affordable child care."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": "A working mum of two young kids."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Committed to defending local services, championing local businesses and keeping taxes fair."
+                ]
+            }
+        }
+    }
+}

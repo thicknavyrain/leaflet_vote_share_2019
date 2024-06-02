@@ -1,0 +1,202 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Want to give our NHS the support it needs?",
+                "content": "The Liberal Democrats are the only party with a fully costed plan to give our NHS the full investment it needs to survive. By raising tax by just one penny the Lib Dems will give our doctors and nurses \u00a36 billion extra each year to protect our vital health services. This is your one chance to change the direction of the country - and get a positive future for our NHS."
+            },
+            {
+                "title": "Too weak and too divided to stand up for us",
+                "content": "Jeremy Corbyn is one of the worst-performing leaders we've had in decades. Corbyn\u2019s shambolic Labour are not able to stand up to Theresa May."
+            },
+            {
+                "title": "The choice in this election is clear:",
+                "content": "CHANGE BRITAIN\u2019S FUTURE WITH THE LIB DEMS OR MORE DIVISION, WEAKNESS & FAILURE WITH CORBYN'S LABOUR."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "The Liberal Democrats plan an extra \u00a36 billion for the NHS by raising income tax by one penny."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The Liberal Democrats propose to raise income tax by one penny to provide the NHS with an extra \u00a36 billion annually.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "LibDems.org.uk/FutureOfOurNHS",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Jeremy Corbyn is one of the worst-performing leaders we've had in decades.",
+                "source": "Labour MP Emma Lewell Buck",
+                "date": ""
+            },
+            {
+                "text": "We cannot fight and win with Jeremy as our leader.",
+                "source": "Labour MP Jack Dromey",
+                "date": ""
+            },
+            {
+                "text": "Labour is not a functioning opposition, leaving Theresa May free to act as she pleases.",
+                "source": "Observer, 25 Feb 2017",
+                "date": "25 Feb 2017"
+            },
+            {
+                "text": "Labour is resigned to oblivion as Jeremy Corbyn is too weak to lead.",
+                "source": "Telegraph, 1 Jan 2017",
+                "date": "1 Jan 2017"
+            },
+            {
+                "text": "Nurses will see their pay cut by 12% over a decade.",
+                "source": "The Observer, 30 April 2017",
+                "date": "30 April 2017"
+            },
+            {
+                "text": "Schools face the worst funding cuts in 20 years",
+                "source": "The Mirror, 17 March 2017",
+                "date": "17 March 2017"
+            },
+            {
+                "text": "Corbyn is leader of the opposition in name only",
+                "source": "New Statesman, 19 March 2017",
+                "date": "19 March 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Lib Dems plan extra \u00a36billion for our NHS."
+                },
+                {
+                    "caption": "Under threat"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Nurses will see their pay cut by 12% over a decade.",
+                        "Schools face the worst funding cuts in 20 years"
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Jeremy Corbyn is one of the worst-performing leaders we've had in decades.",
+                        "We cannot fight and win with Jeremy as our leader.",
+                        "Labour is not a functioning opposition, leaving Theresa May free to act as she pleases.",
+                        "Labour is resigned to oblivion as Jeremy Corbyn is too weak to lead.",
+                        "Corbyn is leader of the opposition in name only"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": []
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Health - The Liberal Democrats propose to raise income tax by one penny to provide the NHS with an extra \u00a36 billion annually."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Nurses will see their pay cut by 12% over a decade.",
+                        "Schools face the worst funding cuts in 20 years"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 4,
+                    "examples": [
+                        "Jeremy Corbyn is one of the worst-performing leaders we've had in decades.",
+                        "We cannot fight and win with Jeremy as our leader.",
+                        "Labour is resigned to oblivion as Jeremy Corbyn is too weak to lead.",
+                        "Corbyn is leader of the opposition in name only."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Labour is not a functioning opposition, leaving Theresa May free to act as she pleases."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

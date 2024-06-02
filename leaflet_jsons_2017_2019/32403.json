@@ -1,0 +1,169 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Lib Dems",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Vote to End This Mess",
+                "content": "Only the Lib Dems can beat Labour here"
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "Only the Lib Dems can beat Labour here"
+        },
+        "issues": {
+            "brexitEurope": "\"Jeremy Corbyn refused NINE TIMES to say whether he thought Britain should leave the EU or remain.\" \"Labour is proposing to negotiate a new deal with the European Union.\" \"Labour is not a Remain party\"",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "\"Jeremy Corbyn refused NINE TIMES to say whether he thought Britain should leave the EU or remain.\"",
+                "source": "The Telegraph",
+                "date": "November 2019"
+            },
+            {
+                "text": "\"Labour is proposing to negotiate a new deal with the European Union.\"",
+                "source": "The Times",
+                "date": "November 2019"
+            },
+            {
+                "text": "\"Labour is not a Remain party\"",
+                "source": "Len McCluskey",
+                "date": "November 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "\"Jeremy Corbyn refused NINE TIMES to say whether he thought Britain should leave the EU or remain.\""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "\"Labour is proposing to negotiate a new deal with the European Union.\"",
+                        "\"Labour is not a Remain party\""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Only the Lib Dems can beat Labour here"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "\"Jeremy Corbyn refused NINE TIMES to say whether he thought Britain should leave the EU or remain.\"",
+                        "\"Labour is proposing to negotiate a new deal with the European Union.\"",
+                        "\"Labour is not a Remain party\""
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Only the Lib Dems can beat Labour here"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "\"Labour is proposing to negotiate a new deal with the European Union.\""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "\"Jeremy Corbyn refused NINE TIMES to say whether he thought Britain should leave the EU or remain.\""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "\"Labour is not a Remain party\""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "\"Jeremy Corbyn refused NINE TIMES to say whether he thought Britain should leave the EU or remain.\""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

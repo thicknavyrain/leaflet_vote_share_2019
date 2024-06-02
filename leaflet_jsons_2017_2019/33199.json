@@ -1,0 +1,185 @@
+{
+    "leaflet": {
+        "candidateName": "Ben Sims",
+        "candidateGender": "",
+        "constituency": "Leyton & Wanstead",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "On 12th December",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Ben wants to stop Brexit by any means so that we can move on to fighting the inequality that caused Brexit."
+            },
+            {
+                "policyTitle": "Community Engagement",
+                "policyDescription": "Ben understands the needs of our diverse community and will be an MP who listens to concerns face-to-face."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Ben is campaigning against cuts to schools and listens to resident\u2019s concerns."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ben Sims",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Ben wants to stop Brexit by any means so that we can move on to fighting the inequality that caused Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "Ben is campaigning against cuts to schools.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Ben understands the needs of our diverse community and will be an MP who listens to concerns face-to-face.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Ms McCarthy",
+                "endorsement": "Ben will deliver an exit from Brexit."
+            },
+            {
+                "endorser": "Mr Angus",
+                "endorsement": "Ben is a tireless worker for change."
+            },
+            {
+                "endorser": "Mr Pallet",
+                "endorsement": "An MP who listens."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Ben Sims with residents."
+                },
+                {
+                    "caption": "Ben Sims with promotional material."
+                },
+                {
+                    "caption": "Ben Sims portrait."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Ben wants to stop Brexit by any means.",
+                        "Ben is a tireless worker for change."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Ben understands the needs of our diverse community.",
+                        "Ben is campaigning against cuts to schools."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Ben wants to stop Brexit by any means."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 3,
+                "examples": [
+                    "Ms McCarthy: Ben will deliver an exit from Brexit.",
+                    "Mr Angus: Ben is a tireless worker for change.",
+                    "Mr Pallet: An MP who listens."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

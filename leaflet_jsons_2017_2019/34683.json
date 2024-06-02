@@ -1,0 +1,185 @@
+{
+    "leaflet": {
+        "candidateName": "Daniel Zeichner",
+        "candidateGender": "",
+        "constituency": "Cambridge",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12 December",
+        "messages": [
+            {
+                "title": "A brighter future with Labour",
+                "content": ""
+            },
+            {
+                "title": "The Road to Remain",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Remain in the EU",
+                "policyDescription": "I always have and always will vote to keep the UK in the EU."
+            },
+            {
+                "policyTitle": "Public Services",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "People's Vote",
+                "policyDescription": "Labour has a manifesto pledge to legislate for the People's Vote."
+            },
+            {
+                "policyTitle": "Government Change",
+                "policyDescription": "What we need is a change of Government."
+            }
+        ],
+        "mentions": {
+            "candidate": "Daniel Zeichner",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "Keir Starmer",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "I always have and always will vote to keep the UK in the EU.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "tackle the climate emergency",
+            "governance": "",
+            "government": "What we need is a change of Government.",
+            "health": "doctors booed Boris Johnson out of Addenbrooke's: they know what it is like on the front line.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "public services",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I have been your MP for four years \u2014 all of them in opposition.",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "four years",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "I have been your MP for four years \u2014 all of them in opposition."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "What we need is a change of Government.",
+                        "tackle the climate emergency",
+                        "doctors booed Boris Johnson out of Addenbrooke's: they know what it is like on the front line."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "I always have and always will vote to keep the UK in the EU.",
+                        "doctors booed Boris Johnson out of Addenbrooke's: they know what it is like on the front line.",
+                        "What we need is a change of Government."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "doctors booed Boris Johnson out of Addenbrooke's: they know what it is like on the front line."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "What we need is a change of Government."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "doctors booed Boris Johnson out of Addenbrooke's: they know what it is like on the front line."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "A Brighter Future for Our Mental Health Services",
+                "content": "The NHS may be the envy of the world, but our mental health service is not. People are struggling. When they turn for help, it is often not there. Waiting times for mental health services are, on average, 14 weeks - just for an assessment - before support and care has even begun. Problems that can start small, become crises as help is either not available, or arrives late. The Liberal Democrats have a plan to tackle this. They have pledged to ringfence funding investment into services. They will also ensure services run 24 hours a day, seven days a week. The Liberal Democrats will increase mental health staffing and will ensure that, by 2025, 100% of children and young people with diagnosable conditions get NHS treatment."
+            },
+            {
+                "title": "... Funded by the Remain Bonus",
+                "content": "People are fed up with the Brexit chaos. It has become a national embarrassment. Both Boris Johnson's Conservative party and Jeremy Corbyn's Labour party are determined to pursue Brexit. But whether it's a Conservative or a Labour Brexit it would be catastrophic for the UK. A vote for the Liberal Democrats is a vote to stop Brexit. Stopping Brexit means that we can focus on tackling the big issues facing the UK right now. Our economy will grow more quickly, providing a Remain Bonus that we will invest in our public services. Once we stop Brexit, we can build a brighter future where we tackle the climate emergency and properly fund schools and the NHS, and create opportunity for all."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Mental Health Services",
+                "policyDescription": "Investing in mental health services by ensuring services run 24/7, increasing mental health staffing, and guaranteeing NHS treatment for 100% of children and young people with diagnosable conditions by 2025."
+            },
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "Stopping Brexit to focus on and tackle key issues facing the UK, grow the economy, and invest in public services."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": "A vote for the Liberal Democrats is a vote to stop Brexit."
+        },
+        "issues": {
+            "brexitEurope": "Stopping Brexit means that we can focus on tackling the big issues facing the UK right now.",
+            "defence": "",
+            "economy": "Our economy will grow more quickly, providing a Remain Bonus that we will invest in our public services.",
+            "education": "",
+            "environment": "Once we stop Brexit, we can build a brighter future where we tackle the climate emergency and properly fund schools and the NHS, and create opportunity for all.",
+            "governance": "",
+            "government": "",
+            "health": "The NHS may be the envy of the world, but our mental health service is not. People are struggling. When they turn for help, it is often not there. Waiting times for mental health services are, on average, 14 weeks - just for an assessment - before support and care has even begun. Problems that can start small, become crises as help is either not available, or arrives late. The Liberal Democrats have a plan to tackle this. They have pledged to ringfence funding investment into services. They will also ensure services run 24 hours a day, seven days a week. The Liberal Democrats will increase mental health staffing and will ensure that, by 2025, 100% of children and young people with diagnosable conditions get NHS treatment.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "People are fed up with the Brexit chaos. It has become a national embarrassment. Both Boris Johnson's Conservative party and Jeremy Corbyn's Labour party are determined to pursue Brexit."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Waiting times for mental health services are, on average, 14 weeks."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "People are fed up with the Brexit chaos. It has become a national embarrassment.",
+                        "Once we stop Brexit, we can build a brighter future."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "The Liberal Democrats have a plan to tackle mental health services.",
+                        "Stopping Brexit means that we can focus on tackling the big issues facing the UK right now."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "People are fed up with the Brexit chaos. It has become a national embarrassment. Both Boris Johnson's Conservative party and Jeremy Corbyn's Labour party are determined to pursue Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn's Labour party are determined to pursue Brexit."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

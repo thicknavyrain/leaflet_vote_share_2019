@@ -1,0 +1,194 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Ryan",
+    "candidateGender": "",
+    "constituency": "Putney",
+    "politicalParty": "Liberal Democrats",
+    "electionDate": "",
+    "messages": [
+      {
+        "title": "Getting to know Ryan",
+        "content": "I grew up living around the UK as my Dad was an RAF Fireman. My dad was ultimately medically discharged due to depression and my younger brother has autism, so I am no stranger to mental health services."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Ryan's priorities for Putney",
+        "policyDescription": "Opposing a 3rd runway at Heathrow; Improving transport links on bus routes, South West trains and the District Line; Working with local businesses to reduce business rates and save our local shops; Fixing Putney High Street's Air pollution."
+      }
+    ],
+    "mentions": {
+      "candidate": "Ryan",
+      "otherPartyLeaderCandidate": "Nigel Farage",
+      "partyLeader": "Theresa May",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "My priorities for the country... I will fight for Britain to remain as close to the European Union as possible, including within the Single Market and Customs Union. \nThat's why we think you should have the final say on whether Theresa May's Brexit deal is right for you and your family.",
+      "defence": "",
+      "economy": "Working with local businesses to reduce business rates and save our local shops.",
+      "education": "I studied History at the University of Leicester. After I left, I worked for two years as a Caseworker, helping vulnerable people pursue cases with local councils and Government departments, including problems with housing, asylum and mental health services.\nI was the National Policy Officer representing young people in the Liberal Democrats, used expertise to contribute to the 2015 manifesto on mental health, housing and higher education.",
+      "environment": "Opposing a 3rd runway at Heathrow; Fixing Putney High Street's Air pollution.",
+      "governance": "",
+      "government": "",
+      "health": "My Dad was ultimately medically discharged due to depression and my younger brother has autism, so I am no stranger to mental health services.",
+      "immigration": "",
+      "labourEmployment": "I worked for two years as a Caseworker, helping vulnerable people pursue cases with local councils and Government departments, including problems with housing, asylum and mental health services.",
+      "lawCrime": "",
+      "transport": "Improving transport links on bus routes, South West trains and the District Line.",
+      "socialWelfare": "",
+      "community": [
+        {
+          "content": "Fixing Putney High Street's Air pollution.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I was the first in my family to go to university where I joined the Liberal Democrats, as I believe in creating a society where everyone has the chance to fulfil their potential. I now work with Education charities, to ensure other young people have the same opportunities.",
+    "politicalExperience": [
+      {
+        "role": "National Policy Officer representing young people in the Liberal Democrats",
+        "duration": "",
+        "achievements": "Used expertise to contribute to the 2015 manifesto on mental health, housing and higher education."
+      }
+    ],
+    "contactInformation": {
+      "address": "Whitlock Drive, London, SW19 6SJ",
+      "phone": "07376 8970280",
+      "email": "putney@wandsworthlibdems.org.uk",
+      "website": "LibDems.org.uk/Single-Market",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [
+      {
+        "text": "Justine Greening, the education secretary, is one of the cabinet ministers most at risk on June 8. Putney boasted the second highest Remain vote in the EU referendum, rendering it at risk of a Lib Dem sway.",
+        "source": "The Times",
+        "date": "April 19, 2017"
+      },
+      {
+        "text": "“Theresa May says she will take the UK into the hardest of Brexits.”",
+        "source": "The Independent",
+        "date": "January 17, 2017"
+      },
+      {
+        "text": "\"Lib Dems are anti-Brexit, Remain very, so for all the above reasons voters should pick the local option to make sure their vote goes to the candidate in favour of Britain's future.\"",
+        "source": "BBC",
+        "date": "April 19, 2017"
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "",
+    "analysis": {
+      "statementAnalysis": {
+        "quantitative": {
+          "count": 1,
+          "examples": [
+            "Putney boasted the second highest Remain vote in the EU referendum."
+          ]
+        },
+        "qualitative": {
+          "count": 6,
+          "examples": [
+            "I was the first in my family to go to university.",
+            "I believe in creating a society where everyone has the chance to fulfil their potential.",
+            "I now work with Education charities, to ensure other young people have the same opportunities.",
+            "Britain needs a real opposition to dangerous Brexit.",
+            "Fixing Putney High Street's air pollution.",
+            "Improving transport links on bus routes, South West trains and the District Line."
+          ]
+        }
+      },
+      "photoAnalysis": {
+        "localPlaces": 1,
+        "people": 4,
+        "candidateAlone": 2,
+        "candidateWithOthers": 2
+      },
+      "issueFocus": {
+        "local": {
+          "count": 2,
+          "examples": [
+            "Fixing Putney High Street's air pollution.",
+            "Working with local businesses to reduce business rates and save our local shops."
+          ]
+        },
+        "national": {
+          "count": 2,
+          "examples": [
+            "I will fight for Britain to remain as close to the European Union as possible.",
+            "My priorities for the country."
+          ]
+        }
+      }
+    },
+    "personalStories": [],
+    "endors
+
+ementsUsed": {
+        "count": 0,
+        "examples": [
+          ""
+        ]
+    },
+    "negativeMessaging": {
+      "localIssues": {
+        "count": 1,
+        "examples": [
+          "Justine Greening, the education secretary, is one of the cabinet ministers most at risk on June 8."
+        ]
+      },
+      "nationalIssues": {
+        "count": 2,
+        "examples": [
+          "Britain needs a real opposition to dangerous Brexit.",
+          "The Conservatives are now no different to UKIP."
+        ]
+      },
+      "leaderOfOpponentsParty": {
+        "count": 1,
+        "examples": [
+          "Theresa May is hand in hand with Trump and Farage on Brexit."
+        ]
+      },
+      "oppositeCandidateNoName": {
+        "count": 0,
+        "examples": [
+          ""
+        ]
+      },
+      "oppositeCandidateWithName": {
+        "count": 1,
+        "examples": [
+          "\"Justine Greening, the education secretary, is one of the cabinet ministers most at risk on June 8.\""
+        ]
+      }
+    },
+    "nonPolicyAttributes": {
+      "localness": "",
+      "employment": "",
+      "education": "I studied History at the University of Leicester.",
+      "family": "I grew up living around the UK as my Dad was an RAF Fireman."
+    },
+    "localCandidate": {
+      "isLocal": true,
+      "examples": [
+        "Fixing Putney High Street's Air pollution.",
+        "Working with local businesses to reduce business rates and save our local shops."
+      ]
+    }
+  }
+}
+```

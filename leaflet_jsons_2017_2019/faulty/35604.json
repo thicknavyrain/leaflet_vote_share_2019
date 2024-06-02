@@ -1,0 +1,160 @@
+{
+    "leaflet": {
+        "candidateName": "Mike Smithson",
+        "candidateGender": "",
+        "constituency": "York Outer",
+        "politicalParty": "",
+        "electionDate": "12th December",
+        "messages": [
+            {
+                "title": "",
+                "content": "The election in York Outer is between the Conservatives and the Liberal Democrats."
+            },
+            {
+                "title": "",
+                "content": "I take polls seriously, having earned my living by cutting through the spin to see what the data really says. I set up Britain's first political betting website in 2004 and have spent the past 15 years analysing what voters are saying."
+            },
+            {
+                "title": "",
+                "content": "When looking at the recent election polls one thing is clear - this General Election is going to be a memorable one."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Mike Smithson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "From the analysis I've done, the data gives us a good idea of the choice people face on Thursday 12th December - Tactical website from Best for Britain, www.getvoting.org, shows that nearly 200 seats across the UK could be decided by Labour supporters voting tactically for the Liberal Democrats."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Polling and Elections Expert",
+                "duration": "15 years",
+                "achievements": "Set up Britain's first political betting website in 2004"
+            }
+        ],
+        "contactInformation": "",
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "I'm not here to tell you who to vote for, but I hope this information is useful to you when making a decision in this election.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Tactical website from Best for Britain, www.getvoting.org, shows that nearly 200 seats across the UK could be decided by Labour supporters voting tactically for the Liberal Democrats.",
+                        "I set up Britain's first political betting website in 2004."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "When looking at the recent election polls one thing is clear - this General Election is going to be a memorable one."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "The election in York Outer is between the Conservatives and the Liberal Democrats."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Tactical website from Best for Britain, www.getvoting.org, shows that nearly 200 seats across the UK could be decided by Labour supporters voting tactically for the Liberal Democrats.",
+                        "Whether the Conservative or the Liberal Democrat wins will come down to how many Labour supporters lend their vote to the Liberal Democrats."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "The election in York Outer is between the Conservatives and the Liberal Democrats.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

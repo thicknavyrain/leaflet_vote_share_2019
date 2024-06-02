@@ -1,0 +1,191 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Welsh Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "3 good reasons to vote Welsh Liberal Democrats",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "For a different type of MP",
+                "policyDescription": "Liberal Democrat MPs are community champions who always put their local communities first. They stay rooted in the local community and listen to your concerns."
+            },
+            {
+                "policyTitle": "Fighting against an extreme Brexit",
+                "policyDescription": "Theresa May is pushing for the extreme Brexit that UKIP want. Wales depends on trade with Europe and access to the Single Market. An extreme Brexit will further divide communities and families, leading to fewer jobs, rising prices, and higher rents and mortgages."
+            },
+            {
+                "policyTitle": "More money for Wales' NHS",
+                "policyDescription": "Under the Conservatives, the NHS is having to do more and more with less and less. The Liberal Democrats are the only party prepared to invest in the NHS and are clear on where the money is coming from. A 1p rise in income tax will raise \u00a3300m every year for Wales to spend on the NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Theresa May is pushing for the extreme Brexit that UKIP want. Wales depends on trade with Europe and access to the Single Market.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Under the Conservatives, the NHS is having to do more and more with less and less. The Liberal Democrats are the only party prepared to invest in the NHS and are clear on where the money is coming from. A 1p rise in income tax will raise \u00a3300m every year for Wales to spend on the NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Wales has a long history of electing hard-working liberal MPs who put people before party politics. They stay rooted in the local community and listen to your concerns.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "A 1p rise in income tax will raise \u00a3300m every year for Wales to spend on the NHS."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Liberal Democrat MPs are community champions who always put their local communities first.",
+                        "Wales has a long history of electing hard-working liberal MPs who put people before party politics. They stay rooted in the local community and listen to your concerns."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Wales has a long history of electing hard-working liberal MPs who put people before party politics. They stay rooted in the local community and listen to your concerns."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Theresa May is pushing for the extreme Brexit that UKIP want. Wales depends on trade with Europe and access to the Single Market.",
+                        "Under the Conservatives, the NHS is having to do more and more with less and less. The Liberal Democrats are the only party prepared to invest in the NHS and are clear on where the money is coming from."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Wales has a long history of electing hard-working liberal MPs who put people before party politics. They stay rooted in the local community and listen to your concerns.",
+                    "issueRelated": "Community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Under the Conservatives, the NHS is having to do more and more with less and less. The Liberal Democrats are the only party prepared to invest in the NHS and are clear on where the money is coming from."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May is pushing for the extreme Brexit that UKIP want. Wales depends on trade with Europe and access to the Single Market."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Wales has a long history of electing hard-working liberal MPs who put people before party politics. They stay rooted in the local community and listen to your concerns.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Wales has a long history of electing hard-working liberal MPs who put people before party politics. They stay rooted in the local community and listen to your concerns."
+                ]
+            }
+        }
+    }
+}

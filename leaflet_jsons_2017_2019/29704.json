@@ -1,0 +1,164 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "I\u2019LL STAND UP FOR BRITAIN",
+                "content": "As your Prime Minister, leading these negotiations at this crucial time in our country's history, I'll stand up for Britain and fight to guarantee our nation's economic security, our national security and our place in the world."
+            },
+            {
+                "title": "STAND WITH ME TO HELP STRENGTHEN MY BREXIT HAND",
+                "content": "I'll stand up for Britain, and I'm asking you to stand with me to help strengthen my hand."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economic Security",
+                "policyDescription": "Guarantee our nation's economic security, securing better-paying jobs for people in Thornbury and Yate."
+            },
+            {
+                "policyTitle": "Immigration Control",
+                "policyDescription": "Controlling and reducing the number of people who come to Britain when we leave the EU."
+            },
+            {
+                "policyTitle": "Health and Education",
+                "policyDescription": "Invest in NHS, good school place for every child and real technical education for more young people."
+            },
+            {
+                "policyTitle": "Affordable Homes",
+                "policyDescription": "Help local families with action to cap unfair energy price rises, introduce new rights and protections for workers and help more people have a home of their own by building more affordable homes."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "European Union, Brexit",
+            "defence": "",
+            "economy": "Economic security, better-paying jobs, strong economy",
+            "education": "Good school place for every child, real technical education for more young people",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Strong NHS",
+            "immigration": "Controlling and reducing the number of people who come to Britain when we leave the EU",
+            "labourEmployment": "Better-paying jobs",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Help local families with action to cap unfair energy price rises, introduce new rights and protections for workers and help more people have a home of their own by building more affordable homes.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "The consequences for everyone in Britain and everyone here in Thornbury and Yate will be serious \u2013 with fewer jobs, a weaker economy and a threat to the funding of our vital public services."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Just 11 days after you vote, the Prime Minister of the United Kingdom will start negotiations with the European Union to secure the best possible deal from Brexit.",
+                        "Theresa May called this unique and crucial election to secure strong and stable leadership."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": []
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Controlling and reducing the number of people who come to Britain when we leave the EU."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The consequences for everyone in Britain and everyone here in Thornbury and Yate will be serious \u2013 with fewer jobs, a weaker economy and a threat to the funding of our vital public services."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "You can vote for me or Jeremy Corbyn."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

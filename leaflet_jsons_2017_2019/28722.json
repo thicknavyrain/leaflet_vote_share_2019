@@ -1,0 +1,175 @@
+{
+    "leaflet": {
+        "candidateName": "Mark Williams",
+        "candidateGender": "",
+        "constituency": "Ceredigion",
+        "politicalParty": "Welsh Liberal Democrats",
+        "electionDate": "2015",
+        "messages": [
+            {
+                "title": "Off to a flying start...",
+                "content": "The strong, experienced, local, choice for Ceredigion. An MP who works hard for you all year round."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A Promise of More",
+                "policyDescription": "Mark will continue to fight for what is best for Ceredigion, ensuring local businesses, farmers, and universities are not damaged by losing European funding and guaranteeing the rights of European residents. Opposing cuts to local services and pressing for investment in health, education, broadband, and public transport."
+            }
+        ],
+        "mentions": {
+            "candidate": "Mark Williams",
+            "otherPartyLeaderCandidate": "Plaid",
+            "partyLeader": "",
+            "tacticalSituation": "In Ceredigion, it's a 2 horse race between Mark and Plaid. The other parties are far behind. They can't win here."
+        },
+        "issues": {
+            "brexitEurope": "He has voted in Parliament to protect local people from savage benefit cuts and the threat of a 'Hard Brexit'.",
+            "defence": "",
+            "economy": "He will campaign to ensure that local businesses, farmers, and universities are not damaged by losing European funding and to guarantee the rights of European residents living in our communities.",
+            "education": "",
+            "environment": "Environmental protection for Cardigan Bay.",
+            "governance": "",
+            "government": "Mark has been a strong voice for local people in Parliament, always putting Ceredigion and its people first.",
+            "health": "He\u2019s held debates, challenged the Government and taken the voices of Ceredigion to the heart of Westminster - the future of Bronglais Hospital.",
+            "immigration": "",
+            "labourEmployment": "Mark has championed local businesses. He has also ensured local businesses and tourism are protected.",
+            "lawCrime": "",
+            "transport": "Aberystwyth-Carmarthen rail link, S4C funding.",
+            "socialWelfare": "Protect local people from savage benefit cuts.",
+            "community": [
+                {
+                    "content": "Mark holds regular surgeries, is rooted in local communities and has a real record of success.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP for Ceredigion",
+                "duration": "Over 10 years",
+                "achievements": "Mark has helped thousands of local people from all over the County with concerns ranging from potholes to pensions and has campaigned relentlessly on local issues."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "The General Election result last time in 2015: LIB DEM 13,414, PC 10,347, CON 4,123, UKIP 3,829, Lab 3,617, Grn 2,088."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Off to a flying start...",
+                        "The strong, experienced, local, choice for Ceredigion.",
+                        "An MP who works hard for you all year round.",
+                        "Mark has been a strong voice for local people in Parliament, and always puts Ceredigion and its people first.",
+                        "In uncertain times, Mark will continue to fight for what is best for Ceredigion."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 5,
+                    "examples": [
+                        "Mark has championed local businesses, food and tourism.",
+                        "Aberystwyth-Carmarthen rail link.",
+                        "S4C funding.",
+                        "Environmental protection for Cardigan Bay.",
+                        "Regular surgeries, rooted in local communities."
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "The future of Bronglais Hospital.",
+                        "Broadband.",
+                        "Public transport.",
+                        "Health.",
+                        "He\u2019s held debates, challenged the Government and taken the voices of Ceredigion to the heart of Westminster."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Mark holds regular surgeries, is rooted in local communities and has a real record of success.",
+                    "issueRelated": "Community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "He has voted in Parliament to protect local people from savage benefit cuts and the threat of a 'Hard Brexit'."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "In Ceredigion, it's a 2 horse race between Mark and Plaid."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Rooted in local communities.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Rooted in local communities.",
+                    "The strong, experienced, local, choice for Ceredigion."
+                ]
+            }
+        }
+    }
+}

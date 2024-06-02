@@ -1,0 +1,195 @@
+{
+    "leaflet": {
+        "candidateName": "Philip Davies",
+        "candidateGender": "",
+        "constituency": "Shipley",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "my plan for the Shipley constituency",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "MORE POLICE FUNDING",
+                "policyDescription": "Philip has been a constant supporter of the police and is pleased the Government announced an extra 20,000 police officers."
+            },
+            {
+                "policyTitle": "LEAVE BRADFORD COUNCIL",
+                "policyDescription": "The Shipley constituency is getting an unfair deal from Bradford Council. Philip has launched a campaign to break away from Bradford Council."
+            },
+            {
+                "policyTitle": "GET BREXIT DONE",
+                "policyDescription": "The constituency voted to leave and Philip continues to work hard to ensure the vote is delivered."
+            },
+            {
+                "policyTitle": "SECURING SHIPLEY EASTERN BYPASS",
+                "policyDescription": "Philip has secured a feasibility study and an intention from the Government to pay for the bypass."
+            },
+            {
+                "policyTitle": "MORE SCHOOL FUNDING",
+                "policyDescription": "Schools getting the most generous boost in funding is in part tribute to Philip's hard work, according to the Schools Minister."
+            },
+            {
+                "policyTitle": "TOUGHER CRIMINAL SENTENCES",
+                "policyDescription": "Philip believes prisoners should serve their sentences in full."
+            }
+        ],
+        "mentions": {
+            "candidate": "Philip",
+            "otherPartyLeaderCandidate": "Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "At the end of this election, we\u2019ll either get a Conservative majority \u2013 or a hung parliament."
+        },
+        "issues": {
+            "brexitEurope": "The constituency voted to leave and Philip continues to work hard to ensure the vote is delivered.",
+            "defence": "",
+            "economy": "",
+            "education": "Schools getting the most generous boost in funding is in part tribute to Philip's hard work, according to the Schools Minister.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Philip has secured a feasibility study and an intention from the Government to pay for the bypass.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "The Shipley constituency is getting an unfair deal from Bradford Council. Philip has launched a campaign to break away from Bradford Council.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Polls teeter between hung parliament and slim Tory majority",
+                "source": "John Curtice",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "an extra 20,000 police officers"
+                    ]
+                },
+                "qualitative": {
+                    "count": 8,
+                    "examples": [
+                        "Philip has been a constant supporter of the police",
+                        "Philip has launched a campaign to break away from Bradford Council.",
+                        "Philip continues to work hard to ensure the vote is delivered.",
+                        "Philip has secured a feasibility study",
+                        "Schools getting the most generous boost in funding",
+                        "Philip's hard work",
+                        "Philip believes prisoners should serve their sentences in full.",
+                        "we\u2019ll either get a Conservative majority \u2013 or a hung parliament."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "The Shipley constituency is getting an unfair deal from Bradford Council.",
+                        "Philip has launched a campaign to break away from Bradford Council."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "The constituency voted to leave and Philip continues to work hard to ensure the vote is delivered.",
+                        "Schools getting the most generous boost in funding is in part tribute to Philip's hard work, according to the Schools Minister."
+                    ]
+                }
+            }
+        },
+        "personalStories": [],
+        "endorsementsUsed": {
+            "count": 0,
+            "examples": [
+                ""
+            ]
+        },
+        "negativeMessaging": {
+            "localIssues": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "nationalIssues": {
+                "count": 1,
+                "examples": [
+                    "At the end of this election, we\u2019ll either get a Conservative majority \u2013 or a hung parliament."
+                ]
+            },
+            "leaderOfOpponentsParty": {
+                "count": 1,
+                "examples": [
+                    "With Corbyn propped up by parties like the Scottish Nationalists."
+                ]
+            },
+            "oppositeCandidateNoName": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "oppositeCandidateWithName": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            }
+        },
+        "nonPolicyAttributes": {
+            "localness": "",
+            "employment": "",
+            "education": "",
+            "family": ""
+        },
+        "localCandidate": {
+            "isLocal": true,
+            "examples": [
+                "Philip has launched a campaign to break away from Bradford Council.",
+                "The constituency voted to leave and Philip continues to work hard to ensure the vote is delivered."
+            ]
+        }
+    }
+}

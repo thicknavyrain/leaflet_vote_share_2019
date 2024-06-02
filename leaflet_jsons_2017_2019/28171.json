@@ -1,0 +1,183 @@
+{
+    "leaflet": {
+        "candidateName": "Anna McMorrin",
+        "candidateGender": "",
+        "constituency": "Cardiff North",
+        "politicalParty": "Welsh Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "My Pledges to You",
+                "content": "I will fight to protect our local public services, defend our NHS and our schools. I will be a strong voice standing up to protect pensioners' incomes and campaigning for a \u00a310 minimum wage, jobs and prosperity."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protect Public Services",
+                "policyDescription": "Fight to protect our local public services, defend our NHS and schools."
+            },
+            {
+                "policyTitle": "Protect Pensioners' Incomes",
+                "policyDescription": "Standing up to protect pensioners' incomes and campaigning for a \u00a310 minimum wage, jobs, and prosperity."
+            },
+            {
+                "policyTitle": "Improve Living Standards",
+                "policyDescription": "Campaign to improve living standards, make communities safer and deliver the NHS and schools."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Oppose a hard, chaotic crash out of Europe to protect jobs and services."
+            }
+        ],
+        "mentions": {
+            "candidate": "Anna McMorrin",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": "In Cardiff North, Welsh Labour is the only Party that can defeat the Tories."
+        },
+        "issues": {
+            "brexitEurope": "Must not give the Tories a free hand to endanger jobs and services.",
+            "defence": "",
+            "economy": "",
+            "education": "Campaign to improve schools and the education opportunities our children deserve.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Defend our NHS.",
+            "immigration": "",
+            "labourEmployment": "Protect pensioners' incomes, campaign for a \u00a310 minimum wage, jobs, and prosperity.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Improve communities' safety and deliver better jobs and housing.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I'm proud to be standing in Cardiff North, where I lived for 15 years and where my children go to school. I know our local people and our local challenges, and, at a time of great uncertainty, have the knowledge and experience to stand up and fight to protect our public services and deliver better jobs and housing. In Cardiff North, Welsh Labour is the only Party that can defeat the Tories. Anna",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Julie Morgan",
+                "endorsement": "Anna will be a strong voice for you as MP. I know she will listen to your concerns and argue your case, turning strong principles into positive action on jobs, the environment and a fairer society."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Anna McMorrin"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Campaigning for a \u00a310 minimum wage"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I will be a strong voice",
+                        "at a time of great uncertainty",
+                        "only Party that can defeat the Tories"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Protect our local public services"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Oppose a hard, chaotic crash out of Europe to protect jobs and services"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": " I'm proud to be standing in Cardiff North, where I lived for 15 years and where my children go to school.",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Anna will be a strong voice for you as MP."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Must not give the Tories a free hand to endanger jobs and services."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May forces us into a hard, chaotic crash out of Europe."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Tory candidate in Cardiff North"
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "lived for 15 years and where my children go to school",
+                "employment": "",
+                "education": "",
+                "family": "where my children go to school"
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "lived for 15 years and where my children go to school."
+                ]
+            }
+        }
+    }
+}

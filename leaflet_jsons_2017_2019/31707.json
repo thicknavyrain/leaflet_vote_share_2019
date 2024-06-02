@@ -1,0 +1,177 @@
+{
+    "leaflet": {
+        "candidateName": "Jonathan Bartley",
+        "candidateGender": "",
+        "constituency": "Dulwich and West Norwood",
+        "politicalParty": "Green Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "The Green Party is the only remain party standing in Dulwich and West Norwood. The Lib Dems have stood aside for Jonathan Bartley so a remain party MP can be elected here. Let's make history and elect London's first Green MP!"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Yes to Europe",
+                "policyDescription": "The Green Party is the only Remain party standing in Dulwich and West Norwood. Greens will give power back to people to decide the way forward with a People\u2019s Vote and campaign to Remain in the EU for the benefit of everyone."
+            },
+            {
+                "policyTitle": "No to Climate Chaos",
+                "policyDescription": "Greens have led the way for years on tackling climate chaos. We will oppose airport expansion, fossil fuel subsidies and new road building. Our Green New Deal is the real deal bringing cheaper energy, better public transport, warmer homes and hundreds of thousands of new jobs."
+            },
+            {
+                "policyTitle": "A fairer Britain",
+                "policyDescription": "The Green Party will stand up to Labour\u2019s estate demolitions in Dulwich and West Norwood and make sure that precious local green spaces are protected and kept open to all."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jonathan Bartley",
+            "otherPartyLeaderCandidate": "Lib Dems",
+            "partyLeader": "",
+            "tacticalSituation": "The Lib Dems have stood aside for Jonathan Bartley so a remain party MP can be elected here."
+        },
+        "issues": {
+            "brexitEurope": "The Green Party is the only Remain party standing in Dulwich and West Norwood. Greens will give power back to people to decide the way forward with a People\u2019s Vote and campaign to Remain in the EU for the benefit of everyone.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Greens have led the way for years on tackling climate chaos. We will oppose airport expansion, fossil fuel subsidies and new road building. Our Green New Deal is the real deal bringing cheaper energy, better public transport, warmer homes and hundreds of thousands of new jobs.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "The Green Party will stand up to Labour\u2019s estate demolitions in Dulwich and West Norwood and make sure that precious local green spaces are protected and kept open to all.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "greenparty.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Caroline Lucas",
+                "endorsement": "Only the Green Party will prevent climate chaos and transform Britain whilst remaining in the EU. I want Dulwich and West Norwood to make history and elect Jonathan, as London\u2019s first Green MP, to join me in the House of Commons."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Standing up for your community"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Greens have led the way for years on tackling climate chaos.",
+                        "Cheaper energy, better public transport, warmer homes and hundreds of thousands of new jobs.",
+                        "Let's make history and elect London's first Green MP!"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "The Green Party is the only remain party standing in Dulwich and West Norwood.",
+                        "Only the Green Party will prevent climate chaos and transform Britain whilst remaining in the EU."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "The Green Party will stand up to Labour\u2019s estate demolitions in Dulwich and West Norwood and make sure that precious local green spaces are protected and kept open to all."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "The Green Party is the only remain party standing in Dulwich and West Norwood.",
+                        "We will oppose airport expansion, fossil fuel subsidies and new road building.",
+                        "Our Green New Deal is the real deal bringing cheaper energy, better public transport, warmer homes and hundreds of thousands of new jobs."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Only the Green Party will prevent climate chaos and transform Britain whilst remaining in the EU. I want Dulwich and West Norwood to make history and elect Jonathan, as London\u2019s first Green MP, to join me in the House of Commons."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Green Party will stand up to Labour\u2019s estate demolitions in Dulwich and West Norwood."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

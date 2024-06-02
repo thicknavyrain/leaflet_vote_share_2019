@@ -1,0 +1,191 @@
+{
+    "leaflet": {
+        "candidateName": "Chris Williamson",
+        "candidateGender": "",
+        "constituency": "Derby North",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Vote Chris Williamson for MP of Derby North",
+                "content": "Meet Chris Williamson, Labour candidate for Derby North. The only MP from Derby from 2010-2015. Local and National issues affect real change in Derby and the UK."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Jobs",
+                "policyDescription": "Keep jobs in Derby and secure new investment."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Regenerate areas of community value and provide local access to housing."
+            },
+            {
+                "policyTitle": "Transport",
+                "policyDescription": "Improve transport across the area."
+            },
+            {
+                "policyTitle": "Bank Holidays",
+                "policyDescription": "Support Labour\u2019s plans for four extra Bank Holidays per year."
+            },
+            {
+                "policyTitle": "Local Government and Economy",
+                "policyDescription": "Rebuild the economy and bolster local economies."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Properly fund the NHS and reverse privatisation."
+            },
+            {
+                "policyTitle": "Security",
+                "policyDescription": "10,000 extra police on the streets."
+            }
+        ],
+        "mentions": {
+            "candidate": "Chris Williamson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Rebuild the economy and support local businesses.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Properly fund the NHS and reverse privatisation.",
+            "immigration": "",
+            "labourEmployment": "Keep jobs in Derby and secure new investment.",
+            "lawCrime": "10,000 extra police on the streets.",
+            "transport": "Improve transport across the area.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Regenerate areas of community value and provide local access to housing.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Hello. I\u2019m Chris Williamson, a true local champion with deep roots in our community. I understand the challenges and opportunities we face, and I'll work tirelessly to make sure Derby thrives.",
+        "politicalExperience": [
+            {
+                "role": "MP from Derby",
+                "duration": "2010-2015",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "2a Wentworth House, Vernon Gate, Derby DE1 1UR",
+            "phone": "01332 345636",
+            "email": "info@derbylabourparty.co.uk",
+            "website": "www.derbylabourparty.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "ChrisWMP",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Chris Williamson engaging with the community and discussing policies."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Rebuild of 1 million 500,000 council houses.",
+                        "4 extra Bank Holidays a year.",
+                        "10,000 extra police on the streets."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Vote for a real change.",
+                        "Local and National issues affect real change in Derby and the UK."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 4,
+                "candidateAlone": 1,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Regenerate areas of community value.",
+                        "Provide local access to housing.",
+                        "Improve transport across the area."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Rebuild the economy and support local businesses.",
+                        "Properly fund the NHS and reverse privatisation.",
+                        "10,000 extra police on the streets."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Hello. I\u2019m Chris Williamson, a true local champion with deep roots in our community.",
+                    "issueRelated": "Localness and community focus."
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "You are being failed daily."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Chris Williamson is described as having deep roots in the community, thus presenting himself as a local candidate.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Hello. I\u2019m Chris Williamson, a true local champion with deep roots in our community."
+                ]
+            }
+        }
+    }
+}

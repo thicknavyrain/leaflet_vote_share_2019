@@ -1,0 +1,198 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Theresa May's NHS Crisis",
+                "content": "Waiting times at record highs\nKey services under strain\nFurther massive cuts planned"
+            },
+            {
+                "title": "Our NHS is on the brink",
+                "content": "More than four in 10 hospitals in England declared a major alert. Data from NHS England shows the crisis."
+            },
+            {
+                "title": "But the Lib Dems can change Britain's future...",
+                "content": "...Turn over to see how our NHS can be saved"
+            },
+            {
+                "title": "1p extra on Income Tax...",
+                "content": "...means \u00a36 billion extra to boost our NHS and social care."
+            },
+            {
+                "title": "The choice for our NHS",
+                "content": "A better future for our NHS with the Lib Dems OR more of Theresa May's uncaring cuts to our NHS."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Increase Income Tax by 1p",
+                "policyDescription": "The Liberal Democrats will put 1p on Income Tax to raise an extra \u00a36 billion a year for our NHS and social care."
+            },
+            {
+                "policyTitle": "Five-Point Recovery Plan",
+                "policyDescription": "First step in the Liberal Democrat's 'Five-Point Recovery Plan' to protect health and social care in the longer term."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Waiting times at record highs. Key services under strain. Further massive cuts planned. More than four in 10 hospitals in England declared a major alert. The Liberal Democrats will put 1p on Income Tax to raise an extra \u00a36 billion a year for our NHS and social care.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Cuts have left NHS on the brink of collapse says shocking report",
+                "source": "The Mirror",
+                "date": "13 Oct 2016"
+            },
+            {
+                "text": "Secret plan for \u00a322billion of NHS cuts could force A&Es, hospitals and maternity units to close.",
+                "source": "The Mirror",
+                "date": "21 Nov 2016"
+            },
+            {
+                "text": "NHS cuts blamed for 30,000 deaths in new study.",
+                "source": "The Independent",
+                "date": "17 Feb 2017"
+            },
+            {
+                "text": "The Liberal Democrats have pledged to increase Income Tax by a penny for every earner to fund a \u00a36bn-a-year cash injection for the NHS and social care.",
+                "source": "The Guardian",
+                "date": "6 May 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "More than four in 10 hospitals in England declared a major alert.",
+                        "The Liberal Democrats will put 1p on Income Tax to raise an extra \u00a36 billion a year for our NHS and social care.",
+                        "NHS cuts blamed for 30,000 deaths in new study."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Waiting times at record highs.",
+                        "Key services under strain.",
+                        "Further massive cuts planned.",
+                        "Cuts have left NHS on the brink of collapse says shocking report."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": []
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Waiting times at record highs.",
+                        "Key services under strain.",
+                        "Further massive cuts planned.",
+                        "NHS cuts blamed for 30,000 deaths in new study."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 4,
+                    "examples": [
+                        "Waiting times at record highs.",
+                        "Key services under strain.",
+                        "Further massive cuts planned.",
+                        "NHS cuts blamed for 30,000 deaths in new study."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May's NHS Crisis"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May's NHS Crisis"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

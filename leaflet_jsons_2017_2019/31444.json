@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Brecon and Radnorshire",
+        "politicalParty": "Conservative and Unionist Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Only A Majority Government Can Get On With The Country\u2019s Priorities",
+                "content": "At the end of this election, we\u2019ll either get a Conservative majority or a hung parliament."
+            },
+            {
+                "title": "We\u2019ll Get Brexit Done \u2013 So We Can Get On With the Country\u2019s Priorities",
+                "content": "Get Brexit done with a deal \u2013 We\u2019ve agreed a deal with the EU. And it\u2019s ready to go from day one of a new parliament. It protects jobs, trade, workers\u2019 rights and environmental standards. And it ends the uncertainty."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS long-term plan",
+                "policyDescription": "Focus on prevention 'could save 500,000 lives'"
+            },
+            {
+                "policyTitle": "End of the soft prison sentence",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Giving the Welsh Government an extra \u00a31.2 billion for our Welsh NHS",
+                "policyDescription": "Helping them to cut waiting times and invest in the treatments that matter"
+            },
+            {
+                "policyTitle": "20,000 extra police officers",
+                "policyDescription": "Trusting our police with the powers they need to make our streets safer"
+            },
+            {
+                "policyTitle": "More funding for schools across Wales",
+                "policyDescription": "So no matter where you live, your child gets the opportunity they deserve"
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Corbyn",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "Just a handful of votes could decide this seat. So this election will be very close. And your local vote in Brecon and Radnorshire will make the difference."
+        },
+        "issues": {
+            "brexitEurope": "Get Brexit done with a deal \u2013 We\u2019ve agreed a deal with the EU. And it\u2019s ready to go from day one of a new parliament. It protects jobs, trade, workers\u2019 rights and environmental standards. And it ends the uncertainty.",
+            "defence": "",
+            "economy": "",
+            "education": "Making more funding available for schools across Wales \u2013 So no matter where you live, your child gets the opportunity they deserve",
+            "environment": "",
+            "governance": "",
+            "government": "Don\u2019t risk another hung parliament. Secure the majority government our country needs so we can focus on the NHS, police and schools.",
+            "health": "Giving the Welsh Government an extra \u00a31.2 billion for our Welsh NHS \u2013 Helping them to cut waiting times and invest in the treatments that matter",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "20,000 extra police officers \u2013 and trusting our police with the powers they need to make our streets safer. End of the soft prison sentence",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "CCHQ, 4 Matthew Parker Street, London, SW1H 9HQ",
+            "phone": "",
+            "email": "",
+            "website": "www.conservatives.com/contact",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Boris Johnson promises a multi-million pound boost to Wales"
+                },
+                {
+                    "caption": "Conservatives were just nine seats short of a majority"
+                },
+                {
+                    "caption": "Just a handful of votes could decide this seat"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "NHS long-term plan: Focus on prevention 'could save 500,000 lives'",
+                        "Giving the Welsh Government an extra \u00a31.2 billion for our Welsh NHS",
+                        "20,000 extra police officers"
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "At the end of this election, we\u2019ll either get a Conservative majority or a hung parliament.",
+                        "Only A Majority Government Can Get On With The Country\u2019s Priorities",
+                        "Get Brexit done with a deal \u2013 We've agreed a deal with the EU.",
+                        "Don't risk another hung parliament.",
+                        "Making more funding available for schools across Wales",
+                        "End of the soft prison sentence"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Giving the Welsh Government an extra \u00a31.2 billion for our Welsh NHS",
+                        "Making more funding available for schools across Wales"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Get Brexit done with a deal",
+                        "20,000 extra police officers"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "A vote for Labour means another hung parliament... five long years of gridlock and uncertainty."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "With Corbyn propped up by parties like the Scottish Nationalists."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

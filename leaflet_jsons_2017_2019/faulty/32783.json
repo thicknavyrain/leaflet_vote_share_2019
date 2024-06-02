@@ -1,0 +1,233 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Annabel Tall",
+    "candidateGender": "",
+    "constituency": "Bath",
+    "politicalParty": "Conservative",
+    "electionDate": "Thursday 12 December 2019",
+    "messages": [
+      {
+        "title": "Campaigning to PUT BATH FIRST",
+        "content": ""
+      },
+      {
+        "title": "Get Brexit Done And Unite Our Community",
+        "content": "If we believe in democracy, we must respect the Referendum result."
+      },
+      {
+        "title": "Focus on Issues That Directly Matter to Bath",
+        "content": "I'll use my career focus on issues that matter to Bath: crime, educating our children, the environment, our NHS, housing and the environment."
+      },
+      {
+        "title": "Work Together to Build a Better Bath for All",
+        "content": "I believe in the value of cooperating with others, even if you disagree on some things. It's only by working together we can make Bath better."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Brexit",
+        "policyDescription": "Get Brexit done and unite our community"
+      },
+      {
+        "policyTitle": "Crime",
+        "policyDescription": "Focus on crime issues in Bath"
+      },
+      {
+        "policyTitle": "Education",
+        "policyDescription": "Emphasis on educating our children"
+      },
+      {
+        "policyTitle": "Environment",
+        "policyDescription": "Focus on environmental issues"
+      },
+      {
+        "policyTitle": "NHS",
+        "policyDescription": "Focus on NHS issues"
+      },
+      {
+        "policyTitle": "Housing",
+        "policyDescription": "Focus on housing issues"
+      }
+    ],
+    "mentions": {
+      "candidate": "Annabel Tall",
+      "otherPartyLeaderCandidate": "Corbyn, Jo Swinson",
+      "partyLeader": "Boris Johnson",
+      "tacticalSituation": "At the end of this election, we'll either get a Conservative majority or a hung parliament."
+    },
+    "issues": {
+      "brexitEurope": "If we believe in democracy, we must respect the Referendum result.",
+      "defence": "",
+      "economy": "",
+      "education": "Educating our children",
+      "environment": "Our environment",
+      "governance": "",
+      "government": "",
+      "health": "Our NHS",
+      "immigration": "",
+      "labourEmployment": "",
+      "lawCrime": "Crime",
+      "transport": "",
+      "socialWelfare": "",
+      "community": [
+        {
+          "content": "Focusing on issues that directly matter to Bath: crime, educating our children, our NHS, housing and the environment.",
+          "yimbyNimby": "YIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I'll use my career focus on issues that matter to Bath.",
+    "politicalExperience": [
+      {
+        "role": "",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "37905098/ROOK ROAD 206, Bath",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "The Times",
+        "endorsement": "John Curtice: Polls teeter between hung parliament and slim Tory majority."
+      },
+      {
+        "endorser": "Reuters",
+        "endorsement": "Don't risk five long years of Corbyn in charge."
+      },
+      {
+        "endorser": "The Herald",
+        "endorsement": "Jo Swinson says no to second Tory alliance."
+      },
+    ],
+    "quotes": [
+      {
+        "text": "John Curtice: Polls teeter between hung parliament and slim Tory majority.",
+        "source": "The Times",
+        "date": ""
+      },
+      {
+        "text": "Jo Swinson says no to second Tory alliance.",
+        "source": "The Herald",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Campaigning to PUT BATH FIRST"
+        }
+      ]
+    },
+    "additionalNotes": "",
+    "analysis": {
+      "statementAnalysis": {
+        "quantitative": {
+          "count": 1,
+          "examples": [
+            "If we believe in democracy, we must respect the Referendum result."
+          ]
+        },
+        "qualitative": {
+          "count": 2,
+          "examples": [
+            "I'll use my career focus on issues that matter to Bath.",
+            "I believe in the value of cooperating with others, even if you disagree on some things."
+          ]
+        }
+      },
+      "photoAnalysis": {
+        "localPlaces": 0,
+        "people": 3,
+        "candidateAlone": 0,
+        "candidateWithOthers": 3
+      },
+      "issueFocus": {
+        "local": {
+          "count": 1,
+          "examples": [
+            "Focus on issues that directly matter to Bath."
+          ]
+        },
+        "national": {
+          "count": 2,
+          "examples": [
+            "Get Brexit done and unite our community.",
+            "Don't risk five long years of Corbyn in charge."
+          ]
+        }
+      },
+      "personalStories": [
+        {
+          "story": "I'll use my career focus on issues that matter to Bath.",
+          "issueRelated": "Issues that matter to Bath"
+        }
+      ],
+      "endorsementsUsed": {
+        "count": 3,
+        "examples": [
+          "John Curtice: Polls teeter between hung parliament and slim Tory majority.",
+          "Jo Swinson says no to second Tory alliance.",
+          "Don't risk five long years of Corbyn in charge."
+        ]
+      },
+      "negativeMessaging": {
+        "localIssues": {
+          "count": 1,
+          "examples": [
+            "Focus on crime issues in Bath."
+          ]
+        },
+        "nationalIssues": {
+          "count": 2,
+          "examples": [
+            "Jo Swinson says no to second Tory alliance.",
+            "Don't risk five long years of Corbyn in charge."
+          ]
+        },
+        "leaderOfOpponentsParty": {
+          "count": 2,
+          "examples": [
+            "Corbyn, Jo Swinson"
+          ]
+        },
+        "oppositeCandidateNoName": {
+          "count": 0,
+          "examples": [
+          ]
+        },
+        "oppositeCandidateWithName": {
+          "count": 2,
+          "examples": [
+            "Don't risk five long years of Corbyn in charge.",
+            "Jo Swinson says no to second Tory alliance."
+          ]
+        }
+      },
+      "nonPolicyAttributes": {
+        "localness": "Put Bath first.",
+        "employment": "",
+        "education": "",
+        "family": ""
+      },
+      "localCandidate": {
+        "isLocal": true,
+        "examples": [
+          "Campaigning to PUT BATH FIRST."
+        ]
+      }
+    }
+  }
+}
+```

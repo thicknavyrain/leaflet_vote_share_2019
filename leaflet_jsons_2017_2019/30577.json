@@ -1,0 +1,173 @@
+{
+    "leaflet": {
+        "candidateName": "Anneliese Dodds",
+        "candidateGender": "",
+        "constituency": "Oxford East",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protect the environment and local services",
+                "policyDescription": "Oppose the Conservative assault on nature, prevent privatisation of the NHS, and increase funding for local schools, GPs, and social care."
+            },
+            {
+                "policyTitle": "Affordable housing",
+                "policyDescription": "Support affordable housing policies and measures against homelessness."
+            }
+        ],
+        "mentions": {
+            "candidate": "Anneliese",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Increase funding for local schools.",
+            "environment": "Protect the environment and prevent the privatisation of nature.",
+            "governance": "",
+            "government": "",
+            "health": "Prevent privatisation of the NHS, and increase funding for local GPs and social care.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Support affordable housing policies and measures against homelessness.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I promise to be an approachable, local MP, fighting for your priorities in parliament.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Jim Donoghue",
+                "endorsement": "As a city councilor, we need an MP who will fight for Oxford. That\u2019s why I am convinced Anneliese is the best person."
+            },
+            {
+                "endorser": "Laura Ashford",
+                "endorsement": "We need people who understand and keep Oxford a diverse and inclusive community. I know Anneliese would do that."
+            },
+            {
+                "endorser": "Andrew Smith",
+                "endorsement": "Anneliese is an outstanding campaigner who will make a super MP for Oxford East. She has really worked her sock off and she really cares about our city."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Increase funding for local schools, GPs, and social care."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Prevent privatisation of the NHS."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 3,
+                "examples": [
+                    "Jim Donoghue",
+                    "Laura Ashford",
+                    "Andrew Smith"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "An approachable, local MP.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I promise to be an approachable, local MP, fighting for your priorities in parliament."
+                ]
+            }
+        }
+    }
+}

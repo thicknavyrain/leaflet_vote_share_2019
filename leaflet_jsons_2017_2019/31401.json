@@ -1,0 +1,176 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "A Corbyn government means no Brexit",
+                "content": "A Corbyn government means no Brexit, no progress, and years of bickering politicians. Do you really want to risk it?"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "\u00a333.9bn funding boost for the NHS."
+            },
+            {
+                "policyTitle": "School Funding",
+                "policyDescription": "\u00a314bn funding boost for schools."
+            },
+            {
+                "policyTitle": "Policy on Policing",
+                "policyDescription": "20,000 more police officers."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "Just a handful of votes could decide this seat. Last time the Conservatives won here by a majority of 502."
+        },
+        "issues": {
+            "brexitEurope": "Jeremy Corbyn = No Brexit",
+            "defence": "",
+            "economy": "",
+            "education": "\u00a314bn funding boost for schools.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "\u00a333.9bn funding boost for the NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "20,000 more police officers.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 4,
+                    "examples": [
+                        "\u00a333.9bn funding boost for the NHS.",
+                        "\u00a314bn funding boost for schools.",
+                        "20,000 more police officers.",
+                        "Last time the Conservatives won here by a majority of 502."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "A Corbyn government means no Brexit, no progress, and years of bickering politicians. Do you really want to risk it?"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Just a handful of votes could decide this seat. Last time the Conservatives won here by a majority of 502."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "\u00a333.9bn funding boost for the NHS.",
+                        "\u00a314bn funding boost for schools.",
+                        "20,000 more police officers."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "Jeremy Corbyn = No Brexit",
+                        "1. At the end of this election, we'll either get a Conservative majority government, or a hung parliament.",
+                        "2. Corbyn would be propped up by parties like the Scottish Nationalists (SNP). He's demanding ANOTHER referendum to break up Britain."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn = No Brexit",
+                        "Jeremy Corbyn, Labour government would legislate for second referendum."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Labour spent the last three years blocking Brexit. Now they want a second referendum."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn = No Brexit",
+                        "Jeremy Corbyn, Labour government would legislate for second referendum."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

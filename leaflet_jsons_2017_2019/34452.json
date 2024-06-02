@@ -1,0 +1,193 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Newport West",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Our Economy Can't Afford More Uncertainty with a Hung Parliament.",
+                "content": "Labour can't win a majority. But if you don't vote, Jeremy Corbyn could still become Prime Minister. Propped up by smaller parties like Nicola Sturgeon's SNP. That means more uncertainty for our economy. With no end to the Brexit arguments. And another Scottish independence referendum. That's not all. Corbyn's plans for our economy would undo the progress of the last few years. The head of the CBI, a business group, said that Corbyn's plans would 'crack the foundations of our economy'. With massive taxes on businesses - which will stop investment and cost jobs. And with \u00a31.2 trillion of extra spending - which will send our public finances back into chaos. Don't let Labour take us back to square one. Vote Conservative and secure the majority government this country needs."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economic Stability",
+                "policyDescription": "Vote Conservative to avoid uncertainty and secure a majority government to stabilize the economy."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jeremy Corbyn",
+            "otherPartyLeaderCandidate": "Nicola Sturgeon",
+            "partyLeader": "",
+            "tacticalSituation": "If you don't vote, Jeremy Corbyn could still become Prime Minister."
+        },
+        "issues": {
+            "brexitEurope": "More delay and uncertainty on Brexit just means more damage to the economy.",
+            "defence": "",
+            "economy": "Corbyn's plans would undo the progress of the last few years. With massive taxes on businesses - which will stop investment and cost jobs. And with \u00a31.2 trillion of extra spending - which will send our public finances back into chaos.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "If you don't vote, Jeremy Corbyn could still become Prime Minister. Propped up by smaller parties like Nicola Sturgeon's SNP. That means more uncertainty for our economy. With no end to the Brexit arguments. And another Scottish independence referendum.",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "Cited statements: 'Brexit uncertainty drives up job losses and holds back the economy.'",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "The Guardian",
+                "endorsement": "Confederation of British Industry chief warns that more indecision in parliament will lead to less investment. Brexit uncertainty drives up job losses and holds back economy."
+            },
+            {
+                "endorser": "BBC News",
+                "endorsement": "Bank of England chief says Boris Johnson's Brexit deal is good for the UK. That means good for jobs."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "More delay and uncertainty on Brexit just means more damage to the economy.",
+                "source": "The Guardian",
+                "date": ""
+            },
+            {
+                "text": "Bank of England chief says Boris Johnson's Brexit deal is good for the UK. That means good for jobs.",
+                "source": "BBC News",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "With \u00a31.2 trillion of extra spending - which will send our public finances back into chaos."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "That means more uncertainty for our economy. With no end to the Brexit arguments."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "That means more uncertainty for our economy. With no end to the Brexit arguments. And another Scottish independence referendum.",
+                        "Corbyn's plans for our economy would undo the progress of the last few years."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "The Guardian: Confederation of British Industry chief warns that more indecision in parliament will lead to less investment.",
+                    "BBC News: Bank of England chief says Boris Johnson's Brexit deal is good for the UK."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "That means more uncertainty for our economy. With no end to the Brexit arguments. And another Scottish independence referendum.",
+                        "Corbyn's plans for our economy would undo the progress of the last few years."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "That means more uncertainty for our economy. With no end to the Brexit arguments. And another Scottish independence referendum."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

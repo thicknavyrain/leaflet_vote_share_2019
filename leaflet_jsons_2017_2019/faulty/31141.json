@@ -1,0 +1,165 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Vauxhall",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "8 June",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Europe",
+                "policyDescription": [
+                    "Vote to change the direction of the country regarding Brexit and Europe.",
+                    "Campaign against the blank cheque given to the Tories on the Brexit deal.",
+                    "Oppose turning the UK into a tax haven after Brexit."
+                ]
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Nigel Farage",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": [
+                "Campaigned side by side with far right UKIP leader Nigel Farage.",
+                "Received a major donation from UKIP funder Arron Banks.",
+                "Told the country that Brexit could mean an extra \u00a3350m for the NHS each week.",
+                "Voted against giving our NHS the extra cash.",
+                "Voted against the UK remaining in the Single Market.",
+                "Voted against an amendment to stop the government turning the UK into a tax haven after Brexit.",
+                "Voted to give the Tories a blank cheque on the Brexit deal."
+            ],
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Told the country that Brexit could mean an extra \u00a3350m for the NHS each week.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Told the country that Brexit could mean an extra \u00a3350m for the NHS each week."
+                    ]
+                },
+                "qualitative": {
+                    "count": 7,
+                    "examples": [
+                        "Campaigned side by side with far right UKIP leader Nigel Farage.",
+                        "Received a major donation from UKIP funder Arron Banks.",
+                        "Voted against giving our NHS the extra cash.",
+                        "Voted against the UK remaining in the Single Market.",
+                        "Voted against an amendment to stop the government turning the UK into a tax haven after Brexit.",
+                        "Voted to give the Tories a blank cheque on the Brexit deal.",
+                        "Vauxhall Deserves Better."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Vauxhall Deserves Better."
+                    ]
+                },
+                "national": {
+                    "count": 7,
+                    "examples": [
+                        "Campaigned side by side with far right UKIP leader Nigel Farage.",
+                        "Received a major donation from UKIP funder Arron Banks.",
+                        "Told the country that Brexit could mean an extra \u00a3350m for the NHS each week.",
+                        "Voted against giving our NHS the extra cash.",
+                        "Voted against the UK remaining in the Single Market.",
+                        "Voted against an amendment to stop the government turning the UK into a tax haven after Brexit.",
+                        "Voted to give the Tories a blank cheque on the Brexit deal."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Campaigned side by side with far right UKIP leader Nigel Farage."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Received a major donation from UKIP funder Arron Banks."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Vauxhall Deserves Better.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    "Vauxhall Deserves Better."
+                ]
+            }
+        }
+    }
+}

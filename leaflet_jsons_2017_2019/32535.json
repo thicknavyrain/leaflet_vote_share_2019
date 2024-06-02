@@ -1,0 +1,205 @@
+{
+    "leaflet": {
+        "candidateName": "Angela Stone",
+        "candidateGender": "",
+        "constituency": "Haltemprice and Howden",
+        "politicalParty": "Green Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Lives and works in the constituency. A vocal and committed campaigner for local issues and causes. Champions local businesses and community involvement."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Green New Deal",
+                "policyDescription": "Unleashing a Green Economic and Social Revolution."
+            },
+            {
+                "policyTitle": "Remain and Transform",
+                "policyDescription": "Saying Yes to Europe and its Potential to Deliver Climate and Social Justice."
+            },
+            {
+                "policyTitle": "Grow Democracy",
+                "policyDescription": "Unleashing a Democratic Revolution."
+            },
+            {
+                "policyTitle": "The Green Quality of Life Guarantee",
+                "policyDescription": "Unleashing a Revolution in Public Services and the Public Realm."
+            },
+            {
+                "policyTitle": "The New Deal for Tax and Spend",
+                "policyDescription": "Unleashing a Revolution in the Redistribution of Wealth."
+            }
+        ],
+        "mentions": {
+            "candidate": "Angela Stone",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Saying Yes to Europe.",
+            "defence": "",
+            "economy": "Unleashing a Green Economic and Social Revolution. Unleashing a Revolution in the Redistribution of Wealth.",
+            "education": "",
+            "environment": "Saying Yes to Europe and its Potential to Deliver Climate and Social Justice.",
+            "governance": "Unleashing a Democratic Revolution.",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Unleashing a Revolution in Public Services and the Public Realm.",
+            "community": [
+                {
+                    "content": "Lives and works in the constituency. A vocal and committed campaigner for local issues and causes. Champions local businesses and community involvement.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "hullandeastriding.greenparty.org.uk/candidates",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Lives and works in the constituency.",
+                        "A vocal and committed campaigner for local issues and causes.",
+                        "Champions local businesses and community involvement.",
+                        "Saying Yes to Europe and its Potential to Deliver Climate and Social Justice.",
+                        "Unleashing a Revolution in Public Services and the Public Realm."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Lives and works in the constituency. A vocal and committed campaigner for local issues and causes. Champions local businesses and community involvement."
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "Unleashing a Green Economic and Social Revolution.",
+                        "Saying Yes to Europe and its Potential to Deliver Climate and Social Justice.",
+                        "Unleashing a Democratic Revolution.",
+                        "Unleashing a Revolution in Public Services and the Public Realm.",
+                        "Unleashing a Revolution in the Redistribution of Wealth."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Lives and works in the constituency. A vocal and committed campaigner for local issues and causes. Champions local businesses and community involvement.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Lives and works in the constituency."
+                ]
+            }
+        }
+    }
+}

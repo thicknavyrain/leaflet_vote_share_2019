@@ -1,0 +1,186 @@
+{
+    "leaflet": {
+        "candidateName": "Chuka Umunna",
+        "candidateGender": "Male",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8th June 2017",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Since I was first elected, I have helped over 16,000 local residents, and have spoken in Parliament over 700 times on your behalf.",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "Locally, this election is a straight fight between me and the Conservative candidate."
+        },
+        "issues": {
+            "brexitEurope": "I am a prominent campaigner against a hard Brexit and am pleased to have been endorsed at this election by our local Lambeth for Europe group.",
+            "defence": "",
+            "economy": "",
+            "education": "Our local NHS, schools and other public services have had their budgets cut by the Conservatives and the Liberal Democrats in government since 2010.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Our local NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "I initiated and led the first ever full House of Commons debate on how we address youth violence in our area.",
+            "transport": "Persistently demanding ministers act against Southern Rail for their appalling train services.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I became the first MP for our area to establish an office in the heart of the constituency to serve local people.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "Since 2010",
+                "achievements": "First MP for our area to grow up and go to school here."
+            }
+        ],
+        "contactInformation": {
+            "address": "1 Empire Mews, London, SW16 2BF",
+            "phone": "0208 835 7081",
+            "email": "chuka@chuka.org.uk",
+            "website": "www.chuka.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@ChukaUmunna",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Local Lambeth for Europe group",
+                "endorsement": "Endorsed by our local Lambeth for Europe group."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "I have helped over 16,000 local residents, and have spoken in Parliament over 700 times on your behalf.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "I have helped over 16,000 local residents.",
+                        "Have spoken in Parliament over 700 times on your behalf.",
+                        "Our local NHS, schools and other public services have had their budgets cut."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "This election is about who you want to represent our area in Parliament.",
+                        "I have a strong record of delivery for our area.",
+                        "First ever full House of Commons debate on how we address youth violence in our area."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Persistently demanding ministers act against Southern Rail for their appalling train services.",
+                        "Helped over 16,000 local residents."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "I am a prominent campaigner against a hard Brexit."
+                    ]
+                }
+            }
+        },
+        "personalStories": [
+            {
+                "story": "First MP for our area to grow up and go to school here.",
+                "issueRelated": ""
+            }
+        ],
+        "endorsementsUsed": {
+            "count": 1,
+            "examples": [
+                "Endorsed by our local Lambeth for Europe group."
+            ]
+        },
+        "negativeMessaging": {
+            "localIssues": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "nationalIssues": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "leaderOfOpponentsParty": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "oppositeCandidateNoName": {
+                "count": 1,
+                "examples": [
+                    "Locally, this election is a straight fight between me and the Conservative candidate."
+                ]
+            },
+            "oppositeCandidateWithName": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            }
+        },
+        "nonPolicyAttributes": {
+            "localness": "First MP for our area to grow up and go to school here.",
+            "employment": "",
+            "education": "",
+            "family": ""
+        },
+        "localCandidate": {
+            "isLocal": true,
+            "examples": [
+                "First MP for our area to grow up and go to school here."
+            ]
+        }
+    }
+}

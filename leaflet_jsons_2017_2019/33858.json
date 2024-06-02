@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Robert Goodwill",
+        "candidateGender": "",
+        "constituency": "Scarborough and Whitby",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 12 December 2019",
+        "messages": [
+            {
+                "title": "We were in your area today",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "MORE POLICE ON OUR STREETS",
+                "policyDescription": "North Yorkshire Police have already started to recruit 200 new officers. We must combat the blight of drugs."
+            },
+            {
+                "policyTitle": "INVESTING IN OUR HEALTH SERVICE",
+                "policyDescription": "The redevelopment of Whitby Hospital and a new A&E at Scarborough have both been given the green light."
+            },
+            {
+                "policyTitle": "BETTER TRANSPORT LINKS",
+                "policyDescription": "I will campaign for better rail services and to keep the A64 upgrade in the Government's planned programme."
+            },
+            {
+                "policyTitle": "LET'S GET BREXIT DONE",
+                "policyDescription": "Delivering \u00a333.9 billion for the NHS, 20,000 extra police, and more funding for every pupil in every school."
+            }
+        ],
+        "mentions": {
+            "candidate": "Robert Goodwill",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "LET'S GET BREXIT DONE",
+            "defence": "",
+            "economy": "",
+            "education": "more funding for every pupil in every school",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "INVESTING IN OUR HEALTH SERVICE: The redevelopment of Whitby Hospital and a new A&E at Scarborough have both been given the green light.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "MORE POLICE ON OUR STREETS: North Yorkshire Police have already started to recruit 200 new officers.",
+            "transport": "BETTER TRANSPORT LINKS: I will campaign for better rail services and to keep the A64 upgrade in the Government's planned programme.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "A strong local voice for the Yorkshire Coast with a track record of service",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "A strong local voice for the Yorkshire Coast with a track record of service.\nWorking with local businesses to build a strong economy and create jobs.\nDelivering record funding and investment for our hospitals, schools and police.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "01723 360621",
+            "email": "voterobertgoodwill@gmail.com",
+            "website": "www.robertgoodwill.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Robert Goodwill"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "North Yorkshire Police have already started to recruit 200 new officers.",
+                        "\u00a333.9 billion for the NHS",
+                        "20,000 extra police"
+                    ]
+                },
+                "qualitative": {
+                    "count": 9,
+                    "examples": [
+                        "We were in your area today",
+                        "A strong local voice for the Yorkshire Coast with a track record of service",
+                        "Working with local businesses to build a strong economy and create jobs",
+                        "Delivering record funding and investment for our hospitals, schools and police.",
+                        "We must combat the blight of drugs",
+                        "The redevelopment of Whitby Hospital and a new A&E at Scarborough have both been given the green light.",
+                        "I will campaign for better rail services and to keep the A64 upgrade in the Government's planned programme.",
+                        "Let's get Brexit done",
+                        "More funding for every pupil in every school."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "MORE POLICE ON OUR STREETS",
+                        "BETTER TRANSPORT LINKS"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "INVESTING IN OUR HEALTH SERVICE",
+                        "LET'S GET BREXIT DONE"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "A strong local voice for the Yorkshire Coast with a track record of service.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "A strong local voice for the Yorkshire Coast with a track record of service."
+                ]
+            }
+        }
+    }
+}

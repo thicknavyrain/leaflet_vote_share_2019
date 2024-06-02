@@ -1,0 +1,189 @@
+{
+    "leaflet": {
+        "candidateName": "Caroline Jackson",
+        "candidateGender": "",
+        "constituency": "Lancaster & Fleetwood",
+        "politicalParty": "Green Party",
+        "electionDate": "12th December",
+        "messages": [
+            {
+                "title": "",
+                "content": "If not now, when? We are currently in a climate emergency. The Green Party is the only political party committed to reaching net zero emissions by 2030. Please vote Green on 12th December."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Thriving Communities",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "People's Vote",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Climate Chaos",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Caroline Jackson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Caroline Lucas",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Climate emergency, net zero emissions by 2030",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "10A Derwent Road, Lancaster LA1 3ES",
+            "phone": "",
+            "email": "",
+            "website": "https://northlancs.greenparty.org.uk/fundraising",
+            "socialMedia": {
+                "facebook": "Caroline for Lancaster & Fleetwood",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Caroline Lucas",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "If not now, when? We are currently in a climate emergency. The Green Party is the only political party committed to reaching net zero emissions by 2030. Please vote Green on 12th December.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Caroline Jackson (left) with Green MP Caroline Lucas"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "The Green Party is the only political party committed to reaching net zero emissions by 2030."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "We are currently in a climate emergency."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Climate emergency, net zero emissions by 2030"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Caroline Lucas"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

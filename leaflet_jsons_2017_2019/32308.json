@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "Andrew Cooper",
+        "candidateGender": "",
+        "constituency": "Huddersfield",
+        "politicalParty": "Green Party",
+        "electionDate": "12th Dec",
+        "messages": [
+            {
+                "title": "",
+                "content": "Your Green Party Candidate Andrew Cooper Huddersfield"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Addressing the climate emergency",
+                "policyDescription": "Climate crisis is the greatest problem we face. Other parties only offer words. We have the policies to ensure a greener future for all."
+            },
+            {
+                "policyTitle": "Putting Huddersfield First",
+                "policyDescription": "Our town is being left behind. We need to ensure public services are well financed, well run and services are provided locally by employers paying the living wage."
+            },
+            {
+                "policyTitle": "Protecting our Green spaces",
+                "policyDescription": "Our countryside is under assault from greedy developers. We need planning policies that give more control to our local communities."
+            }
+        ],
+        "mentions": {
+            "candidate": "Andrew Cooper",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Caroline Lucas MP",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "To end Brexit turmoil",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "To take bold climate action",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Putting Huddersfield First: Our town is being left behind. We need to ensure public services are well financed, well run and services are provided locally by employers paying the living wage.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "76 Brockholes Lane, Holmfirth HD9 7EB",
+            "phone": "07721 348619",
+            "email": "Andrew.cooper@greenparty.org.uk",
+            "website": "greenparty.org.uk/join",
+            "socialMedia": {
+                "facebook": "facebook.com/clrandrewcooper",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Caroline Lucas MP",
+                "endorsement": "This general election isn't just about Brexit \u2013 this is about the country we live in. Only a Green vote will prevent climate chaos, transform Britain, ensure the British people have a final say on Brexit, and elect more Green MPs that you can trust to keep the other parties honest. The time is now \u2013 please vote Green. Vote for Andrew Cooper"
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Andrew Cooper"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Climate crisis is the greatest problem we face.",
+                        "Our countryside is under assault from greedy developers."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Putting Huddersfield First: Our town is being left behind."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Addressing the climate emergency.",
+                        "To end Brexit turmoil."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Caroline Lucas MP: The time is now \u2013 please vote Green. Vote for Andrew Cooper."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Our countryside is under assault from greedy developers."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Other parties only offer words."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Putting Huddersfield First."
+                ]
+            }
+        }
+    }
+}

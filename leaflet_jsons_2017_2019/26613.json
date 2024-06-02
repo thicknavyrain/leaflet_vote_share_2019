@@ -1,0 +1,183 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "3 Key Reasons Why a General Election is Needed Now",
+                "content": "1. One-off chance now while EU leaders agree stance: We only have a short time to hold an election before EU leaders agree their position on negotiations. 2. We need to show unity as negotiations start, but Westminster is divided: Labour; the Lib Dems and the SNP are already seeking to disrupt our negotiations. This division is risking our chances of getting the best deal possible from Brexit. 3. To lock in our economic progress so it can benefit the British people for the future: well-paid jobs; more affordable housing; a good school place for every child; a strong economy paying for a strong NHS."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "To lock in our economic progress so it can benefit the British people for the future: well-paid jobs; more affordable housing; a good school place for every child; a strong economy paying for a strong NHS."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Getting on with the job of securing the best possible deal from Brexit. Sign new trade deals around the world; protect and enhance workers' rights; ensure the deal works for the whole UK; provide as much clarity as possible at every stage of negotiations."
+            },
+            {
+                "policyTitle": "Leadership",
+                "policyDescription": "Strong, stable leadership with Theresa May to get the best possible deal from Brexit and secure our economic future."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Getting on with the job of securing the best possible deal from Brexit. Sign new trade deals around the world; protect and enhance workers' rights; ensure the deal works for the whole UK, provide as much clarity as possible at every stage of negotiations.",
+            "defence": "",
+            "economy": "To lock in our economic progress so it can benefit the British people for the future: well-paid jobs; more affordable housing; a good school place for every child; a strong economy paying for a strong NHS.",
+            "education": "A good school place for every child.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "A strong economy paying for a strong NHS.",
+            "immigration": "",
+            "labourEmployment": "Well-paid jobs.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "More affordable housing.",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "conservatives.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Getting on with the job of securing the best possible deal from Brexit is the most important task the Government faces today.",
+                "source": "Theresa May",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "1. One-off chance now while EU leaders agree stance: We only have a short time to hold an election before EU leaders agree their position on negotiations."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "A strong economy paying for a strong NHS.",
+                        "Labour; the Lib Dems and the SNP are already seeking to disrupt our negotiations.",
+                        "This division is risking our chances of getting the best deal possible from Brexit.",
+                        "Strong, stable leadership with Theresa May to get the best possible deal from Brexit and secure our economic future.",
+                        "Every vote that is cast for me and my local Conservative candidate will help improve this country."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 6,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 7,
+                    "examples": [
+                        "A strong economy paying for a strong NHS.",
+                        "Labour; the Lib Dems and the SNP are already seeking to disrupt our negotiations.",
+                        "Strong, stable leadership with Theresa May to get the best possible deal from Brexit and secure our economic future.",
+                        "A good school place for every child.",
+                        "Well-paid jobs",
+                        "More affordable housing.",
+                        "Sign new trade deals around the world; protect and enhance workers' rights; ensure the deal works for the whole UK, provide as much clarity as possible at every stage of negotiations."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour plots Brexit deal with other parties if Tories don't win election majority."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

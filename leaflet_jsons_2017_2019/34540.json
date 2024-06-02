@@ -1,0 +1,162 @@
+{
+    "leaflet": {
+        "candidateName": "Jo Swinson",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Who is really on your side?",
+                "content": "Dealing with Brexit, Independence chaos, A plan for the future."
+            },
+            {
+                "title": "It's Time to Build a Brighter Future",
+                "content": "The SNP have let Scotland down. Jo Swinson's Liberal Democrats are gaining momentum as the main challengers to the SNP across Scotland."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Dealing with Brexit",
+                "policyDescription": "Leading the fight to Stop Brexit."
+            },
+            {
+                "policyTitle": "Independence chaos",
+                "policyDescription": "Stop the division and chaos of independence."
+            },
+            {
+                "policyTitle": "A plan for the future",
+                "policyDescription": "Investing in schools, mental health, and tackling the climate emergency."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jo Swinson",
+            "otherPartyLeaderCandidate": "Boris Johnson's Conservatives, Jeremy Corbyn's Labour Party, The SNP",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": "Jo Swinson's Liberal Democrats are gaining momentum as the main challengers to the SNP across Scotland."
+        },
+        "issues": {
+            "brexitEurope": "Leading the fight to Stop Brexit. Making a mess out of Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "Investing in schools.",
+            "environment": "Tackling the climate emergency.",
+            "governance": "Stop the division and chaos of independence.",
+            "government": "",
+            "health": "Investing in mental health.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "It's time to build a brighter future.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.LibDems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Jo Swinson's Liberal Democrats are gaining momentum as the main challengers to the SNP across Scotland."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "The SNP have let Scotland down."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 2,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Jo Swinson's Liberal Democrats are gaining momentum as the main challengers to the SNP across Scotland."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The SNP have let Scotland down."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The SNP have let Scotland down."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Boris Johnson's Conservatives.",
+                        "Jeremy Corbyn's Labour Party."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

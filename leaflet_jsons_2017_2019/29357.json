@@ -1,0 +1,173 @@
+{
+    "leaflet": {
+        "candidateName": "Ed Mayne",
+        "candidateGender": "",
+        "constituency": "Epsom & Ewell",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Local schools budgets slashed",
+                "policyDescription": "Conservative cuts are starving schools of funding."
+            },
+            {
+                "policyTitle": "Zone 6 and Oyster for Epsom hits the buffers",
+                "policyDescription": "Epsom\u2019s Tory MP and transport secretary promised that Oyster will come to Epsom as a Zone 6 railway station. His promises have hit the buffers."
+            },
+            {
+                "policyTitle": "My Five Pledges to you and your family",
+                "policyDescription": "Ed Mayne's pledges include better train services, giving children a chance to succeed, integrating social care and the NHS, building homes for local families, and retaining EU benefits."
+            }
+        ],
+        "mentions": {
+            "candidate": "Labour candidate, Ed Mayne",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Retain the benefits of the EU Single Market & Customs Union plus an EU Rights and Protections Bill.",
+            "defence": "",
+            "economy": "",
+            "education": "Conservative cuts are starving schools of funding. Schools are being forced to cut teaching assistants and limit subject choices.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Integrate social care and the NHS to reduce stress on the NHS and integrate social care services.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Zone 6 and Oyster for Epsom hits the buffers. Services from Epsom have deteriorated in the past year with ongoing strikes on Southern Rail and poor services on South West Trains.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Build more homes for local families which they can afford to live in.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "4 Shaw Close, Epsom KT17 1JP",
+            "phone": "07763 512 428",
+            "email": "ed@epsomandewell-labour.org.uk",
+            "website": "labour.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Epsom Primary will lose \u00a3645 per pupil. Head teachers shouldn\u2019t be asking parents to contribute to the running costs of our schools.",
+                        "Southfield Park will lose \u00a3335 per pupil."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "We will drive any public money into classrooms, desk to the head teacher",
+                        "Labour will stop Conservative cuts."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Building homes for local families."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Retain the benefits of the EU Single Market.",
+                        "Integrate social care and the NHS.",
+                        "Train service passengers can rely on"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "For too long, Epsom\u2019s voice hasn\u2019t been heard in Westminster. Although the previous MP has been the Transport Secretary for the past year, he hasn\u2019t been able to live up to his promise to bring Zone 6 and Oyster to Epsom. Social care services are close to collapse and many live in fear of having to sell their homes to pay for their care. The needs of Epsom people have been ignored for too long; it\u2019s time to get Epsom back on track.",
+                    "issueRelated": "Transport, social care"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "For years Epsom\u2019s Tory MP and now transport secretary, Chris Grayling, has been promising us that Oyster will come to Epsom as a Zone 6 railway station. Not any more. His promises have hit the buffers!"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Theresa May has thrown her own campaign into chaos and confusion.",
+                        "Labour will stand up for older people and will never make them feel negative about their futures."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May has thrown her own campaign into chaos and confusion."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "For years Epsom\u2019s Tory MP and now transport secretary, Chris Grayling, has been promising us that Oyster will come to Epsom as a Zone 6 railway station. Not any more. His promises have hit the buffers!"
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "The needs of Epsom people have been ignored for too long; it\u2019s time to get Epsom back on track.",
+                "employment": "Labour will never make them feel negative about their futures.",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "It\u2019s time to get Epsom back on track."
+                ]
+            }
+        }
+    }
+}

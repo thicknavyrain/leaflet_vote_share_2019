@@ -1,0 +1,176 @@
+{
+    "leaflet": {
+        "candidateName": "Karen Ward",
+        "candidateGender": "",
+        "constituency": "North Norfolk",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "THE CHOICE HERE IS CLEAR:",
+                "content": "KAREN WARD OR BORIS JOHNSON'S CONSERVATIVES"
+            },
+            {
+                "title": "Labour can't win here",
+                "content": "The only way to stop the Conservatives is to vote Liberal Democrat here."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Health and Care",
+                "policyDescription": "Health and care services that work for everyone."
+            },
+            {
+                "policyTitle": "Affordable Homes",
+                "policyDescription": "Affordable homes for Norfolk."
+            },
+            {
+                "policyTitle": "Climate Crisis",
+                "policyDescription": "Tackling the climate crisis."
+            },
+            {
+                "policyTitle": "Fair Funding for Care",
+                "policyDescription": "No one should have to worry about having to sell their home to pay for care in old age."
+            },
+            {
+                "policyTitle": "North Norfolk",
+                "policyDescription": "Karen will fight for action to protect our towns and villages."
+            }
+        ],
+        "mentions": {
+            "candidate": "Karen Ward",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "",
+            "tacticalSituation": "Labour can't win here"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "The Conservatives won\u2019t take the climate crisis seriously.",
+            "governance": "",
+            "government": "",
+            "health": "The Conservatives can't be trusted with health and care.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Karen will fight for action to protect our towns and villages.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Garden House, Grange Road, Hainford, Norwich, NR10 3BJ",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Labour can't win here: Lab 10%, Lib Dem 49%, Con 42%"
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "KAREN WARD",
+                        "The Conservatives can't be trusted with health and care.",
+                        "The Conservatives won\u2019t take the climate crisis seriously.",
+                        "The only way to stop the Conservatives is to vote Liberal Democrat here.",
+                        "A strong voice for North Norfolk"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Karen will fight for action to protect our towns and villages."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Health and care services that work for everyone.",
+                        "The Conservatives can't be trusted with health and care."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives can't be trusted with health and care."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives won\u2019t take the climate crisis seriously."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

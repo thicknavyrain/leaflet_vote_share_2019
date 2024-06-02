@@ -1,0 +1,181 @@
+{
+    "leaflet": {
+        "candidateName": "Larry Sanders",
+        "candidateGender": "",
+        "constituency": "Oxford East",
+        "politicalParty": "Green Party",
+        "electionDate": "8 June",
+        "messages": [
+            {
+                "title": "",
+                "content": "In this coming General Election, you have the chance to vote for a real alternative."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS and Healthcare",
+                "policyDescription": "Reverses the privatisation of the NHS and commits to funding it properly."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Says no to a hard Brexit and offers the people the chance to have their say on the final deal."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Builds 500,000 council houses and introduces proper rental controls."
+            },
+            {
+                "policyTitle": "Climate Change",
+                "policyDescription": "Ensures that tackling climate change remains a national and a global priority."
+            }
+        ],
+        "mentions": {
+            "candidate": "Larry Sanders",
+            "otherPartyLeaderCandidate": "the Conservatives",
+            "partyLeader": "",
+            "tacticalSituation": "In the Oxford East constituency, the Conservatives cannot win. For decades their vote here in council and General Elections has not risen above 21%."
+        },
+        "issues": {
+            "brexitEurope": "Says no to a hard Brexit and offers the people the chance to have their say on the final deal.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Ensures that tackling climate change remains a national and a global priority.",
+            "governance": "",
+            "government": "",
+            "health": "Reverses the privatisation of the NHS and commits to funding it properly.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Builds 500,000 council houses and introduces proper rental controls.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "As my brother, Senator Bernie Sanders, has said, to win this battle requires a political revolution. I have been signed up to that battle all my adult life. With your help, I would like the chance to now wage it in Parliament.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "81B Donnington Bridge Road, Oxford OX4 4BA",
+            "phone": "",
+            "email": "",
+            "website": "www.greenoxfordshire.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "In the Oxford East constituency, the Conservatives cannot win. For decades their vote here in council and General Elections has not risen above 21%."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "In this coming General Election, you have the chance to vote for a real alternative.",
+                        "The Green Party believes that we should reverse this trend and ensure that everyone can share in our country's wealth.",
+                        "With your help, I would like the chance to now wage it in Parliament."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Reverses the privatisation of the NHS and commits to funding it properly.",
+                        "Says no to a hard Brexit and offers the people the chance to have their say on the final deal.",
+                        "Builds 500,000 council houses and introduces proper rental controls.",
+                        "Ensures that tackling climate change remains a national and a global priority."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "As my brother, Senator Bernie Sanders, has said, to win this battle requires a political revolution. I have been signed up to that battle all my adult life.",
+                    "issueRelated": false
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "In the Oxford East constituency, the Conservatives cannot win. For decades their vote here in council and General Elections has not risen above 21%."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": "As my brother, Senator Bernie Sanders, has said, to win this battle requires a political revolution."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "In the Oxford East constituency, the Conservatives cannot win. For decades their vote here in council and General Elections has not risen above 21%."
+                ]
+            }
+        }
+    }
+}

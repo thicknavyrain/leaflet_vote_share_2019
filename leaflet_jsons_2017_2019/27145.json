@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "Jean Davis",
+        "candidateGender": "",
+        "constituency": "Ross, Skye and Lochaber",
+        "politicalParty": "Scottish Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Only Jean can beat the SNP here",
+                "content": "Elections in Ross, Skye and Lochaber are between the Scottish Liberal Democrats and the SNP. At the last General Election in 2015 Charles Kennedy was the clear challenger to the SNP with the Conservatives and Labour trailing far behind in third and fourth place. Only a vote for Jean Davis will help beat the SNP at this election."
+            },
+            {
+                "title": "Our plan for Scotland",
+                "content": "Stop another divisive independence referendum. Oppose the Conservative's Destructive hard Brexit. Invest in Scottish education and mental health."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop another divisive independence referendum",
+                "policyDescription": "Jean Davis and the Scottish Liberal Democrats plan to prevent another referendum on Scottish independence."
+            },
+            {
+                "policyTitle": "Oppose the Conservative's Destructive hard Brexit",
+                "policyDescription": "Jean Davis and the Scottish Liberal Democrats intend to oppose the harsh exit from the EU proposed by the Conservative party."
+            },
+            {
+                "policyTitle": "Invest in Scottish education and mental health",
+                "policyDescription": "Jean Davis and the Scottish Liberal Democrats plan to make significant investments in education and mental health services in Scotland."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jean Davis",
+            "otherPartyLeaderCandidate": "Charles Kennedy",
+            "partyLeader": "",
+            "tacticalSituation": "At the last General Election in 2015 Charles Kennedy was the clear challenger to the SNP with the Conservatives and Labour trailing far behind in third and fourth place. Only a vote for Jean Davis will help beat the SNP at this election."
+        },
+        "issues": {
+            "brexitEurope": "Oppose the Conservative's Destructive hard Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "Invest in Scottish education and mental health.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Invest in Scottish education and mental health.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Jean Davis"
+                },
+                {
+                    "caption": "Our plan for Scotland"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Only Jean can beat the SNP here",
+                        "Stop another divisive independence referendum",
+                        "Oppose the Conservative's Destructive hard Brexit",
+                        "Invest in Scottish education and mental health"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Only Jean can beat the SNP here."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Stop another divisive independence referendum.",
+                        "Oppose the Conservative's Destructive hard Brexit.",
+                        "Invest in Scottish education and mental health."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Oppose the Conservative's Destructive hard Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Jean Davis and the Scottish Liberal Democrats plan to prevent another referendum on Scottish independence.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Only Jean can beat the SNP here."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "12th December",
+        "messages": [
+            {
+                "title": "STOP BREXIT",
+                "content": "Brexit is a national embarrassment. Every day, more and more people are realising how important EU membership is to our economy and our future. The Liberal Democrats want to stop Brexit. We've been fighting it for three years. We're the biggest, strongest Remain party and we've led the opposition in Parliament. We want Britain to remain in the EU because it's best for our economy, environment and public services."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "The Liberal Democrats want to stop Brexit. We've been fighting it for three years. We're the biggest, strongest Remain party and we've led the opposition in Parliament."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Brexit is a national embarrassment. Every day, more and more people are realising how important EU membership is to our economy and our future. The Liberal Democrats want to stop Brexit. We've been fighting it for three years.",
+            "defence": "",
+            "economy": "Brexit is a national embarrassment. Every day, more and more people are realising how important EU membership is to our economy and our future.",
+            "education": "",
+            "environment": "We want Britain to remain in the EU because it's best for our economy, environment and public services.",
+            "governance": "",
+            "government": "",
+            "health": "We want Britain to remain in the EU because it's best for our economy, environment and public services.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "8-10 Great George Street, London, SW1P 3AE",
+            "phone": "",
+            "email": "",
+            "website": "www.libdems.org.uk/join",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "\"Jeremy Corbyn has again refuted the demands...",
+                "source": "BBC, October 2019",
+                "date": "October 2019"
+            },
+            {
+                "text": "\"[Corbyn] declined to say whether he would...",
+                "source": "The Times, November 2019",
+                "date": "November 2019"
+            },
+            {
+                "text": "\"Labour is not a Remain party\"",
+                "source": "Mirroe, October 2019",
+                "date": "October 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Brexit is a national embarrassment. Every day, more and more people are realising how important EU membership is to our economy and our future."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Brexit is a national embarrassment. Every day, more and more people are realising how important EU membership is to our economy and our future."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn has again refuted the demands...",
+                        "[Corbyn] declined to say whether he would support Remain or Leave."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

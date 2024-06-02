@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "North Norfolk",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "It's a Conservative Majority or a Hung Parliament",
+                "content": [
+                    "John Curtice: Polls teeter between hung parliament and slim Tory majority",
+                    "1. At the end of this election, we'll either get a Conservative majority \u2014 or a hung parliament.",
+                    "2. The Lib Dems have ruled out a coalition with the Conservatives. So a hung parliament means Jeremy Corbyn as Prime Minister. With five long years of gridlock and uncertainty.",
+                    "3. Corbyn would have to be propped up by the Scottish Nationalists. And they're demanding ANOTHER referendum to break up Britain."
+                ]
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "John Curtice: Polls teeter between hung parliament and slim Tory majority",
+                "source": "The Times",
+                "date": ""
+            },
+            {
+                "text": "Jo Swinson says no to second Tory alliance",
+                "source": "The Herald",
+                "date": ""
+            },
+            {
+                "text": "SNP to back Labour government only with Scottish independence vote",
+                "source": "Reuters",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Jo Swinson says no to second Tory alliance"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Don't risk five long years of Corbyn in charge"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "John Curtice: Polls teeter between hung parliament and slim Tory majority",
+                        "The Lib Dems have ruled out a coalition with the Conservatives. So a hung parliament means Jeremy Corbyn as Prime Minister. With five long years of gridlock and uncertainty.",
+                        "Corbyn would have to be propped up by the Scottish Nationalists. And they're demanding ANOTHER referendum to break up Britain."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "The Lib Dems have ruled out a coalition with the Conservatives. So a hung parliament means Jeremy Corbyn as Prime Minister. With five long years of gridlock and uncertainty.",
+                        "Corbyn would have to be propped up by the Scottish Nationalists. And they're demanding ANOTHER referendum to break up Britain.",
+                        "Don't risk five long years of Corbyn in charge."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Don't risk five long years of Corbyn in charge."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "The Lib Dems have ruled out a coalition with the Conservatives. So a hung parliament means Jeremy Corbyn as Prime Minister. With five long years of gridlock and uncertainty."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

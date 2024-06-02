@@ -1,0 +1,181 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Conservative Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "THERESA MAY FOR BRITAIN",
+                "content": "Strong, stable leadership in the national interest. A plan for Brexit and beyond. A stronger economy for your future."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Executive the best deal for Britain. Take back control of our borders and laws."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "A stronger economy for your future. More jobs and affordable homes."
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Protecting our NHS."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Better schools. More good school places."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Help for first-time buyers."
+            },
+            {
+                "policyTitle": "Law and Order",
+                "policyDescription": "Lower bills, protecting the vulnerable from crime."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Executive the best deal for Britain. Take back control of our borders and laws.",
+            "defence": "",
+            "economy": "A stronger economy for your future. More jobs. Affordable homes.",
+            "education": "Better schools. More good school places.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Protecting our NHS.",
+            "immigration": "",
+            "labourEmployment": "More jobs.",
+            "lawCrime": "Lower bills. Protecting the vulnerable from crime.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "THERESA MAY FOR BRITAIN"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Strong, stable leadership in the national interest."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Executive the best deal for Britain.",
+                        "A stronger economy for your future.",
+                        "Protecting our NHS."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

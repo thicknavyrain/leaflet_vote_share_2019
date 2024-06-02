@@ -1,0 +1,183 @@
+{
+    "leaflet": {
+        "candidateName": "Laura Gordon",
+        "candidateGender": "",
+        "constituency": "Sheffield Hallam",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "For a Brighter Future",
+                "content": "Vote Liberal Democrat for a brighter future."
+            },
+            {
+                "title": "The Choice Here is Clear",
+                "content": "Lib Dem Laura Gordon OR Corbyn's Labour Candidate. You can trust Laura to work hard. Laura has already got things done. Labour left us without an MP. Labour's candidate has no record."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A Fairer Britain",
+                "policyDescription": "Britain needs fresh vision and leadership to create fairness in our country. The Liberal Democrats will build an economy that works for everyone, not just the richest."
+            },
+            {
+                "policyTitle": "Tackle the Climate Emergency",
+                "policyDescription": "The Liberal Democrats will take the urgent action needed to protect our environment, including planting 60 million trees a year and producing 80% of our energy using green technology."
+            },
+            {
+                "policyTitle": "Invest in Schools and Our NHS",
+                "policyDescription": "As Prime Minister, Jo Swinson will work to ensure our schools are given the resources they need to give every child the best start in life. We will invest in our NHS, giving patients the care they need and NHS staff the respect they deserve."
+            }
+        ],
+        "mentions": {
+            "candidate": "Laura Gordon",
+            "otherPartyLeaderCandidate": "Corbyn",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": "Result here at the 2017 General Election: Conservatives 32%, Lib Dem 35%, Lab 38%."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Britain needs fresh vision and leadership to create fairness in our country. The Liberal Democrats will build an economy that works for everyone, not just the richest.",
+            "education": "We will invest in our schools, giving every child the best start in life.",
+            "environment": "The Liberal Democrats will take the urgent action needed to protect our environment, including planting 60 million trees a year and producing 80% of our energy using green technology.",
+            "governance": "",
+            "government": "",
+            "health": "We will invest in our NHS, giving patients the care they need and NHS staff the respect they deserve.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Fighting for the public services you rely on. Campaigning to tackle the climate emergency.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Laura Gordon - A strong voice for Sheffield Hallam.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Liberal Democrat Office, 37 Paternoster Row, Sheffield, S1 2BX",
+            "phone": "0114 276 2222",
+            "email": "",
+            "website": "www.libdems.org.uk/plan",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "A fairer Britain"
+                },
+                {
+                    "caption": "Tackle the climate emergency"
+                },
+                {
+                    "caption": "Invest in schools and our NHS"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Result here at the 2017 General Election: Conservatives 32%, Lib Dem 35%, Lab 38%."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Britain needs fresh vision and leadership to create fairness in our country.",
+                        "Laura has already got things done.",
+                        "You can trust Laura to work hard.",
+                        "Campaigning to tackle the climate emergency."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "A fairer Britain",
+                        "Invest in schools and our NHS"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Tackle the Climate Emergency",
+                        "Economy that works for everyone",
+                        "Fighting for public services you rely on"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Corbyn's Labour Candidate"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,169 @@
+{
+    "leaflet": {
+        "candidateName": "Luke Pollard",
+        "candidateGender": "",
+        "constituency": "Plymouth Sutton and Devonport",
+        "politicalParty": "Labour and Co-operative",
+        "electionDate": "8 June",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Pension Protection",
+                "policyDescription": "Labour will protect the Triple Lock, keep all Winter Fuel Allowance, continue free bus passes, and establish a National Care Service."
+            }
+        ],
+        "mentions": {
+            "candidate": "I promise that I will stand up for Plymouth\u2019s pensioners against these cruel Tory plans.",
+            "otherPartyLeaderCandidate": "The Tories will attack pensioners\u2019 incomes by scrapping the Triple Lock for pensions, cut the Winter Fuel Allowance for 4 in 5 pensioners in Plymouth, and introduce a \u2018Dementia Tax\u2019.",
+            "partyLeader": "",
+            "tacticalSituation": "In 2015, the Tories won here by just 523 votes. This election will be close again."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Labour will protect the Triple Lock, keep all Winter Fuel Allowance, continue free bus passes, and establish a National Care Service. We will protect pensioners\u2019 incomes and ensure everyone is cared for properly in retirement, without having to sell their family home.",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Lockyer Hall, Alfred Street, Plymouth PL1 2RP",
+            "phone": "01752 269180",
+            "email": "luke@lukepollard.org",
+            "website": "www.lukepollard.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Plymouth is my home. It\u2019s where I was born and where I live. We need a strong local MP who will stand up for us. I will always put Plymouth first.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "2015 Election Result"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "The Tories will attack pensioners\u2019 incomes by scrapping the Triple Lock for pensions.",
+                        "In 2015, the Tories won here by just 523 votes.",
+                        "Cut the Winter Fuel Allowance for 4 in 5 pensioners."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I promise that I will stand up for Plymouth\u2019s pensioners against these cruel Tory plans.",
+                        "The weekend I announced a new pledge. That pledge is for you.",
+                        "Plymouth is my home. It's where I was born and where I live."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Continue free bus passes.",
+                        "Plymouth is my home.",
+                        "I will always put Plymouth first."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Labour will protect the Triple Lock.",
+                        "Establish a National Care Service."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "The Tories will attack pensioners\u2019 incomes by scrapping the Triple Lock for pensions.",
+                        "Cut the Winter Fuel Allowance for 4 in 5 pensioners.",
+                        "Introduce a \u2018Dementia Tax\u2019 that will force people to sell their family homes to pay for social care."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Our Tory MP is proud that he always votes with his government. He will vote to cut your income and put homes at risk."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Plymouth is my home. It's where I was born and where I live.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Plymouth is my home. It's where I was born and where I live."
+                ]
+            }
+        }
+    }
+}

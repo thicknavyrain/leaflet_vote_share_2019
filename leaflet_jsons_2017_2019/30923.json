@@ -1,0 +1,221 @@
+{
+    "leaflet": {
+        "candidateName": "Jeff Smith",
+        "candidateGender": "",
+        "constituency": "South Manchester",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "Standing Up For South Manchester",
+                "content": "I've been your local voice in Parliament since 2015, when I was elected by the people of South Manchester. I\u2019ve been working hard since then to stand up for our area, working hard on issues that matter to you."
+            },
+            {
+                "title": "Fighting For Our Public Services",
+                "content": "I've consistently campaigned and voted to protect our local hospitals and the NHS. I have spoken out against cuts to our public services, and I've worked to ensure funding for our local schools."
+            },
+            {
+                "title": "Your Voice in Westminster",
+                "content": "In Westminster, I have raised issues from South Manchester, worked on legislation, and stood up for your concerns."
+            },
+            {
+                "title": "My pledge to you",
+                "content": "To fight the education cuts that will lose every school in South Manchester vital funding. To oppose the Tory hard Brexit, and to keep working hard all year round for the people of South Manchester."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Fight the education cuts that will lose every school in South Manchester vital funding."
+            },
+            {
+                "policyTitle": "Public Services",
+                "policyDescription": "Ensuring essential services are maintained, such as the NHS and local hospitals, and opposing cuts."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Oppose the Tory hard Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jeff Smith",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Oppose the Tory hard Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "Fight the education cuts that will lose every school in South Manchester vital funding.",
+            "environment": "",
+            "governance": "",
+            "government": "Working on legislation in Westminster.",
+            "health": "Consistently campaigned and voted to protect our local hospitals and the NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "I've been your local voice in Parliament since 2015, when I was elected by the people of South Manchester. I\u2019ve been working hard since then to stand up for our area, working hard on issues that matter to you.",
+        "politicalExperience": [
+            {
+                "role": "Member of Parliament for South Manchester",
+                "duration": "Since 2015",
+                "achievements": "Protected local hospitals, NHS, and public services; worked on legislation in Westminster."
+            }
+        ],
+        "contactInformation": {
+            "address": "Casework Team, FREEPOST RTJS-ZKLJ-BXXC, Manchester M20 3BN",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Andy Burnham",
+                "endorsement": "Jeff has worked for the people of South Manchester over the last two years. He has been a passionate campaigner for fairness and for the NHS, and I\u2019m delighted to have him standing for re-election."
+            },
+            {
+                "endorser": "Angela Rayner",
+                "endorsement": "Jeff has been a fantastic advocate for South Manchester and a committed campaigner for the NHS. I am proud to support him."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Jeff has worked for the people of South Manchester over the last two years.",
+                "source": "Andy Burnham",
+                "date": ""
+            },
+            {
+                "text": "Jeff has been a fantastic advocate for South Manchester and a committed campaigner for the NHS.",
+                "source": "Angela Rayner",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Jeff Smith talking to local constituents."
+                },
+                {
+                    "caption": "Jeff Smith with local community groups."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "I've been your local voice in Parliament since 2015.",
+                        "Fight the education cuts that will lose every school in South Manchester vital funding.",
+                        "Oppose the Tory hard Brexit."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Consistently campaigned and voted to protect our local hospitals and the NHS.",
+                        "Jeff has been a fantastic advocate for South Manchester and a committed campaigner for the NHS.",
+                        "Jeff has worked for the people of South Manchester over the last two years."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Fight the education cuts that will lose every school in South Manchester vital funding.",
+                        "Protected local hospitals, NHS, and public services.",
+                        "Jeff has worked for the people of South Manchester over the last two years."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Oppose the Tory hard Brexit."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "Andy Burnham endorsement",
+                    "Angela Rayner endorsement"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Oppose the Tory hard Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Jeff has worked for the people of South Manchester over the last two years.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I've been your local voice in Parliament since 2015.",
+                    "Jeff has worked for the people of South Manchester over the last two years."
+                ]
+            }
+        }
+    }
+}

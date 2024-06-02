@@ -1,0 +1,165 @@
+{
+    "leaflet": {
+        "candidateName": "Ian Murray",
+        "candidateGender": "",
+        "constituency": "Edinburgh South",
+        "politicalParty": "Scottish Labour",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Only Ian Can Stop The SNP",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Ian Murray",
+            "otherPartyLeaderCandidate": "SNP",
+            "partyLeader": "",
+            "tacticalSituation": "Only Ian Can Stop The SNP"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "Sorry! You were out when I called. - Ian",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "2010-2017",
+                "achievements": "Rated as Scotland's Most Responsive MP 2010-2017"
+            }
+        ],
+        "contactInformation": {
+            "address": "31 Minto Street EH9 2BT",
+            "phone": "0131 667 7148",
+            "email": "ian@murraysouth.co.uk",
+            "website": "www.murray4yoursouth.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Open Britain",
+                "endorsement": "Recommended tactical vote against Brexit"
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Re-elect Ian Murray"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Rated as Scotland's Most Responsive MP 2010-2017"
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Only Ian Can Stop The SNP"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Getting things done for Edinburgh South"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Only Ian Can Stop The SNP"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Sorry! You were out when I called.",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Open Britain - Recommended tactical vote against Brexit"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Only Ian Can Stop The SNP"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Only Ian Can Stop The SNP"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

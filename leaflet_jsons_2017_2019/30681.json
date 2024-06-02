@@ -1,0 +1,166 @@
+{
+    "leaflet": {
+        "candidateName": "Stephanie Smith",
+        "candidateGender": "",
+        "constituency": "Edinburgh South",
+        "politicalParty": "Scottish Conservatives",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "A Message from Ruth Davidson",
+                "content": "With just a few days to go before the General Election on 8th June, time is running out to send the SNP a message. To do this, we need you to vote for Stephanie Smith here in Edinburgh South. Many people feel fed up with politics and with this pointless election that didn't need to be called. It may be tempting to sit this one out or to let voting be an afterthought. But we must come together to stop the SNP and send them a message. The result here in Edinburgh South is already tight and resting on a knife-edge. We know it only takes a small number of votes, so your vote really counts. The stakes in this election are higher than ever before. The facts locally are clear too. In Edinburgh South, this is not a contest between Theresa May's Conservatives and Jeremy Corbyn's Labour. This can't be won by Labour or the Lib Dems here. The only way to stop the SNP is to vote Stephanie Smith. So come together to send Nicola Sturgeon a message she can't ignore."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Standing up to the SNP",
+                "policyDescription": "Opposing another independence referendum and Nicola Sturgeon's SNP."
+            },
+            {
+                "policyTitle": "Economic Stability",
+                "policyDescription": "Avoiding economic uncertainty brought by policies of the SNP."
+            }
+        ],
+        "mentions": {
+            "candidate": "Stephanie Smith",
+            "otherPartyLeaderCandidate": "Nicola Sturgeon",
+            "partyLeader": "Ruth Davidson",
+            "tacticalSituation": "The result here in Edinburgh South is already tight and resting on a knife-edge."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Avoiding economic uncertainty brought by policies of the SNP.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "stephanie4edinburghsouth@gmail.com",
+            "website": "www.scottishconservatives.com",
+            "socialMedia": {
+                "facebook": "fb.com/scottishconservatives",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Stephanie Smith for Edinburgh South"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "The result here in Edinburgh South is already tight and resting on a knife-edge.",
+                        "The only way to stop the SNP is to vote Stephanie Smith."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Many people feel fed up with politics and with this pointless election that didn't need to be called.",
+                        "We must come together to stop the SNP and send them a message.",
+                        "The stakes in this election are higher than ever before.",
+                        "Come together to send Nicola Sturgeon a message she can't ignore."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Standing up to the SNP",
+                        "Economic Stability",
+                        "Opposing another independence referendum and Nicola Sturgeon's SNP.",
+                        "Avoiding economic uncertainty brought by policies of the SNP."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Opposing another independence referendum and Nicola Sturgeon's SNP.",
+                        "Avoiding economic uncertainty brought by policies of the SNP."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Come together to send Nicola Sturgeon a message she can't ignore."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

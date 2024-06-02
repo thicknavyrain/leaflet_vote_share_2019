@@ -1,0 +1,184 @@
+{
+    "leaflet": {
+        "candidateName": "James Archer",
+        "candidateGender": "",
+        "constituency": "Erewash",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Demand Better For Britain",
+                "content": "Sign up here to support a Liberal Democrat government to deliver a brighter future for our country."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "A Liberal Democrat government led by Jo Swinson will stop Brexit on day one and get on with the job of improving people's lives."
+            }
+        ],
+        "mentions": {
+            "candidate": "James Archer",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": "Recent polls show support for the Liberal Democrats is now at record levels."
+        },
+        "issues": {
+            "brexitEurope": "A Liberal Democrat government led by Jo Swinson will stop Brexit on day one and get on with the job of improving people's lives.",
+            "defence": "",
+            "economy": "The Conservatives want to force through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Demand Better For Britain; local and European elections success.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Freepost Erewash Liberal Democrats, Unit 1, Great Northern Court, Great Northern Road, Derby, DE1 1LR",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": "Recent polls show support for the Liberal Democrats is now at record levels."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "A Liberal Democrat government led by Jo Swinson will stop Brexit on day one and get on with the job of improving people's lives.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Recent polls show support for the Liberal Democrats is now at record levels."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "The Liberal Democrats have continued to grow following their stunning success at the local and European elections in May.",
+                        "MPs from Labour and the Conservatives are joining the Lib Dems fed up with the broken politics the two old parties represent."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "The Liberal Democrats have continued to grow following their stunning success at the local and European elections in May."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "A Liberal Democrat government led by Jo Swinson will stop Brexit on day one and get on with the job of improving people's lives.",
+                        "The Conservatives want to force through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Recent polls show support for the Liberal Democrats is now at record levels."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "The Conservatives want to force through a damaging Brexit that will wreck our economy and risk the end of the United Kingdom.",
+                        "MPs from Labour and the Conservatives are joining the Lib Dems fed up with the broken politics the two old parties represent."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Who knows where Jeremy Corbyn stands on Brexit? Labour now say they want to negotiate their own Brexit deal."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "growing following their stunning success at the local and European elections in May.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

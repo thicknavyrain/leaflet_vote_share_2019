@@ -1,0 +1,148 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Steve Brine",
+    "candidateGender": "",
+    "constituency": "Winchester & Chandler's Ford",
+    "politicalParty": "Conservatives",
+    "electionDate": "Thursday 12th December",
+    "messages": [
+      {
+        "title": "UNBLOCK PARLIAMENT : MY MODERATE BREXIT VIEW",
+        "content": "As you may know, I have served Winchester & Chandler's Ford as our MP since 2010 and will be standing for the Conservatives once again on Thursday 12th December. Politicians always say 'this election is the most important' but this time they might be right. The outcome next month, in seats like this especially, will set the course of our country for many years."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Moderate Brexit View",
+        "policyDescription": "Voted to remain but supports the Withdrawal Agreement Treaty with a sensible deal."
+      }
+    ],
+    "mentions": {
+      "candidate": "I appreciate it is easy for my opponents to take one side in this campaign and stir endlessly...",
+      "otherPartyLeaderCandidate": "Good constituency MPs aren’t a given; don’t wake up on December 13th having lost yours, got Brexit and gained Jeremy Corbyn.",
+      "partyLeader": "",
+      "tacticalSituation": "Winchester is not a safe seat; every vote counts. There's a great deal at stake and what happens here, no matter how small, will play a big part in how things end so I hope to have your support."
+    },
+    "issues": {
+      "brexitEurope": "I voted for Theresa May’s deal; from the front-bench, from the back-bench and, as I promised the Prime Minister, I voted for her new deal at 2nd Reading last month so we can finally move forward. We can ratify the Withdrawal Agreement Treaty, safely with a deal, and if I am returned as part of a majority Conservative Government we will."
+      "defence": "",
+      "economy": "",
+      "education": "",
+      "environment": "",
+      "governance": "",
+      "government": "",
+      "health": "",
+      "immigration": "",
+      "labourEmployment": "",
+      "lawCrime": "",
+      "transport": "",
+      "socialWelfare": "",
+      "community": []
+    },
+    "personalStatement": "",
+    "politicalExperience": [
+      {
+        "role": "Member of Parliament for Winchester & Chandler's Ford",
+        "duration": "since 2010",
+        "achievements": "Worked to unblock Parliament and bring sensible resolution to Brexit."
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "steve@stevebrine.com",
+      "website": "www.stevebrine.com",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Steve Brine for a strong and experienced MP Winchester & Chandler's Ford"
+        }
+      ]
+    },
+    "additionalNotes": "",
+    "analysis": {
+      "statementAnalysis": {
+        "quantitative": {
+          "count": 1,
+          "examples": ["I have served Winchester & Chandler's Ford as our MP since 2010."]
+        },
+        "qualitative": {
+          "count": 4,
+          "examples": [
+            "Unblock Parliament: My Moderate Brexit View",
+            "I have the experience and the independence to make a difference.",
+            "Our country needs a return to pragmatic and measured politics.",
+            "I take a moderate position and feel confident it is a position shared locally."
+          ]
+        }
+      },
+      "photoAnalysis": {
+        "localPlaces": 0,
+        "people": 1,
+        "candidateAlone": 1,
+        "candidateWithOthers": 0
+      },
+      "issueFocus": {
+        "local": {
+          "count": 1,
+          "examples": ["Winchester is not a safe seat; every vote counts. There's a great deal at stake and what happens here, no matter how small, will play a big part..."]
+        },
+        "national": {
+          "count": 2,
+          "examples": [
+            "The outcome next month, in seats like this especially, will set the course of our country for many years.",
+            "On Brexit, one of the defining issues of our time, I take a moderate position..."
+          ]
+        }
+      },
+      "personalStories": [],
+      "endorsementsUsed": {
+        "count": 0,
+        "examples": []
+      },
+      "negativeMessaging": {
+        "localIssues": {
+          "count": 0,
+          "examples": []
+        },
+        "nationalIssues": {
+          "count": 1,
+          "examples": ["Good constituency MPs aren’t a given; don’t wake up on December 13th having lost yours, got Brexit and gained Jeremy Corbyn."]
+        },
+        "leaderOfOpponentsParty": {
+          "count": 0,
+          "examples": []
+        },
+        "oppositeCandidateNoName": {
+          "count": 0,
+          "examples": []
+        },
+        "oppositeCandidateWithName": {
+          "count": 0,
+          "examples": []
+        }
+      },
+      "nonPolicyAttributes": {
+        "localness": "Worked for constituents in Winchester & Chandler's Ford since 2010.",
+        "employment": "",
+        "education": "",
+        "family": ""
+      },
+      "localCandidate": {
+        "isLocal": true,
+        "examples": ["I have served Winchester & Chandler's Ford as our MP since 2010."]
+      }
+    }
+  }
+}
+```

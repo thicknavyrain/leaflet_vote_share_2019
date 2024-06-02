@@ -1,0 +1,180 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Bury South",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Former Labour MPs Quit Party",
+                "content": "Lifelong Labour member and MP for Dudley North has quit Labour. Ian Austin says he can no longer ask people to vote Labour. It has been poisoned by racism, extremism and intolerance under Jeremy Corbyn. His comments have been echoed by two other former Labour MPs\u2014John Woodcock and Tom Harris. They are all urging people to vote Tory\u2014because Jeremy Corbyn is unfit to run the country."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "The only way to get a Government led by Boris Johnson is to take on and beat Brexit here, is to vote Conservative here in Bury South."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Labour MP Ian Austin quits the party over 'culture of antisemitism'",
+                "source": "The Guardian",
+                "date": "22 February 2019"
+            },
+            {
+                "text": "[Ian Austin] claimed Jeremy Corbyn is 'completely unfit' to run the country",
+                "source": "The Independent",
+                "date": "7 November 2019"
+            },
+            {
+                "text": "Labour voters abandon party after Ian Austin call to vote Tory",
+                "source": "The Express",
+                "date": "8 November 2019"
+            },
+            {
+                "text": "MP John Woodcock quits Labour with attack on 'hard left'",
+                "source": "BBC News",
+                "date": "18 July 2018"
+            },
+            {
+                "text": "John Woodcock backs Tory Barrow candidate over 'Corbyn's man'",
+                "source": "The Mail in Barrow",
+                "date": "22 November"
+            },
+            {
+                "text": "Vote Tory, urge Ian Austin and two other former Labour MPs",
+                "source": "The Times",
+                "date": "7 November 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Three former Labour MPs are now urging people to vote Tory."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "More and more Labour supporters say Jeremy Corbyn doesn\u2019t represent real Labour values. Don\u2019t risk making him Prime Minister \u2013 for five long years."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "The only way to get a Government led by Boris Johnson is to take on and beat Brexit here, is to vote Conservative here in Bury South."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Ian Austin says he can no longer ask people to vote Labour. It has been poisoned by racism, extremism and intolerance under Jeremy Corbyn."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Lifelong Labour member and MP for Dudley North has quit Labour. Ian Austin says he can no longer ask people to vote Labour. It has been poisoned by racism, extremism and intolerance under Jeremy Corbyn."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

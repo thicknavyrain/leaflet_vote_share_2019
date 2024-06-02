@@ -1,0 +1,187 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Conservative Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Brexit negotiations start 11 days after you vote",
+                "content": "either Theresa May or Jeremy Corbyn will be standing up for your economic security"
+            },
+            {
+                "title": "A loss of just 6 seats and Theresa May\u2019s government loses its majority",
+                "content": "delivering the chaos of a hung parliament"
+            },
+            {
+                "title": "If you want to keep our economy strong and taxes low",
+                "content": "not voting for Theresa May is the same as voting for Jeremy Corbyn. There\u2019s no safe way to vote Labour locally."
+            },
+            {
+                "title": "YOUR LOCAL VOTE WILL DECIDE",
+                "content": "Higher taxes, fewer jobs, more debt"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Strong, stable leadership and economic security for Britain",
+                "policyDescription": "Theresa May as Prime Minister to ensure economic strength."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Brexit negotiations start 11 days after you vote.",
+            "defence": "",
+            "economy": "Strong, stable leadership and economic security for Britain.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "There\u2019s no safe way to vote Labour locally.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "IMF upgrades UK growth again as Theresa May hails economic strength",
+                "source": "TELEGRAPH",
+                "date": "18 APRIL 2017"
+            },
+            {
+                "text": "Labour\u2019s taxes would be highest since Second World War",
+                "source": "THE TIMES",
+                "date": "27 MAY 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May as Prime Minister"
+                },
+                {
+                    "caption": "Back the Conservatives locally to keep Theresa May as Prime Minister and our economy strong"
+                },
+                {
+                    "caption": "Jeremy Corbyn and a coalition of chaos"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "A loss of just 6 seats and Theresa May\u2019s government loses its majority.",
+                        "Brexit negotiations start 11 days after you vote."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Strong, stable leadership and economic security for Britain.",
+                        "Higher taxes, fewer jobs, more debt.",
+                        "Labour\u2019s taxes would be highest since Second World War."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "There\u2019s no safe way to vote Labour locally."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Brexit negotiations start 11 days after you vote."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "There\u2019s no safe way to vote Labour locally."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 3,
+                    "examples": [
+                        "Jeremy Corbyn will be standing up for your economic security.",
+                        "not voting for Theresa May is the same as voting for Jeremy Corbyn.",
+                        "Jeremy Corbyn and a coalition of chaos"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 3,
+                    "examples": [
+                        "Jeremy Corbyn will be standing up for your economic security.",
+                        "not voting for Theresa May is the same as voting for Jeremy Corbyn.",
+                        "Jeremy Corbyn and a coalition of chaos"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

@@ -1,0 +1,173 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "8 June",
+        "messages": [
+            {
+                "title": "The Tories Have Pushed the NHS into Crisis",
+                "content": "Under the Tories, the NHS and social care have been pushed into a state of emergency. Waiting lists have soared, A&E targets are not met, and hospital trusts are in financial crisis."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Health and Social Care",
+                "policyDescription": "Only Labour will give the NHS and social care the funding they need. Labour will immediately halt all Tory hospital closure plans, join up services from home to hospital with a properly integrated health and social care service, give mental health the same priority as physical health, stand up for patients' rights to access high quality and timely care, scrap the unfair pay cap to give NHS workers the pay they deserve, bring back bursaries and fully funded education for NHS staff, and put safe staffing levels into law to ensure finances never take precedence over patient safety."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "The Tories",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "health": "Under the Tories, the NHS and social care have been pushed into a state of emergency. Waiting lists have soared, A&E targets are not met, and hospital trusts are in financial crisis.",
+            "community": [
+                {
+                    "content": "Labour will immediately halt all Tory hospital closure plans and join up services from home to hospital with a properly integrated health and social care service.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Only Labour will give the NHS and social care the funding they need.",
+                        "The Tories have pushed the NHS into crisis.",
+                        "Join up services from home to hospital with a properly integrated health and social care service."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Under the Tories, the NHS and social care have been pushed into a state of emergency.",
+                        "Waiting lists have soared, A&E targets are not met, and hospital trusts are in financial crisis."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "The Tories have pushed the NHS into crisis.",
+                        "Waiting lists have soared, A&E targets are not met, and hospital trusts are in financial crisis."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "leaflet": {
+        "candidateName": "Simon Hughes",
+        "candidateGender": "",
+        "constituency": "Bermondsey and Old Southwark",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Experience and Commitment",
+                "content": "I was privileged to represent this constituency for over 30 years and I have always put our community first."
+            },
+            {
+                "title": "Tactical Voting",
+                "content": "In 2015, the general election saw a Labour MP elected here for the first time in decades. This would not have happened if Conservative, Green and UKIP voters had lent me their votes. Now we have another chance to stop the election of a Labour MP, but only if enough people vote for me."
+            },
+            {
+                "title": "Local Residents' Feedback",
+                "content": "I have been told by so many local residents that they are fed up with the Labour Party around here. The only way to get rid of Labour is to lend your vote to me."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Simon Hughes",
+            "otherPartyLeaderCandidate": "Labour\u2019s Neil Coyle",
+            "partyLeader": "",
+            "tacticalSituation": "The only way to get rid of Labour is to lend your vote to me."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I have led campaigns for schools, hospitals and transport and have helped tens of thousands of local people when they need it.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "I have led campaigns for schools, hospitals and transport and have helped tens of thousands of local people when they need it. I want to do this again - for all the people all the time. I am proud of my record and have enclosed my personal biography for your consideration. I hope you will now be able to support me on 8th June.",
+        "politicalExperience": [
+            {
+                "role": "Local Member of Parliament",
+                "duration": "Over 30 years",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "210-212 Southwark Park Road, London, SE16 3RW",
+            "phone": "(020)7237 8444",
+            "email": "simon@simonhughes.org.uk",
+            "website": "www.simonhughes.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "In 2015, the general election saw a Labour MP elected here for the first time in decades.",
+                        "I have led campaigns for schools, hospitals and transport and have helped tens of thousands of local people when they need it."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I was privileged to represent this constituency for over 30 years and I have always put our community first.",
+                        "I have been told by so many local residents that they are fed up with the Labour Party around here.",
+                        "The only way to get rid of Labour is to lend your vote to me."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "I want to do this again - for all the people all the time.",
+                        "I have always been prepared to work across party lines for the benefit of our community."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "In 2015, the general election saw a Labour MP elected here for the first time in decades."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I have led campaigns for schools, hospitals and transport and have helped tens of thousands of local people when they need it.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Labour\u2019s Neil Coyle has spent much of the last two years on internal party infighting.",
+                        "Labour incumbent who let many people down."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Labour\u2019s Neil Coyle"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I was privileged to represent this constituency for over 30 years.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I was privileged to represent this constituency for over 30 years."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,165 @@
+{
+    "leaflet": {
+        "candidateName": "David Chalmers",
+        "candidateGender": "male",
+        "constituency": "Torridge & West Devon",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "THE FUTURE",
+                "content": "Jo Swinson is the Prime Minister we deserve. A Liberal Democrat government will build a country where every single person and community is valued and empowered to thrive. We will end the mess, and we will protect our planet for future generations."
+            },
+            {
+                "title": "ELECTION CHOICE",
+                "content": "Jeremy Corbyn will lose the election. Boris Johnson can't be trusted. Lib Dems CAN WIN for YOU."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Environmental Protection",
+                "policyDescription": "We will protect our planet for future generations."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Chalmers",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn, Boris Johnson",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": "We're 2nd now! Moderate people who want the best for their country are moving to the Lib Dems in their droves. With your vote David can win!"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "We will protect our planet for future generations.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.libdems.org.uk/plan",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "'Both Tories and Labour have failed the country'",
+                "source": "The Guardian",
+                "date": ""
+            },
+            {
+                "text": "'British politics is falling apart - the Tories are to blame, but Labour is also a shambles'",
+                "source": "The Times",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Candidate David Chalmers"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "'British politics is falling apart - the Tories are to blame, but Labour is also a shambles'",
+                        "'Both Tories and Labour have failed the country'"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Jo Swinson is the Prime Minister we deserve.",
+                        "A Liberal Democrat government will build a country where every single person and community is valued and empowered to thrive.",
+                        "With your vote David can win!"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "A Liberal Democrat government will build a country where every single person and community is valued and empowered to thrive."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Jo Swinson is the Prime Minister we deserve.",
+                        "We will protect our planet for future generations."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn will lose the election. Boris Johnson can't be trusted."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn will lose the election."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn will lose the election."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

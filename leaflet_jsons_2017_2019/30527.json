@@ -1,0 +1,178 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday June 8th",
+        "messages": [
+            {
+                "title": "Let\u2019s show the Tories we mean business.",
+                "content": "Vote Labour Thursday June 8th | Polls open 7am - 10pm"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Our NHS and social care is facing a growing crisis and hospitals are under huge pressure."
+            },
+            {
+                "policyTitle": "Police",
+                "policyDescription": "Our police have lost almost 4,000 officers since 2010 making our streets less safe."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Our schools are facing cuts leading to teacher redundancies and larger class sizes."
+            },
+            {
+                "policyTitle": "Council Services",
+                "policyDescription": "Our councils have been targeted for bigger cuts than those in the leafy south."
+            },
+            {
+                "policyTitle": "Public Transport",
+                "policyDescription": "Our public transport gets just \u00a31 for every \u00a36 spent in London and the South-East."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "The Tories",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Our schools are facing cuts leading to teacher redundancies and larger class sizes.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Our NHS and social care is facing a growing crisis and hospitals are under huge pressure.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Our police have lost almost 4,000 officers since 2010 making our streets less safe.",
+            "transport": "Our public transport gets just \u00a31 for every \u00a36 spent in London and the South-East.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Our councils have been targeted for bigger cuts than those in the leafy south.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Our police have lost almost 4,000 officers since 2010 making our streets less safe."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Our NHS and social care is facing a growing crisis and hospitals are under huge pressure.",
+                        "Our schools are facing cuts leading to teacher redundancies and larger class sizes.",
+                        "Our councils have been targeted for bigger cuts than those in the leafy south.",
+                        "Our public transport gets just \u00a31 for every \u00a36 spent in London and the South-East."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 4,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "Our NHS and social care is facing a growing crisis and hospitals are under huge pressure.",
+                        "Our schools are facing cuts leading to teacher redundancies and larger class sizes.",
+                        "Our councils have been targeted for bigger cuts than those in the leafy south.",
+                        "Our public transport gets just \u00a31 for every \u00a36 spent in London and the South-East."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Our police have lost almost 4,000 officers since 2010 making our streets less safe."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Our councils have been targeted for bigger cuts than those in the leafy south."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 4,
+                    "examples": [
+                        "Our NHS and social care is facing a growing crisis and hospitals are under huge pressure.",
+                        "Our schools are facing cuts leading to teacher redundancies and larger class sizes.",
+                        "Our police have lost almost 4,000 officers since 2010 making our streets less safe.",
+                        "Our public transport gets just \u00a31 for every \u00a36 spent in London and the South-East."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "The Tories have failed the North West."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

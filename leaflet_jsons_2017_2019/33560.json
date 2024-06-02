@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Conservative and Unionist Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "A prescription for a stronger NHS",
+                "content": "With a majority government, we can continue to grow our economy. And provide more certainty for families and businesses. That means we can invest in public services like the NHS."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A new NHS visa for the world\u2019s best doctors and nurses",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "50 million extra GP surgery appointments",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "6,000 more doctors",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "\u00a333.9 billion extra in funding",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "With a majority government, we can continue to grow our economy. And provide more certainty for families and businesses. That means we can invest in public services like the NHS. A new NHS visa for the world\u2019s best doctors and nurses. 50 million extra GP surgery appointments. 6,000 more doctors. \u00a333.9 billion extra in funding.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "CCHQ, 4 Matthew Parker Street, London, SW1H 9HQ",
+            "phone": "",
+            "email": "",
+            "website": "www.conservatives.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 4,
+                    "examples": [
+                        "50 million extra GP surgery appointments",
+                        "6,000 more doctors",
+                        "\u00a333.9 billion extra in funding",
+                        "A new NHS visa for the world\u2019s best doctors and nurses"
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "With a majority government, we can continue to grow our economy. And provide more certainty for families and businesses. That means we can invest in public services like the NHS."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "With a majority government, we can continue to grow our economy. And provide more certainty for families and businesses. That means we can invest in public services like the NHS."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

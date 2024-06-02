@@ -1,0 +1,192 @@
+{
+    "leaflet": {
+        "candidateName": "Victoria Borwick",
+        "candidateGender": "Female",
+        "constituency": "Kensington",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "WHAT THIS ELECTION IS ABOUT",
+                "content": "Strong and stable leadership in the national interest with Theresa May and the Conservatives - or weak and unstable coalition government led by Jeremy Corbyn. Every vote cast for Theresa May and the Conservatives will strengthen Britain\u2019s hand in the Brexit negotiations."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Every vote cast for Theresa May and the Conservatives will strengthen Britain\u2019s hand in the Brexit negotiations."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "We will work for a stronger economy and a better deal on Brexit."
+            },
+            {
+                "policyTitle": "Defence",
+                "policyDescription": "We will build stronger defence to protect Britain."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "We will support our schools to help children and young people feel their potential."
+            },
+            {
+                "policyTitle": "Health",
+                "policyDescription": "We will support our local NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "Victoria Borwick",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Every vote cast for Theresa May and the Conservatives will strengthen Britain\u2019s hand in the Brexit negotiations.",
+            "defence": "We will build stronger defence to protect Britain.",
+            "economy": "We will work for a stronger economy and a better deal on Brexit.",
+            "education": "We will support our schools to help children and young people feel their potential.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "We will support our local NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Supporting housing provision, improving transport, reopening police stations, supporting local shops, life chances, green spaces and properly supporting the Royal Borough of Kensington and Chelsea.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Parliamentary candidate for the Kensington constituency",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "victoriaborwick.london",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "The proven strong and stable leadership needed to get the best Brexit deal for Britain.",
+                "source": "Theresa May",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Supporting Theresa May\u2019s Strong Leadership"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Strong and stable leadership in the national interest."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Supporting housing provision, improving transport.",
+                        "We will support our local NHS.",
+                        "Supporting the Royal Borough of Kensington and Chelsea."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Stronger economy and a better deal on Brexit.",
+                        "Build stronger defence to protect Britain.",
+                        "Support our schools to help children and young people.",
+                        "Proven strong and stable leadership needed for Brexit deal."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Theresa May: The proven strong and stable leadership needed to get the best Brexit deal for Britain."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Weak and unstable coalition government led by Jeremy Corbyn."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Weak and unstable coalition government led by Jeremy Corbyn."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Victoria Borwick is the local candidate for Kensington.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Victoria Borwick is the local candidate for Kensington."
+                ]
+            }
+        }
+    }
+}

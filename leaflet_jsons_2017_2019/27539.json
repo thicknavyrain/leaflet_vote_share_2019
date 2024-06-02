@@ -1,0 +1,199 @@
+{
+    "leaflet": {
+        "candidateName": "Julian Huppert",
+        "candidateGender": "",
+        "constituency": "Cambridge",
+        "politicalParty": "Lib Dems",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "The strong voice Cambridge needs...",
+                "content": "Bookies and pundits have confirmed that the election here in Cambridge will be very close between popular Lib Dem Julian Huppert and Jeremy Corbyn's Labour candidate."
+            },
+            {
+                "title": "Your vote could make all the difference",
+                "content": "Tight two-horse race expected. Just 599 votes separated Julian Huppert and Labour back in 2015. The Conservatives finished a poor and distant third and cannot compete here. Your next MP will either be Julian Huppert, with his solid record of standing up for Cambridge, or Jeremy Corbyn's Labour candidate."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Opposing an extreme UKIP-style Brexit to protect jobs and ensure our local businesses and universities get the support they need."
+            },
+            {
+                "policyTitle": "NHS & Social Care",
+                "policyDescription": "Giving our underfunded NHS and social care an extra \u00a36 billion each year to help boost services, including mental healthcare."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "An extra \u00a37 billion for schools to help ensure our children receive the first-class education they deserve."
+            }
+        ],
+        "mentions": {
+            "candidate": "Julian Huppert",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "Just 599 votes separated Julian Huppert and Labour back in 2015. The Conservatives finished a poor and distant third and cannot compete here."
+        },
+        "issues": {
+            "brexitEurope": "Opposing an extreme UKIP-style Brexit to protect jobs and ensure our local businesses and universities get the support they need.",
+            "defence": "",
+            "economy": "",
+            "education": "An extra \u00a37 billion for schools to help ensure our children receive the first-class education they deserve.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Giving our underfunded NHS and social care an extra \u00a36 billion each year to help boost services, including mental healthcare.",
+            "immigration": "",
+            "labourEmployment": "Opposing an extreme UKIP-style Brexit to protect jobs and ensure our local businesses and universities get the support they need.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Just 599 votes separated Julian Huppert and Labour back in 2015.",
+                        "Giving our underfunded NHS and social care an extra \u00a36 billion each year to help boost services, including mental healthcare."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "The strong voice Cambridge needs...",
+                        "Bookies and pundits have confirmed that the election here in Cambridge will be very close between popular Lib Dem Julian Huppert and Jeremy Corbyn's Labour candidate.",
+                        "Your vote could make all the difference",
+                        "The Conservatives finished a poor and distant third and cannot compete here.",
+                        "Opposing an extreme UKIP-style Brexit to protect jobs and ensure our local businesses and universities get the support they need."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Opposing an extreme UKIP-style Brexit to protect jobs and ensure our local businesses and universities get the support they need."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Giving our underfunded NHS and social care an extra \u00a36 billion each year to help boost services, including mental healthcare.",
+                        "An extra \u00a37 billion for schools to help ensure our children receive the first-class education they deserve."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives finished a poor and distant third and cannot compete here."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Bookies and pundits have confirmed that the election here in Cambridge will be very close between popular Lib Dem Julian Huppert and Jeremy Corbyn's Labour candidate."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "leaflet": {
+        "candidateName": "Geoff Williams",
+        "candidateGender": "",
+        "constituency": "Camborne and Redruth",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "June 8th 2017",
+        "messages": [
+            {
+                "title": "Our country needs a strong opposition",
+                "content": "Opposing school cuts, standing up for the NHS, fighting against Hard Brexit"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Opposing school cuts",
+                "policyDescription": "The candidate pledges to oppose cuts to school funding."
+            },
+            {
+                "policyTitle": "Standing up for the NHS",
+                "policyDescription": "The candidate promises to support and protect the NHS."
+            },
+            {
+                "policyTitle": "Fighting against Hard Brexit",
+                "policyDescription": "The candidate is committed to opposing a hard Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "Geoff Williams",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "Change the direction of the country."
+        },
+        "issues": {
+            "brexitEurope": "Fighting against Hard Brexit",
+            "defence": "",
+            "economy": "",
+            "education": "Opposing school cuts",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Standing up for the NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Opposing school cuts, standing up for the NHS",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "75 Trelowarren Street, Camborne, TR14 8AL",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Our country needs a strong opposition."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Opposing school cuts",
+                        "Standing up for the NHS",
+                        "Fighting against Hard Brexit"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

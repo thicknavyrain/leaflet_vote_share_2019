@@ -1,0 +1,154 @@
+{
+    "leaflet": {
+        "candidateName": "John Leech",
+        "candidateGender": "",
+        "constituency": "south Manchester",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "News and action from John Leech MP and your local Liberal Democrat councillors"
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "John Leech",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Local Lib Dems fought hard with local residents, parents and pupils to save Ewing School from closure, and defend Lancasterian School from cuts.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Local Lib Dems fought hard with local residents, parents and pupils to save Ewing School from closure, and defend Lancasterian School from cuts.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": "",
+        "endorsements": [
+            {
+                "endorser": "Rita",
+                "endorsement": "John has been incredibly supportive of our campaign to save Ewing from closure, and we're grateful for all his hard work"
+            }
+        ],
+        "quotes": [
+            {
+                "text": "John has been incredibly supportive of our campaign to save Ewing from closure, and we're grateful for all his hard work",
+                "source": "Rita",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "A petition to save Ewing School was presented to 10 Downing Street by parents, pupils, John Leech MP and Councillor Lianne Williams."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Local Lib Dems fought hard with local residents, parents and pupils to save Ewing School from closure, and defend Lancasterian School from cuts."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Local Lib Dems fought hard with local residents, parents and pupils to save Ewing School from closure, and defend Lancasterian School from cuts."
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "John has been incredibly supportive of our campaign to save Ewing from closure, and we're grateful for all his hard work - Rita"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Working all year round for south Manchester"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "leaflet": {
+        "candidateName": "Val Allen",
+        "candidateGender": "",
+        "constituency": "Warrington North",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Making Brexit a Success is Central to our National Interest",
+                "content": "As a nation, we face the most important period in our lifetime. Making Brexit a success is central to our national interest and it is central to your local Security."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Action on Housing",
+                "policyDescription": "Val has led many campaigns in Warrington to protect the greenbelt and stop unwanted sprawl. Built brownfield sites for affordable homes."
+            },
+            {
+                "policyTitle": "Action on Brexit",
+                "policyDescription": "Val has pledged to work with Prime Minister Theresa May to deliver on the result of the EU Referendum."
+            },
+            {
+                "policyTitle": "Action on the Economy",
+                "policyDescription": "Val will lead on securing local jobs and industry by ensuring that Warrington has a high-skilled workforce and brings with it high quality infrastructure."
+            }
+        ],
+        "mentions": {
+            "candidate": "Val Allen",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Action on Brexit: Val has pledged to work with Theresa May to deliver on the result of the EU Referendum.",
+            "defence": "",
+            "economy": "Action on the Economy: Val will lead on securing local jobs and industry.",
+            "education": "",
+            "environment": "Val has led many campaigns in Warrington to protect the greenbelt and stop unwanted sprawl.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Built brownfield sites for affordable homes.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "01925 231267",
+            "email": "info@wnconservatives.org.uk",
+            "website": "wnconservatives.org.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/valallen",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Val Allen with Theresa May"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Our town and our country need urgent action.",
+                        "I will ensure more affordable homes are built in Warrington."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "We can secure a strong NHS.",
+                        "Strong, stable leadership in the national interest."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Securing local jobs and industry.",
+                        "Protecting Warrington's greenbelt."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Leading on Brexit negotiations."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Think Jeremy Corbyn as Prime Minister is a risk."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

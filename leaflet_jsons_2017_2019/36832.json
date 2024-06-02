@@ -1,0 +1,190 @@
+{
+    "leaflet": {
+        "candidateName": "Alistair Fernie",
+        "candidateGender": "",
+        "constituency": "Oxford East",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Tackling the Climate Emergency",
+                "content": "Climate change and air pollution threaten our future. The climate crisis needs urgent national and local changes to cut transport emissions and support cycling."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Tackling the Climate Emergency",
+                "policyDescription": "Climate change and air pollution threaten our future. The climate crisis needs urgent national and local changes to cut transport emissions and support cycling."
+            },
+            {
+                "policyTitle": "Protecting Our Public Services",
+                "policyDescription": "Our citizens play a vital role in public health and education services. We need to fund these services through well planned public investment rather than taxation."
+            },
+            {
+                "policyTitle": "Making Britain More Prosperous",
+                "policyDescription": "By staying in the EU, we can reduce trade barriers and continue to attract the highly skilled workers our economy needs."
+            }
+        ],
+        "mentions": {
+            "candidate": "Millions of Tories will now vote Lib Dem because of Brexit",
+            "otherPartyLeaderCandidate": "Boris Johnson leads most unpopular new government in 40 years.",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Millions of Tories will now vote Lib Dem because of Brexit. Donald Trump backs Johnson\u2019s Brexit strategy.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Climate change and air pollution threaten our future. The climate crisis needs urgent national and local changes to cut transport emissions and support cycling.",
+            "governance": "",
+            "government": "We need to fund these services through well planned public investment rather than taxation.",
+            "health": "Our citizens play a vital role in public health and education services.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Address Line 1, Address Line 2, Post Town, Postcode",
+            "phone": "",
+            "email": "",
+            "website": "www.alistairfernie.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Former Conservative MP Michael Heseltine",
+                "endorsement": "Millions of Tories will now vote Lib Dem because of Brexit."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Donald Trump backs Johnson\u2019s Brexit strategy.",
+                "source": "Express, September 2019",
+                "date": "September 2019"
+            },
+            {
+                "text": "Millions of Tories will now vote Lib Dem because of Brexit.",
+                "source": "Former Conservative MP Michael Heseltine",
+                "date": ""
+            },
+            {
+                "text": "Boris Johnson leads most unpopular new government in 40 years.",
+                "source": "Independent, August 2019",
+                "date": "August 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Millions of Tories will now vote Lib Dem because of Brexit.",
+                        "Boris Johnson leads most unpopular new government in 40 years."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Climate change and air pollution threaten our future.",
+                        "Our citizens play a vital role in public health and education services.",
+                        "We need to fund these services through well planned public investment rather than taxation."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 4,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "The climate crisis needs urgent national and local changes to cut transport emissions and support cycling."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Boris Johnson leads most unpopular new government in 40 years.",
+                        "Millions of Tories will now vote Lib Dem because of Brexit.",
+                        "Donald Trump backs Johnson\u2019s Brexit strategy."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Millions of Tories will now vote Lib Dem because of Brexit.",
+                    "issueRelated": "brexitEurope"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Millions of Tories will now vote Lib Dem because of Brexit."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Donald Trump backs Johnson\u2019s Brexit strategy."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Boris Johnson leads most unpopular new government in 40 years."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

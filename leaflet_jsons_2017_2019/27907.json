@@ -1,0 +1,183 @@
+{
+    "leaflet": {
+        "candidateName": "Anawar Miah",
+        "candidateGender": "",
+        "constituency": "Welwyn Hatfield",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "4 Reasons to vote Labour",
+                "content": "1. A hardworking, local candidate you can trust. It\u2019s time your MP represented you and not the vested interest of Westminster.\n2. Our public services will not survive under the Conservatives. The NHS is in crisis, School budgets are being slashed and our Police and Fire Services are being cut.\n3. Only Labour can deliver an exit from the European Union that protects jobs, workers' rights and guarantees that EU citizens currently living in the UK have the right to stay.\n4. Only Labour can challenge the Tories and deliver a Government that works for the many, not the few."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fight for the best of Brexit",
+                "policyDescription": "A Brexit that protects jobs, workers' rights and guarantees that EU citizens currently living in the UK have the right to stay."
+            },
+            {
+                "policyTitle": "Protect our public services",
+                "policyDescription": "Reverse cuts to police and fire service numbers. Fight for emergency services across Welwyn Hatfield. The NHS is in crisis. Labour will always put public services first."
+            },
+            {
+                "policyTitle": "Put Welwyn Hatfield before Westminster",
+                "policyDescription": "Deserve more than an ambitious, aspiring career politician who, despite entering Parliament via the party list, thinks he should parachute into our area through a by-election."
+            }
+        ],
+        "mentions": {
+            "candidate": "Anawar Miah",
+            "otherPartyLeaderCandidate": "Grant Shapps",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Only Labour can deliver an exit from the European Union that protects jobs, workers' rights and guarantees that EU citizens currently living in the UK have the right to stay.",
+            "defence": "",
+            "economy": "",
+            "education": "School budgets are being slashed",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The NHS is in crisis. Labour will always put public services first.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Reverse cuts to police and fire service numbers.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Fight for emergency services across Welwyn Hatfield.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "10A High View, Hatfield, Hertfordshire AL10 8HZ",
+            "phone": "01907 267273",
+            "email": "contact@whlabour.org.uk",
+            "website": "www.whlabour.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "We have a real chance to change things in Welwyn Hatfield, join our movement.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": []
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "A hardworking, local candidate you can trust.",
+                        "It\u2019s time your MP represented you and not the vested interest of Westminster.",
+                        "Our public services will not survive under the Conservatives.",
+                        "The NHS is in crisis.",
+                        "School budgets are being slashed.",
+                        "It\u2019s time to give Mr Shapps the sack."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 4,
+                    "examples": [
+                        "A hardworking, local candidate you can trust.",
+                        "Put Welwyn Hatfield before Westminster.",
+                        "Reverse cuts to police and fire service numbers.",
+                        "Fight for emergency services across Welwyn Hatfield."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "The NHS is in crisis.",
+                        "School budgets are being slashed.",
+                        "Only Labour can deliver an exit from the European Union that protects jobs, workers' rights and guarantees that EU citizens currently living in the UK have the right to stay.",
+                        "Only Labour can challenge the Tories and deliver a Government that works for the many, not the few."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "It\u2019s time to give Mr Shapps the sack."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Our public services will not survive under the Conservatives.",
+                        "Only Labour can challenge the Tories and deliver a Government that works for the many, not the few."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "It\u2019s time to talk about Grant Shapps."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "A hardworking, local candidate you can trust.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "A hardworking, local candidate you can trust."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,173 @@
+{
+    "leaflet": {
+        "candidateName": "Luke Shirley",
+        "candidateGender": "",
+        "constituency": "Telford",
+        "politicalParty": "Green Party",
+        "electionDate": "June 8th",
+        "messages": [],
+        "keyPolicies": [
+            {
+                "policyTitle": "Green Spaces",
+                "policyDescription": "Protect our green spaces"
+            },
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Keep our NHS public"
+            },
+            {
+                "policyTitle": "Energy Efficiency",
+                "policyDescription": "Affordable energy efficient homes for all"
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "For a fair economy with a real living wage"
+            },
+            {
+                "policyTitle": "Climate",
+                "policyDescription": "Safe climate"
+            }
+        ],
+        "mentions": {
+            "candidate": "Luke Shirley",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "For a fair economy with a real living wage",
+            "education": "",
+            "environment": "Protect our green spaces",
+            "governance": "",
+            "government": "",
+            "health": "Keep our NHS public",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Affordable energy efficient homes for all",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Luke Shirley"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Protect our green spaces",
+                        "Keep our NHS public",
+                        "Affordable energy efficient homes for all",
+                        "For a fair economy with a real living wage",
+                        "Safe climate"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "Protect our green spaces",
+                        "Keep our NHS public",
+                        "Affordable energy efficient homes for all",
+                        "For a fair economy with a real living wage",
+                        "Safe climate"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {},
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

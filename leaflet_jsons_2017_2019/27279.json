@@ -1,0 +1,172 @@
+{
+    "leaflet": {
+        "candidateName": "Jackie Porter",
+        "candidateGender": "",
+        "constituency": "Winchester and Chandler's Ford",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8",
+        "messages": [
+            {
+                "title": "Thank You says Jackie",
+                "content": "Hundreds of people across Winchester & Chandler's Ford have joined the Liberal Democrats and are backing Jackie Porter's campaign."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Conservatives failing our schools",
+                "policyDescription": "The Liberal Democrats are promising an extra \u00a37bn for schools ensuring no schools lose out from funding changes. Jackie Porter says children shouldn't be labelled failures at 11, and opposes moving good schools to second-rate schools."
+            },
+            {
+                "policyTitle": "NHS ransomware attack linked to cuts",
+                "policyDescription": "The Liberal Democrats call for a \u00a36bn rise in the NHS budget, aiming to improve hospital security and provide the funding necessary to keep services such as A&E going."
+            },
+            {
+                "policyTitle": "Unemployment to rise as Brexit takes its toll",
+                "policyDescription": "The Liberal Democrats call for an end to Conservative cuts, highlighting rising inflation and the economic impact of Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jackie Porter",
+            "otherPartyLeaderCandidate": "Steve Brine",
+            "partyLeader": "The Liberal Democrats",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Unemployment to rise as Brexit takes its toll.",
+            "defence": "",
+            "economy": "Inflation rising from 0.3% to 2.7%.",
+            "education": "Conservatives failing our schools; Winchester school funding lowest 6%.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "NHS ransomware attack linked to cuts.",
+            "immigration": "",
+            "labourEmployment": "Unemployment to rise as Brexit takes its toll.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Liberal Democrats win most votes across Winchester and Chandler's Ford.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Jackie Porter says: 'The Liberal Democrats have shown we can win here and with your support on June 8th we will win the Winchester constituency and be the strong opposition the country needs.'",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "3 St. George\u2019s Street, Winchester, SO23 8AH",
+            "phone": "",
+            "email": "",
+            "website": "www.jackieporter.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Unemployment to rise as Brexit takes its toll.",
+                "source": "The Times",
+                "date": "14 May 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Hundreds of people across Winchester & Chandler's Ford have joined the Liberal Democrats and are backing Jackie Porter's campaign."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "The Liberal Democrats won 4 of the 7 divisions in the constituency: Winchester Eastgate, Winchester Westgate, the Itchen Valley and Eastleigh South.",
+                        "Overall the Liberal Democrats gained 45% of the vote to the Conservatives' 44% with the other parties well behind."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "The Liberal Democrats are promising an extra \u00a37bn for schools ensuring no schools lose out from funding changes.",
+                        "Jackie Porter says: 'Schools must have the resources necessary to cover increasing costs. All our children deserve a good education, children shouldn't be labelled failures at 11 and we oppose moving good schools downgraded to second-rate schools as part of the Conservatives' grammar school policy.",
+                        "NHS cuts are a ticking time bomb."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Conservatives failing our schools; Winchester school funding lowest 6%."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "NHS ransomware attack linked to cuts.",
+                        "Unemployment to rise as Brexit takes its toll."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Conservatives failing our schools; Winchester school funding lowest 6%."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Unemployment to rise as Brexit takes its toll.",
+                        "NHS cuts are a ticking time bomb."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Government plans 'warmly welcomed' by Steve Brine will leave our school funding in the bottom 6%."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Local experience supporting community.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Jackie Porter said: 'The Liberal Democrats have shown we can win here and with your support on June 8th we will win the Winchester constituency and be the strong opposition the country needs.'"
+                ]
+            }
+        }
+    }
+}

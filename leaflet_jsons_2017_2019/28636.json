@@ -1,0 +1,169 @@
+{
+    "leaflet": {
+        "candidateName": "Karen Chilvers",
+        "candidateGender": "Female",
+        "constituency": "Brentwood & Ongar",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "Thursday June 8th 2017",
+        "messages": [
+            {
+                "title": "Karen Chilvers",
+                "content": "The strong voice for us"
+            },
+            {
+                "title": "This is our chance for change",
+                "content": "Only Karen Chilvers and the Lib Dems are fighting to give you the final say on the Brexit deal."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fighting against Hard Brexit",
+                "policyDescription": "Liberal Democrats are the only party that will fight to keep Britain in the heart of Europe. Here in Brentwood and Ongar, it's vital to stop the Conservatives' hard Brexit that threatens local jobs and our economy."
+            },
+            {
+                "policyTitle": "Standing up for the NHS",
+                "policyDescription": "The Liberal Democrats will fight to protect the future of local health services. Karen believes that we must protect investment in the NHS, and plans to increase funding for health and care services."
+            },
+            {
+                "policyTitle": "Opposing school cuts",
+                "policyDescription": "The Conservatives plan to cut funding to local schools, with \u00a375,971 of cuts. Karen Chilvers will fight to stop any such cuts."
+            }
+        ],
+        "mentions": {
+            "candidate": "Karen Chilvers",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "Jeremy Corbyn",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Karen Chilvers and the Lib Dems are fighting to give you the final say on the Brexit deal.",
+            "defence": "",
+            "economy": "The Liberal Democrats are the only party that will fight to keep Britain in the heart of Europe. Here in Brentwood and Ongar, it's vital to stop the Conservatives' hard Brexit that threatens local jobs and our economy.",
+            "education": "The Conservatives plan to cut funding to local schools with \u00a375,971 of cuts. Karen Chilvers will fight to stop any such cuts.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The Liberal Democrats will fight to protect the future of local health services. Karen believes that we must protect investment in the NHS, and plans to increase funding for health and care services.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "The Liberal Democrats are the only party that will fight to keep Britain in the heart of Europe.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "The Blue House, Doddinghurst Road, Doddinghurst, Brentwood, Essex, CM15 0SS",
+            "phone": "",
+            "email": "karenbrentwoodlibdem@gmail.com",
+            "website": "www.brentwoodlibdems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@KazDCM",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives plan to cut funding to local schools, with \u00a375,971 of cuts."
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 2,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "The Liberal Democrats will fight to protect the future of local health services.",
+                        "The Conservatives plan to cut funding to local schools, with \u00a375,971 of cuts.",
+                        "The Liberal Democrats are the only party that will fight to keep Britain in the heart of Europe."
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Theresa May is determined to pull Britain out of the single market and cut all ties with our neighbours.",
+                        "Labour are too weak and divided to oppose the Conservatives.",
+                        "Jeremy Corbyn's Labour are backing the Conservative plan.",
+                        "The Conservative Party is now the party of extreme hard Brexit."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 4,
+                    "examples": [
+                        "Theresa May is determined to pull Britain out of the single market and cut all ties with our neighbours.",
+                        "Labour are too weak and divided to oppose the Conservatives.",
+                        "Jeremy Corbyn's Labour are backing the Conservative plan.",
+                        "The Conservative Party is now the party of extreme hard Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May is determined to pull Britain out of the single market and cut all ties with our neighbours."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Here in Brentwood and Ongar, it's vital to stop the Conservatives' hard Brexit."
+                ]
+            }
+        }
+    }
+}

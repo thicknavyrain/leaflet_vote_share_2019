@@ -1,0 +1,198 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "candidateGender": "Female",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Stability for Brexit and Beyond",
+                "content": "Prime Minister Theresa May asks country for support to strengthen hand in Brexit negotiations and to lock in Britain's economic progress."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Strong and stable leadership to secure the best possible deal from Brexit."
+            },
+            {
+                "policyTitle": "Economic growth",
+                "policyDescription": "A growing economy to secure our future."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "A strong NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "Some people think Jeremy Corbyn can\u2019t win this election. But they said that about Donald Trump becoming US President.",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Best possible deal from Brexit.",
+            "defence": "",
+            "economy": "A growing economy to secure our future.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "A strong NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Prime Minister",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "conservatives.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Telegraph",
+                "endorsement": "Nicola Sturgeon accused of plotting to make Jeremy Corbyn PM in return for Indyref2 - Telegraph.co.uk 20th April 2017"
+            },
+            {
+                "endorser": "Mirror",
+                "endorsement": "Labour plots Brexit deal with other parties if Tories don\u2019t win election majority - Mirror, 20th April 2017"
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Nicola Sturgeon accused of plotting to make Jeremy Corbyn PM in return for Indyref2",
+                "source": "Telegraph.co.uk",
+                "date": "20th April 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Some people think Jeremy Corbyn can\u2019t win this election. But they said that about Donald Trump becoming US President.",
+                        "Strong and stable leadership with Theresa May.",
+                        "A coalition of chaos with Jeremy Corbyn."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 2,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Best possible deal from Brexit.",
+                        "A growing economy to secure our future.",
+                        "A strong NHS."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Some people think Jeremy Corbyn can\u2019t win this election. But they said that about Donald Trump becoming US President.",
+                    "issueRelated": "Leadership"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 2,
+                "examples": [
+                    "Nicola Sturgeon accused of plotting to make Jeremy Corbyn PM in return for Indyref2 - Telegraph.co.uk 20th April 2017",
+                    "Labour plots Brexit deal with other parties if Tories don\u2019t win election majority - Mirror, 20th April 2017"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour plots Brexit deal with other parties if Tories don\u2019t win election majority."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "A coalition of chaos with Jeremy Corbyn."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Labour plots Brexit deal with other parties if Tories don\u2019t win election majority."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

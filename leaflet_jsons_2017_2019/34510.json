@@ -1,0 +1,170 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "It's a Conservative Majority or a Hung Parliament",
+                "content": "At the end of this election, we\u2019ll either get a Conservative majority \u2014 or a hung parliament."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn, Jo Swinson",
+            "partyLeader": "",
+            "tacticalSituation": "Polls teeter between hung parliament and slim Tory majority. The Lib Dems have ruled out a coalition with the Conservatives. So a hung parliament means Jeremy Corbyn as Prime Minister. With five long years of gridlock and uncertainty. Corbyn would have to be propped up by the Scottish Nationalists. And they\u2019re demanding ANOTHER referendum to break up Britain."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "4 Matthew Parker Street, London, SW1H 9HQ",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Polls teeter between hung parliament and slim Tory majority",
+                "source": "The Times",
+                "date": ""
+            },
+            {
+                "text": "Jo Swinson says no to second Tory alliance",
+                "source": "The Herald",
+                "date": ""
+            },
+            {
+                "text": "SNP to back Labour government only with Scottish independence",
+                "source": "Reuters",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": []
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Polls teeter between hung parliament and slim Tory majority",
+                        "Jo Swinson says no to second Tory alliance"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "The Lib Dems have ruled out a coalition with the Conservatives. So a hung parliament means Jeremy Corbyn as Prime Minister.",
+                        "At the end of this election, we\u2019ll either get a Conservative majority \u2014 or a hung parliament.",
+                        "Don\u2019t risk five long years of Corbyn in charge."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "Polls teeter between hung parliament and slim Tory majority",
+                        "The Lib Dems have ruled out a coalition with the Conservatives. So a hung parliament means Jeremy Corbyn as Prime Minister.",
+                        "Corbyn would have to be propped up by the Scottish Nationalists. And they\u2019re demanding ANOTHER referendum to break up Britain.",
+                        "Jo Swinson says no to second Tory alliance."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "The Lib Dems have ruled out a coalition with the Conservatives. So a hung parliament means Jeremy Corbyn as Prime Minister.",
+                        "Corbyn would have to be propped up by the Scottish Nationalists. And they\u2019re demanding ANOTHER referendum to break up Britain."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Jeremy Corbyn: With five long years of gridlock and uncertainty.",
+                        "Corbyn would have to be propped up by the Scottish Nationalists."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 2,
+                    "examples": [
+                        "Jo Swinson says no to second Tory alliance",
+                        "Jeremy Corbyn as Prime Minister."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

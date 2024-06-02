@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "Ben Chapelard",
+        "candidateGender": "",
+        "constituency": "Tunbridge Wells",
+        "politicalParty": "Lib Dem",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Do you think the country is heading in the right direction? Neither do I. That's why I'm standing to be our area's next MP. Tunbridge Wells Constituency deserves so much better than the chaos and incompetence of this Conservative Government. Like you, the Lib Dems demand better."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Push Against Brexit",
+                "policyDescription": "Relentless desire to push ahead with Brexit, no matter what the cost, has divided the country and put so much at risk."
+            },
+            {
+                "policyTitle": "NHS and Climate Change",
+                "policyDescription": "Urgent problems \u2013 like the overstretched NHS and fighting climate change \u2013 are being neglected."
+            }
+        ],
+        "mentions": {
+            "candidate": "Councillor Ben Chapelard",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "With Labour finishing sixth in the recent European elections, it is only the Liberal Democrats who can stop them here."
+        },
+        "issues": {
+            "brexitEurope": "Tunbridge Wells and the surrounding villages deserve better. We are open and tolerant communities, many of us voted Remain in the European Referendum, and many local people hate what Brexit has done to our country.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Fighting climate change",
+            "governance": "",
+            "government": "",
+            "health": "Overstretched NHS",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I have always prided myself on serving the local community. Over recent years, I have led on many successful campaigns including introducing doorstep glass recycling, clearing the former ABC Cinema site and stopping the Tories\u2019 expensive and wasteful plans for a new Town Hall in Tunbridge Wells.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Local councillor representing St James\u2019 ward",
+                "duration": "since 2010",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.twlibdems.org.uk/survey",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "With Labour finishing sixth in the recent European elections",
+                        "Con 29%, Lib Dem 27%, Lab 12%"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Tunbridge Wells Constituency deserves so much better than the chaos and incompetence of this Conservative Government.",
+                        "We are open and tolerant communities, many of us voted Remain in the European Referendum, and many local people hate what Brexit has done to our country."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Tunbridge Wells and the surrounding villages deserve better.",
+                        "I have led on many successful campaigns including introducing doorstep glass recycling, clearing the former ABC Cinema site and stopping the Tories\u2019 expensive and wasteful plans for a new Town Hall in Tunbridge Wells.",
+                        "Please take a minute to let me know your views on the big issues, and what your priorities are for the months and years ahead."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Do you think the country is heading in the right direction?",
+                        "Tunbridge Wells Constituency deserves so much better than the chaos and incompetence of this Conservative Government.",
+                        "Their relentless desire to push ahead with Brexit, no matter what the cost, has divided the country and put so much at risk."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I am an experienced local councillor, I have been representing St James\u2019 ward since 2010. I have always prided myself on serving the local community.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "stopping the Tories\u2019 expensive and wasteful plans for a new Town Hall in Tunbridge Wells."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Tunbridge Wells Constituency deserves so much better than the chaos and incompetence of this Conservative Government."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I have always prided myself on serving the local community.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I am an experienced local councillor, I have been representing St James\u2019 ward since 2010.",
+                    "Tunbridge Wells and the surrounding villages deserve better.",
+                    "I have always prided myself on serving the local community."
+                ]
+            }
+        }
+    }
+}

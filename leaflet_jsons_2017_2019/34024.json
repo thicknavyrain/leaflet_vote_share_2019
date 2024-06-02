@@ -1,0 +1,172 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "Neath",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "LET'S UNLEASH WALES' POTENTIAL",
+                "content": "Exclusive Boris on the country's priorities. Let's unleash Wales' potential."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "New Brexit agreed with EU",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Points-Based Immigration System",
+                "policyDescription": "A new points-based immigration system."
+            },
+            {
+                "policyTitle": "Net Zero Carbon by 2050",
+                "policyDescription": "Achieve net zero carbon emissions by 2050."
+            },
+            {
+                "policyTitle": "20,000 Extra Police Officers",
+                "policyDescription": "Provide 20,000 extra police officers."
+            },
+            {
+                "policyTitle": "No Rise in Income Tax, VAT or National Insurance",
+                "policyDescription": "No rise in Income Tax, VAT, or National Insurance."
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Jeremy Corbyn",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "New Brexit agreed with EU.",
+            "defence": "",
+            "economy": "No rise in income tax, VAT or National Insurance.",
+            "education": "",
+            "environment": "Net zero carbon by 2050.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "Points-based immigration system.",
+            "labourEmployment": "",
+            "lawCrime": "20,000 extra police officers.",
+            "transport": "Better broadband, better transport, better high streets.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Better broadband, better transport, better high streets.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "20,000 extra police officers.",
+                        "Achieve net zero carbon emissions by 2050.",
+                        "No rise in income tax, VAT or National Insurance."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Let's unleash Wales' potential.",
+                        "Better broadband, better transport, better high streets."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 5,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Better broadband, better transport, better high streets."
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "New Brexit agreed with EU.",
+                        "Points-based immigration system.",
+                        "Net zero carbon by 2050.",
+                        "20,000 extra police officers.",
+                        "No rise in income tax, VAT or National Insurance."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Vote Lib Dem, get Jeremy Corbyn."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

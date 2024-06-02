@@ -1,0 +1,149 @@
+{
+    "leaflet": {
+        "candidateName": "Tom Davies",
+        "candidateGender": "",
+        "constituency": "Brecon & Radnorshire",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 12th December",
+        "messages": [
+            {
+                "title": "",
+                "content": "This election is a once-in-a-generation chance to transform our country and deliver the real change Brecon and Radnorshire needs. Labour is determined to bring a divided country back together, while the Tories and the Lib Dems only seek to divide us further. We have a clear choice about our future on Thursday 12 December. More Conservative cuts or a Labour Government that will bring real change for the many, not the privileged few."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Tom Davies",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07849 922711",
+            "email": "tomgd13@gmail.com",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "This election is a once-in-a-generation chance to transform our country and deliver the real change Brecon and Radnorshire needs. Labour is determined to bring a divided country back together, while the Tories and the Lib Dems only seek to divide us further. We have a clear choice about our future on Thursday 12 December. More Conservative cuts or a Labour Government that will bring real change for the many, not the privileged few."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "deliver the real change Brecon and Radnorshire needs."
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour is determined to bring a divided country back together, while the Tories and the Lib Dems only seek to divide us further."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Tom Davies is Labour's local candidate for Brecon & Radnorshire",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Tom Davies is Labour's local candidate for Brecon & Radnorshire."
+                ]
+            }
+        }
+    }
+}

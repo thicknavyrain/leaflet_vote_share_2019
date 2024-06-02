@@ -1,0 +1,169 @@
+{
+    "leaflet": {
+        "candidateName": "Bridget Smith",
+        "candidateGender": "",
+        "constituency": "North West Cambridgeshire",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Meet Bridget",
+                "content": "Bridget Smith, the leader of South Cambs District Council has been selected as our Parliamentary candidate for North West Cambridgeshire. 'My message to voters is clear,' Bridget says, 'it is time that we brought truth and honesty back into politics. Spin and alternative truth have had their day. It is because I care about people that I will always listen to them, I will always speak the truth and I will always keep my promises.'"
+            },
+            {
+                "title": "It's time to do politics differently",
+                "content": "Politics is broken. And the truth is, it has been for some time. Bridget Smith believes it's high time we did politics differently and put an emphasis back on listening, engaging and uniting communities instead of petty party politics."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "TACKLE THE CLIMATE CRISIS",
+                "policyDescription": "Bridget will push for sustainability across Cambridgeshire to put this county in the forefront of the drive to tackle the Climate Emergency in the UK."
+            },
+            {
+                "policyTitle": "INVEST FOR OUR FUTURE",
+                "policyDescription": "Bridget will seek to influence the government to overturn cuts to local government grants, which have seen ever increasing Council Tax bills and shrinking services that have affected the most vulnerable in our society."
+            },
+            {
+                "policyTitle": "BUILD A FAIRER COMMUNITY",
+                "policyDescription": "Bridget will campaign to build more truly affordable homes both to buy and to rent and ensure our schools and hospitals have the funding they need for growing our community."
+            }
+        ],
+        "mentions": {
+            "candidate": "Bridget Smith",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Bridget will push for sustainability across Cambridgeshire to put this county in the forefront of the drive to tackle the Climate Emergency in the UK.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Bridget will campaign to build more truly affordable homes both to buy and to rent.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Leader of South Cambs District Council",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "https://www.huntslibdems.org.uk/north_west_cambridgeshire_constituency",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Spin and alternative truth have had their day.",
+                        "Bridget will push for sustainability across Cambridgeshire to put this county in the forefront of the drive to tackle the Climate Emergency in the UK."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "My message to voters is clear, it is time that we brought truth and honesty back into politics.",
+                        "Politics is broken.",
+                        "Bridget Smith believes it's high time we did politics differently and put an emphasis back on listening, engaging and uniting communities instead of petty party politics."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Bridget will push for sustainability across Cambridgeshire to put this county in the forefront of the drive to tackle the Climate Emergency in the UK."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Bridget will seek to influence the government to overturn cuts to local government grants, which have seen ever increasing Council Tax bills and shrinking services that have affected the most vulnerable in our society.",
+                        "Bridget will campaign to build more truly affordable homes both to buy and to rent and ensure our schools and hospitals have the funding they need for growing our community."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Politics is broken."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

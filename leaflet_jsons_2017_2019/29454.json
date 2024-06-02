@@ -1,0 +1,191 @@
+{
+    "leaflet": {
+        "candidateName": "Rhydian Elis Fitter",
+        "candidateGender": "",
+        "constituency": "Swansea West",
+        "politicalParty": "Plaid Cymru",
+        "electionDate": "June 8, 2017",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Defend Our People",
+                "policyDescription": "Plaid Cymru will defend our people by ensuring fair policies and support for communities."
+            },
+            {
+                "policyTitle": "Defend Our Economy",
+                "policyDescription": "Plaid Cymru aims to defend the Welsh economy by promoting sustainable growth and protecting local jobs."
+            },
+            {
+                "policyTitle": "Defend Our Nation",
+                "policyDescription": "Plaid Cymru is committed to defending Wales' national interests and pushing for more autonomy."
+            }
+        ],
+        "mentions": {
+            "candidate": "Rhydian Elis Fitter",
+            "otherPartyLeaderCandidate": "Labour, England is voting Conservative.",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Plaid Cymru aims to defend the Welsh economy by promoting sustainable growth and protecting local jobs.",
+            "education": "",
+            "environment": "",
+            "governance": "Plaid Cymru is committed to defending Wales' national interests and pushing for more autonomy.",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Plaid Cymru will defend our people by ensuring fair policies and support for communities.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "1 Harries Avenue, Abertawe, SA2 0RF",
+            "phone": "07910 115927",
+            "email": "",
+            "website": "www.plaid.cymru",
+            "socialMedia": {
+                "facebook": "www.facebook.com/rhydianf",
+                "twitter": "@rhydianfitter",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "With Labour's demise, England is voting Conservative. This means the Conservatives will form the next Government. Scotland will look after their own interests.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "With Labour's demise, England is voting Conservative. This means the Conservatives will form the next Government. Scotland will look after their own interests."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Plaid Cymru will defend our people by ensuring fair policies and support for communities.",
+                        "Plaid Cymru aims to defend the Welsh economy by promoting sustainable growth and protecting local jobs.",
+                        "Plaid Cymru is committed to defending Wales' national interests and pushing for more autonomy."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "With Labour's demise, England is voting Conservative. This means the Conservatives will form the next Government. Scotland will look after their own interests."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "With Labour's demise, England is voting Conservative. This means the Conservatives will form the next Government. Scotland will look after their own interests."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,175 @@
+{
+  "leaflet": {
+    "candidateName": "Cara Hilton",
+    "candidateGender": "",
+    "constituency": "Dunfermline and West Fife",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 8 June",
+    "messages": [
+      {
+        "title": "My pledges to you",
+        "content": "I will oppose a divisive second referendum. I will fight for a better deal for pensioners. I will seek more investment for Dunfermline and West Fife to create jobs and opportunities. I will fight for the replacement of Woodmill, St Columba’s and Inverkeithing High Schools with the modern state of the art facilities our children need and deserve. I will always put Dunfermline & West Fife first."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Oppose second referendum",
+        "policyDescription": "Will oppose a divisive second referendum and advocate for investment in schools, public services, and NHS."
+      },
+      {
+        "policyTitle": "Deal for pensioners",
+        "policyDescription": "Fight for a better deal for pensioners, vote to protect the Triple-Lock on state pensions, deliver justice for the WASPI women."
+      },
+      {
+        "policyTitle": "Investment in Dunfermline and West Fife",
+        "policyDescription": "Create jobs and opportunities, including development of Rosyth Waterfront and railway links for Kincardine and Halbeath."
+      },
+      {
+        "policyTitle": "Education facilities",
+        "policyDescription": "Fight for the modern state of the art facilities for Woodmill, St Columba’s and Inverkeithing High Schools that children need and deserve."
+      },
+      {
+        "policyTitle": "Local champion",
+        "policyDescription": "Always put Dunfermline & West Fife first, work for the many and fight a second independence referendum."
+      }
+    ],
+    "mentions": {
+      "candidate": "Cara Hilton",
+      "otherPartyLeaderCandidate": "Nicola Sturgeon",
+      "partyLeader": "",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "defence": "",
+      "economy": "Investment in schools, public services, and NHS.",
+      "education": "Fight for the replacement of Woodmill, St Columba’s and Inverkeithing High Schools with modern state of the art facilities.",
+      "environment": "",
+      "governance": "",
+      "government": "",
+      "health": "Investment in NHS.",
+      "immigration": "",
+      "labourEmployment": "Create jobs and opportunities.",
+      "lawCrime": "",
+      "transport": "Seek more investment in transport infrastructure including railway links.",
+      "socialWelfare": "Fight for a better deal for pensioners, protect Triple-Lock on state pensions, deliver justice for WASPI women.",
+      "community": [
+        {
+          "content": "Our area needs a local champion who will work for the many, not the few, and fight a second independence referendum.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "",
+    "politicalExperience": [],
+    "contactInformation": {
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "socialMedia": {
+        "facebook": "",
+        "twitter": "",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [],
+    "quotes": [],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": "Cara Hilton standing in front of a bridge."
+        }
+      ]
+    },
+    "additionalNotes": "",
+    "analysis": {
+      "statementAnalysis": {
+        "quantitative": {
+          "count": 0,
+          "examples": [""]
+        },
+        "qualitative": {
+          "count": 6,
+          "examples": [
+            "I will oppose a divisive second referendum.",
+            "I will fight for a better deal for pensioners.",
+            "I will seek more investment for Dunfermline and West Fife to create jobs and opportunities.",
+            "I will fight for the replacement of Woodmill, St Columba’s and Inverkeithing High Schools with the modern state of the art facilities our children need and deserve.",
+            "I will always put Dunfermline & West Fife first.",
+            "Our area needs a local champion who will work for the many, not the few, and fight a second independence referendum."
+          ]
+        }
+      },
+      "photoAnalysis": {
+        "localPlaces": 1,
+        "people": 1,
+        "candidateAlone": 1,
+        "candidateWithOthers": 0
+      },
+      "issueFocus": {
+        "local": {
+          "count": 4,
+          "examples": [
+            "Create jobs and opportunities, including development of Rosyth Waterfront and railway links for Kincardine and Halbeath.",
+            "Fight for the replacement of Woodmill, St Columba’s and Inverkeithing High Schools with modern state of the art facilities.",
+            "Always put Dunfermline & West Fife first.",
+            "Our area needs a local champion who will work for the many, not the few, and fight a second independence referendum."
+          ]
+        },
+        "national": {
+          "count": 2,
+          "examples": [
+            "Oppose a divisive second referendum and advocate for investment in schools, public services, and NHS.",
+            "Fight a second independence referendum."
+          ]
+        }
+      },
+      "personalStories": [],
+      "endorsementsUsed": {
+        "count": 0,
+        "examples": [""]
+      },
+      "negativeMessaging": {
+        "localIssues": {
+          "count": 0,
+          "examples": [""]
+        },
+        "nationalIssues": {
+          "count": 1,
+          "examples": [
+            "Fight a second independence referendum."
+          ]
+        },
+        "leaderOfOpponentsParty": {
+          "count": 1,
+          "examples": [
+            "Nicola Sturgeon should get back to the day job of investing in our schools, improving our public services, and sorting out our NHS."
+          ]
+        },
+        "oppositeCandidateNoName": {
+          "count": 0,
+          "examples": [""]
+        },
+        "oppositeCandidateWithName": {
+          "count": 0,
+          "examples": [""]
+        }
+      },
+      "nonPolicyAttributes": {
+        "localness": "Always put Dunfermline & West Fife first.",
+        "employment": "",
+        "education": "",
+        "family": ""
+      },
+      "localCandidate": {
+        "isLocal": true,
+        "examples": [
+          "Always put Dunfermline & West Fife first.",
+          "Our area needs a local champion who will work for the many, not the few."
+        ]
+      }
+    }
+  }
+}

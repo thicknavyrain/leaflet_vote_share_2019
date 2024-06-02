@@ -1,0 +1,214 @@
+{
+    "leaflet": {
+        "candidateName": "Harriet Harman",
+        "candidateGender": "",
+        "constituency": "Camberwell and Peckham",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "Fighting for you and your family",
+                "content": "Campaigning against Tory cuts in funding of schools in Camberwell and Peckham."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Vital public services",
+                "policyDescription": "Fight for our local NHS, schools, and all our public services."
+            },
+            {
+                "policyTitle": "Homes and Safety",
+                "policyDescription": "Insist on more police officers on our streets and homes for local people."
+            },
+            {
+                "policyTitle": "Here to help",
+                "policyDescription": "Continue to help local people and community."
+            },
+            {
+                "policyTitle": "Speaking up for you",
+                "policyDescription": "Strong voice for you in the House of Commons."
+            },
+            {
+                "policyTitle": "Protecting community arts",
+                "policyDescription": "Support and work with London\u2019s vibrant arts and cultural community."
+            },
+            {
+                "policyTitle": "Defending the NHS",
+                "policyDescription": "Must never take NHS for granted, keep up with all healthcare needs."
+            },
+            {
+                "policyTitle": "Fighting school cuts",
+                "policyDescription": "Cuts have led to fewer teachers and increased class sizes."
+            },
+            {
+                "policyTitle": "Protecting police numbers",
+                "policyDescription": "Ensure police officers are maintained on streets."
+            }
+        ],
+        "mentions": {
+            "candidate": "Harriet Harman",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "I campaigned for the UK to stay in the EU.",
+            "defence": "",
+            "economy": "",
+            "education": "Fighting school cuts, cuts have led to fewer teachers and increased class sizes.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Defending the NHS, must never take NHS for granted, keep up with all healthcare needs.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Insist on more police officers on our streets.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Supporting local community and arts.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Over the 25 years I have been your MP, I have helped thousands of people solve their problems and have always stood up for local people, local prosperity and local public services.",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "25 years",
+                "achievements": "Helped thousands of people, brought forward laws and changes including the National Minimum Wage and Winter Fuel Allowance."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Sadiq Khan",
+                "endorsement": "Urge you to vote for Harriet Harman on 8 June. Harriet has the strength and energy to be your local champion in Camberwell and Peckham and in London."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Fighting for you and your family"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Over the 25 years I have been your MP...",
+                        "Cuts have led to fewer teachers and increased class sizes.",
+                        "Brought forward the National Minimum Wage, Winter Fuel Allowance."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I have helped thousands of people.",
+                        "I am here to help.",
+                        "I am a strong voice for you in the House of Commons."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 6,
+                    "examples": [
+                        "Campaigning against Tory cuts in funding of schools in Camberwell and Peckham",
+                        "Insist on more police officers on our streets.",
+                        "Fight for local NHS, schools.",
+                        "Homes for local people.",
+                        "Here to help local people and community.",
+                        "Supporting local community and arts."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Cuts have led to fewer teachers and increased class sizes.",
+                        "Defending the NHS.",
+                        "Winter Fuel Allowance."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Over the 25 years I have been your MP, I have helped thousands of people solve their problems.",
+                    "issueRelated": "Here to help."
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Endorsement by Sadiq Khan."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Campaigning against Tory cuts in funding of schools in Camberwell and Peckham."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Cuts have led to fewer teachers and increased class sizes."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I am your local champion in Camberwell and Peckham.",
+                "employment": "",
+                "education": "",
+                "family": "Fighting for you and your family."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I am your local champion in Camberwell and Peckham."
+                ]
+            }
+        }
+    }
+}

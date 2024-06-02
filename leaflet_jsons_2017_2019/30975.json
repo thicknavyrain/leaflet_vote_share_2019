@@ -1,0 +1,157 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Tim Farron",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Labour Party, Southside, 105 Victoria Street, London, SW1E 6QT",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Tim Farron: Lib Dems would go back into coalition with the Tories",
+                "source": "The Guardian, September 2015",
+                "date": ""
+            },
+            {
+                "text": "Tim Farron had Thatcher poster in his childhood bedroom",
+                "source": "The Guardian, May 2017",
+                "date": ""
+            },
+            {
+                "text": "Lib Dem leader Tim Farron won\u2019t say if he thinks being gay is a sin",
+                "source": "",
+                "date": ""
+            },
+            {
+                "text": "Tim Farron\u2019s Lib Dems will say anything to get elected. You can\u2019t trust them with your vote.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": []
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": []
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Tim Farron: Lib Dems would go back into coalition with the Tories",
+                        "Tim Farron had Thatcher poster in his childhood bedroom",
+                        "Tim Farron\u2019s Lib Dems will say anything to get elected. You can\u2019t trust them with your vote."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 0,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": []
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Tim Farron\u2019s Lib Dems will say anything to get elected. You can\u2019t trust them with your vote."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Tim Farron\u2019s Lib Dems will say anything to get elected. You can\u2019t trust them with your vote."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 4,
+                    "examples": [
+                        "Tim Farron: Lib Dems would go back into coalition with the Tories",
+                        "Tim Farron had Thatcher poster in his childhood bedroom",
+                        "Lib Dem leader Tim Farron won\u2019t say if he thinks being gay is a sin",
+                        "Tim Farron\u2019s Lib Dems will say anything to get elected. You can\u2019t trust them with your vote."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 4,
+                    "examples": [
+                        "Tim Farron: Lib Dems would go back into coalition with the Tories",
+                        "Tim Farron had Thatcher poster in his childhood bedroom",
+                        "Lib Dem leader Tim Farron won\u2019t say if he thinks being gay is a sin",
+                        "Tim Farron\u2019s Lib Dems will say anything to get elected. You can\u2019t trust them with your vote."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

@@ -1,0 +1,173 @@
+{
+    "leaflet": {
+        "candidateName": "Dr Philippa Whitford",
+        "candidateGender": "",
+        "constituency": "Central Ayrshire",
+        "politicalParty": "SNP",
+        "electionDate": "12th December",
+        "messages": [
+            {
+                "title": "",
+                "content": "The upcoming General Election is probably the most important we have faced in our lifetimes. Scotland is coming to a fork in the road and we must have the Right to Choose our own future - as part of Brexit Britain or as a modern European country."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NHS",
+                "policyDescription": "Despite devolution, our NHS is also under threat from several sides: Brexit - due to loss of EU staff, medicine shortages and lowered public safety standards."
+            },
+            {
+                "policyTitle": "Scottish Parliament",
+                "policyDescription": "But our Scottish Parliament is under threat as, post Brexit, the power to set the rules in 24 devolved policy areas is being taken by Westminster. The Conservatives never supported devolution and are seeking to hollow out our Scottish Parliament."
+            },
+            {
+                "policyTitle": "Public Procurement",
+                "policyDescription": "The Power Grab - the UK Government is taking control over Public Procurement rules across the UK which would allow them to force our NHS to outsource services to private companies and turn it into a Healthcare 'market' like the NHS in England."
+            }
+        ],
+        "mentions": {
+            "candidate": "Dr Philippa Whitford",
+            "otherPartyLeaderCandidate": "Conservatives",
+            "partyLeader": "",
+            "tacticalSituation": "Regardless of their views on Scottish Independence, the vast majority of people in Scotland support devolution. Scottish Parliament has been able to shield us from some of Westminster\u2019s harshest policies while investing in the wellbeing of our citizens."
+        },
+        "issues": {
+            "brexitEurope": "Brexit - due to loss of EU staff, medicine shortages and lowered public safety standards.",
+            "defence": "",
+            "economy": "A Tory/Trump Trade Deal - Trump has already made clear his intention to more than double UK drug costs which would cripple NHS budgets and reduce the funding available for other treatment.",
+            "education": "",
+            "environment": "",
+            "governance": "But our Scottish Parliament is under threat as, post Brexit, the power to set the rules in 24 devolved policy areas is being taken by Westminster.",
+            "government": "",
+            "health": "Despite devolution, our NHS is also under threat from several sides: Brexit - due to loss of EU staff, medicine shortages and lowered public safety standards.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Regardless of their views on Scottish Independence, the vast majority of people in Scotland support devolution. Scottish Parliament has been able to shield us from some of Westminster\u2019s harshest policies while investing in the wellbeing of our citizens.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "SNP Candidate for Central Ayrshire",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "183 High Street, Irvine KA12 8AD",
+            "phone": "",
+            "email": "info@drphilippasnp.scot",
+            "website": "www.whitford.scot",
+            "socialMedia": {
+                "facebook": "PhilippaWhitfordSNP",
+                "twitter": "@Dr_PhilippaW",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Scotland is coming to a fork in the road and we must have the Right to Choose our own future."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Regardless of their views on Scottish Independence, the vast majority of people in Scotland support devolution. Scottish Parliament has been able to shield us from some of Westminster\u2019s harshest policies while investing in the wellbeing of our citizens."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Brexit - due to loss of EU staff, medicine shortages and lowered public safety standards."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "But our Scottish Parliament is under threat as, post Brexit, the power to set the rules in 24 devolved policy areas is being taken by Westminster."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Brexit - due to loss of EU staff, medicine shortages and lowered public safety standards."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives never supported devolution and are seeking to hollow out our Scottish Parliament."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

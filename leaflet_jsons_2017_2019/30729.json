@@ -1,0 +1,192 @@
+{
+    "leaflet": {
+        "candidateName": "Simon Murray",
+        "candidateGender": "",
+        "constituency": "Nottingham East",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Give me and my candidate your vote on Thursday 8th June and I will:",
+                "content": "Provide strong and stable leadership for our country; Get the best Brexit deal possible to deliver economic security for our future; Always stand up for you and your family."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Making sure Nottingham plays its full part in the BREXIT process as we regain control of our borders, laws and money."
+            },
+            {
+                "policyTitle": "Job Creation",
+                "policyDescription": "22,000 new jobs in the Nottingham area since 2010, now Nottingham East needs a local Conservative MP to build on that success."
+            },
+            {
+                "policyTitle": "Investment and Growth",
+                "policyDescription": "Providing a strong and influential voice for Nottingham to encourage investment and growth, especially in our universities."
+            }
+        ],
+        "mentions": {
+            "candidate": "Simon Murray",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Making sure Nottingham plays its full part in the BREXIT process as we regain control of our borders, laws and money.",
+            "defence": "",
+            "economy": "22,000 new jobs in the Nottingham area since 2010, now Nottingham East needs a local Conservative MP to build on that success.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "22,000 new jobs in the Nottingham area since 2010, now Nottingham East needs a local Conservative MP to build on that success.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Providing a strong and influential voice for Nottingham to encourage investment and growth, especially in our universities.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "King Edward Court, King Edward Street, Nottingham NG1 1EW",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Don't risk our future at this crucial moment in history with a vote for anyone else.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Standing with Theresa May"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "22,000 new jobs in the Nottingham area since 2010, now Nottingham East needs a local Conservative MP to build on that success."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Don't risk our future at this crucial moment in history with a vote for anyone else.",
+                        "Providing strong and stable leadership for our country",
+                        "Always stand up for you and your family."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Providing a strong and influential voice for Nottingham to encourage investment and growth, especially in our universities."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Making sure Nottingham plays its full part in the BREXIT process as we regain control of our borders, laws and money.",
+                        "Providing strong and stable leadership for our country"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

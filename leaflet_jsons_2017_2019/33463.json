@@ -1,0 +1,172 @@
+{
+    "leaflet": {
+        "candidateName": "Richard Monaghan",
+        "candidateGender": "",
+        "constituency": "Jarrow",
+        "politicalParty": "Brexit Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "I AM READY",
+                "content": "The North East has been overlooked for too long, and I have been running a local business here for many years. I love the local area and believe Jarrow needs a stronger voice inside Westminster."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Get Investment Into Jarrow",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Improve Medical Services",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Respect the Vote and Re-establish Trust in Politics",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Abolish the House of Lords",
+                "policyDescription": ""
+            },
+            {
+                "policyTitle": "Keep the Health Service Free at Point of Use",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "Richard Monaghan",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Nigel Farage",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The Brexit Party is the key to a real Brexit. Join us!",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "Abolish the House of Lords",
+            "health": "Keep the Health Service Free at Point of Use",
+            "immigration": "Controlled Immigration: We need a fair, firm points-based system",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "A Brexit Dividend: Spend \u00a3200bn on transport and jobs in the regions",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Get Investment Into Jarrow",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "I have been running a local business here for many years. I love the local area and believe Jarrow needs a stronger voice inside Westminster.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "richard.monaghan@thebrexitparty.org",
+            "website": "www.thebrexitparty.org",
+            "socialMedia": {
+                "facebook": "brexitpartyuk",
+                "twitter": "brexitpartyuk",
+                "instagram": "brexitpartyuk",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Spend \u00a3200bn on transport and jobs in the regions"
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "I love the local area and believe Jarrow needs a stronger voice inside Westminster."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Get Investment Into Jarrow"
+                    ]
+                },
+                "national": {
+                    "count": 5,
+                    "examples": [
+                        "Respect the Vote and Re-establish Trust in Politics",
+                        "Abolish the House of Lords",
+                        "Keep the Health Service Free at Point of Use",
+                        "Controlled Immigration: We need a fair, firm points-based system",
+                        "Spend \u00a3200bn on transport and jobs in the regions"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I have been running a local business here for many years.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I have been running a local business here for many years.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I have been running a local business here for many years."
+                ]
+            }
+        }
+    }
+}

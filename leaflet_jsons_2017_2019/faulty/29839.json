@@ -1,0 +1,167 @@
+{
+    "leaflet": {
+        "candidateName": "Barry Gardiner",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Do you remember the time when older people used to be treated with respect?",
+                "content": "I want to tell you that with Labour, that time is and always will be NOW!\n\nThere was a time when other political parties used to agree that:\n- Pensioners are entitled to winter fuel payments to keep warm\n- The Triple Lock is vital to protect pensioners\u2019 incomes\n- Elderly people should be able to pass their property on to their children and not have it sold to pay for care in their own home\n\nSadly the Conservatives have now broken this consensus and are refusing to provide the security and dignity in old age that our elderly citizens deserve. Thankfully, Labour has guaranteed all of this and more."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Care for the elderly",
+                "policyDescription": "Labour will invest an extra \u00a38 billion into care services in the next parliament, reduce hospital waiting times, and create a new National Care Service."
+            },
+            {
+                "policyTitle": "NHS Protection",
+                "policyDescription": "Labour will always protect our NHS, create a new National Care Service and treat older people with the respect they deserve."
+            }
+        ],
+        "mentions": {
+            "candidate": "Barry Gardiner",
+            "otherPartyLeaderCandidate": "Conservatives",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Labour will always protect our NHS, create a new National Care Service and treat older people with the respect they deserve.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": [
+                {
+                    "content": "Pensioners are entitled to winter fuel payments to keep warm.\nThe Triple Lock is vital to protect pensioners\u2019 incomes.\nElderly people should be able to pass their property on to their children and not have it sold to pay for care in their own home.",
+                    "yimbyNimby": "N/A"
+                }
+            ],
+            "community": [
+                {
+                    "content": "Sadly the Conservatives have now broken this consensus and are refusing to provide the security and dignity in old age that our elderly citizens deserve. Thankfully, Labour has guaranteed all of this and more.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Pavilion Hall, Union Road, Wembley, HA0 4AU",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "these things are not charity they are your rights as citizens.",
+                "source": "Labour",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Barry Gardiner"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Labour will invest an extra \u00a38 billion into care services in the next parliament."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Do you remember the time when older people used to be treated with respect?",
+                        "Labour will always protect our NHS, create a new National Care Service and treat older people with the respect they deserve.",
+                        "these things are not charity they are your rights as citizens."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Sadly the Conservatives have now broken this consensus and are refusing to provide the security and dignity in old age that our elderly citizens deserve. Thankfully, Labour has guaranteed all of this and more."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Labour will invest an extra \u00a38 billion into care services in the next parliament.",
+                        "Labour will always protect our NHS, create a new National Care Service and treat older people with the respect they deserve."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Sadly the Conservatives have now broken this consensus and are refusing to provide the security and dignity in old age that our elderly citizens deserve."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

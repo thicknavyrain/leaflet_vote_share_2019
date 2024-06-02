@@ -1,0 +1,193 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Think Jeremy Corbyn as Prime Minister is never going to happen?",
+                "content": "DON'T BE SO SURE"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "",
+                "policyDescription": ""
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "Shock Win: Stunning Trump Win, Los Angeles Times, 9 Nov 2016; Shock Win: Corbyn was 200-1 Outsider, BBC, 12 Sept 2015; Corbyn closes in on May with just two weeks until the election as poll slashes Conservative lead to only five points, Daily Mail, 26 May 2017"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "You can stop this by voting for Theresa May's Conservatives locally.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Corbyn closes in on May with just two weeks until the election as poll slashes Conservative lead to only five points.",
+                "source": "Daily Mail",
+                "date": "26 May 2017"
+            },
+            {
+                "text": "Corbyn was 200-1 Outsider",
+                "source": "BBC",
+                "date": "12 Sept 2015"
+            },
+            {
+                "text": "Stunning Trump Win",
+                "source": "Los Angeles Times",
+                "date": "9 Nov 2016"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Shock Win: Stunning Trump Win, Los Angeles Times, 9 Nov 2016; Shock Win: Corbyn was 200-1 Outsider, BBC, 12 Sept 2015"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Corbyn closes in on May with just two weeks until the election as poll slashes Conservative lead to only five points."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Stunning Trump Win",
+                        "Corbyn was 200-1 Outsider"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Stunning Trump Win",
+                        "Corbyn was 200-1 Outsider"
+                    ]
+                }
+            }
+        },
+        "personalStories": [
+            {
+                "story": "",
+                "issueRelated": ""
+            }
+        ],
+        "endorsementsUsed": {
+            "count": 0,
+            "examples": [
+                ""
+            ]
+        },
+        "negativeMessaging": {
+            "localIssues": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "nationalIssues": {
+                "count": 1,
+                "examples": [
+                    "Think Jeremy Corbyn as Prime Minister is never going to happen?"
+                ]
+            },
+            "leaderOfOpponentsParty": {
+                "count": 1,
+                "examples": [
+                    "Think Jeremy Corbyn as Prime Minister is never going to happen?"
+                ]
+            },
+            "oppositeCandidateNoName": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "oppositeCandidateWithName": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            }
+        },
+        "nonPolicyAttributes": {
+            "localness": "",
+            "employment": "",
+            "education": "",
+            "family": ""
+        },
+        "localCandidate": {
+            "isLocal": false,
+            "examples": [
+                ""
+            ]
+        }
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "leaflet": {
+        "candidateName": "Martin Winter",
+        "candidateGender": "",
+        "constituency": "Reading West",
+        "politicalParty": "Conservative",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "A Conservative majority government can get on with the country\u2019s priorities",
+                "content": "Get Brexit done with a deal, extra funding for NHS, extra police officers, and more funding for education."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Get Brexit Done",
+                "policyDescription": "We've agreed a deal with the EU. And it's ready to go from day one of a new parliament. It protects jobs, trade, workers' rights and environmental standards. And it ends the uncertainty."
+            },
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "\u00a333.9 billion extra for the NHS to help fund 40 new hospitals and invest in 300 new MRI machines, CT scanners and breast-screening machines."
+            },
+            {
+                "policyTitle": "Extra Police Officers",
+                "policyDescription": "20,000 extra police officers and trusting our police with the powers they need to make our streets safer."
+            },
+            {
+                "policyTitle": "Education Funding",
+                "policyDescription": "More funding for every pupil in every school so every child gets a better education, no matter what."
+            }
+        ],
+        "mentions": {
+            "candidate": "Martin Winter",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "Last time, the Conservatives were just nine seats short of a majority. Just a handful of votes could decide this seat. So this election will be very close."
+        },
+        "issues": {
+            "brexitEurope": "Get Brexit done with a deal.",
+            "defence": "",
+            "economy": "",
+            "education": "More funding for every pupil in every school so every child gets a better education, no matter what.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "\u00a333.9 billion extra for the NHS to help fund 40 new hospitals and invest in 300 new MRI machines, CT scanners and breast-screening machines.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "20,000 extra police officers and trusting our police with the powers they need to make our streets safer.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Michael Winter, 1 Tupsley Road, READING, RG1 6EX",
+            "phone": "",
+            "email": "",
+            "website": "www.conservatives.com/contact",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "\u00a333.9 billion extra for the NHS",
+                        "20,000 extra police officers"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Get Brexit done with a deal.",
+                        "More funding for every pupil in every school so every child gets a better education, no matter what."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Get Brexit done with a deal.",
+                        "\u00a333.9 billion extra for the NHS",
+                        "20,000 extra police officers"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

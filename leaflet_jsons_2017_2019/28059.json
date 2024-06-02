@@ -1,0 +1,200 @@
+{
+    "leaflet": {
+        "candidateName": "Robert Wilson Gillespie",
+        "candidateGender": "",
+        "constituency": "Morecambe and Lunesdale",
+        "politicalParty": "UK Independence Party (UKIP)",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Dear Voter",
+                "content": "I want to make Morecambe great again, it starts with long term investment. This will have a knock on effect on local businesses, so they can begin to see good trading again, helped by stopping parking charges in Morecambe Town Centre. By returning to being a Seaside resort, bringing the crowds back to Morecambe all the year round including better Christmas lights to welcome visitors. Getting the long overdue repairs made to the roads and pavements. Providing social housing that is affordable for local people & Veterans, giving them a better feeling about the future. Stopping welfare cuts, pension caps, cuts to care home funding which if continued, will result in more closures. Library's only being kept open due to community help. People being stranded in rural areas due to bus routes being cut."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Local Business Support",
+                "policyDescription": "Stopping parking charges in Morecambe Town Centre to help local businesses."
+            },
+            {
+                "policyTitle": "Tourism",
+                "policyDescription": "Investing in Morecambe as a Seaside resort and improving Christmas lights to attract visitors."
+            },
+            {
+                "policyTitle": "Infrastructure",
+                "policyDescription": "Repairing roads and pavements."
+            },
+            {
+                "policyTitle": "Affordable Housing",
+                "policyDescription": "Providing social housing that is affordable for local people and Veterans."
+            },
+            {
+                "policyTitle": "Welfare",
+                "policyDescription": "Stopping welfare cuts, pension caps, and cuts to care home funding."
+            },
+            {
+                "policyTitle": "Public Services",
+                "policyDescription": "Ensuring libraries and bus routes remain open and operational."
+            }
+        ],
+        "mentions": {
+            "candidate": "Robert Wilson Gillespie",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Stopping welfare cuts, pension caps, and cuts to care home funding.",
+            "community": [
+                {
+                    "content": "Stopping parking charges in Morecambe Town Centre to help local businesses.",
+                    "yimbyNimby": "YIMBY"
+                },
+                {
+                    "content": "Repairing roads and pavements.",
+                    "yimbyNimby": "YIMBY"
+                },
+                {
+                    "content": "Ensuring libraries and bus routes remain open and operational.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07770 252503",
+            "email": "robert.wilson.gillespie56@hotmail.co.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "I want to make Morecambe great again.",
+                        "Giving them a better feeling about the future.",
+                        "People being stranded in rural areas due to bus routes being cut.",
+                        "Library's only being kept open due to community help."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 6,
+                    "examples": [
+                        "Stopping parking charges in Morecambe Town Centre to help local businesses.",
+                        "Investing in Morecambe as a Seaside resort and improving Christmas lights to attract visitors.",
+                        "Repairing roads and pavements.",
+                        "Providing social housing that is affordable for local people and Veterans.",
+                        "Ensuring libraries and bus routes remain open and operational."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Stopping welfare cuts, pension caps, and cuts to care home funding."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I want to make Morecambe great again.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I want to make Morecambe great again.",
+                    "Stopping parking charges in Morecambe Town Centre to help local businesses."
+                ]
+            }
+        }
+    }
+}

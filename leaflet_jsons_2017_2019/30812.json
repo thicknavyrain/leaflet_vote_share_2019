@@ -1,0 +1,182 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Strong stable leadership and economic security",
+                "policyDescription": "Back the Conservatives locally to keep Theresa May as Prime Minister and our economy strong"
+            },
+            {
+                "policyTitle": "Brexit negotiations",
+                "policyDescription": "Brexit negotiations start 11 days after you vote. A loss of just 6 seats and Theresa May's government loses its majority, leading to chaos."
+            },
+            {
+                "policyTitle": "Economic growth",
+                "policyDescription": "IMF upgrades UK growth again as Theresa May hails economic strength"
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "If you want to keep our economy strong, taxes low and don't want Jeremy Corbyn as Prime Minister, there's no safe way to vote Labour locally."
+        },
+        "issues": {
+            "brexitEurope": "Brexit negotiations start 11 days after you vote.",
+            "defence": "",
+            "economy": "Higher taxes, fewer jobs, more debt. IMF upgrades UK growth again as Theresa May hails economic strength. Labour's taxes would be highest since Second World War.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "IMF",
+                "endorsement": "Upgrades UK growth again as Theresa May hails economic strength"
+            }
+        ],
+        "quotes": [
+            {
+                "text": "IMF upgrades UK growth again as Theresa May hails economic strength",
+                "source": "The Sunday Times, 15th May 2017",
+                "date": ""
+            },
+            {
+                "text": "Labour's taxes would be highest since Second World War",
+                "source": "The Times, 13th May 2017",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May as Prime Minister"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Brexit negotiations start 11 days after you vote.",
+                        "A loss of just 6 seats and Theresa May's government loses its majority.",
+                        "IMF upgrades UK growth again as Theresa May hails economic strength."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "If you want to keep our economy strong, taxes low and don't want Jeremy Corbyn as Prime Minister, there's no safe way to vote Labour locally.",
+                        "Higher taxes, fewer jobs, more debt."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "If you want to keep our economy strong, taxes low and don't want Jeremy Corbyn as Prime Minister, there's no safe way to vote Labour locally."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "IMF upgrades UK growth again as Theresa May hails economic strength.",
+                        "Brexit negotiations start 11 days after you vote."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "IMF upgrades UK growth again as Theresa May hails economic strength"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Higher taxes, fewer jobs, more debt."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn and a coalition of chaos."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "If you want to keep our economy strong, taxes low and don't want Jeremy Corbyn as Prime Minister, there's no safe way to vote Labour locally."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

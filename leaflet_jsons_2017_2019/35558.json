@@ -1,0 +1,186 @@
+{
+    "leaflet": {
+        "candidateName": "Tony Curtis",
+        "candidateGender": "",
+        "constituency": "Glasgow North",
+        "politicalParty": "Scottish Conservative and Unionist Party",
+        "electionDate": "Thursday 12th December",
+        "messages": [
+            {
+                "title": "",
+                "content": "Nicola Sturgeon wants to hold another independence referendum next year, and Jeremy Corbyn has said his Labour Party won\u2019t even stand in the way of one taking place. So this election could be our last chance to stop that referendum, but to do that we all need to send Nicola Sturgeon and the SNP a message they can\u2019t ignore. Only one vote on Thursday 12th December can make Nicola Sturgeon listen and stop the threat of another independence referendum \u2013 your vote for the Scottish Conservative and Unionist Party."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stand Firm Against SNP's Plans",
+                "policyDescription": "To stand firm against the SNP's plans for another divisive independence referendum."
+            },
+            {
+                "policyTitle": "Reduce Drug Deaths",
+                "policyDescription": "Reduce drug deaths by reforming methadone prescription and providing greater access to mental health services for drug users."
+            },
+            {
+                "policyTitle": "Environment and Clean Air",
+                "policyDescription": "A stronger focus on cleaner air in Glasgow to help in the fight against the climate emergency."
+            },
+            {
+                "policyTitle": "Invest in NHS care for Obesity",
+                "policyDescription": "Invest in primary NHS care for obesity and formulate behavioural changing strategies to help end the epidemic."
+            }
+        ],
+        "mentions": {
+            "candidate": "Tony Curtis",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "Nicola Sturgeon wants to hold another independence referendum next year, and Jeremy Corbyn has said his Labour Party won\u2019t even stand in the way of one taking place."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "A stronger focus on cleaner air in Glasgow to help in the fight against the climate emergency.",
+            "governance": "",
+            "government": "",
+            "health": "Invest in primary NHS care for obesity and formulate behavioural changing strategies to help end the epidemic.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "570 Mosspark Boulevard, Glasgow, G52 1SD",
+            "phone": "07877 279600",
+            "email": "info@tonycurtis.scot",
+            "website": "",
+            "socialMedia": {
+                "facebook": "/ScotTonyCurtis",
+                "twitter": "/ScotTonycurtis",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Corbyn accused of plot to break up Britain",
+                "source": "Scottish Daily Mail, October 2019",
+                "date": "October 2019"
+            },
+            {
+                "text": "The Labour leader admitted he could grant a referendum if he was to win the General Election.",
+                "source": "The Sun, October 2019",
+                "date": "October 2019"
+            },
+            {
+                "text": "Corbyn could back new indyref 'as early as 2021'",
+                "source": "The Scotsman, October 2019",
+                "date": "October 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "The Labour leader admitted he could grant a referendum if he was to win the General Election."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "To stand firm against the SNP's plans for another divisive independence referendum."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Reduce drug deaths by reforming methadone prescription and providing greater access to mental health services for drug users.",
+                        "A stronger focus on cleaner air in Glasgow to help in the fight against the climate emergency.",
+                        "Invest in primary NHS care for obesity and formulate behavioural changing strategies to help end the epidemic."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "To stand firm against the SNP's plans for another divisive independence referendum."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "Corbyn accused of plot to break up Britain.",
+                        "The Labour leader admitted he could grant a referendum if he was to win the General Election.",
+                        "Corbyn could back new indyref 'as early as 2021'"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn has said his Labour Party won\u2019t even stand in the way of one taking place."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

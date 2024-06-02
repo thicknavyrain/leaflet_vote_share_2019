@@ -1,0 +1,176 @@
+{
+    "leaflet": {
+        "candidateName": "Hugh Annand",
+        "candidateGender": "",
+        "constituency": "Hitchin and Harpenden",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "June 8, 2017",
+        "messages": [
+            {
+                "title": "A Strong Voice for Our Area",
+                "content": "Leading the fight against the Conservatives' hard Brexit."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fighting against Hard Brexit",
+                "policyDescription": "The Liberal Democrats are fighting for Britain's membership of the European Union and for your say on the final Brexit deal."
+            },
+            {
+                "policyTitle": "Standing up for the NHS",
+                "policyDescription": "The Liberal Democrats have a costed plan to end the crisis in health and social care by raising income tax to provide an additional \u00a36 billion in funding."
+            },
+            {
+                "policyTitle": "Opposing School Cuts",
+                "policyDescription": "Local schools are under threat from cuts by the Conservative Party, affecting teachers and students in Hertfordshire."
+            }
+        ],
+        "mentions": {
+            "candidate": "Hugh Annand",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "We oppose the ideological 'hard Brexit' agenda currently being pursued.",
+            "defence": "",
+            "economy": "It will hurt our economy and endanger jobs. Poorest families will be hit hardest.",
+            "education": "Local schools are set to lose nearly \u00a376 million from their budgets due to cuts.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Only the Liberal Democrats have a realistic and costed plan to end the crisis in health and social care.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Local schools are under threat from a Conservative Party that has stopped listening to local people.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "34 Benslow Rise, Hitchin, Herts, SG4 9QY",
+            "phone": "",
+            "email": "",
+            "website": "www.hugh-hitch-harp.org",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Hugh Annand and the Liberal Democrats"
+                },
+                {
+                    "caption": "Change the direction of the country on Thursday June 8th 2017"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Over 60% of voters in Hitchin and Harpenden backed 'Remain' in last year's referendum.",
+                        "Local schools are set to lose nearly \u00a376 million from their budgets."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "We oppose the ideological 'hard Brexit' agenda currently being pursued.",
+                        "Poorest families will be hit hardest.",
+                        "Local people are suffering due to school cuts."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Local schools are under threat from a Conservative Party that has stopped listening to local people.",
+                        "Local schools are set to lose nearly \u00a376 million from their budgets due to cuts.",
+                        "Hugh Annand will fight for you on Brexit, schools, and our health services."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Only the Liberal Democrats have a realistic and costed plan to end the crisis in health and social care.",
+                        "We oppose the ideological 'hard Brexit' agenda currently being pursued."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Local schools are under threat from a Conservative Party that has stopped listening to local people."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May's government and our local Conservative MP have completely ignored those concerns."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

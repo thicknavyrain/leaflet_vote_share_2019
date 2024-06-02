@@ -1,0 +1,177 @@
+{
+    "leaflet": {
+        "candidateName": "Alison Thewliss",
+        "candidateGender": "",
+        "constituency": "Glasgow Central",
+        "politicalParty": "SNP",
+        "electionDate": "December 12th",
+        "messages": [
+            {
+                "title": "A General Election will be held on December 12th.",
+                "content": "When that election comes, every vote for the SNP will make sure Westminster can\u2019t ignore the right of the people of Scotland to determine our own future. I write to ask for your support to ensure that Glasgow Central continues to have an experienced campaigner who will fight for you in Westminster."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Experience",
+                "policyDescription": "I have taken on over fifteen thousand constituent cases since becoming an MP in 2015."
+            },
+            {
+                "policyTitle": "Social Security",
+                "policyDescription": "Ensured that over \u00a375,000 in underpaid social security has gone into the pockets of those who need it the most in the last year alone."
+            }
+        ],
+        "mentions": {
+            "candidate": "Alison Thewliss",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Ensured that over \u00a375,000 in underpaid social security has gone into the pockets of those who need it the most in the last year alone.",
+            "community": [
+                {
+                    "content": "I've consistently voted against a damaging no deal Brexit, which would wreck jobs and living standards in Glasgow.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP",
+                "duration": "Since 2015",
+                "achievements": "Taken on over fifteen thousand constituent cases."
+            }
+        ],
+        "contactInformation": {
+            "address": "Glasgow Central SNP, 68 St Vincent Terrace, Glasgow G3 8DX",
+            "phone": "07519 179569",
+            "email": "alison@glasgowsnp.org",
+            "website": "",
+            "socialMedia": {
+                "facebook": "AlisonThewlissSNP",
+                "twitter": "AlisonThewliss",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "The numbers speak for themselves. Since I became your MP in 2015, I have taken on over fifteen thousand constituent cases. In the last year alone, I\u2019ve ensured that over \u00a375,000 in underpaid social security has gone into the pockets of those who need it the most.",
+                "source": "Alison Thewliss",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Since I became your MP in 2015, I have taken on over fifteen thousand constituent cases.",
+                        "In the last year alone, I\u2019ve ensured that over \u00a375,000 in underpaid social security has gone into the pockets of those who need it the most."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "every vote for the SNP will make sure Westminster can\u2019t ignore the right of the people of Scotland to determine our own future",
+                        "I've consistently voted against a damaging no deal Brexit, which would wreck jobs and living standards in Glasgow",
+                        "I have taken the Home Office to task over their cruel hostile environment policies"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "wreck jobs and living standards in Glasgow."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "no deal Brexit",
+                        "cruel hostile environment policies"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I have taken the Home Office to task over their cruel hostile environment policies, fighting for vulnerable people threatened with eviction and deportation and opposed the DWP\u2019s cruel and pernicious two child limit and rape clause.",
+                    "issueRelated": "immigration, socialWelfare"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "cruel hostile environment policies"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

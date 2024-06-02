@@ -1,0 +1,174 @@
+{
+    "leaflet": {
+        "candidateName": "Helen Jones",
+        "candidateGender": "Female",
+        "constituency": "Warrington North",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "Putting You First",
+                "content": "Keep Helen Jones at your service"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "The NHS and social care",
+                "policyDescription": "Work they do is only delivered by dedicated staff who are being stretched to the limit. Make sure NHS is there for everyone. Make sure social care is provided for all."
+            },
+            {
+                "policyTitle": "Living standards",
+                "policyDescription": "Labour will raise living standards so that wages keep up with prices, help those on the minimum wage, and protect the triple lock on pensions to help elderly people."
+            },
+            {
+                "policyTitle": "Better deal for our schools",
+                "policyDescription": "Ensure every school has the resources it needs to deliver the best education. Reverse school budget cuts."
+            }
+        ],
+        "mentions": {
+            "candidate": "Helen Jones",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Ensure every school has the resources it needs to deliver the best education.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Work they do is only delivered by dedicated staff who are being stretched to the limit. Make sure NHS is there for everyone.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Labour will raise living standards so that wages keep up with prices, help those on the minimum wage.",
+            "community": [
+                {
+                    "content": "Back the campaign to save our local hospital and protect local health services",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I\u2019m proud to live here in the constituency and know the concerns facing our area.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Helen and her team in Warrington North"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Back the campaign to save our local hospital and protect local health services"
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Labour will raise living standards so that wages keep up with prices.",
+                        "Ensure every school has the resources it needs to deliver the best education.",
+                        "Make sure NHS is there for everyone."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I\u2019m proud to live here in the constituency and know the concerns facing our area.",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I\u2019m proud to live here in the constituency.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I\u2019m proud to live here in the constituency."
+                ]
+            }
+        }
+    }
+}

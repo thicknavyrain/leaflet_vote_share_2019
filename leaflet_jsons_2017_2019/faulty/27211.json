@@ -1,0 +1,170 @@
+{
+    "leaflet": {
+        "candidateName": "Natalie Bennett",
+        "candidateGender": "female",
+        "constituency": "Sheffield",
+        "politicalParty": "Green Party",
+        "electionDate": "2017",
+        "messages": [
+            {
+                "title": "A Green Future With Natalie Bennett",
+                "content": "The EU 'leave' vote expressed frustration about the lack of control we have over our lives and communities. That's no surprise when a government, supported by just 24% of eligible voters, continues to back fracking, take local control over new school intake from councils, and privatize more of our NHS, and sell off public services and assets."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Air Pollution",
+                "policyDescription": "Greens call for urgent action to tackle air pollution by closing the Aldine House secure unit and Shirecliffe, Elm Lane, Shalesmoor, Barnsley Rd, and Jenkin Road to support the Sheffield Clean Air Zone."
+            },
+            {
+                "policyTitle": "Tree Felling",
+                "policyDescription": "Support local campaigns to save healthy street trees and calling on the Council to reverse their disastrous contracts."
+            }
+        ],
+        "mentions": {
+            "candidate": "Bennett",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The EU 'leave' vote expressed frustration about the lack of control we have over our lives and communities.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Support local campaigns to save healthy street trees.",
+            "governance": "",
+            "government": "A government, supported by just 24% of eligible voters, continues to back fracking and privatize more of our NHS.",
+            "health": "Privatize more of our NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Support for local campaigns 'Save Crookes, Western Rd and Walkley Trees' & 'Save Rivelin Valley Rd, Hillsborough and Wadlsey trees.'",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Green Party leader",
+                "duration": "2012-2016",
+                "achievements": "Ran the party in 2015 elections"
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "07967 417559",
+            "email": "natalie.bennett@greenparty.org.uk",
+            "website": "sheffieldgreenparty.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@natalieben",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Sue Morton",
+                "endorsement": "Runs our city and worked hard for Sheffield"
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Natalie Bennett with Green activist Sue Morton"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "A government, supported by just 24% of eligible voters, continues to back fracking, take local control over new school intake from councils, and privatize more of our NHS, and sell off public services and assets."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "The EU 'leave' vote expressed frustration about the lack of control we have over our lives and communities."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 2,
+                "people": 4,
+                "candidateAlone": 2,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Air Pollution Petition",
+                        "Tree Felling Damages Sheffield"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The EU 'leave' vote expressed frustration about the lack of control we have over our lives and communities."
+                    ]
+                }
+            }
+        },
+        "personalStories": [
+            {
+                "story": "Support local campaigns groups 'Save Crookes, Western Rd and Walkley trees' & 'Save Rivelin Valley Rd, Hillsborough and Wadlsey trees.'",
+                "issueRelated": "environment"
+            }
+        ],
+        "endorsementsUsed": {
+            "count": 1,
+            "examples": [
+                "Sue Morton, Runs our city and worked hard for Sheffield"
+            ]
+        },
+        "negativeMessaging": {
+            "localIssues": {
+                "count": 1,
+                "examples": [
+                    "Bole Hills - Decide then Consult?"
+                ]
+            },
+            "nationalIssues": {
+                "count": 0,
+                "examples": []
+            },
+            "leaderOfOpponentsParty": {
+                "count": 0,
+                "examples": []
+            },
+            "oppositeCandidateNoName": {
+                "count": 0,
+                "examples": []
+            },
+            "oppositeCandidateWithName": {
+                "count": 0,
+                "examples": []
+            }
+        },
+        "nonPolicyAttributes": {
+            "localness": "",
+            "employment": "",
+            "education": "",
+            "family": ""
+        },
+        "localCandidate": {
+            "isLocal": false,
+            "examples": []
+        }
+    }
+}

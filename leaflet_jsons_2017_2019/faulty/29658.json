@@ -1,0 +1,188 @@
+{
+    "leaflet": {
+        "candidateName": "Greg Mulholland",
+        "candidateGender": "",
+        "constituency": "Leeds North West",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "It's Greg or Labour",
+                "content": "The 2015 result in Leeds North West: Lib Dem 15948, Lab 13041, Con 8083, Green 3942. Conservatives haven't won Leeds North West in a quarter of a century. General Elections are won or lost in the last few weeks and often the last few days. The candidate winning here will be either Greg Mulholland or the Labour candidate."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Fighting for our NHS",
+                "policyDescription": "Only helped save Otley Chevin, kept Sokemon from closure, and foster safe communities in local area."
+            },
+            {
+                "policyTitle": "Supporting business",
+                "policyDescription": "Supported local business and fostered partnerships fostering education and investments."
+            }
+        ],
+        "mentions": {
+            "candidate": "Greg Mulholland",
+            "otherPartyLeaderCandidate": "Labour candidate",
+            "partyLeader": "",
+            "tacticalSituation": "It's Greg or Labour. Conservatives haven't won Leeds North West in a quarter of a century. General Elections are won or lost in the last few weeks and often the last few days."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Supported partnerships fostering education.",
+            "environment": "Helped save Otley Chevin.",
+            "governance": "",
+            "government": "",
+            "health": "Fighting for our NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Supported local business and fostered safe communities in local area.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "Greg Mulholland has a 12-year service to Leeds North West.",
+        "politicalExperience": [
+            {
+                "role": "MP for Leeds North West",
+                "duration": "12 years",
+                "achievements": "Helped save Otley Chevin, foster safe communities, and supported local businesses."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Greg Mulholland with local people and supporting community events."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "The 2015 result in Leeds North West: Lib Dem 15948, Lab 13041, Con 8083, Green 3942."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Supported local business and fostered safe communities."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 4,
+                "candidateAlone": 1,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Helped save Otley Chevin.",
+                        "Fighting for our NHS.",
+                        "Supported local business and fostered safe communities."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "General Elections are won or lost in the last few weeks and often the last few days.",
+                        "The candidate winning here will be either Greg Mulholland or the Labour candidate."
+                    ]
+                }
+            }
+        },
+        "personalStories": [
+            {
+                "story": "Greg's 12-year service to Leeds North West.",
+                "issueRelated": "Experience and local service."
+            }
+        ],
+        "endorsementsUsed": {
+            "count": 0,
+            "examples": [
+                ""
+            ]
+        },
+        "negativeMessaging": {
+            "localIssues": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "nationalIssues": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "leaderOfOpponentsParty": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "oppositeCandidateNoName": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "oppositeCandidateWithName": {
+                "count": 1,
+                "examples": [
+                    "The candidate winning here will be either Greg Mulholland or the Labour candidate."
+                ]
+            }
+        },
+        "nonPolicyAttributes": {
+            "localness": "Greg Mulholland has a 12-year service to Leeds North West.",
+            "employment": "",
+            "education": "",
+            "family": ""
+        },
+        "localCandidate": {
+            "isLocal": true,
+            "examples": [
+                "Greg Mulholland has a 12-year service to Leeds North West."
+            ]
+        }
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "leaflet": {
+        "candidateName": "Laura Gordon",
+        "candidateGender": "",
+        "constituency": "Sheffield Hallam",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Do you want to stop Trump's takeover of the NHS?",
+                "content": "Everyone knows the Tories can't be trusted with our NHS. But, Brexit will allow them to open the door to a Trump trade deal \u2013 risking our NHS from sell-off."
+            },
+            {
+                "title": "A vote for me is a vote to stop Brexit \u2013 and protect our NHS.",
+                "content": "In just a few short weeks we will go to the polls to decide the future of this country. This election is a once in a generation opportunity to reshape our politics and give hope to millions. It is our opportunity to reject the tired old politics of fear and hatred with Boris Johnson and Jeremy Corbyn's infighting in Parliament and elect a Prime Minister with a vision for a fairer, brighter future for the UK."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Brexit",
+                "policyDescription": "Stopping Brexit is just the start of what the Liberal Democrats will do."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "We will fund 20,000 extra teachers, a mental health service accessible 24 hours a day, 365 days a year."
+            },
+            {
+                "policyTitle": "Environment",
+                "policyDescription": "Investment in insulating all homes by 2030 to reduce fuel poverty and help tackle the climate emergency."
+            }
+        ],
+        "mentions": {
+            "candidate": "Laura Gordon",
+            "otherPartyLeaderCandidate": "Boris Johnson and Jeremy Corbyn",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Stopping Brexit is just the start of what the Liberal Democrats will do.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Investment in insulating all homes by 2030 to reduce fuel poverty and help tackle the climate emergency.",
+            "governance": "",
+            "government": "",
+            "health": "Everyone knows the Tories can't be trusted with our NHS. But, Brexit will allow them to open the door to a Trump trade deal \u2013 risking our NHS from sell-off. We will fund 20,000 extra teachers, a mental health service accessible 24 hours a day, 365 days a year.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "We have an ambitious plan for the future of our country, where every person, every community, and our planet can thrive. We believe our country's best days are ahead of us.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "With your vote on Thursday 12th December, you can help me deliver the Liberal Democrat plan to build a brighter future.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "We will fund 20,000 extra teachers, a mental health service accessible 24 hours a day, 365 days a year.",
+                        "Investment in insulating all homes by 2030 to reduce fuel poverty and help tackle the climate emergency."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Do you want to stop Trump's takeover of the NHS?",
+                        "Everyone knows the Tories can't be trusted with our NHS.",
+                        "We have an ambitious plan for the future of our country, where every person, every community, and our planet can thrive."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "We have an ambitious plan for the future of our country, where every person, every community, and our planet can thrive. We believe our country's best days are ahead of us."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Do you want to stop Trump's takeover of the NHS?",
+                        "A vote for me is a vote to stop Brexit \u2013 and protect our NHS.",
+                        "Stopping Brexit is just the start of what the Liberal Democrats will do."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Brexit needs stopping. And Labour's plan to carry on with the Brexit negotiations if they win the election just drags things on and gives the Brexiteers another route to victory."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

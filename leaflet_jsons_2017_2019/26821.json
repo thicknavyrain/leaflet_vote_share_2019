@@ -1,0 +1,191 @@
+{
+    "leaflet": {
+        "candidateName": "Ben Lake",
+        "candidateGender": "",
+        "constituency": "Ceredigion",
+        "politicalParty": "Plaid Cymru",
+        "electionDate": "8 June 2017",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Defending our Economy",
+                "policyDescription": "Candidates from Plaid Cymru will be defenders of our economy."
+            },
+            {
+                "policyTitle": "Defending our People",
+                "policyDescription": "Planning a better deal for all residents of Ceredigion."
+            },
+            {
+                "policyTitle": "Defending our Nation",
+                "policyDescription": "Committing to fight for our communities and to protect our identity."
+            }
+        ],
+        "mentions": {
+            "candidate": "Ben Lake",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Vote for Plaid Cymru in Brexit vote.",
+            "defence": "",
+            "economy": "Defending our Economy",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Defending our local communities",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "01970 629942",
+            "email": "post@pc.ceredigion.org",
+            "website": "www.plaid.cymru",
+            "socialMedia": {
+                "facebook": "/BenLakeCeredigion",
+                "twitter": "@BenMlake",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Vote Plaid Cymru on June 8."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Defending our People",
+                        "Defending our local communities"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Vote for Plaid Cymru in Brexit vote.",
+                        "Defending our Economy"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Plaid Cymru will be defending Wales."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Ben Lake is known locally in Ceredigion."
+                ]
+            }
+        }
+    }
+}

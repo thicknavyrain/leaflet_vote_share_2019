@@ -1,0 +1,186 @@
+{
+    "leaflet": {
+        "candidateName": "Simon Hughes",
+        "candidateGender": "",
+        "constituency": "Bermondsey & Old Southwark",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": "Dear\nDo you think Britain is heading in the right direction?\nTheresa May has been PM for less than a year and we\u2019ve already seen the worst hospitals crisis in a decade. Local schools are facing crippling cuts to funding. She\u2019s delivering the worst kind of Brexit.\nBut she\u2019s getting away with it because Labour have become the worst opposition in living memory."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Local schools are facing crippling cuts to funding."
+            },
+            {
+                "policyTitle": "Healthcare",
+                "policyDescription": "As your MP, I led the campaign to save Guy\u2019s Hospital when the Tories threatened to close it (and when Labour closed the A&E department)."
+            },
+            {
+                "policyTitle": "Transportation",
+                "policyDescription": "Now I am fighting for new stops on the Bakerloo line, the Rotherhithe to Canary Wharf bridge and for genuinely affordable homes for local people."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Theresa May\u2019s disastrous Brexit. The Liberal Democrats offer a brighter future for Britain and will be a real opposition to Theresa May\u2019s disastrous Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "Simon Hughes",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": "Elections here are always between the Liberal Democrats and Labour."
+        },
+        "issues": {
+            "brexitEurope": "Theresa May is delivering the worst kind of Brexit. The Liberal Democrats offer a brighter future for Britain and will be a real opposition to Theresa May\u2019s disastrous Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "Local schools are facing crippling cuts to funding.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Theresa May has been PM for less than a year and we\u2019ve already seen the worst hospitals crisis in a decade. As your MP, I led the campaign to save Guy\u2019s Hospital when the Tories threatened to close it (and when Labour closed the A&E department).",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Now I am fighting for new stops on the Bakerloo line, the Rotherhithe to Canary Wharf bridge and for genuinely affordable homes for local people.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Now I am fighting for new stops on the Bakerloo line, the Rotherhithe to Canary Wharf bridge and for genuinely affordable homes for local people.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "In Bermondsey & Old Southwark, I am proud of my record over 32 years as your MP and am proud to be putting myself forward to serve our community once again.",
+        "politicalExperience": [
+            {
+                "role": "MP for Bermondsey & Old Southwark",
+                "duration": "32 years",
+                "achievements": "Led the campaign to save Guy\u2019s Hospital and delivered the Jubilee Line extension to Southwark and Bermondsey."
+            }
+        ],
+        "contactInformation": {
+            "address": "219-212 Southwark Park Road, London, SE16 3RW",
+            "phone": "(020) 7237 8444",
+            "email": "simon@simonhughes.org.uk",
+            "website": "www.simonhughes.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Can't win here"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May has been PM for less than a year"
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Do you think Britain is heading in the right direction?",
+                        "Local schools are facing crippling cuts to funding.",
+                        "She\u2019s delivering the worst kind of Brexit.",
+                        "But she\u2019s getting away with it because Labour have become the worst opposition in living memory."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Now I am fighting for new stops on the Bakerloo line, the Rotherhithe to Canary Wharf bridge and for genuinely affordable homes for local people."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May has been PM for less than a year and we\u2019ve already seen the worst hospitals crisis in a decade."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "As your MP, I led the campaign to save Guy\u2019s Hospital when the Tories threatened to close it.",
+                    "issueRelated": "Healthcare"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Local schools are facing crippling cuts to funding.",
+                        "She\u2019s delivering the worst kind of Brexit."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May has been PM for less than a year and we\u2019ve already seen the worst hospitals crisis in a decade."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "But she\u2019s getting away with it because Labour have become the worst opposition in living memory."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "In Bermondsey & Old Southwark, I am proud of my record over 32 years as your MP and am proud to be putting myself forward to serve our community once again.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "In Bermondsey & Old Southwark, I am proud of my record over 32 years as your MP."
+                ]
+            }
+        }
+    }
+}

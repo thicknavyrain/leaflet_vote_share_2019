@@ -1,0 +1,192 @@
+{
+    "leaflet": {
+        "candidateName": "Jane Hunt",
+        "candidateGender": "",
+        "constituency": "Nottingham South",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": "Give me and my candidate your vote on Thursday 8th June and I will: Provide strong and stable leadership for our country, Get the best Brexit deal possible to deliver economic security for our future, Always stand up for you and your family."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Making a success of BREXIT for Nottingham - control of our own borders, laws and money."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Ensuring every child in Nottingham has access to a great education and the opportunity to succeed."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "Securing a strong economy to ensure decent local jobs are available for local people."
+            }
+        ],
+        "mentions": {
+            "candidate": "Jane Hunt",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "Back me on Thursday 8th June to lead Britain."
+        },
+        "issues": {
+            "brexitEurope": "Making a success of BREXIT for Nottingham - control of our own borders, laws and money.",
+            "defence": "",
+            "economy": "Securing a strong economy to ensure decent local jobs are available for local people.",
+            "education": "Ensuring every child in Nottingham has access to a great education and the opportunity to succeed.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Manton Crescent, Nottingham, NG9 2GD",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Theresa May",
+                "endorsement": "Give me and my candidate your vote on Thursday 8th June and I will: Provide strong and stable leadership for our country, Get the best Brexit deal possible to deliver economic security for our future, Always stand up for you and your family."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Don't risk our future at this crucial moment in history with a vote for anyone else.",
+                "source": "Theresa May",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May and Jane Hunt"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Provide strong and stable leadership for our country",
+                        "Get the best Brexit deal possible to deliver economic security for our future",
+                        "Always stand up for you and your family"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Ensuring every child in Nottingham has access to a great education and the opportunity to succeed."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Making a success of BREXIT for Nottingham - control of our own borders, laws and money.",
+                        "Securing a strong economy to ensure decent local jobs are available for local people."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Give me and my candidate your vote on Thursday 8th June and I will: Provide strong and stable leadership for our country, Get the best Brexit deal possible to deliver economic security for our future, Always stand up for you and your family."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

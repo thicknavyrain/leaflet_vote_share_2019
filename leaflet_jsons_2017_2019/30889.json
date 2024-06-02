@@ -1,0 +1,175 @@
+{
+    "leaflet": {
+        "candidateName": "David Mowat",
+        "candidateGender": "",
+        "constituency": "Warrington South",
+        "politicalParty": "Conservative",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Standing With Theresa May",
+                "content": "David Mowat pledges to work with Prime Minister Theresa May to deliver the best result for the UK from Brexit."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Action on Apprenticeships",
+                "policyDescription": "David has led the charge to promote apprenticeships in Warrington, with over 300 young people starting apprenticeships since 2010."
+            },
+            {
+                "policyTitle": "Action on Congestion",
+                "policyDescription": "David has secured funding for new bypass routes and bridge projects to ease congestion around Warrington."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Mowat",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": "It's important to remember that a vote for anyone other than my local candidate risks Jeremy Corbyn becoming Prime Minister of a shambolic coalition government."
+        },
+        "issues": {
+            "brexitEurope": "David has pledged to work with Prime Minister Theresa May to deliver the result of the EU Referendum.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "David secured funding to ease traffic around the A56-end A57 intersection.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "David has secured funding for new bypass routes and bridge projects to ease congestion around local community.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "01925 231267",
+            "email": "david@wsca.org.uk",
+            "website": "davidmowat.org.uk",
+            "socialMedia": {
+                "facebook": "facebook.com/davidmowatws",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Theresa May",
+                "endorsement": "David has been a positive force, helping secure funding for local projects in Warrington South."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "David Mowat pictured with constituents and Theresa May."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Over 300 young people have started an apprenticeship in Warrington since 2010."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "It's important to remember that a vote for anyone other than my local candidate risks Jeremy Corbyn becoming Prime Minister of a shambolic coalition government."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 0,
+                "candidateWithOthers": 3
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "David has led the charge to promote apprenticeships in Warrington.",
+                        "David secured funding to ease traffic around the A56-end A57 intersection."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "David has pledged to work with Prime Minister Theresa May to deliver the result of the EU Referendum."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Theresa May endorses David Mowat, highlighting his positive impact in Warrington South."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "It's important to remember that a vote for anyone other than my local candidate risks Jeremy Corbyn becoming Prime Minister of a shambolic coalition government."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn becoming Prime Minister of a shambolic coalition government."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn becoming Prime Minister of a shambolic coalition government."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "David Mowat has been actively working on local project funding since 2010."
+                ]
+            }
+        }
+    }
+}

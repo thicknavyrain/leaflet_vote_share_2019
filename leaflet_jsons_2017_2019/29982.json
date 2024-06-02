@@ -1,0 +1,167 @@
+{
+    "leaflet": {
+        "candidateName": "Ian McCulloch",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Green Party",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Stand Up For Our NHS",
+                "content": "Use Britain's wealth to invest in health. Reverse the decline in funding for the NHS and plug the deficit hole that's been created. Plant the seeds for a new and flourishing public health service. Ensure that the NHS is only funded by public money, delivering services itself, not through private companies."
+            },
+            {
+                "title": "Stand Up For Renters",
+                "content": "Ensure that when you rent a home, you feel at home. Introduce rent controls to prevent huge annual increases. Build 500,000 socially rented, affordable new homes for thousands of families. Introduce a Landlord Licensing Scheme to ensure that every landlord must adhere to minimum standards."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Health",
+                "policyDescription": "Use Britain's wealth to invest in health. Reverse the decline in funding for the NHS and plug the deficit hole that's been created. Plant the seeds for a new and flourishing public health service. Ensure that the NHS is only funded by public money, delivering services itself, not through private companies."
+            },
+            {
+                "policyTitle": "Housing/Renters",
+                "policyDescription": "Ensure that when you rent a home, you feel at home. Introduce rent controls to prevent huge annual increases. Build 500,000 socially rented, affordable new homes for thousands of families. Introduce a Landlord Licensing Scheme to ensure that every landlord must adhere to minimum standards."
+            }
+        ],
+        "mentions": {
+            "candidate": "Vote Ian McCulloch on June 8th",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Use Britain's wealth to invest in health. Reverse the decline in funding for the NHS and plug the deficit hole that's been created. Plant the seeds for a new and flourishing public health service. Ensure that the NHS is only funded by public money, delivering services itself, not through private companies.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Ensure that when you rent a home, you feel at home. Introduce rent controls to prevent huge annual increases. Build 500,000 socially rented, affordable new homes for thousands of families. Introduce a Landlord Licensing Scheme to ensure that every landlord must adhere to minimum standards.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "7 Fearon Road, Portsmouth PO2 0NJ",
+            "phone": "",
+            "email": "coordinator@portsmouth.greenparty.org.uk",
+            "website": "www.portsmouth.greenparty.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Build 500,000 socially rented, affordable new homes for thousands of families."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Ensure that when you rent a home, you feel at home."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Introduce rent controls to prevent huge annual increases."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Use Britain's wealth to invest in health."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

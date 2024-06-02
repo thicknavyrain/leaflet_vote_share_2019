@@ -1,0 +1,185 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "The Past",
+                "content": "'Both Tories and Labour have failed the country' The Guardian, May 2019\n'British politics is falling apart \u2013 the Tories are to blame, but Labour is also a shambles' The Irish Times, January 2019"
+            },
+            {
+                "title": "The Future",
+                "content": "Jo Swinson is the Prime Minister we deserve"
+            },
+            {
+                "title": "The Liberal Democrats are WINNING across the country",
+                "content": "'The Lib Dem fightback is real \u2013 and it's changing everything.' SKY NEWS, August 2019\n'Lib Dems winning and on the up after by-election victory.' THE GUARDIAN, August 2019"
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Jo Swinson",
+            "otherPartyLeaderCandidate": "Boris Johnson, Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "8-10 Great George Street, London, SW1P 3AE",
+            "phone": "",
+            "email": "",
+            "website": "LibDems.org.uk/join",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "'Both Tories and Labour have failed the country'",
+                "source": "The Guardian",
+                "date": "May 2019"
+            },
+            {
+                "text": "'British politics is falling apart \u2013 the Tories are to blame, but Labour is also a shambles'",
+                "source": "The Irish Times",
+                "date": "January 2019"
+            },
+            {
+                "text": "'The Lib Dem fightback is real \u2013 and it's changing everything.'",
+                "source": "Sky News",
+                "date": "August 2019"
+            },
+            {
+                "text": "'Lib Dems winning and on the up after by-election victory.'",
+                "source": "The Guardian",
+                "date": "August 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "'Both Tories and Labour have failed the country'",
+                        "'British politics is falling apart \u2013 the Tories are to blame, but Labour is also a shambles'",
+                        "'The Lib Dem fightback is real \u2013 and it's changing everything.'",
+                        "'Lib Dems winning and on the up after by-election victory.'"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 4,
+                    "examples": [
+                        "'Both Tories and Labour have failed the country'",
+                        "'British politics is falling apart \u2013 the Tories are to blame, but Labour is also a shambles'",
+                        "'The Lib Dem fightback is real \u2013 and it's changing everything.'",
+                        "'Lib Dems winning and on the up after by-election victory.'"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "'Both Tories and Labour have failed the country'",
+                        "'British politics is falling apart \u2013 the Tories are to blame, but Labour is also a shambles'"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

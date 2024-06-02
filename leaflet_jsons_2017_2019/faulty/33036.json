@@ -1,0 +1,181 @@
+```json
+{
+  "leaflet": {
+    "candidateName": "Darren Price",
+    "candidateGender": "",
+    "constituency": "Staffordshire Moorlands",
+    "politicalParty": "Labour",
+    "electionDate": "Thursday 12 December",
+    "messages": [
+      {
+        "title": "",
+        "content": "After years of Conservative government our country is divided and our public services have been decimated. The people of the Staffordshire Moorlands deserve better."
+      }
+    ],
+    "keyPolicies": [
+      {
+        "policyTitle": "Fighting for Local Services",
+        "policyDescription": "Restore and improve local health, police, fire services, and adult social care."
+      },
+      {
+        "policyTitle": "Fighting for Our Environment",
+        "policyDescription": "Protect the environment, stop housing development on green-belt land."
+      },
+      {
+        "policyTitle": "Fighting for Our Schools",
+        "policyDescription": "Ensure schools have the resources needed to provide excellent education."
+      }
+    ],
+    "mentions": {
+      "candidate": "Darren Price",
+      "otherPartyLeaderCandidate": "",
+      "partyLeader": "The Labour Party",
+      "tacticalSituation": ""
+    },
+    "issues": {
+      "brexitEurope": "",
+      "defence": "",
+      "economy": "",
+      "education": "Ensure schools have the resources needed to provide excellent education.",
+      "environment": "Protect the environment, stop housing development on green-belt land.",
+      "governance": "",
+      "government": "After years of Conservative government our country is divided and our public services have been decimated.",
+      "health": "Restore and improve local health services, including the reopening of local hospitals.",
+      "immigration": "",
+      "labourEmployment": "",
+      "lawCrime": "Restore and improve local police services.",
+      "transport": "",
+      "socialWelfare": "",
+      "community": [
+        {
+          "content": "Stop the development of housing on green-belt land.",
+          "yimbyNimby": "NIMBY"
+        }
+      ]
+    },
+    "personalStatement": "I am 58 years old and live locally with my fiancée, Amanda, and her family. Born in Newcastle-under-Lyme, educated locally, and worked here my entire adult life as a journalist and business consultant. Served as Kids Union rep, District and County Councillor, and Non-Executive Director of Staffordshire Moorlands Alternate energy cooperative.",
+    "politicalExperience": [
+      {
+        "role": "District and County Councillor",
+        "duration": "",
+        "achievements": ""
+      }
+    ],
+    "contactInformation": {
+      "address": "",
+      "phone": "07505 202528",
+      "email": "DPrice@labour.org",
+      "website": "www.DPrice4SM.com",
+      "socialMedia": {
+        "facebook": "/ElectDarrenPrice",
+        "twitter": "/DarrenPriceLab",
+        "instagram": "",
+        "linkedin": ""
+      }
+    },
+    "endorsements": [
+      {
+        "endorser": "Noel Alcock",
+        "endorsement": "We have backed Darren because he understands local needs and his policies reflect that."
+      }
+    ],
+    "quotes": [
+      {
+        "text": "It takes a local lad who understands our area to stand up and fight for us in Westminster. I believe Darren Price is that man!",
+        "source": "Noel Alcock",
+        "date": ""
+      }
+    ],
+    "campaignMaterial": {
+      "images": [
+        {
+          "caption": ""
+        }
+      ]
+    },
+    "additionalNotes": "",
+    "analysis": {
+      "statementAnalysis": {
+        "quantitative": {
+          "count": 0,
+          "examples": [""]
+        },
+        "qualitative": {
+          "count": 1,
+          "examples": [
+            "After years of Conservative government our country is divided and our public services have been decimated."
+          ]
+        }
+      },
+      "photoAnalysis": {
+        "localPlaces": 1,
+        "people": 4,
+        "candidateAlone": 2,
+        "candidateWithOthers": 2
+      },
+      "issueFocus": {
+        "local": {
+          "count": 1,
+          "examples": [
+            "Restore and improve local health services, including the reopening of local hospitals."
+          ]
+        },
+        "national": {
+          "count": 1,
+          "examples": [
+            "After years of Conservative government our country is divided and our public services have been decimated."
+          ]
+        }
+      },
+      "personalStories": [
+        {
+          "story": "I am 58 years old and live locally with my fiancée...")
+          "issueRelated": "localness"
+        }
+      ],
+      "endorsementsUsed": {
+        "count": 1,
+        "examples": [
+          "We have backed Darren because he understands local needs and his policies reflect that."
+        ]
+      },
+      "negativeMessaging": {
+        "localIssues": {
+          "count": 0,
+          "examples": [""]
+        },
+        "nationalIssues": {
+          "count": 1,
+          "examples": [
+            "After years of Conservative government our country is divided and our public services have been decimated."
+          ]
+        },
+        "leaderOfOpponentsParty": {
+          "count": 0,
+          "examples": [""]
+        },
+        "oppositeCandidateNoName": {
+          "count": 0,
+          "examples": [""]
+        },
+        "oppositeCandidateWithName": {
+          "count": 0,
+          "examples": [""]
+        }
+      },
+      "nonPolicyAttributes": {
+        "localness": "I am 58 years old and live locally with my fiancée, Amanda, and her family.",
+        "employment": "Journalist and business consultant",
+        "education": "Educated locally",
+        "family": "I live locally with my fiancée, Amanda, and her family."
+      },
+      "localCandidate": {
+        "isLocal": true,
+        "examples": [
+          "I am 58 years old and live locally with my fiancée, Amanda, and her family."
+        ]
+      }
+    }
+  }
+}
+```

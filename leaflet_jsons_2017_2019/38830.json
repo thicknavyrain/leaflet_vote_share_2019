@@ -1,0 +1,181 @@
+{
+    "leaflet": {
+        "candidateName": "Michelle Vacciana",
+        "candidateGender": "Female",
+        "constituency": "Mapperley",
+        "politicalParty": "Green Party",
+        "electionDate": "12th December",
+        "messages": [
+            {
+                "title": "Michelle's the Local Choice!",
+                "content": "Green Party select local youth worker as candidate. A local theatre and filmmaker who has worked in schools for over 10 years has been selected as the Green Party candidate for Nottingham East in the general election on 12th December."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Climate Emergency",
+                "policyDescription": "Invest in tackling the Climate Emergency."
+            },
+            {
+                "policyTitle": "Youth Services",
+                "policyDescription": "Push for more youth centres and green spaces for play and social activity."
+            },
+            {
+                "policyTitle": "Democracy Reform",
+                "policyDescription": "Reform our democracy by giving people the final say on any Brexit deal with a referendum."
+            },
+            {
+                "policyTitle": "Economy",
+                "policyDescription": "\u00a3100bn per year investment to radically reshape our economy for net-zero carbon by 2030."
+            },
+            {
+                "policyTitle": "Voting System",
+                "policyDescription": "Introduce Proportional Representation system for voting."
+            }
+        ],
+        "mentions": {
+            "candidate": "Michelle Vacciana",
+            "otherPartyLeaderCandidate": "Labour Party",
+            "partyLeader": "",
+            "tacticalSituation": "Labour Party is the frontrunner in Nottingham East's race."
+        },
+        "issues": {
+            "brexitEurope": "Call a referendum on the Brexit deal and the UK's status in the EU.",
+            "defence": "",
+            "economy": "\u00a3100bn per year investment to radically reshape our economy for net-zero carbon by 2030.",
+            "education": "",
+            "environment": "Tackling the Climate Emergency, ethical living, and urgent consideration for our environment.",
+            "governance": "",
+            "government": "Reform our democracy by giving people the final say on any Brexit deal with a referendum.",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Push for more youth centres and green spaces for play and social activity.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I am with the Green Party as they represent my personal values; sharing a vision of ethical living and urgent consideration for our environment which has consistently been central to their policies. A personal priority for me is young people.",
+        "politicalExperience": [
+            {
+                "role": "Theatre and filmmaker, youth worker",
+                "duration": "over 10 years",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Michelle Vacciana, your local Green candidate for MP"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "\u00a3100bn per year investment to radically reshape our economy for net-zero carbon by 2030."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I am with the Green Party as they represent my personal values.",
+                        "Sharing a vision of ethical living and urgent consideration for our environment.",
+                        "A personal priority for me is young people."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Push for more youth centres and green spaces for play and social activity."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "\u00a3100bn per year investment to radically reshape our economy for net-zero carbon by 2030.",
+                        "Reform our democracy by giving people the final say on any Brexit deal with a referendum."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Michelle promises to implement the Green Party manifesto. She is particularly passionate about young people.",
+                    "issueRelated": "Youth Services"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Call a referendum on a Labour Brexit and then refuse to say whether we think the UK is better Remaining or Leaving."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Call a referendum on a Labour Brexit and then refuse to say whether we think the UK is better Remaining or Leaving."
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Michelle is also a resident of Nottingham East.",
+                "employment": "Theatre and filmmaker, youth worker.",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Michelle is also a resident of Nottingham East."
+                ]
+            }
+        }
+    }
+}

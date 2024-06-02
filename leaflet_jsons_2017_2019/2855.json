@@ -1,0 +1,158 @@
+{
+    "leaflet": {
+        "candidateName": "Rosie Sharpley",
+        "candidateGender": "",
+        "constituency": "Woking",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Real change for Woking and the surrounding villages",
+                "content": "I've spoken to thousands of people in our area over the last few months. It's clear that local people want to see real change for Woking and the surrounding villages."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Protect local health services",
+                "policyDescription": "Protect local health services and cut taxes by \u00a3700 for people on ordinary incomes."
+            },
+            {
+                "policyTitle": "Bring real change to Britain",
+                "policyDescription": "Plans to bring real change to Britain, including local investment and support for local people."
+            }
+        ],
+        "mentions": {
+            "candidate": "Hi, I'm Rosie Sharpley, your local Lib Dem candidate.",
+            "otherPartyLeaderCandidate": "With the recession hitting hard, Nick Clegg\u2019s Lib Dems want to close tax loopholes for the very rich so we can cut taxes for those on middle and low incomes.",
+            "partyLeader": "Nick Clegg",
+            "tacticalSituation": "Lib Dem 44%, Cons 46% - It's between the Conservatives and the Liberal Democrats here in Woking."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Protect local health services and cut taxes by \u00a3700 for people on ordinary incomes.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "Labour has let us down and the Conservatives will not deliver the real change Britain needs now.",
+            "health": "Protect local health services.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Put more police on the beat.",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I want to know about your local concerns and your local priorities for tackling the recession to cleaning up British politics.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "Hi, I'm Rosie Sharpley, your local Lib Dem candidate. I've spoken to thousands of people in our area over the last few months. It's clear that local people want to see real change for Woking and the surrounding villages.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "13 Allerton Close, Goldsworth Park, Woking, GU21 3DD",
+            "phone": "",
+            "email": "",
+            "website": "www.WokingLibDems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Nick Clegg"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Protect local health services and cut taxes by \u00a3700 for people on ordinary incomes."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "Labour has let us down and the Conservatives will not deliver the real change Britain needs now.",
+                        "Hi, I'm Rosie Sharpley, your local Lib Dem candidate.",
+                        "I want to know about your local concerns and your local priorities for tackling the recession to cleaning up British politics.",
+                        "I believe we need a local champion who will stand up for local people."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Protect local health services and cut taxes by \u00a3700 for people on ordinary incomes.",
+                        "Put more police on the beat.",
+                        "This area needs a local champion who will stand up for local people."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Nick Clegg\u2019s Lib Dems want to close tax loopholes for the very rich so we can cut taxes for those on middle and low incomes."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour has let us down and the Conservatives will not deliver the real change Britain needs now."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I believe we need a local champion who will stand up for local people.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I believe we need a local champion who will stand up for local people."
+                ]
+            }
+        }
+    }
+}

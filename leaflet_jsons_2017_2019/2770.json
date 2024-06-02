@@ -1,0 +1,175 @@
+{
+    "leaflet": {
+        "candidateName": "Peter John, Chris Gonde, Sarah King",
+        "candidateGender": "",
+        "constituency": "South Camberwell",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Campaign to bring the Tube to Camberwell and Peckham",
+                "content": "Peter, Chris and Sarah were delighted to join Harriet Harman MP, residents and businesses including King's College Hospital and South London and Maudsley NHS Foundation Trusts at the rally at Camberwell Green organised by the PACT (Peckham and Camberwell Tube) group."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Tube Extension",
+                "policyDescription": "Extending the Bakerloo line from Elephant to New Cross via Camberwell and Peckham."
+            },
+            {
+                "policyTitle": "Council Homes",
+                "policyDescription": "Plans for up to 1,500 new council homes by 2018."
+            },
+            {
+                "policyTitle": "Green Dale",
+                "policyDescription": "Protection of the green space at Green Dale, new council housing and The Belham Primary School supported by councillors."
+            }
+        ],
+        "mentions": {
+            "candidate": "Peter, Chris and Sarah",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Harriet Harman",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "The Belham Primary School supported by councillors.",
+            "environment": "Protection of the green space at Green Dale.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Extending the Bakerloo line from Elephant to New Cross via Camberwell and Peckham.",
+            "socialWelfare": "Plans for up to 1,500 new council homes by 2018.",
+            "community": [
+                {
+                    "content": "Protection of the green space at Green Dale.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Councillors",
+                "duration": "",
+                "achievements": "Organizing rally for tube extension, advocating for council homes, and supporting school building projects."
+            }
+        ],
+        "contactInformation": {
+            "address": "Southwark Labour Party, 264 Rosendale Road, SE24 9DL",
+            "phone": "020 787 0573",
+            "email": "southwarklabourparty@gmail.com",
+            "website": "www.southwarklabour.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Peter, Chris, Sarah with Harriet Harman MP rallying for tube extension."
+                },
+                {
+                    "caption": "New council homes at Badminton House."
+                },
+                {
+                    "caption": "Talking to local residents about schools and services."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Plans for up to 1,500 new council homes by 2018.",
+                        "The works have brought 12 homes back into use."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Peter, Chris and Sarah were delighted to join Harriet Harman MP.",
+                        "Thousands of people travel to, from, and through Camberwell each day.",
+                        "Protection of the green space at Green Dale must be a priority.",
+                        "This is excellent news, a local school in the heart of the community.",
+                        "Thanks to everyone who took part in the consultation."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 4,
+                "candidateAlone": 0,
+                "candidateWithOthers": 4
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Protection of the green space at Green Dale.",
+                        "Plans for new council homes.",
+                        "New school building projects."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Tube extension from Elephant and Castle to Peckham."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Talking to local residents.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Talking to local residents.",
+                    "Local councillors holding surgeries to engage with the community."
+                ]
+            }
+        }
+    }
+}

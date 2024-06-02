@@ -1,0 +1,146 @@
+{
+    "leaflet": {
+        "candidateName": "Celia Hickson",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Green Party",
+        "electionDate": "12th Dec",
+        "messages": [
+            {
+                "title": "",
+                "content": "If not now, when? #VoteGreen2019"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A real Green New Deal",
+                "policyDescription": "Energy efficient homes for all, affordable and reliable public transport, permanent ban on fracking, action on air pollution, investment in green energy, an end to airport expansion"
+            }
+        ],
+        "mentions": {
+            "candidate": "Celia Hickson",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "A real Green New Deal, energy efficient homes, investment in green energy, action on air pollution, permanent ban on fracking, an end to airport expansion",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Affordable and reliable public transport",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "celia.hickson@greenparty.org.uk",
+            "website": "greenparty.org.uk/join",
+            "socialMedia": {
+                "facebook": "facebook.com/bradfordgreens",
+                "twitter": "twitter.com/bradfordgreens",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Councillor Martin Love",
+                "endorsement": "\"The Green Party are the only party putting forward a real 'Green New Deal' that will make the changes we need to decarbonise our economy by 2030. The other parties may talk green but we have seen that they are all talk - we are the real deal. Vote Green.\""
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": []
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "The Green Party are the only party putting forward a real 'Green New Deal' that will make the changes we need to decarbonise our economy by 2030."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "If not now, when?"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": []
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "A real Green New Deal"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "\"The Green Party are the only party putting forward a real 'Green New Deal' that will make the changes we need to decarbonise our economy by 2030.\" - Councillor Martin Love"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

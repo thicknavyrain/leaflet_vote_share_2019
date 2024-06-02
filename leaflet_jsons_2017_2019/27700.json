@@ -1,0 +1,177 @@
+{
+    "leaflet": {
+        "candidateName": "Paul Reynolds",
+        "candidateGender": "",
+        "constituency": "West Ham",
+        "politicalParty": "Liberal Democrat",
+        "electionDate": "8 June",
+        "messages": [
+            {
+                "title": "5 Reasons to vote Paul Reynolds",
+                "content": "1. A Stronger Economy; 2. Raise Standards in Schools; 3. Fix our roads; 4. Enhancing NHS; 5. Protect our environment"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop Homelessness",
+                "policyDescription": "Increase investment in mental health provision and support services for the homeless"
+            },
+            {
+                "policyTitle": "Support Local Schools",
+                "policyDescription": "Commitment to better local schools and other public services"
+            }
+        ],
+        "mentions": {
+            "candidate": "Paul Reynolds",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Improving local schools and raising standards",
+            "environment": "Protect our environment",
+            "governance": "",
+            "government": "",
+            "health": "NHS investment and mental health provision",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Fixing our roads",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Support Paul's local campaigns",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Community Activist",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "paulreynoldsldwh@gmail.com",
+            "website": "www.newhamlibdems.org.uk",
+            "socialMedia": {
+                "facebook": "/NewhamCommunityAndNeighbours",
+                "twitter": "@NewhamLD",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Liberal Democrat",
+                "endorsement": "Liberal Democrats have consistently beat Labour by large majorities in Newham"
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "5 Reasons to vote Paul Reynolds"
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Liberal Democrats have consistently beat Labour by large majorities in Newham"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 3,
+                "people": 0,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Fix our roads",
+                        "Improving local schools",
+                        "Support Paul's local campaigns"
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "NHS investment",
+                        "Protect our environment"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Liberal Democrats have consistently beat Labour by large majorities in Newham"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Support Paul's local campaigns"
+                ]
+            }
+        }
+    }
+}

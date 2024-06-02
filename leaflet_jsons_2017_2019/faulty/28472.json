@@ -1,0 +1,140 @@
+{
+    "leaflet": {
+        "candidateName": "Andrew Johns",
+        "candidateGender": "",
+        "constituency": "Walthamstow",
+        "politicalParty": "Green Party",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": "I'm a Walthamstow-born web developer, the father of two young children. A renter all my life, I share the concerns of many locals, and believe that the Green Party offers the bold joined-up thinking that we need in politics to tackle the root causes of the challenges we face."
+            },
+            {
+                "title": "",
+                "content": "Greens are on the up in Walthamstow. Third party in 2015: Increasing our vote share from 1.9% to 6.4%. Let's keep that movement going. Stand with us for a bolder, brighter, bigger future."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Andrew Johns",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {},
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": []
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Third party in 2015: Increasing our vote share from 1.9% to 6.4%."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I'm a Walthamstow-born web developer, the father of two young children.",
+                        "A renter all my life, I share the concerns of many locals, and believe that the Green Party offers the bold joined-up thinking that we need in politics to tackle the root causes of the challenges we face.",
+                        "Greens are on the up in Walthamstow."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I'm a Walthamstow-born web developer.",
+                "employment": "I'm a Walthamstow-born web developer.",
+                "education": "",
+                "family": "the father of two young children"
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I'm a Walthamstow-born web developer."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "leaflet": {
+        "candidateName": "Steve Pound",
+        "candidateGender": "Male",
+        "constituency": "Ealing North",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "We are a strong and united community - I'm not going to let the Tories drive us apart",
+                "content": "When it comes to Europe I'm not ashamed to say I voted remain. It is now my job to ensure hard-won workplace rights and environmental protections are not lost in the Tories' hard Brexit."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Defend and extend the NHS",
+                "policyDescription": "Defend and extend the NHS that we all depend on, and save Ealing Hospital."
+            },
+            {
+                "policyTitle": "Housing",
+                "policyDescription": "Work with Ealing Council to build the houses we need."
+            },
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Defend education: keeping class sizes low and improve our schools."
+            },
+            {
+                "policyTitle": "Availability",
+                "policyDescription": "Keep holding at least twice-weekly surgeries."
+            },
+            {
+                "policyTitle": "Commitment",
+                "policyDescription": "Never ever take any second job or directorship."
+            }
+        ],
+        "mentions": {
+            "candidate": "Steve Pound",
+            "otherPartyLeaderCandidate": "Tories",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "When it comes to Europe I'm not ashamed to say I voted remain. It is now my job to ensure hard-won workplace rights and environmental protections are not lost in the Tories' hard Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "Defend education: keeping class sizes low and improve our schools.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Defend and extend the NHS that we all depend on, and save Ealing Hospital.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Work with Ealing Council to build the houses we need.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Promoted by Miriam Rice on behalf of Steve Pound both at 1109, Oldfield Lane North, Greenford, UB6 8PR. Printed by Print & Posts Print (UK), Atlas House, Nelson Way, Cramlington, NE23 1WG",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Re-elect Steve in Ealing North"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "We are a strong and united community - I'm not going to let the Tories drive us apart",
+                        "It is now my job to ensure hard-won workplace rights and environmental protections are not lost in the Tories' hard Brexit."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Defend and extend the NHS that we all depend on, and save Ealing Hospital.",
+                        "Defend education: keeping class sizes low and improve our schools.",
+                        "Work with Ealing Council to build the houses we need."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "It is now my job to ensure hard-won workplace rights and environmental protections are not lost in the Tories' hard Brexit."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "I'm not going to let the Tories drive us apart"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "I'm not going to let the Tories drive us apart"
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

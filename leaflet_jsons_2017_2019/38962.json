@@ -1,0 +1,175 @@
+{
+    "leaflet": {
+        "candidateName": "Derek Thomas",
+        "candidateGender": "",
+        "constituency": "West Cornwall and Scilly",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "My Plan",
+                "content": "To secure a better future for West Cornwall and Scilly. Re-elect Derek Thomas."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Better Health and Social Care",
+                "policyDescription": "Continue with the close integration of health and care services, pressing for more NHS dentists and better diagnostic services closer to home."
+            },
+            {
+                "policyTitle": "A Greener Cornwall and Scilly",
+                "policyDescription": "Committed to ensure action is taken to cut harmful emissions and enhance nature to improve health and wellbeing."
+            },
+            {
+                "policyTitle": "Supporting Fishing and Farming",
+                "policyDescription": "Ensure that vital industries get the Government support they need to flourish while providing environmental benefits and food security."
+            },
+            {
+                "policyTitle": "Promoting Business",
+                "policyDescription": "Deliver a new fairer deal for small businesses, supporting them and promoting the majority employers providing local employment in Cornwall."
+            },
+            {
+                "policyTitle": "Housing to Meet Local Need",
+                "policyDescription": "Support developers and planners to get quality homes built, empty buildings refurbished to help people find affordable homes."
+            },
+            {
+                "policyTitle": "Buses That Work For You",
+                "policyDescription": "Work to ensure the extra \u00a323.5m from Government allows passengers to get to and from work and places to visit to determine the lifestyle they can afford on buses."
+            }
+        ],
+        "mentions": {
+            "candidate": "Derek Thomas",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Committed to ensure action is taken to cut harmful emissions and enhance nature to improve health and wellbeing.",
+            "governance": "",
+            "government": "",
+            "health": "Continue with the close integration of health and care services, pressing for more NHS dentists and better diagnostic services closer to home.",
+            "immigration": "",
+            "labourEmployment": "Deliver a new fairer deal for small businesses, supporting them and promoting the majority employers providing local employment in Cornwall.",
+            "lawCrime": "",
+            "transport": "Work to ensure the extra \u00a323.5m from Government allows passengers to get to and from work and places to visit to determine the lifestyle they can afford on buses.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Support developers and planners to get quality homes built, empty buildings refurbished to help people find affordable homes.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.derekthomas.org",
+            "socialMedia": {
+                "facebook": "fb.com/derekthomas.org",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Derek Thomas"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Work to ensure the extra \u00a323.5m from Government allows passengers to get to and from work and places to visit to determine the lifestyle they can afford on buses."
+                    ]
+                },
+                "qualitative": {
+                    "count": 8,
+                    "examples": [
+                        "Continue with the close integration of health and care services, pressing for more NHS dentists and better diagnostic services closer to home.",
+                        "Committed to ensure action is taken to cut harmful emissions and enhance nature to improve health and wellbeing.",
+                        "Ensure that vital industries get the Government support they need to flourish while providing environmental benefits and food security.",
+                        "Deliver a new fairer deal for small businesses, supporting them and promoting the majority employers providing local employment in Cornwall.",
+                        "Support developers and planners to get quality homes built, empty buildings refurbished to help people find affordable homes.",
+                        "To secure a better future for West Cornwall and Scilly.",
+                        "Re-elect Derek Thomas.",
+                        "Derek Thomas."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 6,
+                    "examples": [
+                        "Commitment to improve health services along with more NHS dentists and diagnostic services closer to home.",
+                        "Action to cut emissions and enhance nature locally.",
+                        "Support for local fishing and farming industries.",
+                        "Support for small businesses in Cornwall.",
+                        "Support for developers and refurbishers in tackling housing needs.",
+                        "Funding to improve local bus services."
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

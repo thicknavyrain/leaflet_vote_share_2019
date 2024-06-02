@@ -1,0 +1,166 @@
+{
+    "leaflet": {
+        "candidateName": "Lyju Jose",
+        "candidateGender": "",
+        "constituency": "Hornsey and Wood Green",
+        "politicalParty": "",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": "Give me and my candidate your vote on Thursday 8th June and I will:\nProvide strong and stable leadership for our country\nGet the best Brexit deal possible to deliver economic security for our future\nAlways stand up for you and your family\nDon\u2019t risk our future at this crucial moment in history with a vote for anyone else."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Leadership",
+                "policyDescription": "Provide strong and stable leadership for our country"
+            },
+            {
+                "policyTitle": "Brexit Deal",
+                "policyDescription": "Get the best Brexit deal possible to deliver economic security for our future"
+            },
+            {
+                "policyTitle": "Family Support",
+                "policyDescription": "Always stand up for you and your family"
+            }
+        ],
+        "mentions": {
+            "candidate": "Lyju Jose",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Theresa May",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "Get the best Brexit deal possible to deliver economic security for our future",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": []
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "92 Queens Road, London, N11 2QU",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Theresa May, Prime Minister"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Provide strong and stable leadership for our country",
+                        "Get the best Brexit deal possible to deliver economic security for our future",
+                        "Always stand up for you and your family",
+                        "Don\u2019t risk our future at this crucial moment in history with a vote for anyone else.",
+                        "Back me on Thursday 8th June to lead Britain."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Get the best Brexit deal possible to deliver economic security for our future"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Don\u2019t risk our future at this crucial moment in history with a vote for anyone else."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

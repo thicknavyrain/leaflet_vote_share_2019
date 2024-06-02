@@ -1,0 +1,188 @@
+{
+    "leaflet": {
+        "candidateName": "Julian Huppert",
+        "candidateGender": "",
+        "constituency": "Cambridge",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Your Choice on 8th June",
+                "content": "Liberal Democrat MPs fighting to stop hard Brexit wrecking Britain. OR A Labour party that voted with UKIP to back an extreme Brexit. The Conservatives are out of the race in Cambridge. Voting Conservative here helps Labour."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "Liberal Democrat MPs fighting to stop hard Brexit wrecking Britain."
+            }
+        ],
+        "mentions": {
+            "candidate": "Julian Huppert",
+            "otherPartyLeaderCandidate": "Labour party that voted with UKIP to back an extreme Brexit",
+            "partyLeader": "",
+            "tacticalSituation": "The Conservatives are out of the race in Cambridge. Voting Conservative here helps Labour."
+        },
+        "issues": {
+            "brexitEurope": "Liberal Democrat MPs fighting to stop hard Brexit wrecking Britain. A Labour party that voted with UKIP to back an extreme Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "A vote for Julian is a vote for local champions and real improvements for our city.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Sam, Gilison Road",
+                "endorsement": "\"I've voted Labour all my life, but Brexit was a game-changer for me. Julian is a strong pro-European and he's getting my support this year.\""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "\"I've voted Labour all my life, but Brexit was a game-changer for me. Julian is a strong pro-European and he's getting my support this year.\"",
+                "source": "Sam, Gilison Road",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "We're backing Julian"
+                },
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives are out of the race in Cambridge. Voting Conservative here helps Labour."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Liberal Democrat MPs fighting to stop hard Brexit wrecking Britain.",
+                        "\"I've voted Labour all my life, but Brexit was a game-changer for me. Julian is a strong pro-European and he's getting my support this year.\""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "A vote for Julian is a vote for local champions and real improvements for our city."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Liberal Democrat MPs fighting to stop hard Brexit wrecking Britain.",
+                        "A Labour party that voted with UKIP to back an extreme Brexit.",
+                        "The Conservatives are out of the race in Cambridge. Voting Conservative here helps Labour."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "\"I've voted Labour all my life, but Brexit was a game-changer for me. Julian is a strong pro-European and he's getting my support this year.\"",
+                    "issueRelated": "Brexit"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "\"I've voted Labour all my life, but Brexit was a game-changer for me. Julian is a strong pro-European and he's getting my support this year.\" - Sam, Gilison Road"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "A Labour party that voted with UKIP to back an extreme Brexit.",
+                        "The Conservatives are out of the race in Cambridge. Voting Conservative here helps Labour."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

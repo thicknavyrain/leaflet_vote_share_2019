@@ -1,0 +1,179 @@
+{
+    "leaflet": {
+        "candidateName": "Chris Donnelly",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Scottish Conservative & Unionist",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "NO TO A 2nd REFERENDUM",
+                "content": "Only the Scottish Conservatives can send a message to the SNP."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "NO TO A 2nd REFERENDUM",
+                "policyDescription": "Only the Scottish Conservatives can send a message to the SNP."
+            }
+        ],
+        "mentions": {
+            "candidate": "Chris Donnelly",
+            "otherPartyLeaderCandidate": "Nicola Sturgeon",
+            "partyLeader": "Ruth Davidson",
+            "tacticalSituation": "Panelbase poll, Sunday Times Scotland 23 April 2017"
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "A strong local voice for Midlothian",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Promoted by J. Deb on behalf of C. Donnelly, both of 15 Park Road Eskbank, Dalkeith EH22 3DF. Printed by Colorprint Ltd, Penicuik EH26 8EZ.",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Ruth Davidson",
+                "endorsement": "Ruth Davidson: Scots do not want a referendum"
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Ruth Davidson: Scots do not want a referendum",
+                "source": "BBC News",
+                "date": "19/03/17"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Thank you for electing Scottish Conservatives in Midlothian"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Panelbase poll, Sunday Times Scotland 23 April 2017 - SNP 44%, CON 33%, LAB 13%, LIB 5%",
+                        "Sunday Times Scotland 23/04/17 - TORY REVIVAL ON COURSE TO FOIL INDEPENDENCE"
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "Only the Scottish Conservatives can send a message to the SNP."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "A strong local voice for Midlothian"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "NO TO A 2nd REFERENDUM"
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Ruth Davidson: Scots do not want a referendum"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Nicola Sturgeon yesterday insisted indyref2 is at 'heart' of general election - Scottish Sun 02/05/17",
+                        "POLL REJECTS STURGEON'S PLAN FOR NEW REFERENDUM - Scottish Daily Express 20/04/17"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 2,
+                    "examples": [
+                        "Ruth Davidson: Scots do not want a referendum - BBC News 19/03/17",
+                        "POLL REJECTS STURGEON'S PLAN FOR NEW REFERENDUM - Scottish Daily Express 20/04/17"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Nicola Sturgeon yesterday insisted indyref2 is at 'heart' of general election - Scottish Sun 02/05/17"
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "A strong local voice for Midlothian",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "A strong local voice for Midlothian"
+                ]
+            }
+        }
+    }
+}

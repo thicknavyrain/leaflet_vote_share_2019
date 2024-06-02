@@ -1,0 +1,157 @@
+{
+    "leaflet": {
+        "candidateName": "Iain McGill",
+        "candidateGender": "",
+        "constituency": "Edinburgh North and Leith",
+        "politicalParty": "Scottish Conservative & Unionist",
+        "electionDate": "8 June 2017",
+        "messages": [
+            {
+                "title": "A MESSAGE FROM RUTH DAVIDSON",
+                "content": "Iain McGill is picking up where we left off. We have to stop the SNP down to size. And you know the only way to send a message to Nicola Sturgeon that we don\u2019t want pulled back to another unwanted and divisive independence referendum is by voting Scottish Conservative and Unionist at this election."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Stop SNP",
+                "policyDescription": "Send a message to Nicola Sturgeon that we don\u2019t want another unwanted and divisive independence referendum."
+            }
+        ],
+        "mentions": {
+            "candidate": "Iain McGill is picking up where we left off.",
+            "otherPartyLeaderCandidate": "Labour and the Lib Dems are out of the General Election race here.",
+            "partyLeader": "Ruth Davidson",
+            "tacticalSituation": "Labour and the Lib Dems are out of the General Election race here, so only a vote for my candidate can beat the SNP."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "Send Nicola Sturgeon a message she can\u2019t ignore.",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Send Nicola Sturgeon a message she can\u2019t ignore.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.scottishconservatives.com",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Labour are in a mess. Divided and in third place across Scotland.",
+                        "SNP 27.6%, Con 25.9%, Lab 17.1%, LibDem 8.7%"
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "The facts of this election are clear. Labour are in a mess.",
+                        "It all adds up to one thing.",
+                        "Labour and the Lib Dems are out of the General Election race here.",
+                        "The facts locally are clear too."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Stop the SNP in Edinburgh North and Leith",
+                        "Send Nicola Sturgeon a message she can\u2019t ignore."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Send a message to Nicola Sturgeon.",
+                        "Labour and the Lib Dems are out of the General Election race here."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour and the Lib Dems are out of the General Election race here."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Labour are in a mess."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Send Nicola Sturgeon a message she can\u2019t ignore."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

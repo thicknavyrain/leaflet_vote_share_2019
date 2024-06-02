@@ -1,0 +1,192 @@
+{
+    "leaflet": {
+        "candidateName": "Sue Wixley",
+        "candidateGender": "",
+        "constituency": "Putney",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "December 12th",
+        "messages": [
+            {
+                "title": "BUILDING A BRIGHTER FUTURE FOR PUTNEY",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Anti Brexit Campaigner",
+                "policyDescription": "Sue has stood up to Labour and the Conservatives and their Brexit plans."
+            },
+            {
+                "policyTitle": "Human Rights Advocate",
+                "policyDescription": "A 30-year career in the charity sector. Played a key role in the global campaign to end blindness with the Nobel Prize."
+            },
+            {
+                "policyTitle": "Southfields resident",
+                "policyDescription": "Sue moved to London over 20 years ago and has lived in Putney for the last ten."
+            }
+        ],
+        "mentions": {
+            "candidate": "Sue Wixley",
+            "otherPartyLeaderCandidate": "Boris Johnson",
+            "partyLeader": "Jo Swinson",
+            "tacticalSituation": "Lib Dems are the only remain party that can win here. Remainers from both Labour and the Conservatives are flocking to the Liberal Democrats as the largest and strongest party of Remain."
+        },
+        "issues": {
+            "brexitEurope": "Sue has stood up to Labour and the Conservatives and their Brexit plans.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "Played a key role in the global campaign to end blindness with the Nobel Prize.",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Sue moved to London over 20 years ago and has lived in Putney for the last ten.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Human Rights Advocate",
+                "duration": "30 years",
+                "achievements": "Played a key role in the global campaign to end blindness with the Nobel Prize."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "Wandsworthlibdems.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "SueWixleyLD",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Lib Dem",
+                "endorsement": "The Lib Dems are the only remain party that can win here."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "The Lib Dem fightback is real and it's changing everything.",
+                "source": "Jo Swinson",
+                "date": "May 7th, 2019"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Membership has SURGED to a record high of over 125,000 members."
+                    ]
+                },
+                "qualitative": {
+                    "count": 7,
+                    "examples": [
+                        "Sue has stood up to Labour and the Conservatives and their Brexit plans.",
+                        "The Lib Dems fightback is real and it's changing everything.",
+                        "A 30-year career in the charity sector.",
+                        "Played a key role in the global campaign to end blindness with the Nobel Prize.",
+                        "Sue moved to London over 20 years ago and has lived in Putney for the last ten.",
+                        "Lib Dems are the only remain party that can win here.",
+                        "The Brexit Party in all but name."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Sue moved to London over 20 years ago and has lived in Putney for the last ten."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Sue has stood up to Labour and the Conservatives and their Brexit plans.",
+                        "Membership has SURGED to a record high of over 125,000 members."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Sue moved to London over 20 years ago and has lived in Putney for the last ten.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "The Lib Dems are the only remain party that can win here."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "The Brexit Party in all but name",
+                        "Abandoning the centre ground",
+                        "No longer the party of business"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "To Stop Brexit and to Stop Boris Johnson, Remainers must vote Liberal Democrat on December 12th."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Sue moved to London over 20 years ago and has lived in Putney for the last ten.",
+                "employment": "Human Rights Advocate with a 30-year career in the charity sector.",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Sue moved to London over 20 years ago and has lived in Putney for the last ten."
+                ]
+            }
+        }
+    }
+}

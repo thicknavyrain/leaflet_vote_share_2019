@@ -1,0 +1,184 @@
+{
+    "leaflet": {
+        "candidateName": "Angela Smith",
+        "candidateGender": "female",
+        "constituency": "Penistone & Stocksbridge",
+        "politicalParty": "Labour",
+        "electionDate": "June 8th",
+        "messages": [
+            {
+                "title": "Re-Elect Angela Smith",
+                "content": "Standing up for Penistone & Stocksbridge"
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Angela Smith",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "The NHS",
+            "immigration": "",
+            "labourEmployment": "Jobs in our area",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Decent affordable housing",
+            "community": [
+                {
+                    "content": "A good deal with the EU after BREXIT",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "It has been a privilege representing you in Parliament these past years. I'm now standing as your candidate again. I am standing on my record and I will stand up for Penistone & Stocksbridge. We need someone who lives locally, who understands our aspirations and who will make sure our voices are heard.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Maria House, Fox Valley House, Stocksbridge, Sheffield, S36 2AA",
+            "phone": "0751 833 4820",
+            "email": "angela@angelasmithmp.me.uk",
+            "website": "www.angelasmith.me.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@angelasmithmp",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Joe Unsworth",
+                "endorsement": "I\u2019ve known Angela for more years than we both care to remember. As someone who is born and bred in our constituency I can honestly say she is the best MP we\u2019ve ever had. She is a first-class constituency MP and it would be crazy to lose her. I will certainly be giving her my vote on June 8th."
+            },
+            {
+                "endorser": "Brenda Edley",
+                "endorsement": "Angela has been a superb MP for High Green and for Parliament these last 12 years. She cares about what we all want and need. She gets things done. She\u2019s so supportive of our High Green community and has made sure people of our area have a strong voice in Nesfield House."
+            },
+            {
+                "endorser": "Richard Dwyer",
+                "endorsement": "Over the 12 years that Angela has been our MP in our area, as a councillor for Dodworth she has done a great job. She is very supportive and has looked after my parents so well in recent years. She is a first-class Councillor and has always put the needs of her community first."
+            },
+            {
+                "endorser": "Lesley Anne Smith",
+                "endorsement": "Angela has been of great help to me and to members of our community; she is always there for all of us and is a great MP. I will be giving Angela my backing on June 8th."
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Re-Elect Angela Smith"
+                },
+                {
+                    "caption": "Angela Smith with supporters"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "It has been a privilege representing you in Parliament these past years."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I am standing on my record and I will stand up for Penistone & Stocksbridge.",
+                        "We need someone who lives locally, who understands our aspirations and who will make sure our voices are heard.",
+                        "Standing up for Penistone & Stocksbridge."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Jobs in our area"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "A good deal with the EU after BREXIT"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Angela has represented her constituency for 12 years with care and dedication.",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 4,
+                "examples": [
+                    "I\u2019ve known Angela for more years than we both care to remember.",
+                    "Angela has been a superb MP for High Green and for Parliament these last 12 years.",
+                    "Over the 12 years that Angela has been our MP in our area, as a councillor for Dodworth she has done a great job.",
+                    "Angela has been of great help to me and to members of our community; she is always there for all of us and is a great MP."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "local",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I\u2019ve known Angela for more years than we both care to remember. As someone who is born and bred in our constituency I can honestly say she is the best MP we\u2019ve ever had."
+                ]
+            }
+        }
+    }
+}

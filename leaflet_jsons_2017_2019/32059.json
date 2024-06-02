@@ -1,0 +1,164 @@
+{
+    "leaflet": {
+        "candidateName": "Ben Cook",
+        "candidateGender": "",
+        "constituency": "Boston and Skegness",
+        "politicalParty": "Labour",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "I live and work in Boston and always have done.\nI am a national Trade Union GMB representative in Asda Boston.\nI am father to a wonderful son who I don't want disadvantaged by our current education system.",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "I understand the frustrations people have as I've seen this constituency being run into the ground by the Tories, with the loss of local bus and hospital services."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "I am father to a wonderful son who I don't want disadvantaged by our current education system.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "the loss of local bus",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "I understand the frustrations people have as I've seen this constituency being run into the ground by the Tories, with the loss of local bus and hospital services.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I live and work in Boston and always have done.\nI am a national Trade Union GMB representative in Asda Boston.\nI am father to a wonderful son who I don't want disadvantaged by our current education system.\nI know what it's like to try and live on a low income.\nI understand the frustrations people have as I've seen this constituency being run into the ground by the Tories, with the loss of local bus and hospital services.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.bostonandskegnesslabour.party/ben",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 6,
+                    "examples": [
+                        "I live and work in Boston and always have done.",
+                        "I am a national Trade Union GMB representative in Asda Boston.",
+                        "I am father to a wonderful son who I don't want disadvantaged by our current education system.",
+                        "I know what it's like to try and live on a low income.",
+                        "I understand the frustrations people have as I've seen this constituency being run into the ground by the Tories, with the loss of local bus and hospital services.",
+                        "the loss of local bus"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "I understand the frustrations people have as I've seen this constituency being run into the ground by the Tories, with the loss of local bus and hospital services."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "I am father to a wonderful son who I don't want disadvantaged by our current education system."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I am father to a wonderful son who I don't want disadvantaged by our current education system.",
+                    "issueRelated": "education"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "I understand the frustrations people have as I've seen this constituency being run into the ground by the Tories, with the loss of local bus and hospital services."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "I live and work in Boston and always have done.",
+                "employment": "I am a national Trade Union GMB representative in Asda Boston.",
+                "education": "",
+                "family": "I am father to a wonderful son who I don't want disadvantaged by our current education system."
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "I live and work in Boston and always have done."
+                ]
+            }
+        }
+    }
+}

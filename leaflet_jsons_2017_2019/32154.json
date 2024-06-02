@@ -1,0 +1,181 @@
+{
+    "leaflet": {
+        "candidateName": "Andrew Stephenson",
+        "candidateGender": "",
+        "constituency": "Pendle",
+        "politicalParty": "Conservative",
+        "electionDate": "November 2019",
+        "messages": [
+            {
+                "title": "Pendle Future",
+                "content": "Voters in Pendle will decide this election. Getting on with Pendle\u2019s priorities."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "New Brexit deal agreed with EU. Protects jobs and trade, ends uncertainty for our economy, ready to go from day one of a new parliament."
+            },
+            {
+                "policyTitle": "Local Business",
+                "policyDescription": "Secured a new Enterprise Zone at Lomeshaye creating hundreds of new jobs."
+            },
+            {
+                "policyTitle": "Transport",
+                "policyDescription": "Secured \u00a330 million for the Colne to Skipton Railway."
+            },
+            {
+                "policyTitle": "Crime",
+                "policyDescription": "Dedicated town centre police teams, knife prevention orders, strengthening the courts to keep criminals off our streets."
+            }
+        ],
+        "mentions": {
+            "candidate": "Andrew Stephenson",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn, Nicola Sturgeon",
+            "partyLeader": "Boris Johnson",
+            "tacticalSituation": "Last time, the Conservatives were just nine seats short of a majority."
+        },
+        "issues": {
+            "brexitEurope": "New Brexit deal agreed with EU. Protects jobs and trade, ends uncertainty for our economy, ready to go from day one of a new parliament.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "Dedicated town centre police teams, knife prevention orders, strengthening the courts to keep criminals off our streets.",
+            "transport": "Secured \u00a330 million for the Colne to Skipton Railway.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Secured a new Enterprise Zone at Lomeshaye creating hundreds of new jobs.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Member of Parliament for Pendle",
+                "duration": "",
+                "achievements": "Secured funding for local projects including transport and business zones."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Brexit deal agreed and ready to go"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Last time, the Conservatives were just nine seats short of a majority.",
+                        "Secured \u00a330 million for the Colne to Skipton Railway."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Brexit deal agreed and ready to go.",
+                        "Secured a new Enterprise Zone at Lomeshaye creating hundreds of new jobs.",
+                        "Do you really want five more years of gridlock under Corbyn?"
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 3,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Secured a new Enterprise Zone at Lomeshaye creating hundreds of new jobs.",
+                        "Secured \u00a330 million for the Colne to Skipton Railway."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Brexit deal agreed and ready to go."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Do you really want five more years of gridlock under Corbyn?"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Jeremy Corbyn, held to ransom by the SNP with Nicola Sturgeon demanding another referendum to break up Britain."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Every vote for Jeremy Corbyn makes another hung parliament more likely."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Secured funding for local projects",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Secured a new Enterprise Zone at Lomeshaye creating hundreds of new jobs."
+                ]
+            }
+        }
+    }
+}

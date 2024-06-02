@@ -1,0 +1,186 @@
+{
+    "leaflet": {
+        "candidateName": "Theresa May",
+        "candidateGender": "Female",
+        "constituency": "",
+        "politicalParty": "",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "Strong and Stable Leadership in the National Interest",
+                "content": "We need a General Election now to secure the strong and stable leadership the country needs to see us through Brexit and beyond."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Strengthening our negotiating hand in Europe",
+                "policyDescription": "A General Election now will strengthen our negotiating hand in Europe. It is the only way to ensure we have strong leadership, certainty and stability."
+            }
+        ],
+        "mentions": {
+            "candidate": "Theresa May",
+            "otherPartyLeaderCandidate": "Jeremy Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "A General Election now will strengthen our negotiating hand in Europe.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Prime Minister",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "",
+                "endorsement": ""
+            }
+        ],
+        "quotes": [
+            {
+                "text": "The choice at this election is between strong and stable leadership in the national interest with me \u2013 or weak and unstable coalition government led by Jeremy Corbyn.",
+                "source": "Theresa May",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "This decision cannot be delayed and needs to happen now.",
+                        "We have a one-off chance to hold an election while the European Union agrees its negotiating position and before the detailed talks begin."
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Strong and stable leadership in the national interest.",
+                        "We need a General Election now to secure the strong and stable leadership the country needs to see us through Brexit and beyond.",
+                        "The choice at this election is between strong and stable leadership in the national interest with me \u2013 or weak and unstable coalition government led by Jeremy Corbyn."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "Strong and stable leadership in the national interest.",
+                        "We need a General Election now to secure the strong and stable leadership the country needs to see us through Brexit and beyond.",
+                        "A General Election now will strengthen our negotiating hand in Europe."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "If we don\u2019t have an election now, we will have uncertainty and instability because negotiations with the European Union will reach their most difficult stage in the run-up to the next General Election."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "The choice at this election is between strong and stable leadership in the national interest with me \u2013 or weak and unstable coalition government led by Jeremy Corbyn."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "The choice at this election is between strong and stable leadership in the national interest with me \u2013 or weak and unstable coalition government led by Jeremy Corbyn."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

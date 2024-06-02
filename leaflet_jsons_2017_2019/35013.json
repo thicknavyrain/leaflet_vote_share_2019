@@ -1,0 +1,194 @@
+{
+    "leaflet": {
+        "candidateName": "Tay Pitman",
+        "candidateGender": "",
+        "constituency": "West Fenham",
+        "politicalParty": "Green Party",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Pavements for the People",
+                "policyDescription": "Addressing complaints about parked vehicles crowding streets and footpaths by imposing restrictions to reduce pavement parking."
+            },
+            {
+                "policyTitle": "Keeping Fenham Clean and Tidy",
+                "policyDescription": "Organizing litter picking crews to clean up the area, making it safe for dogs and children, and preventing broken glass in parks."
+            },
+            {
+                "policyTitle": "Alternative Winter Market",
+                "policyDescription": "Promoting a market focusing on reusable materials, crafts and recycling to support local sustainability and reduce waste."
+            }
+        ],
+        "mentions": {
+            "candidate": "Tay Pitman",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "Addressing climate change by reducing waste and promoting recycling through local initiatives like the Alternative Winter Market.",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "Tackling dangerous road speeds and reducing litter.",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Listening to complaints about parked vehicles and addressing them through imposing restrictions.",
+                    "yimbyNimby": "NIMBY"
+                },
+                {
+                    "content": "Bringing community together with events like the Alternative Christmas Market and Green Drinks.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "07957 709 175",
+            "email": "tay@nclegreens.org.uk",
+            "website": "www.nclegreens.org.uk",
+            "socialMedia": {
+                "facebook": "@WestEndGreensNewcastle",
+                "twitter": "@TaymarPitman",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "From tackling dangerous road speeds, to taking measures to reduce litter and calling for an end to pavement street parking, I\u2019ve been acting on your concerns this autumn!",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Tay Pitman to tackle pavement parking."
+                },
+                {
+                    "caption": "Tay's Green Litter-Pick Team."
+                },
+                {
+                    "caption": "Stop the Whopper! Tay campaigning against a new drive-through fast food chain on Westgate Road."
+                },
+                {
+                    "caption": "Tay at a Green Drinks event."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Fly-tipping identified and removed: Tyre on Slaytford Lane and Sofa on Pease Avenue."
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "From tackling dangerous road speeds, to taking measures to reduce litter and calling for an end to pavement street parking, I\u2019ve been acting on your concerns this autumn!",
+                        "Keeping Fenham clean from litter not only makes the place look better, but it also keeps our green spaces safe for dogs and children."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 4,
+                "candidateAlone": 0,
+                "candidateWithOthers": 4
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Addressing complaints about parked vehicles crowding streets and footpaths.",
+                        "Organizing litter picking crews to clean up the area.",
+                        "Bringing community together with events like the Alternative Christmas Market and Green Drinks."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Addressing climate change by reducing waste and promoting recycling."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Residents completing surveys indicated issues with excessive pavement parking, causing difficulties when crossing the road or maneuvering around parked vehicles.",
+                    "issueRelated": "transport"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Why is Newcastle's Council not doing this in residential areas? We are happy to help residents gather evidence of impassable obstructions to show the council and police."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Tay is part of the West Fenham community and lists local places like Denton Burn as their key areas of action."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "leaflet": {
+        "candidateName": "Alan Whitehead",
+        "candidateGender": "",
+        "constituency": "Southampton",
+        "politicalParty": "Labour",
+        "electionDate": "Thursday 8 June",
+        "messages": [
+            {
+                "title": "Support for WASPI Women",
+                "content": "I stand with WASPI women and, if re-elected, I will continue to fight for them in Parliament."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Addressing Pension Injustice",
+                "policyDescription": "Calling on the Tories to address the pension injustice faced by women born in the 1950s."
+            }
+        ],
+        "mentions": {
+            "candidate": "Alan Whitehead",
+            "otherPartyLeaderCandidate": "Tories",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Women born in the 1950s have been treated very badly with these pension changes.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "Member of Parliament",
+                "duration": "",
+                "achievements": ""
+            }
+        ],
+        "contactInformation": {
+            "address": "Labour Central, Kings Manor, Newcastle upon Tyne NE1 6PA",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Solent WASPI",
+                "endorsement": "Thank you @alanwhiteheadmp for all your support. Much appreciated."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Women have been treated very badly with these pension changes. We need a Labour government to sort this out.",
+                "source": "",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "2.6M women affected by Tory pension changes"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Women have been treated very badly with these pension changes.",
+                        "I stand with WASPI women.",
+                        "If re-elected, I will continue to fight for them in Parliament."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 2
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "The Tories have changed the state pension age for millions of women born in the 1950s."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Women born in the 1950s affected by pension changes.",
+                    "issueRelated": "Social Welfare"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Solent WASPI: 'Thank you @alanwhiteheadmp for all your support. Much appreciated.'"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Tories have changed the state pension age for millions of women born in the 1950s."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Alan Whitehead is calling on the Tories to address this injustice."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "leaflet": {
+        "candidateName": "Luke Hall",
+        "candidateGender": "",
+        "constituency": "South Gloucestershire",
+        "politicalParty": "Conservatives",
+        "electionDate": "Thursday 8th June",
+        "messages": [
+            {
+                "title": "",
+                "content": "A local man, Luke is a hardworking, community-orientated campaigner standing up for South Gloucestershire."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Development Planning",
+                "policyDescription": "Fighting poorly planned development."
+            },
+            {
+                "policyTitle": "Health Investment",
+                "policyDescription": "Delivering investment in health."
+            },
+            {
+                "policyTitle": "Broadband and Infrastructure",
+                "policyDescription": "Delivering investment in broadband and infrastructure."
+            }
+        ],
+        "mentions": {
+            "candidate": "A local man, Luke is a hardworking, community-orientated campaigner standing up for South Gloucestershire.",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "Luke is standing with Theresa May as her local Conservative Candidate.",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Delivering investment in health.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Fighting poorly planned development.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "A local man, Luke is a hardworking, community-orientated campaigner standing up for South Gloucestershire.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Standing with Theresa May"
+                },
+                {
+                    "caption": "Thornbury Volunteer Litterbusters"
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "A local man, Luke is a hardworking, community-orientated campaigner standing up for South Gloucestershire.",
+                        "Fighting poorly planned development.",
+                        "Delivering investment in health, broadband and infrastructure."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 1,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Fighting poorly planned development.",
+                        "Delivering investment in health, broadband and infrastructure."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Luke is standing with Theresa May as her local Conservative Candidate."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "A local man, Luke is a hardworking, community-orientated campaigner standing up for South Gloucestershire.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Fighting poorly planned development."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "A local man.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "A local man, Luke is a hardworking, community-orientated campaigner standing up for South Gloucestershire."
+                ]
+            }
+        }
+    }
+}

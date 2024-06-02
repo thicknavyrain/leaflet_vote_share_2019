@@ -1,0 +1,192 @@
+{
+    "leaflet": {
+        "candidateName": "Vince Cable",
+        "candidateGender": "",
+        "constituency": "Twickenham",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Local residents say \u201cBring back Vince\u201d",
+                "content": "On Thursday, local residents are set to choose who they most trust to be our local MP. Vince Cable appears to have the edge in Twickenham based on his personal popularity and hard work locally."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Dementia Tax",
+                "policyDescription": "Patients risk losing their homes to fund care."
+            },
+            {
+                "policyTitle": "Heathrow Expansion",
+                "policyDescription": "Many local people have come to admire Vince Cable over the years as he served as MP for 18 years."
+            },
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "We need Vince's voice and experience in forthcoming Brexit negotiations."
+            }
+        ],
+        "mentions": {
+            "candidate": "Vince Cable",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "partyLeader": "",
+            "tacticalSituation": "The Conservatives remain determined that Theresa May will continue as Prime Minister, whatever happens in Twickenham."
+        },
+        "issues": {
+            "brexitEurope": "We need his voice and experience during the forthcoming Brexit negotiations.",
+            "defence": "",
+            "economy": "Liberal Democrats\u2019 proposals for improving the economy.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Patients risk losing their homes to fund care.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Broken promises: Heathrow.",
+                    "yimbyNimby": "NIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP for Twickenham",
+                "duration": "18 years",
+                "achievements": "He has been a tireless local campaigner and fought for local residents."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [
+            {
+                "endorser": "Local residents",
+                "endorsement": "Many local people have come to admire Vince Cable over the years as he served as MP for 18 years."
+            }
+        ],
+        "quotes": [
+            {
+                "text": "Local residents say 'Bring back Vince'",
+                "source": "The Gazette",
+                "date": ""
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Vince Cable with local residents carrying 'Vote Liberal Democrats' signs."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "Conservative 43%",
+                        "Cable Lib Dem 41%",
+                        "Labour 16%"
+                    ]
+                },
+                "qualitative": {
+                    "count": 2,
+                    "examples": [
+                        "Bring back Vince",
+                        "Vince Cable appears to have the edge in Twickenham based on his personal popularity and hard work locally."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Broken promises: Heathrow."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "We need his voice and experience during the forthcoming Brexit negotiations."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "Many local people have come to admire Vince Cable over the years as he served as MP for 18 years and fought for local residents.",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Many local people have come to admire Vince Cable over the years as he served as MP for 18 years."
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservatives remain determined that Theresa May will continue as Prime Minister, whatever happens in Twickenham."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Vince Cable appears to have the edge in Twickenham based on his personal popularity and hard work locally."
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,196 @@
+{
+    "leaflet": {
+        "candidateName": "David Amess",
+        "candidateGender": "",
+        "constituency": "Southend West",
+        "politicalParty": "",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Your Vote Will Decide the Future of This Country",
+                "content": "A personal message to voters in Southend West from David Amess. There has never been a general election in our lifetime as important as this one... Regardless of how you voted in the referendum, the choice in this election is stark... The main opposition party, who would undoubtedly be supported by the smaller parties, has a manifesto that would compromise our standing in the world and contains a number of uncosted, fantastical policies... A brighter future for our community, country, and children... Let\u2019s get Brexit done."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "A Great Brexit Deal",
+                "policyDescription": "The Prime Minister\u2019s Brexit deal will take the whole UK out of the European Union, ending the uncertainty and turmoil."
+            },
+            {
+                "policyTitle": "Help for Families",
+                "policyDescription": "There will be no increase in income tax, National Insurance or VAT for families with children, or on keeping pensions high."
+            },
+            {
+                "policyTitle": "Help for Businesses",
+                "policyDescription": "Support for businesses to grow, prosper, and create jobs through Business Rates reforms and improved infrastructure."
+            },
+            {
+                "policyTitle": "The NHS",
+                "policyDescription": "Increase the number of nurses, invest in new hospitals, and expand GP services and community hospitals."
+            },
+            {
+                "policyTitle": "Keeping Us Safe",
+                "policyDescription": "Tackle crime and bring violent crime under control by recruiting 20,000 new police officers."
+            },
+            {
+                "policyTitle": "Our Precious Environment",
+                "policyDescription": "Enforce environmental laws and tackle issues like plastic waste and pollution."
+            },
+            {
+                "policyTitle": "Our Children\u2019s Future",
+                "policyDescription": "Ensure every child has access to a good school with improved funding for education and better resources."
+            },
+            {
+                "policyTitle": "Taking Care of Everyone",
+                "policyDescription": "The pension triple lock will be maintained, and free TV licenses for over 75s will be preserved."
+            }
+        ],
+        "mentions": {
+            "candidate": "David Amess",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "The Prime Minister\u2019s Brexit deal will take the whole UK out of the European Union, ending the uncertainty and turmoil. Let's get Brexit done.",
+            "defence": "",
+            "economy": "",
+            "education": "Ensure every child has access to a good school. Improved funding for education and better resources.",
+            "environment": "Enforce environmental laws and tackle issues like plastic waste and pollution.",
+            "governance": "",
+            "government": "",
+            "health": "Increase the number of nurses, invest in new hospitals, and expand GP services and community hospitals.",
+            "immigration": "Introduce an Australian-style points-based immigration system, raise standards in immigrant workers\u2019 rights.",
+            "labourEmployment": "Support for businesses to grow, prosper, and create jobs through Business Rates reforms and improved infrastructure.",
+            "lawCrime": "Recruit 20,000 new police officers to tackle crime and bring violent crime under control.",
+            "transport": "",
+            "socialWelfare": "No increase in income tax, National Insurance or VAT for families with children, or on keeping pensions high. The pension triple lock will be maintained, and free TV licenses for over 75s will be preserved.",
+            "community": [
+                {
+                    "content": "David Amess has worked to improve local facilities such as bus routes, healthcare, and housing.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [
+            {
+                "role": "MP for Southend West",
+                "duration": "Since 1997 election to Parliament",
+                "achievements": "Improving local NHS services, supporting local businesses, enhancing public transport."
+            }
+        ],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": "Out and about in Southend West."
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Recruit 20,000 new police officers.",
+                        "No increase in income tax, National Insurance or VAT."
+                    ]
+                },
+                "qualitative": {
+                    "count": 4,
+                    "examples": [
+                        "A brighter future for our community, country and children.",
+                        "Ensure every child has access to a good school.",
+                        "Improve funding for education and better resources.",
+                        "Enforce environmental laws and tackle issues like plastic waste and pollution."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 3,
+                "people": 17,
+                "candidateAlone": 1,
+                "candidateWithOthers": 16
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 3,
+                    "examples": [
+                        "Improving local NHS services.",
+                        "Supporting local businesses.",
+                        "Enhancing public transport."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "The Prime Minister\u2019s Brexit deal.",
+                        "Recruiting 20,000 new police officers.",
+                        "Implementing an Australian-style points-based immigration system."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "David Amess has worked to improve local facilities such as bus routes, healthcare, and housing.",
+                    "issueRelated": "community"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "The main opposition party, who would undoubtedly be supported by the smaller parties, has a manifesto that would compromise our standing in the world and contains a number of uncosted, fantastical policies."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Has worked to improve local facilities and services.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "David Amess has worked to improve local facilities such as bus routes, healthcare, and housing."
+                ]
+            }
+        }
+    }
+}

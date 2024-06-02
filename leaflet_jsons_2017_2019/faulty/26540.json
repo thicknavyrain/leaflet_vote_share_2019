@@ -1,0 +1,165 @@
+{
+    "leaflet": {
+        "candidateName": "Gerald Vernon-Jackson",
+        "constituency": "Portsmouth South",
+        "messages": [
+            {
+                "title": "IS THAT THE COUNTRY YOU WANT?",
+                "content": "The Conservative Party is now the party of extreme Hard Brexit. Theresa May is determined to pull Britain out of the single market and cut ties with our neighbours. Labour are too weak and divided to oppose the Conservatives. Only Tim Farron's Liberal Democrats are strong enough to stand up to stop a Hard Brexit and keep Britain in the Single Market. Every Conservative MP elected will be a boost for Hard Brexit and give Theresa May a blank cheque to make that happen. Further cuts to our schools and NHS. We can't let that happen. The only way to send a message to the Conservatives that they are taking the country in the wrong direction is to back the Lib Dems in this election."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Hard Brexit",
+                "policyDescription": "Fight against a Hard Brexit"
+            },
+            {
+                "policyTitle": "NHS Funding",
+                "policyDescription": "Oppose cuts to NHS funding"
+            }
+        ],
+        "mentions": {
+            "candidate": "Gerald Vernon-Jackson",
+            "otherPartyLeaderCandidate": "Theresa May",
+            "tacticalSituation": "The only way to send a message to the Conservatives that they are taking the country in the wrong direction is to back the Lib Dems in this election."
+        },
+        "issues": {
+            "brexitEurope": "The Conservative Party is now the party of extreme Hard Brexit.",
+            "education": "Further cuts to our schools.",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Further cuts to our NHS.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Gerald Vernon-Jackson is a strong local champion for Portsmouth.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {},
+        "endorsements": [],
+        "quotes": [
+            {
+                "text": "Theresa May says she will take UK into the hardest of Brexits",
+                "source": "The Independent",
+                "date": "17 Jan 2017"
+            },
+            {
+                "text": "NHS spending per person will be cut next year, ministers confirm",
+                "source": "The Independent",
+                "date": "28 January 2017"
+            },
+            {
+                "text": "Hospital cuts planned in most of England",
+                "source": "BBC",
+                "date": "7 February 2017"
+            }
+        ],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "The Conservative Party is now the party of extreme Hard Brexit."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Gerald Vernon-Jackson is a strong local champion for Portsmouth."
+                    ]
+                },
+                "national": {
+                    "count": 3,
+                    "examples": [
+                        "The Conservative Party is now the party of extreme Hard Brexit.",
+                        "Further cuts to our schools.",
+                        "Further cuts to our NHS."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 2,
+                    "examples": [
+                        "Further cuts to our schools.",
+                        "Further cuts to our NHS."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Theresa May says she will take UK into the hardest of Brexits"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Gerald Vernon-Jackson is a strong local champion for Portsmouth.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": true,
+                "examples": [
+                    "Gerald Vernon-Jackson is a strong local champion for Portsmouth."
+                ]
+            }
+        }
+    }
+}

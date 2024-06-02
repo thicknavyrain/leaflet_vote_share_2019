@@ -1,0 +1,202 @@
+{
+    "leaflet": {
+        "candidateName": "",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Liberal Democrats",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "Lib Dems Can Stop the SNP",
+                "content": "And we have been beating the SNP in council by-elections in the Highlands."
+            },
+            {
+                "title": "The Momentum",
+                "content": "The Scottish Liberal Democrats are winning again. And beating the SNP."
+            },
+            {
+                "title": "",
+                "content": "In the Constituency we are the clear challengers to take the seat from the SNP."
+            },
+            {
+                "title": "",
+                "content": "Won key seats back from the SNP in Edinburgh Western and Northeast Fife."
+            },
+            {
+                "title": "",
+                "content": "Pro-UK party just like majority of Scotland."
+            },
+            {
+                "title": "",
+                "content": "30% by-election win since last year."
+            },
+            {
+                "title": "",
+                "content": "10,000 people joined in the days after the election was announced."
+            },
+            {
+                "title": "",
+                "content": "Gained seats from the SNP last year."
+            },
+            {
+                "title": "",
+                "content": "Is with the Liberal Democrats."
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "In the constituency we are the clear challengers to take the seat from the SNP.",
+            "otherPartyLeaderCandidate": "The SNP",
+            "partyLeader": "",
+            "tacticalSituation": "And we have been beating the SNP in council by-elections in the Highlands."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Gained seats from the SNP last year.",
+                    "yimbyNimby": "N/A"
+                },
+                {
+                    "content": "Pro-UK party just like majority of Scotland.",
+                    "yimbyNimby": "N/A"
+                },
+                {
+                    "content": "30% by-election win since last year.",
+                    "yimbyNimby": "N/A"
+                },
+                {
+                    "content": "10,000 people joined in the days after the election was announced.",
+                    "yimbyNimby": "N/A"
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 3,
+                    "examples": [
+                        "30% by-election win since last year.",
+                        "10,000 people joined in the days after the election was announced.",
+                        "Gained seats from the SNP last year."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Lib Dems Can Stop the SNP.",
+                        "The Scottish Liberal Democrats are winning again.",
+                        "And beating the SNP.",
+                        "Pro-UK party just like majority of Scotland.",
+                        "Is with the Liberal Democrats."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 0,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "In the constituency we are the clear challengers to take the seat from the SNP.",
+                        "Won key seats back from the SNP in Edinburgh Western and North East Fife."
+                    ]
+                },
+                "national": {
+                    "count": 6,
+                    "examples": [
+                        "Lib Dems Can Stop the SNP.",
+                        "And we have been beating the SNP in council by-elections in the Highlands.",
+                        "The Scottish Liberal Democrats are winning again. And beating the SNP.",
+                        "Pro-UK party just like majority of Scotland.",
+                        "30% by-election win since last year.",
+                        "10,000 people joined in the days after the election was announced."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": []
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 3,
+                    "examples": [
+                        "And we have been beating the SNP in council by-elections in the Highlands.",
+                        "The Scottish Liberal Democrats are winning again. And beating the SNP.",
+                        "Gained seats from the SNP last year."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 1,
+                    "examples": [
+                        "Lib Dems Can Stop the SNP."
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": []
+            }
+        }
+    }
+}

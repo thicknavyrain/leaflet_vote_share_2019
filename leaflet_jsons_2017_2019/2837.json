@@ -1,0 +1,154 @@
+{
+    "leaflet": {
+        "candidateName": "Geoffrey Cox MP",
+        "candidateGender": "",
+        "constituency": "",
+        "politicalParty": "Conservatives",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "PLEASE GIVE ME YOUR VIEWS",
+                "content": "As your Member of Parliament, I receive many e-mails and letters from residents who need help or advice, and I hold regular advice surgeries and \u201cMeet your MP\u201d events in and around the constituency. However, particularly with a General Election on the way, I would very much like to learn more about the issues that matter to you and what you think about our local area and the state of our country. I would also value your views on some recent political controversies. Recently, the recession has left many people worse off. Local services are under strain, often because of the way our rural communities do not get a fair deal from the government. As your MP, I care deeply for the wellbeing of our communities and I am determined to champion them through difficult times. Please help me to represent your concerns in the House of Commons by completing and returning this survey. If you would like, please add your own comments to the preset questions. Every bit helps. Yours sincerely Geoffrey Cox"
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Geoffrey Cox",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": "However, particularly with a General Election on the way, I would very much like to learn more about the issues that matter to you and what you think about our local area and the state of our country. Recently, the recession has left many people worse off. Local services are under strain, often because of the way our rural communities do not get a fair deal from the government."
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "Recently, the recession has left many people worse off. Local services are under strain, often because of the way our rural communities do not get a fair deal from the government.",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "Recently, the recession has left many people worse off. Local services are under strain, often because of the way our rural communities do not get a fair deal from the government.",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "",
+            "website": "www.geoffreycox.co.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "Recently, the recession has left many people worse off."
+                    ]
+                },
+                "qualitative": {
+                    "count": 1,
+                    "examples": [
+                        "As your MP, I care deeply for the wellbeing of our communities and I am determined to champion them through difficult times."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 5,
+                "candidateAlone": 1,
+                "candidateWithOthers": 4
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Recently, the recession has left many people worse off. Local services are under strain, often because of the way our rural communities do not get a fair deal from the government."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "However, particularly with a General Election on the way, I would very much like to learn more about the issues that matter to you and what you think about our local area and the state of our country."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Local services are under strain, often because of the way our rural communities do not get a fair deal from the government."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Recently, the recession has left many people worse off."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

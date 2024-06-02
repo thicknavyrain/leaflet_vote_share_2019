@@ -1,0 +1,121 @@
+{
+    "leaflet": {
+        "candidateName": "Julian",
+        "candidateGender": "",
+        "constituency": "Cambridge",
+        "politicalParty": "Lib Dem",
+        "electionDate": "",
+        "messages": [
+            {
+                "title": "EVERY VOTE WILL COUNT",
+                "content": ""
+            }
+        ],
+        "keyPolicies": [],
+        "mentions": {
+            "candidate": "Julian",
+            "otherPartyLeaderCandidate": "Corbyn",
+            "partyLeader": "",
+            "tacticalSituation": "Everybody knows there's only one way to beat Corbyn's man here in Cambridge."
+        },
+        "issues": {},
+        "personalStatement": "\u201cI\u2019ve voted Conservative all my life but I\u2019ll be lending Julian my vote on Thursday. I urge you to do the same.\u201d",
+        "politicalExperience": [],
+        "contactInformation": {},
+        "endorsements": [
+            {
+                "endorser": "Owen Dunn",
+                "endorsement": "Conservative backing Julian to beat Corbyn\u2019s Labour"
+            }
+        ],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Lab 36%",
+                        "Con 16%"
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "Everybody knows there's only one way to beat Corbyn's man here in Cambridge.",
+                        "Your vote could change the outcome on Thursday.",
+                        "I urge you to do the same."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 0,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Everybody knows there's only one way to beat Corbyn's man here in Cambridge."
+                    ]
+                },
+                "national": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 1,
+                "examples": [
+                    "Owen Dunn, Conservative backing Julian to beat Corbyn\u2019s Labour"
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": []
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Corbyn"
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": []
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": []
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

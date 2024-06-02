@@ -1,0 +1,168 @@
+{
+    "leaflet": {
+        "candidateName": "Andrew McGuinness",
+        "candidateGender": "",
+        "constituency": "Vauxhall",
+        "politicalParty": "The Brexit Party",
+        "electionDate": "December 12th",
+        "messages": [
+            {
+                "title": "",
+                "content": "Without The Brexit Party There Can Be No Real Brexit. Vote for the Brexit Party on December 12th. Change Politics For Good."
+            },
+            {
+                "title": "",
+                "content": "There are around 130 seats that the Conservatives haven't won in at least 50 years. Only the Brexit Party can beat Corbyn's Labour. Leavers, Don't Waste Your Vote. Vote for the Brexit Party in Vauxhall."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Brexit",
+                "policyDescription": "The Brexit Party aims to deliver the real Brexit."
+            }
+        ],
+        "mentions": {
+            "candidate": "Andrew McGuinness",
+            "otherPartyLeaderCandidate": "Corbyn's Labour",
+            "partyLeader": "Nigel Farage",
+            "tacticalSituation": "There are around 130 seats that the Conservatives haven't won in at least 50 years."
+        },
+        "issues": {
+            "brexitEurope": "Without The Brexit Party There Can Be No Real Brexit.",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "0800 414 8525",
+            "email": "",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 1,
+                    "examples": [
+                        "There are around 130 seats that the Conservatives haven't won in at least 50 years."
+                    ]
+                },
+                "qualitative": {
+                    "count": 5,
+                    "examples": [
+                        "Without The Brexit Party There Can Be No Real Brexit.",
+                        "Vote for the Brexit Party on December 12th.",
+                        "Change Politics For Good.",
+                        "Only the Brexit Party can beat Corbyn's Labour.",
+                        "Leavers, Don't Waste Your Vote."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 2,
+                "candidateAlone": 1,
+                "candidateWithOthers": 1
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "Vote for the Brexit Party in Vauxhall."
+                    ]
+                },
+                "national": {
+                    "count": 2,
+                    "examples": [
+                        "Without The Brexit Party There Can Be No Real Brexit.",
+                        "There are around 130 seats that the Conservatives haven't won in at least 50 years."
+                    ]
+                }
+            },
+            "personalStories": [],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 1,
+                    "examples": [
+                        "Only the Brexit Party can beat Corbyn's Labour."
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "Vote for the Brexit Party in Vauxhall.",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    "Vote for the Brexit Party in Vauxhall."
+                ]
+            }
+        }
+    }
+}

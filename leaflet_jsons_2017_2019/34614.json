@@ -1,0 +1,173 @@
+{
+    "leaflet": {
+        "candidateName": "Yvette Cooper",
+        "candidateGender": "female",
+        "constituency": "Normanton, Pontefract and Castleford",
+        "politicalParty": "Labour",
+        "electionDate": "12th December",
+        "messages": [
+            {
+                "title": "Labour's plan to rebuild Britain's schools",
+                "content": "Cap the cost of school uniforms; Free school meals for all primary school children; Extend mental health counselling to all schools; Replace Universal Credit with a system that's fair for families; Proper support for children with special educational needs and disabilities (SEND)"
+            },
+            {
+                "title": "Tory cuts to Pontefract schools",
+                "content": "Pontefract schools are losing \u00a36.1 million. After 10 years of Tory austerity Pontefract schools can't afford more cuts"
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Education",
+                "policyDescription": "Cap the cost of school uniforms; Free school meals for all primary school children; Extend mental health counselling to all schools; Proper support for children with special educational needs and disabilities (SEND)"
+            },
+            {
+                "policyTitle": "Social Welfare",
+                "policyDescription": "Replace Universal Credit with a system that\u2019s fair for families"
+            }
+        ],
+        "mentions": {
+            "candidate": "",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "Cap the cost of school uniforms; Free school meals for all primary school children; Extend mental health counselling to all schools; Proper support for children with special educational needs and disabilities (SEND)",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Replace Universal Credit with a system that\u2019s fair for families",
+            "community": [
+                {
+                    "content": "",
+                    "yimbyNimby": ""
+                }
+            ]
+        },
+        "personalStatement": "",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "Labour Party at 1 York Street, Castleford, WF10",
+            "phone": "",
+            "email": "",
+            "website": "www.schoolcuts.org.uk",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 2,
+                    "examples": [
+                        "Pontefract schools are losing \u00a36.1 million",
+                        "After 10 years of Tory austerity Pontefract schools can't afford more cuts"
+                    ]
+                },
+                "qualitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 1,
+                    "examples": [
+                        "After 10 years of Tory austerity Pontefract schools can't afford more cuts"
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Labour's plan to rebuild Britain's schools"
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "",
+                    "issueRelated": ""
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "After 10 years of Tory austerity Pontefract schools can't afford more cuts"
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Pontefract schools are losing \u00a36.1 million"
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 1,
+                    "examples": [
+                        "Tory cuts to Pontefract schools"
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}

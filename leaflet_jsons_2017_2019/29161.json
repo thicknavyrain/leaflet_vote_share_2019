@@ -1,0 +1,171 @@
+{
+    "leaflet": {
+        "candidateName": "Philippa Fleming",
+        "candidateGender": "",
+        "constituency": "North East Bedfordshire",
+        "politicalParty": "Green Party",
+        "electionDate": "8th June",
+        "messages": [
+            {
+                "title": "Philippa Says",
+                "content": "I will work to ensure health and social care is properly funded. I am a wheelchair user, rely on social care and am a housing association tenant. I experience daily the cuts to these vital services and the lack of appropriate affordable housing."
+            }
+        ],
+        "keyPolicies": [
+            {
+                "policyTitle": "Health and Social Care",
+                "policyDescription": "Ensure health and social care is properly funded."
+            },
+            {
+                "policyTitle": "Public Services",
+                "policyDescription": "Develop better public services in North East Bedfordshire; protect the NHS."
+            }
+        ],
+        "mentions": {
+            "candidate": "Philippa Fleming",
+            "otherPartyLeaderCandidate": "",
+            "partyLeader": "",
+            "tacticalSituation": ""
+        },
+        "issues": {
+            "brexitEurope": "",
+            "defence": "",
+            "economy": "",
+            "education": "",
+            "environment": "",
+            "governance": "",
+            "government": "",
+            "health": "Ensure health and social care is properly funded.",
+            "immigration": "",
+            "labourEmployment": "",
+            "lawCrime": "",
+            "transport": "",
+            "socialWelfare": "Cuts to vital services for wheelchair users and housing association tenants.",
+            "community": [
+                {
+                    "content": "Experience daily the cuts to vital services and the lack of appropriate affordable housing.",
+                    "yimbyNimby": "YIMBY"
+                }
+            ]
+        },
+        "personalStatement": "I am a wheelchair user, rely on social care and am a housing association tenant. I experience daily the cuts to these vital services and the lack of appropriate affordable housing.",
+        "politicalExperience": [],
+        "contactInformation": {
+            "address": "",
+            "phone": "",
+            "email": "info@greenparty.org.uk",
+            "website": "",
+            "socialMedia": {
+                "facebook": "",
+                "twitter": "@PhilippaFlem",
+                "instagram": "",
+                "linkedin": ""
+            }
+        },
+        "endorsements": [],
+        "quotes": [],
+        "campaignMaterial": {
+            "images": [
+                {
+                    "caption": ""
+                }
+            ]
+        },
+        "additionalNotes": "",
+        "analysis": {
+            "statementAnalysis": {
+                "quantitative": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "qualitative": {
+                    "count": 3,
+                    "examples": [
+                        "I will work to ensure health and social care is properly funded.",
+                        "Experience daily the cuts to vital services and the lack of appropriate affordable housing.",
+                        "Develop better public services in North East Bedfordshire; protect the NHS."
+                    ]
+                }
+            },
+            "photoAnalysis": {
+                "localPlaces": 0,
+                "people": 1,
+                "candidateAlone": 1,
+                "candidateWithOthers": 0
+            },
+            "issueFocus": {
+                "local": {
+                    "count": 2,
+                    "examples": [
+                        "Develop better public services in North East Bedfordshire.",
+                        "Experience daily the cuts to vital services and the lack of appropriate affordable housing."
+                    ]
+                },
+                "national": {
+                    "count": 1,
+                    "examples": [
+                        "Ensure health and social care is properly funded."
+                    ]
+                }
+            },
+            "personalStories": [
+                {
+                    "story": "I am a wheelchair user, rely on social care and am a housing association tenant. I experience daily the cuts to these vital services and the lack of appropriate affordable housing.",
+                    "issueRelated": "health, social care, housing"
+                }
+            ],
+            "endorsementsUsed": {
+                "count": 0,
+                "examples": [
+                    ""
+                ]
+            },
+            "negativeMessaging": {
+                "localIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Experience daily the cuts to vital services and the lack of appropriate affordable housing."
+                    ]
+                },
+                "nationalIssues": {
+                    "count": 1,
+                    "examples": [
+                        "Experience daily the cuts to vital services and the lack of appropriate affordable housing."
+                    ]
+                },
+                "leaderOfOpponentsParty": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateNoName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                },
+                "oppositeCandidateWithName": {
+                    "count": 0,
+                    "examples": [
+                        ""
+                    ]
+                }
+            },
+            "nonPolicyAttributes": {
+                "localness": "",
+                "employment": "",
+                "education": "",
+                "family": ""
+            },
+            "localCandidate": {
+                "isLocal": false,
+                "examples": [
+                    ""
+                ]
+            }
+        }
+    }
+}
